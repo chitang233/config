@@ -1,0 +1,18 @@
+zmodule environment
+zmodule git-info
+zmodule input
+zmodule termtitle
+zmodule completion
+zmodule archive
+zmodule pabloariasal/zfm
+zmodule Aloxaf/fzf-tab
+zmodule zsh-users/zsh-history-substring-search
+zmodule supercrabtree/k
+zmodule hlissner/zsh-autopair
+zmodule zsh-users/zsh-completions
+zmodule exa
+zmodule pacman
+zmodule zsh-users/zsh-autosuggestions
+zmodule zsh-users/zsh-completions
+zmodule zdharma-continuum/fast-syntax-highlighting
+

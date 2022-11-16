@@ -1,0 +1,13 @@
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS=@im=fcitx
+export SDL_IM_MODULE=fcitx
+export LANG=zh_CN.UTF-8
+export LC_ALL=zh_CN.UTF-8
+export EDITOR=vim
+export MOZ_DISABLE_RDD_SANDBOX=1
+export MOZ_X11_EGL=1
+export LIBVIRT_DEFAULT_URI="qemu:///system"
+export GPG_TTY=$(tty)
+export LIBVA_DRIVER_NAME=nvidia
+# x0vncserver -rfbauth ~/.vnc/passwd &
