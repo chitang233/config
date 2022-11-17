@@ -233,6 +233,7 @@ datagrip
 datagrip-jre
 dav1d
 db
+db4.8
 dblatex
 dbus
 dbus-glib

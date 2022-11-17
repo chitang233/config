@@ -233,6 +233,7 @@ datagrip 2022.2.5-1
 datagrip-jre 2022.2.5-1
 dav1d 1.0.0-1
 db 5.3.28-5
+db4.8 4.8.30-7
 dblatex 0.3.12-4
 dbus 1.14.4-1
 dbus-glib 0.112-2
@@ -2832,7 +2833,7 @@ qt5-base 5.15.7+kde+r174-1
 qt5-charts 5.15.7-1
 qt5-connectivity 5.15.7+kde+r5-1
 qt5-datavis3d 5.15.7-1
-qt5-declarative 5.15.7+kde+r22-1
+qt5-declarative 5.15.7+kde+r23-1
 qt5-doc 5.15.5-1
 qt5-examples 5.15.5-1
 qt5-feedback 0.0.0.20150918-4
