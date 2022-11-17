@@ -311,6 +311,8 @@ egl-wayland
 eglexternalplatform
 electron
 electron17
+element-desktop
+element-web
 elinks
 elisa
 emacs
@@ -457,6 +459,7 @@ glib2
 glib2-docs
 glibc
 glibmm
+glibmm-2.68
 glm
 glpk
 glslang

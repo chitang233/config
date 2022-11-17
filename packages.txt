@@ -20,7 +20,7 @@ akonadi-notes 22.08.3-1
 akonadi-search 22.08.3-1
 akonadiconsole 22.08.3-1
 akregator 22.08.3-1
-alacritty 0.11.0-1
+alacritty 0.11.0-2
 alsa-card-profiles 1:0.3.60-2
 alsa-lib 1.2.8-1
 alsa-plugins 1:1.2.7.1-1
@@ -93,7 +93,7 @@ awesome-terminal-fonts 1.1.0-4
 axel 2.17.11-2
 azure-cli 2.42.0-1
 babl 0.1.98-1
-baidupcs-go 3.8.7-1
+baidupcs-go 3.8.8-1
 baloo 5.99.0-1
 baloo-widgets 22.08.3-1
 bandwidth 1.11.2.d-1
@@ -122,7 +122,7 @@ bolt 0.9.4-1
 bomber 22.08.3-1
 boost 1.80.0-3
 boost-libs 1.80.0-3
-botan 2.19.2-1
+botan 2.19.3-1
 bovo 22.08.3-1
 box2d 2.4.1-1
 breeze 5.26.3.1-1
@@ -311,6 +311,8 @@ egl-wayland 2:1.1.11-2
 eglexternalplatform 1.1-2
 electron 20.0.3-3
 electron17 17.4.11-3
+element-desktop 1.11.10-2
+element-web 1.11.10-2
 elinks 0.15.1-2
 elisa 22.08.3-1
 emacs 28.2-1
@@ -366,7 +368,7 @@ filesystem 2022.10.18-1
 findutils 4.9.0-1
 fio 3.33-1
 firefox-appmenu 106.0.5-2
-firefox-nightly-zh-cn 109.0a1.20221115.23-1
+firefox-nightly-zh-cn 109.0a1.20221116.11-1
 firefox-pwa-bin 2.1.2-1
 firejail 0.9.70-4
 firetools 0.9.64-2
@@ -393,7 +395,7 @@ frameworkintegration 5.99.0-1
 freecell-solver 6.8.0-1
 freeglut 3.4.0-1
 freeimage 3.18.0-15
-freerdp 2:2.8.1-3
+freerdp 2:2.9.0-1
 freetype2 2.12.1-1
 frei0r-plugins 1.8.0-2
 fribidi 1.0.12-1
@@ -457,6 +459,7 @@ glib2 2.74.1-1
 glib2-docs 2.74.1-1
 glibc 2.36-6
 glibmm 2.66.5-1
+glibmm-2.68 2.74.0-1
 glm 0.9.9.8-1
 glpk 5.0-2
 glslang 11.11.0-1
@@ -514,7 +517,7 @@ grilo 0.3.15-2
 grilo-plugins 1:0.3.15-2
 groff 1.22.4-7
 grpc 1.50.1-2
-grub 2:2.06.r334.g340377470-1
+grub 2:2.06.r380.g151467888-1
 grub-btrfs 4.11-2
 gsasl 2.2.0-1
 gsettings-desktop-schemas 43.0-1
@@ -1115,7 +1118,7 @@ l-smash 2.14.5-2
 ladspa 1.17-1
 lame 3.100-4
 lapack 3.11-1
-latte-dock-git 0.10.8.r5990.8588614f-1
+latte-dock-git 0.10.8.r5992.61b1441f-1
 layer-shell-qt 5.26.3-1
 lbzip2 2.5-5
 lcms2 2.14-1
@@ -1541,7 +1544,7 @@ libnfc 1.8.0-2
 libnfnetlink 1.0.2-1
 libnfs 5.0.2-1
 libnftnl 1.2.3-1
-libnghttp2 1.50.0-1
+libnghttp2 1.51.0-1
 libnice 0.1.19-1
 libnl 3.7.0-1
 libnm 1.40.2-1
@@ -1634,7 +1637,7 @@ libretro-shaders-slang 1105-1
 libretro-snes9x 2152-1
 libretro-yabause 3340-2
 librevenge 0.0.4-5
-librewolf 106.0.4-1
+librewolf 107.0-1
 librist 0.2.7-1
 librsvg 2:2.55.1-1
 librtmp0 2.4-5
@@ -1747,8 +1750,8 @@ libxfont2 2.0.6-1
 libxft 2.3.7-1
 libxi 1.8-1
 libxinerama 1.1.5-1
-libxkbcommon 1.4.1-1
-libxkbcommon-x11 1.4.1-1
+libxkbcommon 1.4.1-2
+libxkbcommon-x11 1.4.1-2
 libxkbfile 1.1.1-1
 libxklavier 5.4-3
 libxml++2.6 2.42.1-1
@@ -1885,7 +1888,7 @@ mobile-broadband-provider-info 20221107-1
 modemmanager 1.20.2-1
 modemmanager-qt 5.99.0-1
 molequeue 0.9.0-2
-mongodb-bin 6.0.2-2
+mongodb-bin 6.0.3-1
 mongosh-bin 1.6.0-1
 mono 6.12.0.177-1
 montserrat-otf 7.222-1
@@ -2012,7 +2015,7 @@ os-prober 1.81-1
 osinfo-db 20221018-1
 ostree 2022.6-4
 osu-handler 0.3.0-5
-osu-lazer-bin 2022.1101.0-1
+osu-lazer-bin 2022.1117.0-1
 osu-mime 0.1-2
 oxygen 5.26.3-1
 oxygen-sounds 5.26.3-1
@@ -2127,7 +2130,7 @@ perl-html-tree 5.07-2
 perl-http-cookies 6.10-3
 perl-http-daemon 6.14-2
 perl-http-date 6.05-5
-perl-http-message 6.43-1
+perl-http-message 6.44-1
 perl-http-negotiate 6.01-10
 perl-image-exiftool 12.50-1
 perl-inc-latest 0.500-9
@@ -2287,7 +2290,7 @@ ppp 2.4.9-3
 ppsspp-assets 1.13.2-1
 presage 0.9.1-1
 print-manager 22.08.3-1
-prismlauncher-git 5.0.r307.gcedc7754-1
+prismlauncher-git 5.0.r319.g298871e2-1
 prison 5.99.0-1
 procps-ng 3.3.17-1
 profanity 1:0.13.1-1
@@ -2372,7 +2375,7 @@ python-cleo 1.0.0a5-2
 python-click 8.1.3-1
 python-cloudpickle 2.1.0-1
 python-colorama 0.4.6-1
-python-commonmark 0.9.1-5
+python-commonmark 0.9.1-6
 python-configobj 5.0.6.r110.g3e2f4cc-3
 python-constantly 15.1.0-11
 python-contourpy 1.0.6-1
@@ -2405,7 +2408,7 @@ python-emoji 2.2.0-1
 python-entrypoints 0.4-2
 python-et-xmlfile 1.1-3
 python-evdev 1.6.0-1
-python-exceptiongroup 1.0.2-1
+python-exceptiongroup 1.0.4-1
 python-executing 1.2.0-1
 python-fastbencode 0.1-2
 python-fastjsonschema 2.16.2-1
@@ -2427,7 +2430,7 @@ python-gmpy2 2.1.2-1
 python-gobject 3.42.2-1
 python-google-api-core 2.10.2-1
 python-google-api-python-client 2.65.0-1
-python-google-auth 2.8.0-1
+python-google-auth 2.9.0-1
 python-google-auth-httplib2 0.1.0-3
 python-google-auth-oauthlib 0.7.1-2
 python-googleapis-common-protos 1.56.4-1
@@ -2493,7 +2496,7 @@ python-logutils 0.3.5-10
 python-lxml 4.9.1-1
 python-lz4 3.1.10-7
 python-magic-filter 1.0.0-1
-python-mako 1.2.3-1
+python-mako 1.2.4-1
 python-markdown 3.4.1-2
 python-markupsafe 2.1.1-1
 python-material-color-utilities 0.1.5-1
@@ -2572,7 +2575,7 @@ python-pycares 4.2.2-1
 python-pyclibrary 0.2.1-1
 python-pycodestyle 2.9.1-2
 python-pycparser 2.21-3
-python-pycryptodome 3.15.0-2
+python-pycryptodome 3.15.0-3
 python-pycryptodomex 3.12.0-1
 python-pycuda 2022.1-2
 python-pycurl 7.45.1-2
@@ -2611,7 +2614,7 @@ python-pytorch-opt-cuda 1.13.0-3
 python-pytz 2022.6-1
 python-pytz-deprecation-shim 0.1.0.post0-4
 python-pywavelets 1.4.1-1
-python-pywebview 3.7.1-1
+python-pywebview 3.7.2-1
 python-pyxdg 0.28-1
 python-pyzmq 24.0.1-2
 python-qtpy 2.2.1-2
@@ -2623,7 +2626,7 @@ python-requests 2.28.1-1
 python-requests-oauthlib 1.3.1-2
 python-requests-toolbelt 0.10.1-1
 python-requests-unixsocket 0.3.0-2
-python-resolvelib 0.8.1-1
+python-resolvelib 0.9.0-1
 python-rfc3339-validator 0.1.4-3
 python-rfc3986 2.0.0-1
 python-rfc3987 1.3.8-8
@@ -2640,7 +2643,7 @@ python-scrypt 0.8.20-3
 python-seaborn 0.11.2-3
 python-secretstorage 3.3.3-1
 python-send2trash 1.8.0-3
-python-setuptools 1:65.2.0-1
+python-setuptools 1:65.4.0-1
 python-setuptools-scm 7.0.5-1
 python-shellingham 1.5.0-1
 python-shiboken2 5.15.7-1
@@ -2730,7 +2733,7 @@ python-zc.lockfile 2.0-8
 python-zict 2.2.0-1
 python-zipp 3.10.0-1
 python-zope-interface 5.5.0-1
-python-zopfli 0.2.1-1
+python-zopfli 0.2.2-1
 python-zstandard 0.19.0-1
 python2 2.7.18-9
 python2-jinja 2.11.3-5
@@ -3042,7 +3045,7 @@ shadow 4.12.3-2
 shared-mime-info 2.0+155+gf4e7cbc-1
 shc 4.0.3-1
 shiboken6 6.4.0.1-1
-signal-desktop 5.63.1-1
+signal-desktop 5.63.1-2
 signon-kwallet-extension 22.08.3-1
 signon-plugin-oauth2 0.25-1
 signon-ui 0.17+20171022-3
@@ -3183,7 +3186,7 @@ tracker3 3.4.1-1
 tracker3-miners 3.4.1-1
 translate-shell 0.9.7-1
 transmission-cli 3.00-6
-trash-cli 0.22.10.20-2
+trash-cli 0.22.10.20-3
 tre 0.8.0-6
 tree-sitter 0.20.7-1
 tslib 1.22-1
@@ -3228,7 +3231,7 @@ usbutils 015-1
 util-linux 2.38.1-1
 util-linux-libs 2.38.1-1
 uwufetch 2.0-1
-v2ray-domain-list-community 20221110023640-1
+v2ray-domain-list-community 20221116131929-1
 v2ray-geoip 202211100058-1
 v4l-utils 1.22.1-1
 v4l2loopback-dkms 0.12.7-2
@@ -3445,7 +3448,7 @@ yubikey-manager 1:4.0.9-3
 yubikey-manager-qt 1.2.4-1
 yubikey-personalization 1.20.0-3
 yubikey-personalization-gui 3.1.25-2
-yuzu-early-access 3119-1
+yuzu-early-access 3121-1
 zam-plugins 3.14-1
 zanshin 22.08.3-1
 zbar 0.23.90-1
@@ -3463,7 +3466,7 @@ zulu-11-bin 11.0.17-1
 zulu-17-bin 17.0.5-1
 zulu-18-bin 18.0.2-1
 zulu-8-bin 8.0.352-1
-zulu-jre-fx-bin 17.0.4-1
+zulu-jre-fx-bin 17.0.5-1
 zvbi 0.2.37-1
 zxing-cpp 1.4.0-1
 zziplib 0.13.72-1
