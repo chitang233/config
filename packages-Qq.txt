@@ -2271,6 +2271,7 @@ plasma5-applets-playbar2
 plasma5-wallpapers-wallpaper-engine
 plotutils
 pm2ml
+pnpm
 polkit
 polkit-kde-agent
 polkit-qt5
