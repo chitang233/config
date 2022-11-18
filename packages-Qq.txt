@@ -2018,6 +2018,7 @@ ostree
 osu-handler
 osu-lazer-bin
 osu-mime
+otf-smiley-sans
 oxygen
 oxygen-sounds
 p11-kit
@@ -2356,6 +2357,7 @@ python-black
 python-bleach
 python-blinker
 python-blosc
+python-booleanoperations
 python-bottleneck
 python-brotli
 python-brotlicffi
@@ -2365,9 +2367,11 @@ python-cachetools
 python-cachy
 python-cairo
 python-cairocffi
+python-cattrs
 python-cchardet
 python-certifi
 python-cffi
+python-cffsubr
 python-cftime
 python-chardet
 python-charset-normalizer
@@ -2378,6 +2382,7 @@ python-click
 python-cloudpickle
 python-colorama
 python-commonmark
+python-compreffor
 python-configobj
 python-constantly
 python-contourpy
@@ -2385,6 +2390,7 @@ python-coverage
 python-crashtest
 python-cryptography
 python-cssselect
+python-cu2qu
 python-cuda
 python-curio
 python-cvxopt
@@ -2393,6 +2399,7 @@ python-dask
 python-dateutil
 python-debugpy
 python-decorator
+python-defcon
 python-defusedxml
 python-deprecation
 python-dill
@@ -2420,6 +2427,8 @@ python-filelock
 python-flask
 python-flask-restful
 python-flatbuffers
+python-fontmake
+python-fontmath
 python-fonttools
 python-fqdn
 python-frozenlist
@@ -2428,6 +2437,7 @@ python-fsspec
 python-future
 python-gast03
 python-genshi
+python-glyphslib
 python-gmpy2
 python-gobject
 python-google-api-core
@@ -2515,6 +2525,7 @@ python-mpmath
 python-msgpack
 python-multidict
 python-mutagen
+python-mutatormath
 python-mypy_extensions
 python-nest-asyncio
 python-netcdf4
@@ -2527,6 +2538,7 @@ python-oauthlib
 python-opencv
 python-opengl
 python-openpyxl
+python-openstep-plist
 python-opt_einsum
 python-ordered-set
 python-outcome
@@ -2575,6 +2587,7 @@ python-pyasn1
 python-pyasn1-modules
 python-pycares
 python-pyclibrary
+python-pyclipper
 python-pycodestyle
 python-pycparser
 python-pycryptodome
@@ -2610,6 +2623,7 @@ python-pysocks
 python-pytables
 python-pytest
 python-pytest-cov
+python-pytest-runner
 python-python-socks
 python-pytools
 python-pytorch-opt-cuda
@@ -2646,11 +2660,14 @@ python-seaborn
 python-secretstorage
 python-send2trash
 python-setuptools
+python-setuptools-git-ls-files
 python-setuptools-scm
+python-setuptools-scm-git-archive
 python-shellingham
 python-shiboken2
 python-simpleitk
 python-six
+python-skia-pathops
 python-snappy
 python-sniffio
 python-snowballstemmer
@@ -2693,10 +2710,14 @@ python-tqdm
 python-traitlets
 python-trio
 python-trove-classifiers
+python-ttfautohint-py
 python-twisted
 python-typing_extensions
 python-tzdata
 python-tzlocal
+python-ufo2ft
+python-ufolib2
+python-ufonormalizer
 python-uharfbuzz
 python-ujson
 python-unicodedata2
@@ -2726,6 +2747,7 @@ python-xlib
 python-xlrd
 python-xlsxwriter
 python-xlwt
+python-xmldiff
 python-xmlsec
 python-xmltodict
 python-xxhash
