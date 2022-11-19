@@ -368,7 +368,7 @@ filelight 22.08.3-1
 filesystem 2022.10.18-1
 findutils 4.9.0-1
 fio 3.33-1
-firefox-appmenu 106.0.5-2
+firefox-appmenu 107.0-1
 firefox-nightly-zh-cn 109.0a1.20221116.11-1
 firefox-pwa-bin 2.1.2-1
 firejail 0.9.70-4
@@ -1119,7 +1119,7 @@ l-smash 2.14.5-2
 ladspa 1.17-1
 lame 3.100-4
 lapack 3.11.0-1
-latte-dock-git 0.10.8.r5992.61b1441f-1
+latte-dock-git 0.10.8.r5993.45d4ccc6-1
 layer-shell-qt 5.26.3-1
 lbzip2 2.5-5
 lcms2 2.14-1
@@ -2293,7 +2293,7 @@ ppp 2.4.9-3
 ppsspp-assets 1.13.2-1
 presage 0.9.1-1
 print-manager 22.08.3-1
-prismlauncher-git 5.0.r344.g347ae0a9-1
+prismlauncher-git 5.0.r344.g347ae0a9-2
 prison 5.100.0-1
 procps-ng 3.3.17-1
 profanity 1:0.13.1-1
@@ -2693,7 +2693,7 @@ python-tempora 5.0.2-1
 python-tenacity 8.1.0-1
 python-tensorboard_plugin_wit 1.8.1-3
 python-tensorflow-estimator 2.10-1
-python-tensorflow-opt-cuda 2.10.0-4
+python-tensorflow-opt-cuda 2.11.0-1
 python-termcolor 2.1.0-1
 python-terminado 0.17.0-1
 python-testpath 0.6.0-1
@@ -3176,7 +3176,7 @@ telepathy-mission-control 5.16.6-2
 telepathy-morse 0.1.0-3
 telepathy-qt 0.9.8-2
 tensorboard 2.10.1-1
-tensorflow-opt-cuda 2.10.0-4
+tensorflow-opt-cuda 2.11.0-1
 termius 7.49.0-1
 tesseract 5.2.0-2
 tesseract-data-afr 2:4.1.0-3
@@ -3280,7 +3280,7 @@ virt-install 4.1.0-1
 virt-manager 4.1.0-1
 virtualbox 7.0.4-1
 virtualbox-bin-guest-iso 7.0.2-1
-virtualbox-ext-oracle 7.0.2-1
+virtualbox-ext-oracle 7.0.4-1
 virtualbox-ext-vnc 7.0.4-1
 virtualbox-guest-iso 7.0.4-1
 virtualbox-host-dkms 7.0.4-1
@@ -3472,7 +3472,7 @@ yubikey-manager 1:4.0.9-3
 yubikey-manager-qt 1.2.4-1
 yubikey-personalization 1.20.0-3
 yubikey-personalization-gui 3.1.25-2
-yuzu-early-access 3127-1
+yuzu-early-access 3128-1
 zam-plugins 3.14-1
 zanshin 22.08.3-1
 zbar 0.23.90-1
