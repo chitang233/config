@@ -208,7 +208,7 @@ colord-sane 1.4.6-1
 compiler-rt 14.0.6-1
 compsize 1.5-1
 confuse 3.3-3
-containerd 1.6.9-1
+containerd 1.6.10-1
 convertlit 1.8-11
 coordgen 3.0.1-1
 copyq 6.3.2-1
@@ -266,7 +266,6 @@ dmenu 5.2-1
 dmg2img 1.6.7-5
 dmidecode 3.4-1
 dmraid 1.0.0.rc16.3-14
-dnsmasq 2.87-3
 dnssec-anchors 20190629-3
 docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
@@ -275,7 +274,7 @@ docker 1:20.10.21-1
 docker-buildx 0.9.1-1
 docker-compose 2.12.2-1
 docker-machine 0.16.2-5
-docker-scan 0.21.0-1
+docker-scan 0.22.0-1
 docsify-cli 4.4.4-1
 docx2txt 1.4-5
 dog 0.1.0-4
@@ -408,7 +407,7 @@ fuse2 2.9.9-4
 fuse3 3.12.0-1
 fwupd 1.8.7-2
 fwupd-efi 1.3-1
-fzf 0.34.0-1
+fzf 0.35.1-1
 gamemode 1.7-1
 gamescope 3.11.48-1
 gavl 1.4.0-6
@@ -512,7 +511,7 @@ grantleetheme 22.08.3-1
 graphene 1.10.8-1
 graphicsmagick 1.3.38-5
 graphite 1:1.3.14-2
-graphviz 7.0.1-2
+graphviz 7.0.2-1
 grep 3.8-2
 grilo 0.3.15-2
 grilo-plugins 1:0.3.15-2
@@ -1462,7 +1461,7 @@ libimobiledevice 1.3.0-5
 libindicator-gtk2 12.10.1-10
 libindicator-gtk3 12.10.1-10
 libinih 56-1
-libinput 1.21.0-1
+libinput 1.22.0-1
 libinstpatch 1.1.6-1
 libiptcdata 1.0.5-1
 libiscsi 1.19.0-2
@@ -1743,7 +1742,7 @@ libxcrypt-compat 4.4.31-1
 libxcursor 1.2.1-2
 libxcvt 0.1.2-1
 libxdamage 1.1.5-5
-libxdmcp 1.1.3-5
+libxdmcp 1.1.4-1
 libxext 1.3.5-1
 libxfce4util 4.16.0-1
 libxfixes 6.0.0-2
@@ -1760,7 +1759,7 @@ libxml2 2.10.3-2
 libxmlb 0.3.10-1
 libxmu 1.1.4-1
 libxnvctrl 520.56.06-1
-libxpm 3.5.13-3
+libxpm 3.5.14-1
 libxpresent 1.0.1-1
 libxrandr 1.5.2-5
 libxrender 0.9.11-1
@@ -1841,8 +1840,8 @@ maliit-framework 2.3.0-1
 maliit-keyboard 2.3.1-1
 mallard-ducktype 1.0.2-8
 man-db 2.11.1-1
-mangohud 0.6.8-2
-mangohud-common 0.6.8-2
+mangohud 0.6.8-3
+mangohud-common 0.6.8-3
 marble 22.08.3-1
 marble-common 22.08.3-1
 mariadb 10.9.4-2
@@ -1921,14 +1920,14 @@ nekoray-git 2.3.r2.ge02cb5a-1
 neochat 22.09-1
 neofetch 7.1.0-2
 neon 0.32.4-2
-neovim 0.8.1-1
+neovim 0.8.1-2
 nerd-fonts-complete 2.2.2-1
 net-snmp 5.9.1-5
 net-tools 2.10-1
 netcdf 4.9.0-3
 netcdf-cxx 4.3.1-3
 netcdf-fortran 4.6.0-1
-netease-cloud-music-gtk4 2.0.1-3
+netease-cloud-music-gtk4 2.1.0-3
 netpbm 10.73.37-2
 nettle 3.8.1-1
 networkmanager 1.40.4-1
@@ -2257,7 +2256,7 @@ plasma-disks 5.26.3-1
 plasma-firewall 5.26.3-1
 plasma-framework 5.100.1-1
 plasma-integration 5.26.3-1
-plasma-nano-git r206.d740122-1
+plasma-nano-git r207.617ae31-1
 plasma-nm 5.26.3-1
 plasma-pa 5.26.3-1
 plasma-sdk 5.26.3-1
@@ -2293,7 +2292,7 @@ ppp 2.4.9-3
 ppsspp-assets 1.13.2-1
 presage 0.9.1-1
 print-manager 22.08.3-1
-prismlauncher-git 5.0.r344.g347ae0a9-2
+prismlauncher-git 5.0.r392.g30607c34-1
 prison 5.100.0-1
 procps-ng 3.3.17-1
 profanity 1:0.13.1-1
@@ -2337,7 +2336,7 @@ python-argon2_cffi 21.3.0-2
 python-arrow 1.2.3-1
 python-asgiref 3.5.2-1
 python-astor 0.8.1-5
-python-astroid 2.12.12-1
+python-astroid 2.12.13-1
 python-astropy 5.1.1-1
 python-asttokens 2.1.0-1
 python-astunparse 1.6.3-6
@@ -2374,7 +2373,7 @@ python-cffi 1.15.1-1
 python-cffsubr 0.2.9.post1-1
 python-cftime 1.6.1-1
 python-chardet 5.0.0-1
-python-charset-normalizer 3.0.0-2
+python-charset-normalizer 3.0.1-1
 python-cheroot 8.6.0-2
 python-cherrypy 18.8.0-1
 python-cleo 1.0.0a5-2
@@ -2441,7 +2440,7 @@ python-glyphslib 6.1.0-1
 python-gmpy2 2.1.2-1
 python-gobject 3.42.2-1
 python-google-api-core 2.10.2-1
-python-google-api-python-client 2.65.0-1
+python-google-api-python-client 2.66.0-1
 python-google-auth 2.9.1-1
 python-google-auth-httplib2 0.1.0-3
 python-google-auth-oauthlib 0.7.1-2
@@ -2883,7 +2882,7 @@ qt5-svg 5.15.7+kde+r9-1
 qt5-tools 5.15.7+kde+r1-2
 qt5-translations 5.15.7-1
 qt5-virtualkeyboard 5.15.7-1
-qt5-wayland 5.15.7+kde+r52-1
+qt5-wayland 5.15.7+kde+r53-1
 qt5-webchannel 5.15.7+kde+r3-1
 qt5-webengine 5.15.11-2
 qt5-webglplugin 5.15.7-1
@@ -2936,7 +2935,7 @@ rapidjson 1.1.0-5
 raptor 2.0.15-21
 rasqal 1:0.9.33-5
 rav1e 0.5.1-2
-rclone 1.60.0-1
+rclone 1.60.1-1
 re2 1:20220601-1
 readline 8.2.001-1
 realsr-ncnn-vulkan-bin 20210210-1
@@ -3217,7 +3216,7 @@ tslib 1.22-1
 ttf-arimo-nerd 2.2.2-1
 ttf-dejavu 2.37+18+g9b5d1b2f-3
 ttf-fira-code 6.2-2
-ttf-font-awesome 6.2.0-1
+ttf-font-awesome 6.2.1-1
 ttf-hack 3.003-3
 ttf-liberation 2.1.5-1
 ttf-lxgw-wenkai 1.245.1-1
@@ -3273,8 +3272,8 @@ ventoy-bin 1.0.82-1
 vercel 28.4.17-1
 vice 3.6.1-2
 vid.stab 1.1-3
-vim 9.0.0814-1
-vim-runtime 9.0.0814-1
+vim 9.0.0910-1
+vim-runtime 9.0.0910-1
 virglrenderer 0.9.1-1
 virt-install 4.1.0-1
 virt-manager 4.1.0-1
@@ -3295,10 +3294,10 @@ volume_key 0.3.12-7
 vte-common 0.70.1-1
 vte3 0.70.1-1
 vtk 9.1.0-22
-vulkan-extra-layers 1.3.224.1-1
-vulkan-extra-tools 1.3.224.1-1
+vulkan-extra-layers 1.3.231.1-1
+vulkan-extra-tools 1.3.231.1-1
 vulkan-headers 1:1.3.235-1
-vulkan-html-docs 1:1.3.227-1
+vulkan-html-docs 1:1.3.235-1
 vulkan-icd-loader 1.3.235-1
 vulkan-intel 22.2.3-1
 vulkan-mesa-layers 22.2.3-1
@@ -3345,7 +3344,7 @@ wxwidgets-gtk3 3.2.1-1
 x264 3:0.164.r3095.baee400-4
 x265 3.5-3
 xapian-core 1:1.4.21-1
-xapp 2.2.15-1
+xapp 2.4.0-1
 xbitmaps 1.1.2-3
 xcb-imdkit 1.0.3-1
 xcb-proto 1.15.2-2
@@ -3447,7 +3446,7 @@ xorgproto 2022.2-1
 xosd 2.2.14-10
 xsel 1.2.0.20200527-2
 xsimd 9.0.1-1
-xterm 375-1
+xterm 376-1
 xvidcore 1.3.7-2
 xxhash 0.8.1-2
 xz 5.2.8-1
@@ -3472,7 +3471,7 @@ yubikey-manager 1:4.0.9-3
 yubikey-manager-qt 1.2.4-1
 yubikey-personalization 1.20.0-3
 yubikey-personalization-gui 3.1.25-2
-yuzu-early-access 3128-1
+yuzu-early-access 3132-1
 zam-plugins 3.14-1
 zanshin 22.08.3-1
 zbar 0.23.90-1

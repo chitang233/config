@@ -266,7 +266,6 @@ dmenu
 dmg2img
 dmidecode
 dmraid
-dnsmasq
 dnssec-anchors
 docbook-xml
 docbook-xsl
