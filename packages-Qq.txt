@@ -445,6 +445,7 @@ ghostscript
 giflib
 gimp
 git
+git-credential-manager-core-bin
 git-lfs
 github-cli
 gitoxide
@@ -2045,6 +2046,7 @@ parted
 partimage
 partitionmanager
 paru
+pass
 patch
 pbzip2
 pcaudiolib
@@ -3211,6 +3213,7 @@ translate-shell
 transmission-cli
 trash-cli
 tre
+tree
 tree-sitter
 tslib
 ttf-arimo-nerd

@@ -239,7 +239,7 @@ dbus 1.14.4-1
 dbus-glib 0.112-2
 dbus-python 1.2.18-3
 dconf 0.40.0-2
-ddns-go-bin 4.0.4-1
+ddns-go-bin 4.2.1-1
 debian-archive-keyring 2021.1.1-1
 debootstrap 1.0.128-1
 debtap 3.5.1-1
@@ -445,6 +445,7 @@ ghostscript 10.0.0-2
 giflib 5.2.1-2
 gimp 2.10.32-2
 git 2.38.1-2
+git-credential-manager-core-bin 2.0.785-1
 git-lfs 3.2.0-1
 github-cli 2.20.2-1
 gitoxide 0.17.0-1
@@ -2045,6 +2046,7 @@ parted 3.5-1
 partimage 0.6.9-14
 partitionmanager 22.08.3-1
 paru 1.11.2-1
+pass 1.7.4-3
 patch 2.7.6-8
 pbzip2 1.1.13-3
 pcaudiolib 1.2-2
@@ -2851,7 +2853,7 @@ qqc2-desktop-style 5.100.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
 qt5-3d 5.15.7+kde+r6-1
-qt5-base 5.15.7+kde+r174-1
+qt5-base 5.15.7+kde+r175-1
 qt5-charts 5.15.7-1
 qt5-connectivity 5.15.7+kde+r5-1
 qt5-datavis3d 5.15.7-1
@@ -3211,6 +3213,7 @@ translate-shell 0.9.7-1
 transmission-cli 3.00-6
 trash-cli 0.22.10.20-3
 tre 0.8.0-6
+tree 2.0.4-1
 tree-sitter 0.20.7-1
 tslib 1.22-1
 ttf-arimo-nerd 2.2.2-1
