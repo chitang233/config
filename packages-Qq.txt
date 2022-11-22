@@ -2382,6 +2382,7 @@ python-cleo
 python-click
 python-cloudpickle
 python-colorama
+python-comm
 python-commonmark
 python-compreffor
 python-configobj

@@ -61,7 +61,7 @@ aria2-fast 1.36.0-3
 aribb24 1.0.3-3
 aribb25 0.2.7-2
 ark 22.08.3-1
-arrow 9.0.0-3
+arrow 9.0.0-4
 artikulate 22.08.3-1
 aspell 0.60.8-3
 assimp 5.2.5-2
@@ -294,7 +294,7 @@ drone-cli 1.6.1-1
 dsdp 5.8-7
 dtc 1.6.1-4
 duktape 2.7.0-4
-dump_syms 2.0.0-1
+dump_syms 2.1.0-1
 dust 0.8.3-1
 e2fsprogs 1.46.5-4
 easyeffects 7.0.0-1
@@ -368,7 +368,7 @@ filesystem 2022.10.18-1
 findutils 4.9.0-1
 fio 3.33-1
 firefox-appmenu 107.0-1
-firefox-nightly-zh-cn 109.0a1.20221120.11-1
+firefox-nightly-zh-cn 109.0a1.20221121.17-1
 firefox-pwa-bin 2.1.2-1
 firejail 0.9.70-4
 firetools 0.9.64-2
@@ -517,7 +517,7 @@ grep 3.8-2
 grilo 0.3.15-2
 grilo-plugins 1:0.3.15-2
 groff 1.22.4-7
-grpc 1.50.1-2
+grpc 1.51.0-1
 grub 2:2.06.r380.g151467888-1
 grub-btrfs 4.11-2
 gsasl 2.2.0-1
@@ -865,7 +865,7 @@ jupyter-nbconvert 7.2.5-1
 jupyter-nbformat 5.7.0-1
 jupyter-notebook 6.5.2-1
 jupyter-notebook-shim 0.2.2-1
-jupyter-server 1.23.2-1
+jupyter-server 1.23.3-1
 jupyter-server-mathjax 0.2.6-1
 jupyter-widgetsnbextension 1:4.0.3-1
 jupyterlab 3.5.0-1
@@ -1119,7 +1119,7 @@ l-smash 2.14.5-2
 ladspa 1.17-1
 lame 3.100-4
 lapack 3.11.0-1
-latte-dock-git 0.10.8.r5994.42fedafc-1
+latte-dock-git 0.10.8.r5995.4ec72572-1
 layer-shell-qt 5.26.3-1
 lbzip2 2.5-5
 lcms2 2.14-1
@@ -1215,7 +1215,7 @@ lib32-libnsl 2.0.0-1
 lib32-libogg 1.3.5-1
 lib32-libpcap 1.10.1-1
 lib32-libpciaccess 0.17-1
-lib32-libpng 1.6.38-2
+lib32-libpng 1.6.39-1
 lib32-libpng12 1.2.59-2
 lib32-libproxy 0.4.18-1
 lib32-libpsl 0.21.1-3
@@ -1250,7 +1250,7 @@ lib32-libx11 1.8.2-2
 lib32-libxau 1.0.10-3
 lib32-libxcb 1.15-1
 lib32-libxcomposite 0.4.5-2
-lib32-libxcrypt 4.4.31-1
+lib32-libxcrypt 4.4.33-1
 lib32-libxcursor 1.2.1-2
 lib32-libxdamage 1.1.5-3
 lib32-libxdmcp 1.1.3-2
@@ -1578,7 +1578,7 @@ libpipeline 1.5.7-1
 libpipewire02 0.2.7-2
 libplacebo 4.208.0-1
 libplist 2.2.0-5
-libpng 1.6.38-2
+libpng 1.6.39-1
 libpng12 1.2.59-2
 libportal 0.6-1
 libportal-gtk3 0.6-1
@@ -1738,8 +1738,8 @@ libxau 1.0.10-2
 libxaw 1.0.14-1
 libxcb 1.15-2
 libxcomposite 0.4.5-4
-libxcrypt 4.4.31-1
-libxcrypt-compat 4.4.31-1
+libxcrypt 4.4.33-1
+libxcrypt-compat 4.4.33-1
 libxcursor 1.2.1-2
 libxcvt 0.1.2-1
 libxdamage 1.1.5-5
@@ -1818,7 +1818,7 @@ lua53-lpeg 1.0.2-4
 luajit 2.1.0.beta3.r449.gdad04f17-1
 luit 20221028-1
 lunar-client 2.14.0-1
-lutris-git 0.5.12.beta1.r26.gdfbfb262-1
+lutris-git 0.5.12.beta1.r27.g25b8cde0-1
 lv2 1.18.10-1
 lv2-example-plugins 1.18.10-1
 lvm2 2.03.17-1
@@ -1895,7 +1895,7 @@ mono 6.12.0.177-1
 montserrat-otf 7.222-1
 moreutils 0.67-4
 mpdecimal 2.5.1-1
-mpfr 4.1.0.p13-3
+mpfr 4.1.1-1
 mpg123 1.31.1-1
 mplayer-vaapi 36265-19
 mpv 1:0.35.0-2
@@ -1971,8 +1971,8 @@ ocl-icd 2.3.1-1
 odt2txt 0.5-5
 okteta 1:0.26.9-1
 okular 22.08.3-1
-onednn 2.7.1-1
-onedriver 0.12.0-1
+onednn 2.7.2-1
+onedriver 0.13.0-0
 oniguruma 6.9.8-1
 open-in-mpv 2.0.2-1
 open-iscsi 2.1.8-2
@@ -2294,7 +2294,7 @@ ppp 2.4.9-3
 ppsspp-assets 1.13.2-1
 presage 0.9.1-1
 print-manager 22.08.3-1
-prismlauncher-git 5.0.r392.g30607c34-1
+prismlauncher-git 5.0.r407.g68b7aa0a-1
 prison 5.100.0-1
 procps-ng 3.3.17-1
 profanity 1:0.13.1-1
@@ -2382,6 +2382,7 @@ python-cleo 1.0.0a5-2
 python-click 8.1.3-1
 python-cloudpickle 2.1.0-1
 python-colorama 0.4.6-1
+python-comm 0.1.0-1
 python-commonmark 0.9.1-6
 python-compreffor 0.5.3-1
 python-configobj 5.0.6.r110.g3e2f4cc-3
@@ -2448,7 +2449,7 @@ python-google-auth-httplib2 0.1.0-3
 python-google-auth-oauthlib 0.7.1-2
 python-googleapis-common-protos 1.56.4-1
 python-greenlet 2.0.1-1
-python-grpcio 1.50.1-2
+python-grpcio 1.51.0-1
 python-h11 0.14.0-1
 python-h2 4.1.0-1
 python-h5py 3.7.0-1
@@ -2458,7 +2459,7 @@ python-hpack 4.0.0-3
 python-html5lib 1.1-11
 python-httpcore 0.16.1-1
 python-httplib2 0.21.0-2
-python-httpx 0.23.0-2
+python-httpx 0.23.1-1
 python-hyperframe 6.0.1-3
 python-hyperlink 21.0.0-4
 python-idna 3.4-1
@@ -2470,7 +2471,7 @@ python-incremental 22.10.0-1
 python-inflect 6.0.2-1
 python-iniconfig 1.1.1-5
 python-installer 0.5.1-2
-python-ipykernel 6.17.1-1
+python-ipykernel 6.18.0-1
 python-ipython-genutils 0.2.0-1
 python-ipywidgets 8.0.2-1
 python-isodate 0.6.1-2
@@ -2481,7 +2482,7 @@ python-jaraco.classes 3.2.3-1
 python-jaraco.collections 3.5.2-1
 python-jaraco.context 4.1.2-1
 python-jaraco.functools 3.5.2-1
-python-jaraco.text 3.10.0-1
+python-jaraco.text 3.11.0-1
 python-jedi 0.18.1-1
 python-jeepney 0.8.0-1
 python-jinja 1:3.1.2-2
@@ -2660,7 +2661,7 @@ python-scrypt 0.8.20-3
 python-seaborn 0.11.2-3
 python-secretstorage 3.3.3-1
 python-send2trash 1.8.0-3
-python-setuptools 1:65.5.0-1
+python-setuptools 1:65.5.1-1
 python-setuptools-git-ls-files 0.1.2-2
 python-setuptools-scm 7.0.5-1
 python-setuptools-scm-git-archive 1.4-1
@@ -3076,7 +3077,7 @@ signon-plugin-oauth2 0.25-1
 signon-ui 0.17+20171022-3
 signond 8.61-1
 simplescreenrecorder 0.4.4-1
-sing-box 1.0.7-1
+sing-box 1.0.7-3
 sing-geoip 20220912-1
 sing-geosite 20220920151058-1
 skanlite 22.08.3-1
@@ -3137,9 +3138,9 @@ syndication 5.100.0-1
 syntax-highlighting 5.100.0-1
 sysfsutils 2.1.1-1
 sysstat 12.7.1-1
-systemd 252.1-1
-systemd-libs 252.1-1
-systemd-sysvcompat 252.1-1
+systemd 252.1-2
+systemd-libs 252.1-2
+systemd-sysvcompat 252.1-2
 systemsettings 5.26.3-1
 t1lib 5.1.2-8
 t1utils 1.42-1
@@ -3261,7 +3262,7 @@ v2ray-domain-list-community 20221121035829-1
 v2ray-geoip 202211170054-1
 v4l-utils 1.22.1-1
 v4l2loopback-dkms 0.12.7-2
-vagrant 2.3.2-3
+vagrant 2.3.3-1
 vala 0.56.3-1
 valgrind 3.19.0-5
 vamp-plugin-sdk 2.10.0-1
@@ -3474,7 +3475,7 @@ yubikey-manager 1:4.0.9-3
 yubikey-manager-qt 1.2.4-1
 yubikey-personalization 1.20.0-3
 yubikey-personalization-gui 3.1.25-2
-yuzu-early-access 3141-1
+yuzu-early-access 3142-1
 zam-plugins 3.14-1
 zanshin 22.08.3-1
 zbar 0.23.90-1
