@@ -846,7 +846,7 @@ jbig2dec 0.19-1
 jdk17-dragonwell-bin 17.0.3.0.3-2
 jdk8-graalvm-bin 21.2.0-2
 jemalloc 1:5.3.0-1
-jetbrains-toolbox 1.26.5.13419-1
+jetbrains-toolbox 1.27.0.13477-1
 jfsutils 1.1.15-8
 jp2a 1.1.1-1
 jprofiler 13.0-1
@@ -1782,8 +1782,8 @@ libzmf 0.0.2-13
 licenses 20220125-1
 lilv 0.24.20-1
 linux-api-headers 5.18.15-1
-linux-firmware 20221109.60310c2-1
-linux-firmware-whence 20221109.60310c2-1
+linux-firmware 20221109.60310c2-2
+linux-firmware-whence 20221109.60310c2-2
 linux-steam-integration 0.7.3-4
 linux-zen 6.0.9.zen1-1
 linux-zen-headers 6.0.9.zen1-1
@@ -1952,7 +1952,7 @@ noto-fonts-emoji 20220920-1
 noto-fonts-emoji-blob 1:15.0-1
 noto-fonts-extra 20220810-1
 npm 8.19.2-1
-npm-check-updates 16.3.20-1
+npm-check-updates 16.3.21-1
 npth 1.6-3
 nspr 4.35-1
 nss 3.85-1
@@ -2575,7 +2575,7 @@ python-portend 3.1.0-1
 python-prettytable 3.5.0-1
 python-proglog 0.1.10-1
 python-prometheus_client 0.15.0-2
-python-prompt_toolkit 3.0.32-1
+python-prompt_toolkit 3.0.33-1
 python-protobuf 21.9-1
 python-proxy_tools 0.1.0-3
 python-psutil 5.9.4-1
@@ -2752,7 +2752,7 @@ python-xlwt 1.3.0-6
 python-xmldiff 2.4-3
 python-xmlsec 1.3.13-1
 python-xmltodict 0.13.0-2
-python-xxhash 3.0.0-1
+python-xxhash 3.1.0-2
 python-yaml 6.0-1
 python-yarl 1.8.1-1
 python-zc.lockfile 2.0-8
@@ -3149,13 +3149,13 @@ taglib 1.13-1
 talloc 2.3.4-1
 tar 1.34-1
 tbb 2021.5.0-2
-tcl 8.6.12-3
+tcl 8.6.13-1
 tcping 0.1.1rc1-1
 tcpping 2.4-2
 tcptraceroute 1.5beta7-8
 tdb 1.4.7-1
 teamspeak3 3.5.6-3
-telegram-desktop-megumifox 4.2.4-4
+telegram-desktop-megumifox 4.3.1-2
 telegram-qt 0.1.0-6
 telepathy-accounts-signon 2.1-2
 telepathy-farstream 0.6.2-7
@@ -3177,7 +3177,7 @@ telepathy-logger-qt 17.09.0-1
 telepathy-mission-control 5.16.6-2
 telepathy-morse 0.1.0-3
 telepathy-qt 0.9.8-2
-tensorboard 2.10.1-1
+tensorboard 2.11.0-1
 tensorflow-opt-cuda 2.11.0-1
 termius 7.49.0-1
 tesseract 5.2.0-2
@@ -3195,10 +3195,10 @@ thin-provisioning-tools 0.9.0-1
 threadweaver 5.100.0-1
 thrift 0.17.0-2
 tigervnc 1.12.0-3
-timeshift 22.06.5+12+g92ad80c-2
+timeshift 22.11.1-1
 tinyxml 2.6.2-9
 tinyxml2 9.0.0-1
-tk 8.6.12-1
+tk 8.6.13-1
 tl-expected 1.0.0-1
 tmux 3.3_a-2
 tomlplusplus 3.2.0-1
@@ -3258,7 +3258,7 @@ usbutils 015-1
 util-linux 2.38.1-1
 util-linux-libs 2.38.1-1
 uwufetch 2.0-1
-v2ray-domain-list-community 20221121035829-1
+v2ray-domain-list-community 20221121140216-1
 v2ray-geoip 202211170054-1
 v4l-utils 1.22.1-1
 v4l2loopback-dkms 0.12.7-2
@@ -3452,7 +3452,7 @@ xsel 1.2.0.20200527-2
 xsimd 9.0.1-1
 xterm 376-1
 xvidcore 1.3.7-2
-xxhash 0.8.1-2
+xxhash 0.8.1-3
 xz 5.2.8-1
 yajl 2.1.0-5
 yakuake 22.08.3-1
@@ -3475,7 +3475,7 @@ yubikey-manager 1:4.0.9-3
 yubikey-manager-qt 1.2.4-1
 yubikey-personalization 1.20.0-3
 yubikey-personalization-gui 3.1.25-2
-yuzu-early-access 3142-1
+yuzu-early-access 3143-1
 zam-plugins 3.14-1
 zanshin 22.08.3-1
 zbar 0.23.90-1
