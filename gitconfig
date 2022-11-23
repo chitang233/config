@@ -11,3 +11,11 @@
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
 	required = true
+[credential]
+	credentialStore = gpg
+	helper = 
+	helper = /usr/share/git-credential-manager-core/git-credential-manager-core
+[credential "https://dev.azure.com"]
+	useHttpPath = true
+[push]
+	autoSetupRemote = true
