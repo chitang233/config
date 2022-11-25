@@ -1,7 +1,7 @@
 [user]
 	name = Chi_Tang
-	email = chitang233@proton.me
-	signingkey = 149B2289DCCD7439
+	email = me@chitang.dev
+	signingkey = 3A7CC7A8D28DC2B61851901D01845D532061DF09
 [commit]
 	gpgSign = true
 [init]
@@ -14,7 +14,8 @@
 [credential]
 	credentialStore = gpg
 	helper = 
-	helper = /usr/share/git-credential-manager-core/git-credential-manager-core
+	helper = 
+	helper = /usr/share/git-credential-manager-core/git-credential-manager
 [credential "https://dev.azure.com"]
 	useHttpPath = true
 [push]
