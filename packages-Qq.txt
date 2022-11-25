@@ -216,6 +216,7 @@ coreutils
 cpeditor
 cpio
 cpu-checker-bzr
+cpupower
 criu
 cronie
 crypto++
@@ -310,6 +311,7 @@ efivar
 egl-wayland
 eglexternalplatform
 electron
+electron-netease-cloud-music
 electron17
 element-desktop
 element-web
@@ -1691,6 +1693,7 @@ libtommath
 libtool
 libtorrent-rasterbar
 libtpms
+libu2f-server
 libudev0-shim
 libuninameslist
 libunistring
@@ -1817,7 +1820,6 @@ lua53
 lua53-lpeg
 luajit
 luit
-lunar-client
 lutris-git
 lv2
 lv2-example-plugins
@@ -2048,6 +2050,7 @@ partitionmanager
 paru
 pass
 patch
+patchelf
 pbzip2
 pcaudiolib
 pciutils
@@ -2483,6 +2486,7 @@ python-jaraco.collections
 python-jaraco.context
 python-jaraco.functools
 python-jaraco.text
+python-jarowinkler
 python-jedi
 python-jeepney
 python-jinja
@@ -2636,6 +2640,7 @@ python-pywebview
 python-pyxdg
 python-pyzmq
 python-qtpy
+python-rapidfuzz
 python-rapidjson
 python-regex
 python-reportlab
@@ -2653,6 +2658,7 @@ python-routes
 python-rsa
 python-ruamel-yaml
 python-ruamel.yaml.clib
+python-schedutils
 python-scikit-build
 python-scikit-image
 python-scikit-learn
@@ -3324,6 +3330,7 @@ webkit2gtk-4.1
 webrtc-audio-processing
 webstorm
 webstorm-jre
+wemeet-bin
 wget
 which
 whois
@@ -3475,6 +3482,7 @@ yubikey-manager
 yubikey-manager-qt
 yubikey-personalization
 yubikey-personalization-gui
+yubioath-desktop
 yuzu-early-access
 zam-plugins
 zanshin
