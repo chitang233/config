@@ -3303,7 +3303,7 @@ vmaf 2.3.1-1
 volume_key 0.3.12-7
 vte-common 0.70.1-1
 vte3 0.70.1-1
-vtk 9.1.0-22
+vtk 9.1.0-23
 vulkan-extra-layers 1.3.231.1-1
 vulkan-extra-tools 1.3.231.1-1
 vulkan-headers 1:1.3.235-1
