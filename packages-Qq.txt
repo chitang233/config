@@ -125,6 +125,7 @@ boost-libs
 botan
 bovo
 box2d
+brave-bin
 breeze
 breeze-gtk
 breeze-icons
@@ -267,6 +268,7 @@ dmenu
 dmg2img
 dmidecode
 dmraid
+dnsmasq
 dnssec-anchors
 docbook-xml
 docbook-xsl
@@ -2056,6 +2058,8 @@ pcaudiolib
 pciutils
 pcre
 pcre2
+pcsc-perl
+pcsc-tools
 pcsclite
 peg
 perl
@@ -2073,6 +2077,7 @@ perl-business-isbn-data
 perl-business-ismn
 perl-business-issn
 perl-bytes-random-secure
+perl-cairo-gobject
 perl-canary-stability
 perl-capture-tiny
 perl-carp-clan
@@ -2127,6 +2132,8 @@ perl-file-slurp-tiny
 perl-file-slurper
 perl-file-which
 perl-finance-quote
+perl-glib-object-introspection
+perl-gtk3
 perl-guard
 perl-html-element-extended
 perl-html-parser
@@ -2322,6 +2329,7 @@ pyside6
 pystring
 python
 python-absl
+python-adblock
 python-aiodns
 python-aiofiles
 python-aiogram
@@ -3477,6 +3485,7 @@ yt-dlp
 yubico-c
 yubico-c-client
 yubico-pam
+yubikey-agent
 yubikey-full-disk-encryption
 yubikey-manager
 yubikey-manager-qt
