@@ -1732,6 +1732,7 @@ libvterm
 libwacom
 libwebp
 libwebsockets
+libwireplumber
 libwmf
 libwpd
 libwpe
