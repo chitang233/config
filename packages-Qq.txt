@@ -306,7 +306,8 @@ ebtables
 ecryptfs-utils
 ed
 editorconfig-core-c
-edk2-armvirt
+edk2-aarch64
+edk2-arm
 edk2-ovmf
 efibootmgr
 efivar
