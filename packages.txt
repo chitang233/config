@@ -1874,7 +1874,7 @@ mesa-vdpau 22.2.3-1
 meson 0.64.1-1
 messagelib 22.08.3-1
 metis 5.1.0.p10-2
-microsoft-edge-dev-bin 109.0.1495.2-1
+microsoft-edge-dev-bin 109.0.1518.5-1
 microsoft-gsl 4.0.0-1
 milou 5.26.4-1
 mindustry 1:7.0_140.4-1
