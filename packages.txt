@@ -316,6 +316,7 @@ egl-wayland 2:1.1.11-2
 eglexternalplatform 1.1-2
 electron 20.0.3-3
 electron-netease-cloud-music 0.9.36-1
+electron11-bin 11.5.0-2
 electron17 17.4.11-3
 element-desktop 1.11.10-2
 element-web 1.11.10-2
@@ -2314,7 +2315,7 @@ procps-ng 3.3.17-1
 profanity 1:0.13.1-1
 projectm 3.1.12-3
 properties-cpp 0.0.2-1
-protobuf 21.9-1
+protobuf 21.10-1
 protobuf-c 1.4.1-1
 proton 1:7.0.4-6
 psmisc 23.5-1
@@ -2592,7 +2593,7 @@ python-prettytable 3.5.0-1
 python-proglog 0.1.10-1
 python-prometheus_client 0.15.0-2
 python-prompt_toolkit 3.0.33-1
-python-protobuf 21.9-1
+python-protobuf 21.10-1
 python-proxy_tools 0.1.0-3
 python-psutil 5.9.4-1
 python-psycopg2 2.9.5-1
@@ -3090,7 +3091,7 @@ shadow 4.12.3-2
 shared-mime-info 2.0+155+gf4e7cbc-1
 shc 4.0.3-1
 shiboken6 6.4.1-2
-signal-desktop 5.63.1-2
+signal-desktop 6.0.0-1
 signon-kwallet-extension 22.08.3-1
 signon-plugin-oauth2 0.25-1
 signon-ui 0.17+20171022-3

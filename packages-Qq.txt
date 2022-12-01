@@ -316,6 +316,7 @@ egl-wayland
 eglexternalplatform
 electron
 electron-netease-cloud-music
+electron11-bin
 electron17
 element-desktop
 element-web
