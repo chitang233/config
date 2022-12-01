@@ -218,6 +218,7 @@ cpeditor
 cpio
 cpu-checker-bzr
 cpupower
+cracklib
 criu
 cronie
 crypto++
@@ -1591,6 +1592,7 @@ libproxy
 libpsl
 libptytty
 libpulse
+libpwquality
 libqaccessibilityclient
 libqalculate
 libqmi
@@ -3076,6 +3078,7 @@ sdl_net
 sdl_sound
 sdl_ttf
 seabios
+seahorse
 seatd
 sed
 semver
