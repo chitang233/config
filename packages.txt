@@ -7,7 +7,8 @@ acl 2.3.1-2
 acpi_call-dkms 1.2.2-1
 acsccid 1.1.8-2
 adobe-source-code-pro-fonts 2.038ro+1.058it+1.018var-1
-adwaita-icon-theme 43-1
+adwaita-cursors 43-2
+adwaita-icon-theme 43-2
 aegisub 3.3.3-3
 aha 0.5.1-2
 akonadi 22.08.3-1
@@ -232,8 +233,8 @@ cups 1:2.4.2-3
 cups-filters 1.28.16-2
 curl 7.86.0-4
 cython 0.29.32-2
-datagrip 2022.2.5-1
-datagrip-jre 2022.2.5-1
+datagrip 2022.3-1
+datagrip-jre 2022.3-1
 dav1d 1.0.0-1
 db 5.3.28-5
 db4.8 4.8.30-7
@@ -249,6 +250,7 @@ debtap 3.5.1-1
 debuginfod 0.188-1
 decklink 12.4.1-1
 dee 1.2.7-13
+default-cursors 1-1
 desktop-file-utils 0.26-2
 detect-it-easy 3.06-1
 device-mapper 2.03.17-1
@@ -463,8 +465,8 @@ glew1.10 1.10.0-3
 glfw-x11 3.3.8-1
 glib-networking 1:2.74.0-1
 glib-perl 1.329.3-3
-glib2 2.74.2-1
-glib2-docs 2.74.2-1
+glib2 2.74.2-2
+glib2-docs 2.74.2-2
 glibc 2.36-6
 glibmm 2.66.5-1
 glibmm-2.68 2.74.0-1
@@ -642,7 +644,7 @@ haskell-ghc-bignum-orphans 0.1.1-1
 haskell-gitrev 1.3.1-31
 haskell-glob 0.10.2-58
 haskell-gridtables 0.1.0.0-6
-haskell-haddock-library 1.10.0-183
+haskell-haddock-library 1.10.0-184
 haskell-hashable 1.4.1.0-34
 haskell-hourglass 0.2.12-214
 haskell-hslua 2.2.1-16
@@ -1169,7 +1171,7 @@ lib32-gettext 0.21.1-1
 lib32-giflib 5.2.1-1
 lib32-glew1.10 1.10.0-5
 lib32-glib-networking 2.74.0-1
-lib32-glib2 2.74.2-1
+lib32-glib2 2.74.2-2
 lib32-glibc 2.36-6
 lib32-glu 9.0.2-3
 lib32-gmp 6.2.1-1
@@ -1750,7 +1752,7 @@ libxcb 1.15-2
 libxcomposite 0.4.5-4
 libxcrypt 4.4.33-1
 libxcrypt-compat 4.4.33-1
-libxcursor 1.2.1-2
+libxcursor 1.2.1-3
 libxcvt 0.1.2-1
 libxdamage 1.1.5-5
 libxdmcp 1.1.4-1
@@ -1968,10 +1970,10 @@ nss 3.85-1
 nss-mdns 0.15.1-1
 ntfs-3g 2022.10.3-1
 numactl 2.0.16-1
-nvidia-dkms 525.60.11-1
+nvidia-dkms 520.56.06-2
 nvidia-prime 1.0-4
-nvidia-settings 525.60.11-2
-nvidia-utils 525.60.11-1
+nvidia-settings 520.56.06-1
+nvidia-utils 520.56.06-2
 nvidia-vaapi-driver-git 0.0.7.r6.gdbfb608-1
 nvtop 3.0.1-1
 oath-toolkit 2.6.7-1
@@ -1995,7 +1997,7 @@ opencc 1.1.4-1
 opencl-clhpp 2.0.16-1
 opencl-headers 2:2022.05.18-1
 opencl-mesa 22.2.3-1
-opencl-nvidia 525.60.11-1
+opencl-nvidia 520.56.06-2
 opencolorio 2.2.0-1
 opencore-amr 0.1.6-1
 opencv-cuda 4.6.0-6
@@ -2041,8 +2043,8 @@ palapeli 22.08.3-1
 pam 1.5.2-1
 pam-u2f 1.2.1-2
 pambase 20221020-1
-pandoc 2.19.2-33
-pandoc-crossref 0.3.13.0-44
+pandoc 2.19.2-34
+pandoc-crossref 0.3.13.0-45
 pango 1:1.50.12-1
 pango-perl 1.227-15
 pangomm 2.46.3-1
@@ -2068,7 +2070,7 @@ pcsc-tools 1.6.0-1
 pcsclite 1.9.9-1
 peg 0.1.18-2
 perl 5.36.0-1
-perl-alien-build 2.72-1
+perl-alien-build 2.73-1
 perl-alien-libxml2 0.19-1
 perl-anyevent 4:7.17-5
 perl-anyevent-i3 0.17-8
@@ -2382,7 +2384,7 @@ python-build 0.9.0-1
 python-cachecontrol 1:0.12.11-1
 python-cachetools 5.2.0-1
 python-cachy 0.3.0-8
-python-cairo 1.22.0-1
+python-cairo 1.23.0-1
 python-cairocffi 1.4.0-1
 python-cattrs 22.2.0-2
 python-cchardet 2.1.7-4
@@ -2460,7 +2462,7 @@ python-gmpy2 2.1.2-1
 python-gobject 3.42.2-1
 python-google-api-core 2.10.2-1
 python-google-api-python-client 2.66.0-1
-python-google-auth 2.11.1-1
+python-google-auth 2.12.0-1
 python-google-auth-httplib2 0.1.0-3
 python-google-auth-oauthlib 0.7.1-2
 python-googleapis-common-protos 1.57.0-1
@@ -2730,7 +2732,7 @@ python-tox 3.26.0-2
 python-tqdm 4.64.1-1
 python-traitlets 5.6.0-1
 python-trio 0.22.0-2
-python-trove-classifiers 2022.10.19-1
+python-trove-classifiers 2022.12.1-1
 python-ttfautohint-py 0.5.0-1
 python-twisted 22.10.0-1
 python-typing_extensions 4.4.0-1
@@ -3278,8 +3280,8 @@ usbutils 015-1
 util-linux 2.38.1-1
 util-linux-libs 2.38.1-1
 uwufetch 2.0-1
-v2ray-domain-list-community 20221130032508-1
-v2ray-geoip 202211240054-1
+v2ray-domain-list-community 20221201080109-1
+v2ray-geoip 202212010055-1
 v4l-utils 1.22.1-1
 v4l2loopback-dkms 0.12.7-2
 vagrant 2.3.3-1
@@ -3334,13 +3336,13 @@ wasi-libc++ 14.0.6-1
 wasi-libc++abi 14.0.6-1
 watt-toolkit-bin 2.8.4-4
 wavpack 5.5.0-1
-wayland 1.21.0-1
+wayland 1.21.0-2
 wayland-protocols 1.30-1
 wayland-utils 1.1.0-1
 wcslib 7.12-2
 wdiff 1.2.2-4
-webkit2gtk 2.38.2-1
-webkit2gtk-4.1 2.38.2-1
+webkit2gtk 2.38.2-2
+webkit2gtk-4.1 2.38.2-2
 webrtc-audio-processing 0.3.1-3
 webstorm 2022.3-1
 webstorm-jre 2022.3-1

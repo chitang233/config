@@ -7,6 +7,7 @@ acl
 acpi_call-dkms
 acsccid
 adobe-source-code-pro-fonts
+adwaita-cursors
 adwaita-icon-theme
 aegisub
 aha
@@ -249,6 +250,7 @@ debtap
 debuginfod
 decklink
 dee
+default-cursors
 desktop-file-utils
 detect-it-easy
 device-mapper
