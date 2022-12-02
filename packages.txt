@@ -187,7 +187,7 @@ clion-jre 1:2022.3-1
 clion-lldb 1:2022.3-1
 clonezilla 3.35.2-5
 cloudflare-warp-bin 2022.10.116-1
-cloudflared 2022.11.0-1
+cloudflared 2022.11.1-1
 cloudflarespeedtest-git 2.1.0+3+g882678e-1
 clucene 2.3.3.4-12
 clutter 1.26.4-2
@@ -1974,7 +1974,7 @@ nvidia-dkms 520.56.06-2
 nvidia-prime 1.0-4
 nvidia-settings 520.56.06-1
 nvidia-utils 520.56.06-2
-nvidia-vaapi-driver-git 0.0.7.r6.gdbfb608-1
+nvidia-vaapi-driver-git 0.0.7.r8.g6e8b0d0-1
 nvtop 3.0.1-1
 oath-toolkit 2.6.7-1
 ocaml 4.14.0-1
@@ -3295,7 +3295,7 @@ vde2 2.3.3-3
 vdfuse 82a-12
 vdpauinfo 1.5-1
 ventoy-bin 1.0.82-1
-vercel 28.4.17-1
+vercel 28.7.0-1
 vice 3.6.1-2
 vid.stab 1.1-3
 vim 9.0.0910-1
@@ -3500,7 +3500,7 @@ yubikey-manager-qt 1.2.4-1
 yubikey-personalization 1.20.0-3
 yubikey-personalization-gui 3.1.25-2
 yubioath-desktop 5.1.0-3
-yuzu-early-access 3166-1
+yuzu-early-access 3173-1
 zam-plugins 3.14-1
 zanshin 22.08.3-1
 zbar 0.23.90-1
