@@ -555,6 +555,7 @@ gtk3
 gtk4
 gtkmm
 gtkmm3
+gtksourceview3
 gtksourceview4
 gtksourceview5
 gts
@@ -3111,6 +3112,8 @@ smartmontools
 smbclient
 smokeping
 smpeg
+snapper
+snapper-gui-git
 snappy
 sndio
 socat
