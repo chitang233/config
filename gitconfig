@@ -13,8 +13,6 @@
 	required = true
 [credential]
 	credentialStore = gpg
-	helper = 
-	helper = 
 	helper = /usr/share/git-credential-manager-core/git-credential-manager
 [credential "https://dev.azure.com"]
 	useHttpPath = true
