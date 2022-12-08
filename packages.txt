@@ -39,6 +39,8 @@ archlinuxcn-keyring 20220716-1
 ardour 7.1-1
 argon2 20190702-4
 aria2 1.36.0-1
+aribb24 1.0.3-3
+aribb25 0.2.7-2
 ark 22.08.3-1
 artikulate 22.08.3-1
 at-spi2-core 2.46.0-2
@@ -118,6 +120,7 @@ convertlit 1.8-11
 coordgen 3.0.1-1
 copyq 6.3.2-1
 coreutils 9.1-3
+cracklib 2.9.8-1
 cronie 1.6.1-1
 cryptsetup 2.6.0-1
 cuda 11.8.0-1
@@ -167,7 +170,10 @@ efibootmgr 18-1
 efivar 38-2
 egl-wayland 2:1.1.11-2
 eglexternalplatform 1.1-2
+electron 20.3.8-1
 electron19 19.1.9-1
+element-desktop 1.11.10-2
+element-web 1.11.10-2
 elisa 22.08.3-1
 enchant 2.3.3-2
 eventviews 22.08.3-1
@@ -215,6 +221,7 @@ freeglut 3.4.0-1
 freetype2 2.12.1-1
 frei0r-plugins 1.8.0-2
 fribidi 1.0.12-1
+ftgl 2.4.0-2
 fuse-common 3.12.0-1
 fuse3 3.12.0-1
 fwupd 1.8.8-1
@@ -254,6 +261,7 @@ glib2 2.74.3-1
 glibc 2.36-6
 glibmm 2.66.5-1
 glibmm-2.68 2.74.0-1
+glm 0.9.9.8-1
 glslang 11.11.0-1
 glu 9.0.2-3
 gmp 6.2.1-2
@@ -726,6 +734,7 @@ libdmtx 0.7.7-1
 libdrm 2.4.114-1
 libdv 1.0.0-9
 libdvbpsi 1:1.3.3-2
+libdvdcss 1.4.3-1
 libdvdnav 6.1.1-1
 libdvdread 6.1.3-1
 libebml 1.4.4-1
@@ -752,6 +761,7 @@ libglvnd 1.5.0-1
 libgme 0.6.3-1
 libgnome-keyring 3.12.0+13+g4f8ab73-3
 libgnomekbd 1:3.28.1-1
+libgoom2 2k4-5
 libgpg-error 1.46-2
 libgphoto2 2.5.30-1
 libgravatar 22.08.3-1
@@ -852,6 +862,7 @@ libpng 1.6.39-1
 libproxy 0.4.18-1
 libpsl 0.21.1-3
 libpulse 16.1-3
+libpwquality 1.4.5-1
 libqaccessibilityclient 0.4.1-2
 libqalculate 4.4.0-2
 libqmi 1.32.2-1
@@ -889,6 +900,7 @@ libteam 1.31-7
 libthai 0.1.29-2
 libtheora 1.1.1-5
 libtiff 4.4.0-4
+libtiger 0.3.4-6
 libtirpc 1.3.3-2
 libtommath 1.2.0-3
 libtool 2.4.7-5
@@ -899,6 +911,7 @@ libupnp 1.14.15-1
 liburcu 0.13.2-1
 liburing 2.3-1
 libusb 1.0.26-1
+libusb-compat 0.1.7-1
 libusbmuxd 2.0.2-1
 libutempter 1.2.1-3
 libuv 1.44.2-1
@@ -960,15 +973,21 @@ linux-firmware 20221109.60310c2-2
 linux-firmware-whence 20221109.60310c2-2
 linux-zen 6.0.11.zen1-1
 linux-zen-headers 6.0.11.zen1-1
+linuxqq-nt-bwrap 2.0.1_b1-1
+lirc 1:0.10.2-1
+live-media 2022.12.01-1
 llvm-libs 14.0.6-4
 lm_sensors 1:3.6.0.r41.g31d1f125-2
 lmdb 0.9.29-1
 lokalize 22.08.3-1
+lsb-release 2.0.r48.3cf5103-1
 lskat 22.08.3-1
 lsof 4.96.4-1
 lsp-plugins 1.2.3-1
 lua 5.4.4-2
+lua51 5.1.5-9
 lua52 5.2.4-5
+luajit 2.1.0.beta3.r457.g637721d0-1
 luit 20221028-1
 lutris 0.5.12-2
 lv2 1.18.10-1
@@ -992,6 +1011,7 @@ mariadb-clients 10.9.4-2
 mariadb-libs 10.9.4-2
 marisa 0.2.6-9
 markdownpart 22.08.3-1
+mbedtls 2.28.1-1
 mbox-importer 22.08.3-1
 md4c 0.4.8-1
 mda.lv2 1.2.10-1
@@ -1137,6 +1157,7 @@ print-manager 22.08.3-1
 prismlauncher-bin 5.2-1
 prison 5.100.0-1
 procps-ng 3.3.17-1
+projectm 3.1.12-3
 protobuf 21.10-1
 protobuf-c 1.4.1-1
 psmisc 23.5-1
@@ -1245,7 +1266,7 @@ qqc2-desktop-style 5.100.0-1
 qrencode 4.1.1-1
 qt-gstreamer 1.2.0-4
 qt5-base 5.15.7+kde+r176-1
-qt5-declarative 5.15.7+kde+r24-1
+qt5-declarative 5.15.7+kde+r25-1
 qt5-graphicaleffects 5.15.7-1
 qt5-location 5.15.7+kde+r3-1
 qt5-multimedia 5.15.7+kde+r1-1
@@ -1274,6 +1295,7 @@ qt6-translations 6.4.1-1
 qt6-wayland 6.4.1-1
 qtkeychain-qt5 0.13.2-1
 qtscrcpy 2.1.2-1
+quota-tools 1:4.09-1
 raptor 2.0.15-21
 rav1e 0.6.1-1
 re2 1:20221201-1
@@ -1296,6 +1318,8 @@ sddm 0.19.0-9
 sddm-kcm 5.26.4-1
 sdl12-compat 1.2.60-1
 sdl2 2.26.1-1
+sdl_image 1.2.12-7
+seahorse 1:43.0-1
 seatd 0.7.0-2
 sed 4.9-1
 serd 0.30.16-1
@@ -1341,6 +1365,7 @@ svgpart 22.08.3-1
 svt-av1 1.4.0-1
 svt-hevc 1.5.1-2
 sweeper 22.08.3-1
+swig 4.0.2-5
 syndication 5.100.0-1
 syntax-highlighting 5.100.0-1
 sysfsutils 2.1.1-1
@@ -1407,7 +1432,10 @@ usbmuxd 1.1.1-1
 util-linux 2.38.1-1
 util-linux-libs 2.38.1-1
 v4l-utils 1.22.1-1
+v4l2loopback-dkms 0.12.7-2
+v4l2loopback-utils 0.12.7-2
 vamp-plugin-sdk 2.10.0-1
+vcdimager 2.0.1-4
 vde2 2.3.3-3
 vid.stab 1.1-3
 vim 9.0.0910-1
@@ -1500,7 +1528,9 @@ xorg-fonts-100dpi 1.0.3-8
 xorg-fonts-75dpi 1.0.3-8
 xorg-fonts-alias-100dpi 1.0.4-1
 xorg-fonts-alias-75dpi 1.0.4-1
+xorg-fonts-alias-misc 1.0.4-1
 xorg-fonts-encodings 1.0.6-1
+xorg-fonts-misc 1.0.3-10
 xorg-iceauth 1.0.9-1
 xorg-mkfontscale 1.2.2-1
 xorg-server 21.1.4-1
@@ -1548,6 +1578,7 @@ xorg-xwd 1.0.8-1
 xorg-xwininfo 1.1.5-3
 xorg-xwud 1.0.6-1
 xorgproto 2022.2-1
+xosd 2.2.14-10
 xterm 377-1
 xvidcore 1.3.7-2
 xxhash 0.8.1-3
@@ -1559,7 +1590,7 @@ yubico-c 1.13-6
 yubico-c-client 2.15-5
 yubico-pam 2.27-2
 yubikey-agent 0.1.5-1
-yubikey-full-disk-encryption r150.2c5fdf3-1
+yubikey-full-disk-encryption r155.dcaac00-1
 yubikey-manager 1:4.0.9-3
 yubikey-manager-qt 1.2.4-1
 yubikey-personalization 1.20.0-3

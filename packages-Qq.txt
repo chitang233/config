@@ -39,6 +39,8 @@ archlinuxcn-keyring
 ardour
 argon2
 aria2
+aribb24
+aribb25
 ark
 artikulate
 at-spi2-core
@@ -118,6 +120,7 @@ convertlit
 coordgen
 copyq
 coreutils
+cracklib
 cronie
 cryptsetup
 cuda
@@ -167,7 +170,10 @@ efibootmgr
 efivar
 egl-wayland
 eglexternalplatform
+electron
 electron19
+element-desktop
+element-web
 elisa
 enchant
 eventviews
@@ -215,6 +221,7 @@ freeglut
 freetype2
 frei0r-plugins
 fribidi
+ftgl
 fuse-common
 fuse3
 fwupd
@@ -254,6 +261,7 @@ glib2
 glibc
 glibmm
 glibmm-2.68
+glm
 glslang
 glu
 gmp
@@ -726,6 +734,7 @@ libdmtx
 libdrm
 libdv
 libdvbpsi
+libdvdcss
 libdvdnav
 libdvdread
 libebml
@@ -752,6 +761,7 @@ libglvnd
 libgme
 libgnome-keyring
 libgnomekbd
+libgoom2
 libgpg-error
 libgphoto2
 libgravatar
@@ -852,6 +862,7 @@ libpng
 libproxy
 libpsl
 libpulse
+libpwquality
 libqaccessibilityclient
 libqalculate
 libqmi
@@ -889,6 +900,7 @@ libteam
 libthai
 libtheora
 libtiff
+libtiger
 libtirpc
 libtommath
 libtool
@@ -899,6 +911,7 @@ libupnp
 liburcu
 liburing
 libusb
+libusb-compat
 libusbmuxd
 libutempter
 libuv
@@ -960,15 +973,21 @@ linux-firmware
 linux-firmware-whence
 linux-zen
 linux-zen-headers
+linuxqq-nt-bwrap
+lirc
+live-media
 llvm-libs
 lm_sensors
 lmdb
 lokalize
+lsb-release
 lskat
 lsof
 lsp-plugins
 lua
+lua51
 lua52
+luajit
 luit
 lutris
 lv2
@@ -992,6 +1011,7 @@ mariadb-clients
 mariadb-libs
 marisa
 markdownpart
+mbedtls
 mbox-importer
 md4c
 mda.lv2
@@ -1137,6 +1157,7 @@ print-manager
 prismlauncher-bin
 prison
 procps-ng
+projectm
 protobuf
 protobuf-c
 psmisc
@@ -1274,6 +1295,7 @@ qt6-translations
 qt6-wayland
 qtkeychain-qt5
 qtscrcpy
+quota-tools
 raptor
 rav1e
 re2
@@ -1296,6 +1318,8 @@ sddm
 sddm-kcm
 sdl12-compat
 sdl2
+sdl_image
+seahorse
 seatd
 sed
 serd
@@ -1341,6 +1365,7 @@ svgpart
 svt-av1
 svt-hevc
 sweeper
+swig
 syndication
 syntax-highlighting
 sysfsutils
@@ -1407,7 +1432,10 @@ usbmuxd
 util-linux
 util-linux-libs
 v4l-utils
+v4l2loopback-dkms
+v4l2loopback-utils
 vamp-plugin-sdk
+vcdimager
 vde2
 vid.stab
 vim
@@ -1500,7 +1528,9 @@ xorg-fonts-100dpi
 xorg-fonts-75dpi
 xorg-fonts-alias-100dpi
 xorg-fonts-alias-75dpi
+xorg-fonts-alias-misc
 xorg-fonts-encodings
+xorg-fonts-misc
 xorg-iceauth
 xorg-mkfontscale
 xorg-server
@@ -1548,6 +1578,7 @@ xorg-xwd
 xorg-xwininfo
 xorg-xwud
 xorgproto
+xosd
 xterm
 xvidcore
 xxhash
