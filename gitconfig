@@ -1,7 +1,7 @@
 [user]
 	name = Chi_Tang
 	email = me@chitang.dev
-	signingkey = 3A7CC7A8D28DC2B61851901D01845D532061DF09
+	signingkey = AEDF1BB86A40BB8225BDF751DF94909C825CF811 
 [commit]
 	gpgSign = true
 [init]

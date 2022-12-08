@@ -9,7 +9,6 @@ setopt CORRECT
 SPROMPT='zsh: correct %F{red}%R%f to %F{green}%r%f [nyae]? '
 WORDCHARS=${WORDCHARS//[\/]}
 ZSH_HIGHLIGHT_HIGHLIGHTERS=(main brackets)
-. "/home/chitang/.acme.sh/acme.sh.env"
 eval "$(starship init zsh)"
 
 # ------------------
