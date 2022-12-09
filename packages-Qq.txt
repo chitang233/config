@@ -219,6 +219,7 @@ edk2-aarch64
 edk2-arm
 edk2-ovmf
 efibootmgr
+efitools
 efivar
 egl-wayland
 eglexternalplatform
@@ -239,6 +240,7 @@ espeak-ng
 eventviews
 evince
 exa
+exfatprogs
 exiv2
 expat
 f2fs-tools
@@ -358,6 +360,8 @@ gnutls
 go
 gobject-introspection-runtime
 goverlay-bin
+gpart
+gparted
 gperftools
 gpgme
 gpm
@@ -463,6 +467,7 @@ java-environment-common
 java-runtime-common
 jbig2dec
 jemalloc
+jfsutils
 jp2a
 jq
 json-c
@@ -1357,6 +1362,7 @@ mpg123
 mplayer
 mpv
 mtdev
+mtools
 mujs
 multipath-tools
 mypaint-brushes1
@@ -1374,6 +1380,7 @@ nettle
 networkmanager
 networkmanager-qt
 nftables
+nilfs-utils
 ninja
 nitrogen
 nnn
@@ -1388,6 +1395,7 @@ npm
 npth
 nspr
 nss
+ntfs-3g
 numactl
 nvidia-dkms
 nvidia-prime
@@ -1838,6 +1846,7 @@ re2
 readline
 recode
 redland
+reiserfsprogs
 remmina
 retroarch
 retroarch-assets-glui
@@ -2007,6 +2016,7 @@ ttf-ubuntu-font-family
 twolame
 tzdata
 uchardet
+udftools
 udisks2
 umbrello
 unace
