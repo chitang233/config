@@ -340,6 +340,8 @@ glslang
 glu
 glusterfs
 gmp
+gnirehtet-bin
+gnome-calculator
 gnome-common
 gnome-desktop
 gnome-desktop-4
@@ -395,6 +397,7 @@ gtkmm
 gtkmm3
 gtksourceview3
 gtksourceview4
+gtksourceview5
 gtkspell3
 gts
 guile
@@ -1406,6 +1409,7 @@ openal
 openbabel
 openbsd-netcat
 opencc
+opencl-headers
 opencl-nvidia
 opencollada
 opencolorio
