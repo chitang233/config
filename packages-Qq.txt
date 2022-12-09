@@ -30,7 +30,6 @@ alsa-ucm-conf
 amtk
 analitza
 android-sdk-platform-tools
-android-tools
 android-udev
 aom
 appmenu-gtk-module
@@ -1040,11 +1039,13 @@ libmatroska
 libmaxminddb
 libmbim
 libmd
+libmediainfo
 libmfx
 libmgba
 libmicrodns
 libmikmod
 libmm-glib
+libmms
 libmng
 libmnl
 libmodplug
@@ -1270,6 +1271,7 @@ libxvmc
 libxxf86vm
 libyaml
 libyuv
+libzen
 libzip
 libzmf
 licenses
@@ -1332,6 +1334,7 @@ md4c
 mda.lv2
 mdadm
 media-player-info
+mediainfo
 mesa
 mesa-utils
 meson
@@ -1427,6 +1430,7 @@ openimagedenoise
 openimageio
 openjpeg2
 openmpi
+openpgl
 openpmix
 openshadinglanguage
 openssh
@@ -1995,6 +1999,7 @@ threadweaver
 tigervnc
 timeshift
 tinyxml
+tinyxml2
 tk
 tmux
 tor-browser
