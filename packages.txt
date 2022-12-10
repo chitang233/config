@@ -131,7 +131,7 @@ chafa 1.12.4-1
 chromaprint 1.5.1-5
 chrpath 0.16-4
 cifs-utils 7.0-1
-citra-canary-git 1:2330.r0.gbf469e328-1
+citra-canary-git 1:2331.r0.g5b9d12672-1
 clang 14.0.6-4
 clash-meta-bin 1.13.2-1
 cloudflared 2022.11.1-1
@@ -177,7 +177,7 @@ dhcpcd 9.4.1-1
 dialog 1:1.3_20220728-1
 diffutils 3.8-1
 dingtalk-bin 1.4.0.20909-2
-discord 0.0.21-2
+discord 0.0.22-1
 discount 2.2.7.b-1
 discover 5.26.4-1
 discover-overlay 0.6.3-1
@@ -1404,7 +1404,7 @@ nvidia-dkms 520.56.06-2
 nvidia-prime 1.0-4
 nvidia-settings 520.56.06-1
 nvidia-utils 520.56.06-2
-nvidia-vaapi-driver-git 0.0.7.r37.g3016067-1
+nvidia-vaapi-driver-git 0.0.7.r37.g3016067-2
 nvtop 3.0.1-1
 nx-x11 3.5.99.26-1
 nxagent 3.5.99.26-1
@@ -1427,7 +1427,7 @@ opencolorio 2.2.0-2
 opencore-amr 0.1.6-1
 openexr 3.1.5-1
 openimagedenoise 1.4.3-1
-openimageio 2.4.6.0-1
+openimageio 2.4.6.1-1
 openjpeg2 2.5.0-1
 openmpi 4.1.4-4
 openpgl 0.4.1beta-1
@@ -1862,7 +1862,7 @@ rlwrap 0.46.1-1
 rnnoise 0.4.1-1
 rocs 22.12.0-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.25.14442.809e880bd1-1
+rpcs3-git 0.0.25.14445.1cc3e6e510-1
 rsync 3.2.7-2
 rtkit 0.13-2
 rtmpdump 1:2.4.r99.f1b83c1-2
@@ -2221,7 +2221,7 @@ yubikey-personalization 1.20.0-3
 yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.0-1
 yubioath-desktop 5.1.0-3
-yuzu-early-access 3198-1
+yuzu-early-access 3200-1
 zam-plugins 3.14-1
 zanshin 22.12.0-1
 zbar 0.23.90-1
