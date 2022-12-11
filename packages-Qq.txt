@@ -22,6 +22,7 @@ akonadi-search
 akonadiconsole
 akregator
 alembic
+alist-bin
 alsa-card-profiles
 alsa-lib
 alsa-plugins
@@ -31,6 +32,7 @@ amtk
 analitza
 android-sdk-platform-tools
 android-udev
+antimicrox
 aom
 appmenu-gtk-module
 appstream
@@ -125,7 +127,7 @@ catimg
 cblas
 ccid
 cdparanoia
-cemu
+cemu-git
 cervisia
 cfitsio
 chafa
@@ -157,6 +159,7 @@ cpupower-gui
 cracklib
 cronie
 cryptsetup
+cubeb-git
 cuda
 cuda-tools
 cudnn
@@ -164,6 +167,7 @@ cups
 cups-filters
 curl
 cython
+datagrip
 dav1d
 db
 dbus
@@ -181,6 +185,7 @@ dialog
 diffutils
 dingtalk-bin
 discord
+discord-rpc-git
 discount
 discover
 discover-overlay
@@ -470,6 +475,7 @@ java-runtime-common
 jbig2dec
 jemalloc
 jfsutils
+joyutils
 jp2a
 jq
 json-c
@@ -1371,6 +1377,7 @@ mtdev
 mtools
 mujs
 multipath-tools
+music-you-git
 mypaint-brushes1
 ncompress
 ncurses
@@ -1671,6 +1678,7 @@ python-pycparser
 python-pycryptodome
 python-pydantic
 python-pygments
+python-pynput
 python-pyopenssl
 python-pyotherside
 python-pyparsing
@@ -1811,6 +1819,7 @@ qrencode
 qt-gstreamer
 qt5-base
 qt5-declarative
+qt5-gamepad
 qt5-graphicaleffects
 qt5-location
 qt5-multimedia
@@ -1873,6 +1882,7 @@ rtmpdump
 rubberband
 run-parts
 runc
+rustdesk-bin
 ryujinx-git
 samba
 sane
@@ -2134,7 +2144,6 @@ xf86-video-amdgpu
 xf86-video-ati
 xf86-video-dummy
 xf86-video-fbdev
-xf86-video-intel
 xf86-video-nouveau
 xf86-video-openchrome
 xf86-video-qxl
@@ -2229,6 +2238,7 @@ yubioath-desktop
 yuzu-early-access
 zam-plugins
 zanshin
+zarchive-git
 zbar
 zenity
 zeromq
