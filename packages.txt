@@ -1281,8 +1281,8 @@ lilv 0.24.20-1
 linux-api-headers 5.18.15-1
 linux-firmware 20221109.60310c2-2
 linux-firmware-whence 20221109.60310c2-2
-linux-zen 6.0.11.zen1-1
-linux-zen-headers 6.0.11.zen1-1
+linux-zen 6.0.12.zen1-1
+linux-zen-headers 6.0.12.zen1-1
 linuxqq-nt-bwrap 2.0.1_b1-2
 lirc 1:0.10.2-1
 live-media 2022.12.01-1
@@ -1406,7 +1406,7 @@ nvidia-dkms 520.56.06-2
 nvidia-prime 1.0-4
 nvidia-settings 520.56.06-1
 nvidia-utils 520.56.06-2
-nvidia-vaapi-driver-git 0.0.7.r37.g3016067-2
+nvidia-vaapi-driver-git 0.0.7.r40.g4029d45-1
 nvtop 3.0.1-1
 nx-x11 3.5.99.26-1
 nxagent 3.5.99.26-1
@@ -1421,7 +1421,7 @@ openage-git 0.4.1.r810.g35064788d-1
 openal 1.22.2-1
 openbabel 3.1.1-5
 openbsd-netcat 1.219_1-1
-opencc 1.1.4-1
+opencc 1.1.5-1
 opencl-headers 2:2022.05.18-1
 opencl-nvidia 520.56.06-2
 opencollada 1:1.6.68-3
@@ -1864,7 +1864,7 @@ rlwrap 0.46.1-1
 rnnoise 0.4.1-1
 rocs 22.12.0-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.25.14445.1cc3e6e510-1
+rpcs3-git 0.0.25.14452.8399516475-1
 rsync 3.2.7-2
 rtkit 0.13-2
 rtmpdump 1:2.4.r99.f1b83c1-2
@@ -2135,9 +2135,9 @@ xf86-video-intel 1:2.99.917+916+g31486f40-2
 xf86-video-nouveau 1.0.17-2
 xf86-video-openchrome 0.6.0.r798.g0c75274-1
 xf86-video-qxl 0.1.5.r23.g52e9752-2
-xf86-video-vesa 2.5.0-3
+xf86-video-vesa 2.6.0-1
 xf86-video-vmware 13.3.0-4
-xf86-video-voodoo 1.2.5-12
+xf86-video-voodoo 1.2.6-1
 xfsprogs 6.0.0-1
 xkeyboard-config 2.37-1
 xmlsec 1.2.37-1
