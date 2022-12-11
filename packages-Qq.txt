@@ -125,6 +125,7 @@ catimg
 cblas
 ccid
 cdparanoia
+cemu
 cervisia
 cfitsio
 chafa
@@ -1468,6 +1469,7 @@ partitionmanager
 paru
 pass
 patch
+patchelf
 pcaudiolib
 pciutils
 pcre
@@ -2077,13 +2079,14 @@ webkit2gtk-4.1
 webrtc-audio-processing
 weechat
 weechat-matrix
+wemeet-bin
 weston
 wget
 which
 wildmidi
-wine
 wine-gecko
 wine-mono
+wine-staging
 winetricks
 wireless_tools
 wireplumber
