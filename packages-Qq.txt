@@ -1223,6 +1223,7 @@ libutf8proc
 libuv
 libva
 libva-mesa-driver
+libva-utils
 libvdpau
 libverto
 libvirt
@@ -2064,6 +2065,7 @@ v4l2loopback-utils
 vamp-plugin-sdk
 vcdimager
 vde2
+vdpauinfo
 ventoy-bin
 vid.stab
 vim
