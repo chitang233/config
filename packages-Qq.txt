@@ -126,6 +126,7 @@ cantor
 capstone
 catimg
 cblas
+cbonsai
 ccid
 cdparanoia
 cemu-git
@@ -1897,6 +1898,7 @@ ryujinx-git
 samba
 sane
 sbc
+scdoc
 scour
 scrcpy
 sddm
