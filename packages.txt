@@ -137,7 +137,7 @@ chaotic-mirrorlist 20221008-2
 chromaprint 1.5.1-5
 chrpath 0.16-4
 cifs-utils 7.0-1
-citra-canary-git 1:2332.r0.gdb0a13ddc-1
+citra-canary-git 1:2333.r0.g21447152b-1
 cjson 1.7.15-1
 clang 14.0.6-4
 clash-meta-bin 1.13.2-1
@@ -1423,7 +1423,7 @@ nvidia-dkms 525.60.11-1
 nvidia-prime 1.0-4
 nvidia-settings 525.60.11-2
 nvidia-utils 525.60.11-1
-nvidia-vaapi-driver-git 0.0.7.r40.g4029d45-1
+nvidia-vaapi-driver-git 0.0.7.r42.ge2d256e-1
 nvtop 3.0.1-1
 nx-x11 3.5.99.26-1
 nxagent 3.5.99.26-1
@@ -1885,7 +1885,7 @@ rlwrap 0.46.1-1
 rnnoise 0.4.1-1
 rocs 22.12.0-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.25.14465.26021e11f7-1
+rpcs3-git 0.0.25.14469.45bd0d1f25-1
 rsync 3.2.7-2
 rtkit 0.13-2
 rtmpdump 1:2.4.r99.f1b83c1-2
@@ -2246,7 +2246,7 @@ yubikey-personalization 1.20.0-3
 yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.0-1
 yubioath-desktop 5.1.0-3
-yuzu-early-access 3204-1
+yuzu-early-access 3206-1
 zam-plugins 3.14-1
 zanshin 22.12.0-1
 zarchive-git 0.1.2.r0.gd2c7177-2
