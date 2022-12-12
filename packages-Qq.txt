@@ -64,6 +64,7 @@ autoconf
 autoconf-archive
 automake
 avahi
+avisynthplus
 avogadro-crystals
 avogadro-molecules
 avogadrolibs
@@ -137,6 +138,7 @@ chromaprint
 chrpath
 cifs-utils
 citra-canary-git
+cjson
 clang
 clash-meta-bin
 cloudflared
@@ -269,7 +271,7 @@ fcitx5-qt
 fd
 feh
 ffcall
-ffmpeg
+ffmpeg-obs
 ffmpeg4.4
 ffmpegthumbs
 fftw
@@ -297,6 +299,7 @@ freetype2
 frei0r-plugins
 fribidi
 ftgl
+ftl-sdk
 fuse-common
 fuse-emulator
 fuse2
@@ -712,6 +715,7 @@ kwordquiz
 kwrited
 kxmlgui
 l-smash
+ladspa
 lame
 lapack
 latte-dock
@@ -891,6 +895,7 @@ libaccounts-qt
 libadwaita
 libaec
 libaio
+libajantv2
 libakonadi
 libappindicator-gtk3
 libarchive
@@ -1158,6 +1163,7 @@ libretro-snes9x
 libretro-yabause
 librevenge
 librewolf
+librist
 librsvg
 librtmp0
 libsamplerate
@@ -1216,6 +1222,7 @@ libutempter
 libutf8proc
 libuv
 libva
+libva-mesa-driver
 libvdpau
 libverto
 libvirt
@@ -1306,6 +1313,7 @@ lsof
 lsp-plugins
 lua
 lua51
+lua51-socket
 lua52
 lua53
 luajit
@@ -1419,6 +1427,7 @@ nvtop
 nx-x11
 nxagent
 nyan-lang-git
+obs-studio-browser
 ocl-icd
 okular
 onefetch
@@ -2069,7 +2078,7 @@ virtualbox-host-dkms
 visual-studio-code-bin
 vkbasalt
 vkd3d
-vlc
+vlc-luajit
 vmaf
 volume_key
 vte-common
