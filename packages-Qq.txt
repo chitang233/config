@@ -1704,6 +1704,7 @@ python-prompt_toolkit
 python-psutil
 python-ptyprocess
 python-pure-eval
+python-pyaudio
 python-pyclibrary
 python-pycparser
 python-pycryptodome
@@ -1727,6 +1728,7 @@ python-rapidfuzz
 python-rencode
 python-requests
 python-rst.linker
+python-scipy
 python-secretstorage
 python-setuptools
 python-setuptools-scm
@@ -1848,6 +1850,7 @@ qhull
 qpdf
 qqc2-desktop-style
 qrencode
+qsstv
 qt-gstreamer
 qt5-base
 qt5-declarative
