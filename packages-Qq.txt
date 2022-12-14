@@ -70,6 +70,7 @@ avogadro-molecules
 avogadrolibs
 avogadrolibs-qt5
 axel
+ayatana-ido
 babl
 baloo
 baloo-widgets
@@ -80,6 +81,7 @@ bash-completion
 bash2048
 bashtop
 bat
+bbdown-bin
 bc
 betterdiscord-installer
 betterdiscordctl-git
@@ -209,6 +211,7 @@ dolphin
 dolphin-emu
 dolphin-plugins
 dosfstools
+dotconf
 dotnet-host
 dotnet-runtime
 double-conversion
@@ -281,6 +284,7 @@ filelight
 filesystem
 findutils
 firefox-appmenu
+firefox-nightly
 firefox-pwa
 flac
 flashrom
@@ -898,6 +902,7 @@ libaec
 libaio
 libajantv2
 libakonadi
+libao
 libappindicator-gtk3
 libarchive
 libass
@@ -908,6 +913,8 @@ libatomic_ops
 libavc1394
 libavif
 libavtp
+libayatana-appindicator
+libayatana-indicator
 libb2
 libblockdev
 libbluray
@@ -1948,6 +1955,7 @@ spandsp
 spatialindex
 spdlog
 spectacle
+speech-dispatcher
 speex
 speexdsp
 spglib
@@ -2231,6 +2239,7 @@ xterm
 xvidcore
 xxhash
 xz
+yacd-tauri
 yajl
 yakuake
 yaml-cpp
