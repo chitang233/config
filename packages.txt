@@ -41,7 +41,7 @@ appstream-qt 0.15.5-1
 archlinux-appstream-data 20221210-1
 archlinux-keyring 20221123-1
 archlinuxcn-keyring 20220716-1
-ardour 7.1-1
+ardour 7.2-1
 argon2 20190702-4
 aria2 1.36.0-1
 aribb24 1.0.3-3
@@ -81,7 +81,7 @@ bash2048 1.0-1
 bashtop 0.9.25-1
 bat 0.22.1-1
 bc 1.07.1-4
-betterdiscord-installer 1.1.2-2
+betterdiscord-installer 1.2.0-1
 betterdiscordctl-git 2.0.1.r2.g49a26fe-1.1
 bind 9.18.9-1
 binutils 2.39-4
@@ -114,7 +114,7 @@ bubblewrap 0.7.0-1
 bzip2 1.0.8-5
 c-ares 1.18.1-1
 ca-certificates 20220905-1
-ca-certificates-mozilla 3.85-1
+ca-certificates-mozilla 3.86-1
 ca-certificates-utils 20220905-1
 cabextract 1.9.1-2
 cairo 1.17.6-2
@@ -138,7 +138,7 @@ chaotic-mirrorlist 20221008-2
 chromaprint 1.5.1-5
 chrpath 0.16-4
 cifs-utils 7.0-1
-citra-canary-git 1:2333.r0.g21447152b-1
+citra-canary-git 1:2334.r0.ga1159c081-1
 cjson 1.7.15-1
 clang 14.0.6-4
 clash-meta-bin 1.13.2-1
@@ -162,7 +162,7 @@ cpupower-gui 1.0.0-5.1
 cracklib 2.9.8-1
 cronie 1.6.1-1
 cryptsetup 2.6.0-1
-cubeb-git 0.2.r1411.gf4b583c-1
+cubeb-git 0.2.r1413.ge4da2d4-1
 cuda 11.8.0-1
 cuda-tools 11.8.0-1
 cudnn 8.6.0.163-1
@@ -280,7 +280,7 @@ file 5.43-1
 filelight 22.12.0-1
 filesystem 2022.10.18-1
 findutils 4.9.0-1
-firefox-appmenu 107.0.1-1
+firefox-appmenu 107.0.1-2
 firefox-pwa 2.2.0-1
 flac 1.4.2-1
 flashrom 1.2-4
@@ -856,7 +856,7 @@ lib32-mpg123 1.31.1-1
 lib32-ncurses 6.3-1
 lib32-nettle 3.8.1-1
 lib32-nspr 4.35-1
-lib32-nss 3.85-1
+lib32-nss 3.86-1
 lib32-nvidia-utils 525.60.11-1
 lib32-openal 1.22.2-1
 lib32-opencl-nvidia 525.60.11-1
@@ -973,6 +973,7 @@ libftdi 1.5-4
 libgcrypt 1.10.1-2
 libgcrypt15 1.5.6-6
 libgdata 0.18.1-2
+libgdiplus 5.6.1-3
 libgee 0.20.6-1
 libgexiv2 0.14.0-3
 libgig 4.3.0-3
@@ -1190,7 +1191,7 @@ libspectre 0.2.11-1
 libspectrum 1.5.0-1
 libspeechd 0.11.4-1
 libspiro 1:20221101-1
-libspnav 1.0-1
+libspnav 1.1-1
 libsrtp 1:2.4.2-1
 libssh 0.10.4-3
 libssh2 1.10.0-3
@@ -1379,6 +1380,7 @@ molequeue 0.9.0-2
 mongodb-bin 6.0.3-1
 mongodb-tools-bin 100.6.1-2
 mongosh-bin 1.6.1-1
+mono 6.12.0.177-1
 mpfr 4.1.1.p1-1
 mpg123 1.31.1-1
 mplayer 38407-1
@@ -1417,7 +1419,7 @@ noto-fonts-extra 20220810-1
 npm 8.19.2-1
 npth 1.6-3
 nspr 4.35-1
-nss 3.85-1
+nss 3.86-1
 ntfs-3g 2022.10.3-1
 numactl 2.0.16-1
 nvidia-dkms 525.60.11-1
@@ -1724,7 +1726,7 @@ python-sphinxcontrib-serializinghtml 1.1.5-4
 python-stack-data 0.6.2-1
 python-toml 0.10.2-8
 python-tomli 2.0.1-1
-python-traitlets 5.7.0-1
+python-traitlets 5.7.1-1
 python-trove-classifiers 2022.12.1-1
 python-twisted 22.10.0-1
 python-typing_extensions 4.4.0-1
@@ -1886,7 +1888,7 @@ rlwrap 0.46.1-1
 rnnoise 0.4.1-1
 rocs 22.12.0-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.25.14471.e2c1547d95-1
+rpcs3-git 0.0.25.14474.18b7955384-1
 rsync 3.2.7-2
 rtkit 0.13-2
 rtmpdump 1:2.4.r99.f1b83c1-2
@@ -1957,7 +1959,7 @@ sqlite 3.40.0-2
 sratom 0.6.14-1
 srt 1.5.1-3
 sshfs 3.7.3-1
-starship 1.11.0-1
+starship 1.12.0-1
 startup-notification 0.12-7
 steam 1.0.0.75-1
 steam-native-runtime 1.0.0.75-1
@@ -2080,7 +2082,7 @@ virtualbox-ext-oracle 7.0.4-1
 virtualbox-guest-iso 7.0.4-1
 virtualbox-host-dkms 7.0.4-1
 visual-studio-code-bin 1.74.0-1
-vkbasalt 0.3.2.6-2
+vkbasalt 0.3.2.7-1
 vkd3d 1.5-1
 vlc-luajit 3.0.18-2
 vmaf 2.3.1-1
@@ -2139,7 +2141,7 @@ xcb-util-wm 0.4.2-1
 xclip 0.13-3
 xdelta3 3.1.0-3
 xdg-dbus-proxy 0.1.4-1
-xdg-desktop-portal 1.15.0-1
+xdg-desktop-portal 1.16.0-1
 xdg-desktop-portal-gnome 43.1-1
 xdg-desktop-portal-gtk 1.14.1-1
 xdg-desktop-portal-kde 5.26.4-1
@@ -2199,7 +2201,7 @@ xorg-xdpyinfo 1.3.3-4
 xorg-xdriinfo 1.0.6-3
 xorg-xev 1.2.5-1
 xorg-xgamma 1.0.7-1
-xorg-xhost 1.0.8-3
+xorg-xhost 1.0.9-1
 xorg-xinit 1.4.2-1
 xorg-xinput 1.6.3-3
 xorg-xkbcomp 1.4.6-1
@@ -2248,7 +2250,7 @@ yubikey-personalization 1.20.0-3
 yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.0-1
 yubioath-desktop 5.1.0-3
-yuzu-early-access 3207-1
+yuzu-early-access 3211-1
 zam-plugins 3.14-1
 zanshin 22.12.0-1
 zarchive-git 0.1.2.r0.gd2c7177-2

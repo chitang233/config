@@ -973,6 +973,7 @@ libftdi
 libgcrypt
 libgcrypt15
 libgdata
+libgdiplus
 libgee
 libgexiv2
 libgig
@@ -1379,6 +1380,7 @@ molequeue
 mongodb-bin
 mongodb-tools-bin
 mongosh-bin
+mono
 mpfr
 mpg123
 mplayer
