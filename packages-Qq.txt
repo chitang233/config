@@ -303,6 +303,7 @@ freerdp
 freetype2
 frei0r-plugins
 fribidi
+frpc
 ftgl
 ftl-sdk
 fuse-common
@@ -434,6 +435,7 @@ gvfs-nfs
 gvfs-smb
 gwenview
 gzip
+hamlib
 handbrake
 handbrake-cli
 harfbuzz
@@ -1012,6 +1014,7 @@ libieee1284
 libimagequant
 libime
 libimobiledevice
+libindi
 libindicator-gtk2
 libindicator-gtk3
 libinih
@@ -1094,6 +1097,7 @@ libnice
 libnl
 libnm
 libnotify
+libnova
 libnsl
 libnumbertext
 libodfgen
@@ -1219,6 +1223,7 @@ libtommath
 libtool
 libtpms
 libudev0-shim
+libuhd
 libunistring
 libunwind
 libupnp
@@ -1310,6 +1315,7 @@ linux-zen-headers
 linuxqq-nt-bwrap
 lirc
 live-media
+lldb
 llvm-libs
 lm_sensors
 lmdb
@@ -1620,6 +1626,7 @@ python-cffi
 python-chardet
 python-charset-normalizer
 python-click
+python-configargparse
 python-constantly
 python-contourpy
 python-cryptography
@@ -1636,6 +1643,7 @@ python-fido2
 python-fonttools
 python-frozenlist
 python-future
+python-fuzzywuzzy
 python-glfw
 python-gobject
 python-graphviz
@@ -1656,12 +1664,14 @@ python-jaraco.context
 python-jaraco.functools
 python-jaraco.packaging
 python-jaraco.text
+python-jarowinkler
 python-jedi
 python-jeepney
 python-jinja
 python-jsonschema
 python-keyring
 python-kiwisolver
+python-levenshtein
 python-logbook
 python-lxml
 python-lz4
@@ -1687,6 +1697,7 @@ python-pep517
 python-pexpect
 python-pickleshare
 python-pillow
+python-pip
 python-ply
 python-polib
 python-prompt_toolkit
@@ -1712,6 +1723,7 @@ python-pytz
 python-pyusb
 python-pyxdg
 python-qtpy
+python-rapidfuzz
 python-rencode
 python-requests
 python-rst.linker
@@ -1898,11 +1910,13 @@ rpcbind
 rpcs3-git
 rsync
 rtkit
+rtl-sdr
 rtmpdump
 rubberband
 run-parts
 runc
 rustdesk-bin
+rustup
 ryujinx-git
 samba
 sane
@@ -2023,6 +2037,7 @@ telepathy-logger-qt
 telepathy-mission-control
 telepathy-qt
 tepl
+termius
 tesseract
 tesseract-data-afr
 tesseract-data-osd
@@ -2259,6 +2274,7 @@ yubikey-personalization
 yubikey-personalization-gui
 yubikey-touch-detector
 yubioath-desktop
+yubioath-krunner
 yuzu-early-access
 zam-plugins
 zanshin
