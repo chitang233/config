@@ -81,7 +81,6 @@ bash-completion
 bash2048
 bashtop
 bat
-bbdown-bin
 bc
 betterdiscord-installer
 betterdiscordctl-git
@@ -175,6 +174,7 @@ cython
 datagrip
 dav1d
 db
+db5.3
 dbus
 dbus-glib
 dbus-python
