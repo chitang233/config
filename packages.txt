@@ -145,7 +145,9 @@ clang 14.0.6-4
 clash-meta-bin 1.13.2-1
 cloudflared 2022.11.1-1
 clucene 2.3.3.4-12
+clutter 1.26.4-2
 cmake 3.25.1-1
+cogl 1.22.8-2
 colord 1.4.6-1
 compiler-rt 14.0.6-1
 compsize 1.5-1
@@ -169,6 +171,8 @@ cuda-tools 11.8.0-1
 cudnn 8.6.0.163-1
 cups 1:2.4.2-3
 cups-filters 1.28.16-2
+cups-pdf 3.0.1-7
+cups-pk-helper 0.2.7-1
 curl 7.86.0-4
 cython 0.29.32-2
 datagrip 2022.3.1-1
@@ -283,7 +287,7 @@ file 5.43-1
 filelight 22.12.0-1
 filesystem 2022.10.18-1
 findutils 4.9.0-1
-firefox-appmenu 107.0.1-2
+firefox-appmenu 107.0.1-3
 firefox-nightly 110.0a1+20221216.1+h440856ffde51-1
 firefox-pwa 2.2.0-1
 flac 1.4.2-1
@@ -295,9 +299,14 @@ fluidsynth 2.3.0-2
 fmt 9.1.0-2
 fontconfig 2:2.14.1-2
 fonts-cjk-sc-opposans 1.0.2-2
+foomatic-db 3:20221004-1
+foomatic-db-gutenprint-ppds 5.3.4-2
+foomatic-db-nonfree 3:20221004-1
+foomatic-db-nonfree-ppds 3:20221004-1
+foomatic-db-ppds 3:20221004-1
 frameworkintegration 5.101.0-1
 freecell-solver 6.8.0-1
-freeciv 3.0.4-1
+freeciv 3.0.5-1
 freeglut 3.4.0-1
 freerdp 2:2.9.0-1
 freetype2 2.12.1-1
@@ -464,6 +473,7 @@ imath 3.1.6-1
 imlib2 1.9.1-2
 incidenceeditor 22.12.0-1
 iniparser 4.1-4
+ink 0.5.3-1
 inkscape 1.2.2-2
 innoextract 1.9-7
 intel-gmmlib 22.1.4-2
@@ -803,7 +813,7 @@ lib32-libltdl 2.4.7-2
 lib32-libmikmod 3.3.11.1-6
 lib32-libmodplug 0.8.9.0-4
 lib32-libnl 3.7.0-1
-lib32-libnm 1.40.6-1
+lib32-libnm 1.40.8-1
 lib32-libnsl 2.0.0-1
 lib32-libogg 1.3.5-1
 lib32-libpcap 1.10.1-1
@@ -1019,6 +1029,7 @@ libindi 1.9.9-1
 libindicator-gtk2 12.10.1-10
 libindicator-gtk3 12.10.1-10
 libinih 56-1
+libinklevel 0.9.3-2
 libinput 1.22.0-1
 libinstpatch 1.1.6-1
 libiscsi 1.19.0-2
@@ -1096,7 +1107,7 @@ libnftnl 1.2.4-1
 libnghttp2 1.51.0-1
 libnice 0.1.19-1
 libnl 3.7.0-1
-libnm 1.40.6-1
+libnm 1.40.8-1
 libnotify 0.8.1-1
 libnova 0.15.0-3
 libnsl 2.0.0-2
@@ -1263,7 +1274,7 @@ libwpe 1.14.0-1
 libwpg 0.3.3-4
 libwps 0.4.13-1
 libwrap 7.6.31-4
-libx11 1.8.2-2
+libx11 1.8.3-1
 libxau 1.0.11-1
 libxaw 1.0.14-1
 libxcb 1.15-2
@@ -1417,7 +1428,7 @@ net-snmp 5.9.1-5
 nethack 3.6.6-4
 netpbm 10.73.41-1
 nettle 3.8.1-1
-networkmanager 1.40.6-1
+networkmanager 1.40.8-1
 networkmanager-qt 5.101.0-1
 nftables 1:1.0.5-1
 nilfs-utils 2.2.9-1
@@ -1425,7 +1436,7 @@ ninja 1.11.1-2
 nitrogen 1.6.1-4
 nnn 4.7-1
 node-gyp 9.3.0-1
-nodejs 19.2.0-1
+nodejs 19.3.0-1
 nodejs-nopt 7.0.0-1
 noto-fonts 20220810-1
 noto-fonts-cjk 20220126-1
@@ -1435,6 +1446,7 @@ npm 8.19.2-1
 npth 1.6-3
 nspr 4.35-1
 nss 3.86-1
+nss-mdns 0.15.1-1
 ntfs-3g 2022.10.3-1
 numactl 2.0.16-1
 nvidia-dkms 525.60.11-1
@@ -1566,6 +1578,7 @@ plasma-sdk 5.26.4-1
 plasma-systemmonitor 5.26.4-1
 plasma-thunderbolt 5.26.4-1
 plasma-vault 5.26.4-1
+plasma-wayland-session 5.26.4.1-1
 plasma-workspace 5.26.4.1-1
 plasma-workspace-wallpapers 5.26.4-1
 pnpm 7.18.2-1
@@ -1696,7 +1709,7 @@ python-matrix-nio 0.20.0-1
 python-mitmproxy-wireguard 0.1.19-1
 python-more-itertools 9.0.0-1
 python-msgpack 1.0.4-1
-python-multidict 6.0.3-1
+python-multidict 6.0.3-2
 python-mutagen 1.46.0-1
 python-netifaces 0.11.0-3
 python-nose 1.3.7-14
@@ -1727,6 +1740,7 @@ python-pyaudio 0.2.12-1
 python-pyclibrary 0.2.1-1
 python-pycparser 2.21-3
 python-pycryptodome 3.16.0-1
+python-pycups 2.0.1-5
 python-pycurl 7.45.1-2
 python-pydantic 1.10.2-1
 python-pygments 2.13.0-1
@@ -1740,6 +1754,7 @@ python-pyqt5 5.15.7-3
 python-pyqt5-sip 12.11.0-1
 python-pyrsistent 0.19.2-1
 python-pyscard 2.0.5-1
+python-pysmbc 1.0.23-3
 python-python-socks 2.0.3-2
 python-pytz 2022.6-1
 python-pyusb 1.2.1-3
@@ -1950,8 +1965,8 @@ run-parts 5.5-1
 runc 1.1.4-1
 rustdesk-bin 1.1.9-3
 rustup 1.25.1-2
-ryujinx-git r2462.1a1d33a018-1
-samba 4.17.3-1
+ryujinx-git r2464.ec4cd57ccf-1
+samba 4.17.4-1
 sane 1.1.1-1
 sbc 2.0-1
 scdoc 1.11.2-4
@@ -1986,7 +2001,7 @@ skanlite 22.12.0-1
 skanpage 22.12.0-1
 slang 2.3.3-1
 smartmontools 7.3-1
-smbclient 4.17.3-1
+smbclient 4.17.4-1
 snapper 0.10.3-1
 snappy 1.1.9-2
 sndio 1.9.0-1
@@ -2037,6 +2052,7 @@ syndication 5.101.0-1
 syntax-highlighting 5.101.0-1
 sysfsutils 2.1.1-1
 sysstat 12.7.1-1
+system-config-printer 1.5.18-1
 systemd 252.3-1
 systemd-libs 252.3-1
 systemd-sysvcompat 252.3-1
@@ -2109,7 +2125,7 @@ udftools 2.3-1
 udisks2 2.9.4-1
 umbrello 22.12.0-1
 unace 2.5-11
-ungoogled-chromium 108.0.5359.98-2
+ungoogled-chromium 108.0.5359.124-1
 unrar 1:6.2.2-1
 unzip 6.0-19
 upower 1.90.0-1
@@ -2160,7 +2176,7 @@ webkit2gtk-4.1 2.38.2-2
 webrtc-audio-processing 0.3.1-3
 weechat 3.7.1-2
 weechat-matrix 0.3.0-8
-wemeet-bin 3.12.0.400-3
+wemeet-bin 3.12.0.400-4
 weston 11.0.0-1
 wget 1.21.3-1
 which 2.21-5

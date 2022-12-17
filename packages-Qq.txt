@@ -145,7 +145,9 @@ clang
 clash-meta-bin
 cloudflared
 clucene
+clutter
 cmake
+cogl
 colord
 compiler-rt
 compsize
@@ -169,6 +171,8 @@ cuda-tools
 cudnn
 cups
 cups-filters
+cups-pdf
+cups-pk-helper
 curl
 cython
 datagrip
@@ -295,6 +299,11 @@ fluidsynth
 fmt
 fontconfig
 fonts-cjk-sc-opposans
+foomatic-db
+foomatic-db-gutenprint-ppds
+foomatic-db-nonfree
+foomatic-db-nonfree-ppds
+foomatic-db-ppds
 frameworkintegration
 freecell-solver
 freeciv
@@ -464,6 +473,7 @@ imath
 imlib2
 incidenceeditor
 iniparser
+ink
 inkscape
 innoextract
 intel-gmmlib
@@ -1019,6 +1029,7 @@ libindi
 libindicator-gtk2
 libindicator-gtk3
 libinih
+libinklevel
 libinput
 libinstpatch
 libiscsi
@@ -1435,6 +1446,7 @@ npm
 npth
 nspr
 nss
+nss-mdns
 ntfs-3g
 numactl
 nvidia-dkms
@@ -1566,6 +1578,7 @@ plasma-sdk
 plasma-systemmonitor
 plasma-thunderbolt
 plasma-vault
+plasma-wayland-session
 plasma-workspace
 plasma-workspace-wallpapers
 pnpm
@@ -1727,6 +1740,7 @@ python-pyaudio
 python-pyclibrary
 python-pycparser
 python-pycryptodome
+python-pycups
 python-pycurl
 python-pydantic
 python-pygments
@@ -1740,6 +1754,7 @@ python-pyqt5
 python-pyqt5-sip
 python-pyrsistent
 python-pyscard
+python-pysmbc
 python-python-socks
 python-pytz
 python-pyusb
@@ -2037,6 +2052,7 @@ syndication
 syntax-highlighting
 sysfsutils
 sysstat
+system-config-printer
 systemd
 systemd-libs
 systemd-sysvcompat
