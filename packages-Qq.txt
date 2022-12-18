@@ -1630,8 +1630,10 @@ pyside2
 pystring
 python
 python-aiofiles
+python-aiogram
 python-aiohttp
 python-aiohttp-socks
+python-aioredis
 python-aiosignal
 python-anytree
 python-appdirs
@@ -1669,6 +1671,7 @@ python-decorator
 python-distro
 python-docutils
 python-dotenv
+python-emoji
 python-evdev
 python-executing
 python-fastpbkdf2
@@ -1683,6 +1686,7 @@ python-gobject
 python-graphviz
 python-h11
 python-h2
+python-hiredis
 python-hpack
 python-html5lib
 python-hyperframe
@@ -1740,6 +1744,7 @@ python-pillow
 python-pip
 python-ply
 python-polib
+python-prettytable
 python-prompt_toolkit
 python-protobuf
 python-psutil
@@ -1772,6 +1777,7 @@ python-pyusb
 python-pyxdg
 python-qtpy
 python-rapidfuzz
+python-rapidjson
 python-rencode
 python-requests
 python-rst.linker
@@ -1803,9 +1809,11 @@ python-traitlets
 python-trove-classifiers
 python-twisted
 python-typing_extensions
+python-ujson
 python-unpaddedbase64
 python-urllib3
 python-urwid
+python-uvloop
 python-validate-pyproject
 python-wcwidth
 python-webcolors
@@ -2076,6 +2084,7 @@ talloc
 tar
 tbb
 tcl
+tcping
 tdb
 telegram-desktop-megumifox
 telepathy-accounts-signon
@@ -2126,6 +2135,7 @@ tslib
 ttf-arimo-nerd
 ttf-dejavu
 ttf-hack
+ttf-jetbrains-mono
 ttf-liberation
 ttf-material-design-icons
 ttf-material-design-icons-git
