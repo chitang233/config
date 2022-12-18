@@ -1240,6 +1240,7 @@ libtiger
 libtirpc
 libtommath
 libtool
+libtorrent-rasterbar
 libtpms
 libudev0-shim
 libuhd
@@ -1823,6 +1824,7 @@ python-zipp
 python-zope-interface
 python-zstandard
 python2
+qbittorrent-enhanced
 qca-qt5
 qemu-audio-alsa
 qemu-audio-dbus
@@ -2106,6 +2108,7 @@ texlive-bin
 texlive-core
 thin-provisioning-tools
 threadweaver
+thunderbird-appmenu
 tigervnc
 timeshift
 tinyxml
