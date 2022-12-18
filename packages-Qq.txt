@@ -161,6 +161,7 @@ copyq
 coreutils
 cpio
 cpu-g-git
+cpu-x
 cpupower-gui
 cracklib
 cronie
@@ -185,6 +186,7 @@ dbus-python
 dconf
 ddgr
 debugedit
+dee
 default-cursors
 desktop-file-utils
 desmume
@@ -209,6 +211,7 @@ docbook-xml
 docbook-xsl
 docker
 docker-buildx
+docker-compose
 docker-scan
 dog
 dolphin
@@ -352,6 +355,7 @@ git-completion
 git-credential-manager-core-bin
 git-crypt
 github-cli
+gjs
 glew
 glew1.10
 glfw-x11
@@ -456,6 +460,7 @@ helvum
 hicolor-icon-theme
 hidapi
 highway
+hmcl-bin
 htop
 http-parser
 hunspell
@@ -499,6 +504,7 @@ jfsutils
 joyutils
 jp2a
 jq
+js102
 json-c
 json-glib
 jsoncpp
@@ -949,6 +955,7 @@ libcdr
 libcerf
 libcloudproviders
 libcolord
+libcpuid
 libcups
 libcurl-compat
 libcurl-gnutls
@@ -1237,6 +1244,7 @@ libtpms
 libudev0-shim
 libuhd
 libunistring
+libunity
 libunwind
 libupnp
 liburcu
@@ -1386,6 +1394,7 @@ meson
 messagelib
 mgba-qt
 mgba-sdl
+microsoft-edge-stable-bin
 milou
 minetest
 minetest-common
@@ -1434,6 +1443,7 @@ nftables
 nilfs-utils
 ninja
 nitrogen
+nmap
 nnn
 node-gyp
 nodejs
@@ -2347,6 +2357,7 @@ zulu-18-bin
 zulu-19-bin
 zulu-8-bin
 zulu-jdk-fx-bin
+zulu-jre-fx-bin
 zvbi
 zxing-cpp
 zziplib
