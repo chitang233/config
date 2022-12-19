@@ -484,6 +484,7 @@ iniparser
 ink
 inkscape
 innoextract
+inotify-tools
 intel-gmmlib
 intel-media-driver
 intel-media-sdk
@@ -503,6 +504,9 @@ jasper
 java-environment-common
 java-runtime-common
 jbig2dec
+jdk11-graalvm-bin
+jdk19-graalvm-bin
+jdk8-graalvm-bin
 jemalloc
 jfsutils
 joyutils
@@ -1763,6 +1767,7 @@ python-logbook
 python-lxml
 python-lz4
 python-magic
+python-markdown
 python-markupsafe
 python-matplotlib
 python-matplotlib-inline
@@ -2489,7 +2494,6 @@ zulu-18-bin
 zulu-19-bin
 zulu-8-bin
 zulu-jdk-fx-bin
-zulu-jre-fx-bin
 zvbi
 zxing-cpp
 zziplib
