@@ -232,6 +232,7 @@ dragon
 drkonqi
 droidcam
 dtc
+dtkcommon
 duf
 duktape
 e2fsprogs
@@ -287,6 +288,7 @@ feh
 ffcall
 ffmpeg-obs
 ffmpeg4.4
+ffmpegthumbnailer
 ffmpegthumbs
 fftw
 file
@@ -314,6 +316,7 @@ frameworkintegration
 freecell-solver
 freeciv
 freeglut
+freeimage
 freerdp
 freetype2
 frei0r-plugins
@@ -412,6 +415,7 @@ groff
 grub
 grub-btrfs
 gsettings-desktop-schemas
+gsettings-qt
 gsfonts
 gsl
 gsm
@@ -526,6 +530,7 @@ jupyter-server-mathjax
 jupyterlab
 jupyterlab-widgets
 jupyterlab_pygments
+jxrlib
 k3b
 kaccounts-integration
 kaccounts-providers
@@ -1165,6 +1170,7 @@ libqaccessibilityclient
 libqalculate
 libqmi
 libqrtr-glib
+libqtxdg
 libqxp
 libraqm
 libraw
@@ -1363,6 +1369,7 @@ log4cplus
 lokalize
 lpsolve
 lsb-release
+lshw
 lskat
 lsof
 lsp-plugins
@@ -1507,6 +1514,7 @@ opencl-nvidia
 opencollada
 opencolorio
 opencore-amr
+opencv
 openexr
 openimagedenoise
 openimageio
@@ -1993,6 +2001,7 @@ qt5-base
 qt5-declarative
 qt5-gamepad
 qt5-graphicaleffects
+qt5-imageformats
 qt5-location
 qt5-multimedia
 qt5-networkauth
@@ -2248,6 +2257,7 @@ tk
 tmux
 tor-browser
 tpm2-tss
+traceroute
 tracker3
 translate-shell
 trash-cli
