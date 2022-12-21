@@ -214,6 +214,7 @@ docbook-xsl
 docker
 docker-buildx
 docker-compose
+docker-credential-pass-bin
 docker-machine
 docker-scan
 dog
