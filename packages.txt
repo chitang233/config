@@ -86,7 +86,7 @@ bat 0.22.1-1
 bc 1.07.1-4
 betterdiscord-installer 1.2.0-1
 betterdiscordctl-git 2.0.1.r2.g49a26fe-1.1
-bind 9.18.9-1
+bind 9.18.10-1
 binutils 2.39-4
 bison 3.8.2-4
 black-hole-solver 1.12.0-1
@@ -141,7 +141,7 @@ chaotic-mirrorlist 20221008-2
 chromaprint 1.5.1-6
 chrpath 0.16-4
 cifs-utils 7.0-2
-citra-canary-git 1:2342.r0.g3b092dc95-1
+citra-canary-git 1:2343.r0.gcef48915d-1
 cjson 1.7.15-1
 clang 14.0.6-4
 clash-meta-bin 1.13.2-1
@@ -178,7 +178,7 @@ cups-pdf 3.0.1-7
 cups-pk-helper 0.2.7-1
 curl 7.87.0-1
 cython 0.29.32-2
-datagrip 2022.3.1-1
+datagrip 2022.3.2-1
 dav1d 1.0.0-1
 db 6.2.32-1
 db5.3 5.3.28-2
@@ -219,7 +219,7 @@ docker-machine 0.16.2-5
 docker-scan 0.23.0-1
 dog 0.1.0-4
 dolphin 22.12.0-3
-dolphin-emu 1:5.0.r17995.8bad821019-1
+dolphin-emu 1:5.0.r17995.8bad821019-2
 dolphin-plugins 22.12.0-1
 dosfstools 4.2-2
 dotconf 1.3-6
@@ -237,7 +237,7 @@ dtkcommon 5.5.23-1
 duf 0.8.1-2
 duktape 2.7.0-4
 e2fsprogs 1.46.5-4
-easyeffects 7.0.0-1
+easyeffects 7.0.0-2
 ebook-tools 0.2.2-7
 editorconfig-core-c 0.12.5-1
 edk2-aarch64 202211-3
@@ -369,8 +369,8 @@ glfw-x11 3.3.8-1
 glhack 1.2-9
 glib-networking 1:2.74.0-1
 glib-perl 1.329.3-3
-glib2 2.74.3-1
-glib2-docs 2.74.3-1
+glib2 2.74.4-1
+glib2-docs 2.74.4-1
 glibc 2.36-6
 glibmm 2.66.5-1
 glibmm-2.68 2.74.0-1
@@ -396,7 +396,7 @@ gnuplot 5.4.5-1
 gnutls 3.7.8-4
 go 2:1.19.4-1
 gobject-introspection-runtime 1.74.0-1
-goverlay-bin 0.9.1-1
+goverlay-bin 0.9.1-2
 gpart 0.3-4
 gparted 1.4.0-1
 gperftools 2.10-1
@@ -475,7 +475,7 @@ hunspell 1.7.1-1
 hwdata 0.365-1
 hwloc 2.8.0-1
 hyphen 2.8.8-5
-iana-etc 20221107-1
+iana-etc 20221215-1
 icu 72.1-2
 icu69-bin 69.1-1
 id3lib 3.8.3-18
@@ -529,7 +529,7 @@ jupyter-notebook-shim 0.2.2-1
 jupyter-server 2.0.4-1
 jupyter-server-mathjax 0.2.6-1
 jupyterlab 3.5.2-1
-jupyterlab-widgets 3.0.4-1
+jupyterlab-widgets 3.0.5-1
 jupyterlab_pygments 0.2.2-1
 jxrlib 0.2.4-1
 k3b 1:22.12.0-1
@@ -801,7 +801,7 @@ lib32-gdk-pixbuf2 2.42.10-1
 lib32-gettext 0.21.1-1
 lib32-giflib 5.2.1-1
 lib32-glew1.10 1.10.0-5
-lib32-glib2 2.74.3-1
+lib32-glib2 2.74.4-1
 lib32-glibc 2.36-6
 lib32-glu 9.0.2-3
 lib32-gmp 6.2.1-1
@@ -1356,8 +1356,8 @@ lilv 0.24.20-1
 linux-api-headers 5.18.15-1
 linux-firmware 20221214.f3c283e-1
 linux-firmware-whence 20221214.f3c283e-1
-linux-zen 6.0.12.zen1-1
-linux-zen-headers 6.0.12.zen1-1
+linux-zen 6.1.1.zen1-1
+linux-zen-headers 6.1.1.zen1-1
 linuxqq-nt-bwrap 2.0.2_510-6
 lirc 1:0.10.2-1
 live-media 2022.12.01-1
@@ -1470,7 +1470,7 @@ netpbm 10.73.41-1
 nettle 3.8.1-1
 networkmanager 1.40.8-1
 networkmanager-qt 5.101.0-1
-nftables 1:1.0.5-1
+nftables 1:1.0.6-1
 nilfs-utils 2.2.9-1
 ninja 1.11.1-2
 nitrogen 1.6.1-4
@@ -1494,7 +1494,7 @@ nvidia-dkms 525.60.11-1
 nvidia-prime 1.0-4
 nvidia-settings 525.60.11-2
 nvidia-utils 525.60.11-1
-nvidia-vaapi-driver-git 0.0.8.r11.gf91a078-1
+nvidia-vaapi-driver-git 0.0.8.r13.g01dca0c-1
 nvtop 3.0.1-1
 nx-x11 3.5.99.26-1
 nxagent 3.5.99.26-1
@@ -1751,7 +1751,7 @@ python-iniconfig 1.1.1-5
 python-installer 0.6.0-1
 python-ipykernel 6.19.4-1
 python-ipython-genutils 0.2.0-1
-python-ipywidgets 8.0.3-2
+python-ipywidgets 8.0.4-1
 python-itsdangerous 2.1.2-2
 python-jaraco.classes 3.2.3-1
 python-jaraco.context 4.2.0-1
@@ -1767,7 +1767,7 @@ python-json5 0.9.10-1
 python-jsonschema 4.17.3-1
 python-jupyter-events 0.5.0-2
 python-jupyter_client 7.4.8-1
-python-jupyter_core 5.1.0-1
+python-jupyter_core 5.1.1-1
 python-jupyter_packaging 0.12.3-1
 python-jupyterlab_server 2.16.5-1
 python-kaitaistruct 0.10-1
@@ -1890,7 +1890,7 @@ python-tornado 6.2.0-2
 python-tox 3.26.0-2
 python-traitlets 5.8.0-1
 python-trio 0.22.0-2
-python-trove-classifiers 2022.12.1-1
+python-trove-classifiers 2022.12.22-1
 python-twisted 22.10.0-1
 python-typing_extensions 4.4.0-1
 python-ujson 5.6.0-1
@@ -2062,7 +2062,7 @@ rlwrap 0.46.1-1
 rnnoise 0.4.1-1
 rocs 22.12.0-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.25.14495.8ac9968096-1
+rpcs3-git 0.0.25.14497.96c6dc01eb-1
 rsync 3.2.7-3
 rtkit 0.13-2
 rtl-sdr 1:0.8.0-4
@@ -2121,7 +2121,7 @@ run-parts 5.5-1
 runc 1.1.4-1
 rustdesk-bin 1.1.9-3
 rustup 1.25.1-2
-ryujinx-git r2475.1cca3e99ab-1
+ryujinx-git r2477.f906eb06c2-1
 samba 4.17.4-2
 sane 1.1.1-1
 sbc 2.0-1
@@ -2245,7 +2245,7 @@ telepathy-mission-control 5.16.6-2
 telepathy-qt 0.9.8-2
 tepl 1:6.2.0-3
 termius 7.52.1-1
-tesseract 5.2.0-2
+tesseract 5.3.0-1
 tesseract-data-afr 2:4.1.0-3
 tesseract-data-osd 2:4.1.0-3
 tevent 1:0.13.0-1
@@ -2333,8 +2333,8 @@ wavpack 5.6.0-1
 wayland 1.21.0-2
 wayland-protocols 1.31-1
 wayland-utils 1.1.0-1
-webkit2gtk 2.38.2-2
-webkit2gtk-4.1 2.38.2-2
+webkit2gtk 2.38.3-1
+webkit2gtk-4.1 2.38.3-1
 webrtc-audio-processing 0.3.1-3
 weechat 3.7.1-2
 weechat-matrix 0.3.0-8
@@ -2488,7 +2488,7 @@ yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.0-1
 yubioath-desktop 5.1.0-3
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3238-1
+yuzu-early-access 3239-1
 zam-plugins 4.1-2
 zam-plugins-clap 4.1-2
 zam-plugins-ladspa 4.1-2
