@@ -1381,6 +1381,7 @@ lua52
 lua53
 luajit
 luit
+lunar-client
 lutris
 lv2
 lvm2
@@ -1640,7 +1641,6 @@ powerdevil
 poxml
 ppp
 ppsspp-assets
-print-manager
 prismlauncher-bin
 prison
 procps-ng
@@ -1656,6 +1656,8 @@ pulseaudio-qt
 purpose
 pybind11
 pycharm-professional
+pyinstaller
+pyinstaller-hooks-contrib
 pyside2
 pystring
 python
@@ -1665,6 +1667,7 @@ python-aiohttp
 python-aiohttp-socks
 python-aioredis
 python-aiosignal
+python-altgraph
 python-anyio
 python-anytree
 python-apipkg
@@ -1793,6 +1796,7 @@ python-nose
 python-numpy
 python-olefile
 python-olm
+python-opencv
 python-opengl
 python-ordered-set
 python-outcome
@@ -2029,6 +2033,7 @@ qt6-svg
 qt6-translations
 qt6-wayland
 qtkeychain-qt5
+qtractor
 qtscrcpy
 quazip-qt5
 quota-tools
@@ -2485,6 +2490,12 @@ yubioath-desktop
 yubioath-krunner
 yuzu-early-access
 zam-plugins
+zam-plugins-clap
+zam-plugins-ladspa
+zam-plugins-lv2
+zam-plugins-standalone
+zam-plugins-vst
+zam-plugins-vst3
 zanshin
 zarchive-git
 zbar
