@@ -54,6 +54,7 @@ asciinema
 aspell
 at-spi2-core
 atkmm
+atomicparsley
 atool
 attica
 attr
@@ -145,6 +146,7 @@ citra-canary-git
 cjson
 clang
 clash-meta-bin
+clion
 cloudflared
 clucene
 clutter
@@ -361,7 +363,9 @@ git-cola
 git-completion
 git-credential-manager-core-bin
 git-crypt
+git-lfs
 github-cli
+gitkraken
 gjs
 glew
 glew1.10
@@ -429,6 +433,7 @@ gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
 gstreamer
+gtest
 gtk-doc
 gtk-update-icon-cache
 gtk-vnc
@@ -463,6 +468,7 @@ handbrake-cli
 harfbuzz
 harfbuzz-icu
 hdf5
+hdparm
 heaptrack
 helvum
 hicolor-icon-theme
@@ -650,6 +656,7 @@ kio-extras
 kio-fuse
 kio-gdrive
 kio-zeroconf
+kirigami-addons
 kirigami-gallery
 kirigami2
 kiriki
@@ -1828,6 +1835,7 @@ python-pyaudio
 python-pyclibrary
 python-pycparser
 python-pycryptodome
+python-pycryptodomex
 python-pycups
 python-pycurl
 python-pydantic
@@ -1904,6 +1912,7 @@ python-wcwidth
 python-webcolors
 python-webencodings
 python-websocket-client
+python-websockets
 python-werkzeug
 python-wheel
 python-wsproto
@@ -2342,6 +2351,7 @@ wemeet-bin
 weston
 wget
 which
+whois
 wildmidi
 wine-gecko
 wine-mono
@@ -2357,6 +2367,7 @@ wpa_supplicant
 wpebackend-fdo
 wxwidgets-common
 wxwidgets-gtk3
+x11-ssh-askpass
 x11docker
 x264
 x265
@@ -2476,6 +2487,7 @@ yelp
 yelp-tools
 yelp-xsl
 youtube-dl-gui
+yt-dlp
 yubico-c
 yubico-c-client
 yubico-pam
