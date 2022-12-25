@@ -142,7 +142,7 @@ chaotic-mirrorlist 20221008-2
 chromaprint 1.5.1-6
 chrpath 0.16-4
 cifs-utils 7.0-2
-citra-canary-git 1:2344.r0.gca590eff7-1
+citra-canary-git 1:2345.r0.g93e5c6576-1
 cjson 1.7.15-1
 clang 14.0.6-4
 clash-meta-bin 1.13.2-1
@@ -253,8 +253,8 @@ eglexternalplatform 1.1-2
 eigen 3.4.0-1
 electron 20.3.8-1
 electron19 19.1.9-1
-element-desktop 1.11.10-2
-element-web 1.11.10-2
+element-desktop 1.11.15-1
+element-web 1.11.15-1
 elisa 22.12.0-1
 emacs 28.2-1
 embree 3.13.5-1
@@ -359,7 +359,7 @@ ghostscript 10.0.0-2
 giflib 5.2.1-2
 gimp 2.10.32-2
 git 2.39.0-1
-git-cola 4.0.4-1
+git-cola 4.1.0-1
 git-completion 1.4-1
 git-credential-manager-core-bin 2.0.877-2
 git-crypt 0.7.0-2
@@ -519,6 +519,7 @@ jdk11-graalvm-bin 22.3.0-1
 jdk19-graalvm-bin 22.3.0-1
 jdk8-graalvm-bin 21.2.0-2.1
 jemalloc 1:5.3.0-1
+jetbrains-toolbox 1.27.2.13801-1
 jfsutils 1.1.15-8
 joyutils 1.8.1-1
 jp2a 1.1.1-1
@@ -1365,7 +1366,7 @@ linux-firmware 20221214.f3c283e-1
 linux-firmware-whence 20221214.f3c283e-1
 linux-zen 6.1.1.zen1-1
 linux-zen-headers 6.1.1.zen1-1
-linuxqq-nt-bwrap 2.0.2_510-6
+linuxqq-nt-bwrap 2.0.3_543-1
 lirc 1:0.10.2-1
 live-media 2022.12.01-1
 lldb 14.0.6-1
@@ -1491,6 +1492,7 @@ noto-fonts-cjk 20220126-1
 noto-fonts-emoji 20220920-1
 noto-fonts-extra 20220810-1
 npm 8.19.2-1
+npm-check-updates 16.5.3-1
 npth 1.6-3
 nspr 4.35-1
 nss 3.86-1
@@ -1501,7 +1503,7 @@ nvidia-dkms 525.60.11-1
 nvidia-prime 1.0-4
 nvidia-settings 525.60.11-2
 nvidia-utils 525.60.11-1
-nvidia-vaapi-driver-git 0.0.8.r13.g01dca0c-1
+nvidia-vaapi-driver-git 0.0.8.r14.g82d1da2-1
 nvtop 3.0.1-1
 nx-x11 3.5.99.26-1
 nxagent 3.5.99.26-1
@@ -1667,7 +1669,7 @@ pyinstaller 5.7.0-1
 pyinstaller-hooks-contrib 2022.14-1
 pyside2 5.15.7-1
 pystring 1.1.3.git1-1
-python 3.10.8-3
+python 3.10.9-1
 python-aiofiles 22.1.0-2
 python-aiogram 2.22.2-1
 python-aiohttp 3.8.3-2
@@ -1686,7 +1688,7 @@ python-asttokens 2.2.1-1
 python-async-timeout 4.0.2-1
 python-async_generator 1.10-7
 python-atomicwrites 1.4.1-2
-python-attrs 22.1.0-1
+python-attrs 22.2.0-1
 python-autocommand 2.2.2-1
 python-automat 22.10.0-1
 python-babel 2.11.0-1
@@ -1728,7 +1730,7 @@ python-dotenv 0.21.0-1
 python-emoji 2.2.0-1
 python-entrypoints 0.4-2
 python-evdev 1.6.0-1
-python-exceptiongroup 1.0.4-1
+python-exceptiongroup 1.1.0-1
 python-executing 1.2.0-1
 python-fastjsonschema 2.16.2-1
 python-fastpbkdf2 0.2-9
@@ -2130,7 +2132,7 @@ run-parts 5.5-1
 runc 1.1.4-1
 rustdesk-bin 1.1.9-3
 rustup 1.25.1-2
-ryujinx-git r2477.f906eb06c2-1
+ryujinx-git r2478.37d27c4c99-1
 samba 4.17.4-2
 sane 1.1.1-1
 sbc 2.0-1
@@ -2224,7 +2226,7 @@ systemd-libs 252.4-2
 systemd-sysvcompat 252.4-2
 systemsettings 5.26.4-1
 t1lib 5.1.2-8
-tabby-bin 1.0.183-1
+tabby-bin 1.0.187-1
 taglib 1.13-1
 talloc 2.3.4-1
 tar 1.34-1
@@ -2313,7 +2315,7 @@ vamp-plugin-sdk 2.10.0-1
 vcdimager 2.0.1-4
 vde2 2.3.3-3
 vdpauinfo 1.5-1
-ventoy-bin 1.0.85-1
+ventoy-bin 1.0.86-1
 vid.stab 1.1-3
 vim 9.0.1046-1
 vim-runtime 9.0.1046-1
@@ -2500,7 +2502,7 @@ yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.0-1
 yubioath-desktop 5.1.0-3
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3242-1
+yuzu-early-access 3246-1
 zam-plugins 4.1-2
 zam-plugins-clap 4.1-2
 zam-plugins-ladspa 4.1-2

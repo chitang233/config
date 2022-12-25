@@ -519,6 +519,7 @@ jdk11-graalvm-bin
 jdk19-graalvm-bin
 jdk8-graalvm-bin
 jemalloc
+jetbrains-toolbox
 jfsutils
 joyutils
 jp2a
@@ -1491,6 +1492,7 @@ noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
 npm
+npm-check-updates
 npth
 nspr
 nss
