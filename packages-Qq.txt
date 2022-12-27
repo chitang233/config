@@ -489,6 +489,7 @@ ijs
 imagemagick
 imake
 imath
+imgcat
 imlib2
 incidenceeditor
 iniparser
