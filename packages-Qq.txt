@@ -379,6 +379,7 @@ glibc
 glibmm
 glibmm-2.68
 glm
+glmark2
 glslang
 glu
 glusterfs
