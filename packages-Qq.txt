@@ -1,5 +1,6 @@
 a52dec
 aalib
+aardvark-dns
 abseil-cpp
 accounts-qml-module
 accountsservice
@@ -36,6 +37,7 @@ android-studio
 android-udev
 antimicrox
 aom
+apparmor
 appmenu-gtk-module
 appstream
 appstream-glib
@@ -85,6 +87,7 @@ bash2048
 bashtop
 bat
 bc
+besttrace
 betterdiscord-installer
 betterdiscordctl-git
 bind
@@ -128,6 +131,7 @@ calf
 cantarell-fonts
 cantor
 capstone
+catatonit
 catimg
 cblas
 cbonsai
@@ -151,13 +155,16 @@ cloudflared
 clucene
 clutter
 cmake
+cni-plugins
 cogl
 colord
 compiler-rt
 compsize
 confuse
 conky
+conmon
 containerd
+containers-common
 convertall
 convertlit
 coordgen
@@ -168,7 +175,9 @@ cpu-g-git
 cpu-x
 cpupower-gui
 cracklib
+criu
 cronie
+crun
 cryptsetup
 cubeb-git
 cuda
@@ -204,6 +213,7 @@ discord-rpc-git
 discount
 discover
 discover-overlay
+distrobox
 djvulibre
 dkms
 dmenu
@@ -213,7 +223,6 @@ dnsmasq
 dnssec-anchors
 docbook-xml
 docbook-xsl
-docker
 docker-buildx
 docker-compose
 docker-credential-pass-bin
@@ -493,6 +502,7 @@ imath
 imgcat
 imlib2
 incidenceeditor
+inetutils
 iniparser
 ink
 inkscape
@@ -1139,6 +1149,7 @@ libmwaw
 libmypaint
 libnatpmp
 libndp
+libnet
 libnetfilter_conntrack
 libnewt
 libnfnetlink
@@ -1475,6 +1486,7 @@ nerd-fonts-complete
 nestopia
 net-snmp
 net-tools
+netavark
 nethack
 netpbm
 nettle
@@ -1636,6 +1648,10 @@ plasma-workspace
 plasma-workspace-wallpapers
 plasma5-wallpapers-wallpaper-engine
 pnpm
+podman
+podman-compose
+podman-dnsname
+podman-docker
 polkit
 polkit-kde-agent
 polkit-qt5
@@ -1666,6 +1682,7 @@ publicsuffix-list
 pugixml
 pulseaudio-qt
 purpose
+putty
 pybind11
 pycharm-professional
 pyinstaller
@@ -1805,6 +1822,7 @@ python-mutagen
 python-nest-asyncio
 python-netifaces
 python-nose
+python-notify2
 python-numpy
 python-olefile
 python-olm
@@ -1835,6 +1853,7 @@ python-ptyprocess
 python-publicsuffix2
 python-pure-eval
 python-py
+python-pyaes
 python-pyasn1
 python-pyaudio
 python-pyclibrary
@@ -1853,9 +1872,11 @@ python-pyperclip
 python-pypubsub
 python-pyqt5
 python-pyqt5-sip
+python-pyrogram
 python-pyrsistent
 python-pyscard
 python-pysmbc
+python-pysocks
 python-pytest
 python-python-socks
 python-pytz
@@ -1895,6 +1916,7 @@ python-sphinxcontrib-serializinghtml
 python-stack-data
 python-terminado
 python-testpath
+python-tgcrypto
 python-tinycss2
 python-toml
 python-tomli
@@ -2172,8 +2194,10 @@ signond
 skanlite
 skanpage
 slang
+slirp4netns
 smartmontools
 smbclient
+snapd-xdg-open-git
 snapper
 snappy
 sndio
