@@ -1,6 +1,6 @@
 continue
 daemon=true
-dir=/home/chitang/Downloads
+dir=/data/Temp
 file-allocation=prealloc
 log-level=warn
 max-connection-per-server=64
@@ -13,7 +13,7 @@ enable-rpc=true
 #rpc-allow-origin-all=true
 #rpc-listen-all=true
 rpc-listen-port=6800
-rpc-secret=supersafesecret
+rpc-secret=114514
 
 max-overall-uplad-limit=1M
 max-upload-limit=128K
@@ -24,5 +24,7 @@ follow-torrent=true
 enable-dht6=true
 enable-dht=true
 enable-peer-exchange=true
+#user-agent=Transmission/2.77
+#peer-id-prefix=-TR2770-
 
 force-save=false
