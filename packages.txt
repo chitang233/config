@@ -148,7 +148,7 @@ chromaprint 1.5.1-6
 chrpath 0.16-4
 cifs-utils 7.0-2
 ciphey 5.14.0-6
-citra-canary-git 1:2352.r0.g3ab70c753-1
+citra-canary-git 1:2353.r0.g945a897ac-1
 cjson 1.7.15-1
 clang 14.0.6-4
 clash-meta-bin 1.13.2-1
@@ -311,7 +311,7 @@ filelight 22.12.0-2
 filesystem 2022.10.18-1
 findutils 4.9.0-1
 firefox-appmenu 108.0.1-1
-firefox-nightly 110.0a1+20221230.1+h3aeca13c7e9e-1
+firefox-nightly 110.0a1+20230101.1+h81f62de2d85e-1
 firefox-pwa 2.3.0-1
 flac 1.4.2-1
 flake8 1:6.0.0-1
