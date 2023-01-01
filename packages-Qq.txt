@@ -485,6 +485,7 @@ hdf5
 hdparm
 heaptrack
 helvum
+hexo-cli
 hicolor-icon-theme
 hidapi
 highway
