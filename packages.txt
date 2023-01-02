@@ -76,6 +76,7 @@ avogadrolibs 1.97.0-1
 avogadrolibs-qt5 1.97.0-1
 axel 2.17.11-2
 ayatana-ido 0.9.2-1
+azure-cli 2.43.0-1
 babl 0.1.98-1
 baloo 5.101.0-1
 baloo-widgets 22.12.0-1
@@ -148,7 +149,7 @@ chromaprint 1.5.1-6
 chrpath 0.16-4
 cifs-utils 7.0-2
 ciphey 5.14.0-6
-citra-canary-git 1:2353.r0.g945a897ac-1
+citra-canary-git 1:2354.r0.gc4026dc03-1
 cjson 1.7.15-1
 clang 14.0.6-4
 clash-meta-bin 1.13.2-1
@@ -405,7 +406,7 @@ gnome-desktop 1:43-1
 gnome-desktop-4 1:43-1
 gnome-desktop-common 1:43-1
 gnome-keyring 1:42.1-2
-gnome-latex 3.42.0-2
+gnome-latex 3.44.0-1
 gnome-online-accounts 3.46.0-1
 gnome-terminal 3.46.7-1
 gnu-free-fonts 20120503-8
@@ -498,6 +499,7 @@ hwdata 0.365-1
 hwloc 2.8.0-1
 hyphen 2.8.8-5
 iana-etc 20221215-1
+icalingua++ 2.8.3-1
 icu 72.1-2
 icu69-bin 69.1-1
 id3lib 3.8.3-18
@@ -1465,7 +1467,7 @@ mjpegtools 2.2.1-1
 mkinitcpio 34-2
 mkinitcpio-busybox 1.35.0-1
 mlt 7.12.0-1
-mobile-broadband-provider-info 20221107-1
+mobile-broadband-provider-info 20221107-2
 modemmanager 1.20.2-1
 modemmanager-qt 5.101.0-1
 molequeue 0.9.0-2
@@ -2134,6 +2136,7 @@ rclone-browser 1.8.0-1
 re2 1:20221201-2
 readline 8.2.001-1
 recode 3.7.12-1
+redis 7.0.7-1
 redland 1:1.0.17-8
 reiserfsprogs 3.6.27-3
 remmina 1:1.4.29-1
@@ -2206,7 +2209,7 @@ run-parts 5.5-1
 runc 1.1.4-1
 rustdesk-bin 1.1.9-3
 rustup 1.25.1-2
-ryujinx-git r2489.2b23463daa-1
+ryujinx-git r2491.b6614c6ad5-1
 samba 4.17.4-2
 sane 1.1.1-1
 sbc 2.0-1
@@ -2333,7 +2336,7 @@ telepathy-logger 0.8.2-5
 telepathy-logger-qt 17.09.0-1
 telepathy-mission-control 5.16.6-2
 telepathy-qt 0.9.8-2
-tepl 1:6.2.0-3
+tepl 1:6.4.0-1
 termius 7.54.3-1
 tesseract 5.3.0-1
 tesseract-data-afr 2:4.1.0-3
@@ -2582,7 +2585,7 @@ yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.0-1
 yubioath-desktop 5.1.0-3
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3268-1
+yuzu-early-access 3269-1
 zam-plugins 4.1-2
 zam-plugins-clap 4.1-2
 zam-plugins-ladspa 4.1-2

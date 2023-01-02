@@ -76,6 +76,7 @@ avogadrolibs
 avogadrolibs-qt5
 axel
 ayatana-ido
+azure-cli
 babl
 baloo
 baloo-widgets
@@ -498,6 +499,7 @@ hwdata
 hwloc
 hyphen
 iana-etc
+icalingua++
 icu
 icu69-bin
 id3lib
@@ -2134,6 +2136,7 @@ rclone-browser
 re2
 readline
 recode
+redis
 redland
 reiserfsprogs
 remmina
