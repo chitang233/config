@@ -154,6 +154,7 @@ clang
 clash-meta-bin
 clion
 cloudflared
+cloudflarespeedtest
 clucene
 clutter
 cmake
@@ -951,6 +952,7 @@ lib32-sdl2_ttf
 lib32-sdl_image
 lib32-sdl_mixer
 lib32-sdl_ttf
+lib32-simplescreenrecorder
 lib32-sqlite
 lib32-systemd
 lib32-tdb
@@ -2211,6 +2213,7 @@ sbc
 scdoc
 scour
 scrcpy
+screenkey
 scrub
 sddm
 sddm-kcm
@@ -2237,6 +2240,7 @@ signon-kwallet-extension
 signon-plugin-oauth2
 signon-ui
 signond
+simplescreenrecorder
 skanlite
 skanpage
 slang
@@ -2260,6 +2264,7 @@ spatialindex
 spdlog
 spectacle
 speech-dispatcher
+speedtest-cli
 speex
 speexdsp
 spglib
@@ -2553,6 +2558,7 @@ xterm
 xvidcore
 xxhash
 xz
+yacd
 yacd-tauri
 yajl
 yakuake
