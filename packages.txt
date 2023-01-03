@@ -201,7 +201,7 @@ dbus 1.14.4-1
 dbus-glib 0.112-2
 dbus-python 1.2.18-3
 dconf 0.40.0-2
-ddgr 2.1-1
+ddgr 2.1-2
 debugedit 5.0-4
 dee 1.2.7-13
 default-cursors 2-1
@@ -290,7 +290,7 @@ faad2 2.10.1-1
 fakeroot 1.30.1-1
 falkon 22.12.0-1
 farstream 0.2.9-3
-faudio 22.12-1
+faudio 23.01-1
 fcitx5 5.0.21-1
 fcitx5-chinese-addons 5.0.16-1
 fcitx5-configtool 5.0.16-1
@@ -313,7 +313,7 @@ filelight 22.12.0-2
 filesystem 2022.10.18-1
 findutils 4.9.0-1
 firefox-appmenu 108.0.1-1
-firefox-nightly 110.0a1+20230101.1+hb7b8e559b82f-1
+firefox-nightly 110.0a1+20230102.1+h492f77863dcc-1
 firefox-pwa 2.3.0-1
 flac 1.4.2-1
 flake8 1:6.0.0-1
@@ -499,12 +499,12 @@ hwdata 0.365-1
 hwloc 2.8.0-1
 hyphen 2.8.8-5
 iana-etc 20221215-1
-icalingua++ 2.8.3-1
+icalingua++ 2.8.5-1
 icu 72.1-2
 icu69-bin 69.1-1
 id3lib 3.8.3-18
 ijs 0.35-5
-imagemagick 7.1.0.55-2
+imagemagick 7.1.0.57-1
 imake 1.0.9-1
 imath 3.1.6-1
 imgcat 1.2.0-2
@@ -553,7 +553,7 @@ jupyter-nbclient 0.7.2-1
 jupyter-nbconvert 7.2.7-1
 jupyter-nbformat 5.7.1-1
 jupyter-notebook-shim 0.2.2-1
-jupyter-server 2.0.5-1
+jupyter-server 2.0.6-1
 jupyter-server-mathjax 0.2.6-1
 jupyterlab 3.5.2-1
 jupyterlab-widgets 3.0.5-1
@@ -817,7 +817,7 @@ lib32-dbus 1.14.4-1
 lib32-dbus-glib 0.112-2
 lib32-e2fsprogs 1.46.5-1
 lib32-expat 2.5.0-2
-lib32-faudio 22.12-1
+lib32-faudio 23.01-1
 lib32-flac 1.4.2-1
 lib32-fontconfig 2:2.14.1-2
 lib32-freeglut 3.4.0-1
@@ -894,7 +894,7 @@ lib32-libunistring 1.1-1
 lib32-libunwind 1.6.2-2
 lib32-libusb 1.0.26-1
 lib32-libva 2.16.0-1
-lib32-libva-mesa-driver 22.3.1-2
+lib32-libva-mesa-driver 22.3.2-1
 lib32-libvdpau 1.5-1
 lib32-libvorbis 1.3.7-1
 lib32-libvpx1.3 1.3.0-3
@@ -924,8 +924,8 @@ lib32-libxtst 1.2.4-1
 lib32-libxxf86vm 1.1.5-1
 lib32-llvm-libs 14.0.6-3
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-2
-lib32-mesa 22.3.1-2
-lib32-mesa-vdpau 22.3.1-2
+lib32-mesa 22.3.2-1
+lib32-mesa-vdpau 22.3.2-1
 lib32-mpg123 1.31.1-1
 lib32-ncurses 6.3-1
 lib32-nettle 3.8.1-1
@@ -1145,7 +1145,7 @@ libmm-glib 1.20.2-1
 libmms 0.6.4-3
 libmng 2.0.3-3
 libmnl 1.0.5-1
-libmodplug 0.8.9.0-4
+libmodplug 0.8.9.0-5
 libmpc 1.3.1-1
 libmpcdec 1:0.1+r475-3
 libmpeg2 0.5.1-7
@@ -1311,8 +1311,8 @@ libutempter 1.2.1-3
 libutf8proc 2.8.0-1
 libuv 1.44.2-1
 libva 2.16.0-1
-libva-mesa-driver 22.3.1-2
-libva-utils 2.16.0-1
+libva-mesa-driver 22.3.2-1
+libva-utils 2.17.0-1
 libvdpau 1.5-1
 libverto 0.3.2-4
 libvirt 1:8.10.0-1
@@ -1386,8 +1386,8 @@ lilv 0.24.20-1
 linux-api-headers 5.18.15-1
 linux-firmware 20221214.f3c283e-1
 linux-firmware-whence 20221214.f3c283e-1
-linux-zen 6.1.1.zen1-1
-linux-zen-headers 6.1.1.zen1-1
+linux-zen 6.1.2.zen1-1
+linux-zen-headers 6.1.2.zen1-1
 linuxqq-nt-bwrap 3.0.0_571-2
 lirc 1:0.10.2-2
 live-media 2022.12.01-1
@@ -1427,7 +1427,7 @@ mailcommon 22.12.0-1
 mailimporter 22.12.0-1
 make 4.3-5
 mallard-ducktype 1.0.2-8
-mame 0.250-1
+mame 0.251-1
 man-db 2.11.1-1
 mangoapp 0.6.8-3
 mangohud 0.6.8-3
@@ -1447,7 +1447,7 @@ mda.lv2 1.2.10-1
 mdadm 4.2-2
 media-player-info 24-2
 mediainfo 22.12-1
-mesa 22.3.1-2
+mesa 22.3.2-1
 mesa-utils 8.5.0-2
 meson 1.0.0-2
 messagelib 22.12.0-1
@@ -1459,7 +1459,7 @@ minetest 5.6.1-2
 minetest-common 5.6.1-2
 miniupnpc 2.2.4-1
 minizip 1:1.2.13-2
-minizip-ng 3.0.7-2
+minizip-ng 3.0.8-1
 minuet 22.12.0-1
 mitmproxy 9.0.1-1
 mixxx 2.3.3-3
@@ -1515,7 +1515,7 @@ noto-fonts-cjk 20220126-1
 noto-fonts-emoji 20220920-1
 noto-fonts-extra 20220810-1
 npm 8.19.2-1
-npm-check-updates 16.5.6-1
+npm-check-updates 16.6.0-1
 npth 1.6-3
 nspr 4.35-1
 nss 3.86-1
@@ -1799,7 +1799,7 @@ python-incremental 22.10.0-1
 python-inflect 6.0.2-1
 python-iniconfig 1.1.1-5
 python-installer 0.6.0-1
-python-ipykernel 6.19.4-1
+python-ipykernel 6.20.0-1
 python-ipython-genutils 0.2.0-1
 python-ipywidgets 8.0.4-1
 python-isort 5.11.4-1
@@ -1818,9 +1818,9 @@ python-json5 0.9.10-1
 python-jsonschema 4.17.3-1
 python-jupyter-events 0.5.0-2
 python-jupyter_client 7.4.8-1
-python-jupyter_core 5.1.1-1
+python-jupyter_core 5.1.2-1
 python-jupyter_packaging 0.12.3-1
-python-jupyterlab_server 2.16.6-1
+python-jupyterlab_server 2.17.0-1
 python-kaitaistruct 0.10-1
 python-keyring 23.11.0-1
 python-kiwisolver 1.4.4-1
@@ -1870,7 +1870,7 @@ python-peewee 3.15.4-1
 python-pep517 0.13.0-1
 python-pexpect 4.8.0-6
 python-pickleshare 0.7.5-8
-python-pillow 9.3.0-1
+python-pillow 9.4.0-1
 python-pip 22.3.1-1
 python-pkginfo 1.9.2-1
 python-platformdirs 2.6.0-1
@@ -1903,12 +1903,12 @@ python-pycups 2.0.1-5
 python-pycurl 7.45.2-1
 python-pydantic 1.10.4-1
 python-pyflakes 3.0.1-2
-python-pygments 2.13.0-1
+python-pygments 2.14.0-1
 python-pyinotify 0.9.6-11
 python-pylint 2.15.9-1
 python-pynacl 1.4.0-5
 python-pynput 1.7.6-2
-python-pyopenssl 22.1.0-1
+python-pyopenssl 23.0.0-1
 python-pyotherside 1.6.0-1
 python-pyparsing 3.0.9-1
 python-pyperclip 1.8.2-4
@@ -1978,7 +1978,7 @@ python-typing_extensions 4.4.0-1
 python-typing_inspect 0.8.0-1
 python-ujson 5.6.0-1
 python-unidecode 1.3.6-1
-python-unpaddedbase64 2.1.0-3
+python-unpaddedbase64 2.1.0-4
 python-urllib3 1.26.12-1
 python-urwid 2.1.2-3
 python-uvloop 0.17.0-1
@@ -2150,7 +2150,7 @@ rlwrap 0.46.1-1
 rnnoise 0.4.1-1
 rocs 22.12.0-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.25.14517.310fa7127d-1
+rpcs3-git 0.0.25.14518.7423abb136-1
 rsync 3.2.7-3
 rtkit 0.13-2
 rtl-sdr 1:0.8.0-4
@@ -2209,7 +2209,7 @@ run-parts 5.5-1
 runc 1.1.4-1
 rustdesk-bin 1.1.9-3
 rustup 1.25.1-2
-ryujinx-git r2491.b6614c6ad5-1
+ryujinx-git r2492.09c9686498-1
 samba 4.17.4-2
 sane 1.1.1-1
 sbc 2.0-1
@@ -2316,7 +2316,7 @@ tbb 2021.5.0-2
 tcl 8.6.13-1
 tcping 0.1.1rc1-1
 tdb 1.4.7-1
-telegram-desktop-megumifox 4.5.0-2
+telegram-desktop-megumifox 4.5.1-1
 telepathy-accounts-signon 2.1-2
 telepathy-farstream 0.6.2-7
 telepathy-glib 0.24.2-2
@@ -2419,7 +2419,7 @@ vte3 0.70.2-1
 vtk 9.1.0-23
 vulkan-headers 1:1.3.235-1
 vulkan-icd-loader 1.3.235-1
-vulkan-intel 22.3.1-2
+vulkan-intel 22.3.2-1
 vulkan-tools 1.3.226-1
 w3m 0.5.3.git20220409_1-2
 wavpack 5.6.0-1
@@ -2431,7 +2431,7 @@ webkit2gtk-4.1 2.38.3-1
 webrtc-audio-processing 0.3.1-3
 weechat 3.7.1-2
 weechat-matrix 0.3.0-8
-wemeet-bin 3.12.0.400-7
+wemeet-bin 3.12.0.400-8
 weston 11.0.0-1
 wget 1.21.3-1
 which 2.21-5
@@ -2572,7 +2572,7 @@ yelp 42.2-1
 yelp-tools 42.1-1
 yelp-xsl 42.1-1
 youtube-dl-gui 2.4.0-2
-yt-dlp 2022.11.11-1
+yt-dlp 2023.01.02-1
 yubico-c 1.13-6
 yubico-c-client 2.15-5
 yubico-pam 2.27-2
@@ -2585,7 +2585,7 @@ yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.0-1
 yubioath-desktop 5.1.0-3
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3269-1
+yuzu-early-access 3273-1
 zam-plugins 4.1-2
 zam-plugins-clap 4.1-2
 zam-plugins-ladspa 4.1-2
