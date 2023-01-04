@@ -145,6 +145,7 @@ cfitsio
 chafa
 chaotic-keyring
 chaotic-mirrorlist
+cheese
 chromaprint
 chrpath
 cifs-utils
@@ -158,6 +159,8 @@ cloudflared
 cloudflarespeedtest
 clucene
 clutter
+clutter-gst
+clutter-gtk
 cmake
 cni-plugins
 cogl
@@ -319,8 +322,10 @@ flac
 flake8
 flashrom
 flatpak
+flatpak-xdg-utils
 flex
 fltk
+fluffychat-bin
 fluidsynth
 fmt
 fontconfig
@@ -409,6 +414,7 @@ gnome-keyring
 gnome-latex
 gnome-online-accounts
 gnome-terminal
+gnome-video-effects
 gnu-free-fonts
 gnugo
 gnupg
@@ -416,6 +422,7 @@ gnuplot
 gnutls
 go
 gobject-introspection-runtime
+goland
 goverlay-bin
 gpart
 gparted
@@ -962,6 +969,7 @@ lib32-util-linux
 lib32-vkd3d
 lib32-vulkan-icd-loader
 lib32-wayland
+lib32-webrtc-audio-processing
 lib32-xz
 lib32-zlib
 lib32-zstd
@@ -1005,6 +1013,7 @@ libcdio
 libcdio-paranoia
 libcdr
 libcerf
+libcheese
 libcloudproviders
 libcolord
 libcpuid
@@ -1120,6 +1129,7 @@ libksieve
 libksysguard
 libktorrent
 liblangtag
+liblc3
 libldac
 libldap
 libliftoff
@@ -1656,6 +1666,7 @@ plasma-wayland-session
 plasma-workspace
 plasma-workspace-wallpapers
 plasma5-wallpapers-wallpaper-engine
+png++
 pnpm
 podman
 podman-compose
@@ -1751,6 +1762,7 @@ python-constantly
 python-contourpy
 python-coverage
 python-crashtest
+python-cryptg
 python-cryptography
 python-cssselect
 python-cuda
@@ -1936,6 +1948,7 @@ python-requests
 python-requests-toolbelt
 python-requests-unixsocket
 python-rich
+python-rsa
 python-rst.linker
 python-ruamel-yaml
 python-ruamel.yaml.clib
@@ -1961,6 +1974,7 @@ python-sphinxcontrib-jsmath
 python-sphinxcontrib-qthelp
 python-sphinxcontrib-serializinghtml
 python-stack-data
+python-telethon
 python-terminado
 python-testpath
 python-tgcrypto
@@ -2117,6 +2131,7 @@ qt6-base
 qt6-declarative
 qt6-imageformats
 qt6-svg
+qt6-tools
 qt6-translations
 qt6-wayland
 qtkeychain-qt5
