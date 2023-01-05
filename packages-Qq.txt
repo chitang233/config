@@ -1892,6 +1892,7 @@ python-poetry
 python-poetry-core
 python-poetry-plugin-export
 python-polib
+python-pooch
 python-prettytable
 python-prometheus_client
 python-prompt_toolkit
