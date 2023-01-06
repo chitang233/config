@@ -139,6 +139,7 @@ cblas
 cbonsai
 ccid
 cdparanoia
+cdrtools
 cemu-git
 cervisia
 cfitsio
@@ -150,7 +151,6 @@ chromaprint
 chrpath
 cifs-utils
 ciphey
-citra-canary-git
 cjson
 clang
 clash-meta-bin
@@ -405,6 +405,7 @@ glu
 glusterfs
 gmp
 gnirehtet-bin
+gnome-boxes
 gnome-calculator
 gnome-common
 gnome-desktop
@@ -2036,9 +2037,9 @@ qemu-block-ssh
 qemu-chardev-baum
 qemu-chardev-spice
 qemu-common
+qemu-desktop
 qemu-docs
 qemu-emulators-full
-qemu-full
 qemu-hw-display-qxl
 qemu-hw-display-virtio-gpu
 qemu-hw-display-virtio-gpu-gl
