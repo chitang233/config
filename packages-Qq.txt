@@ -255,6 +255,7 @@ dtc
 dtkcommon
 duf
 duktape
+dust
 e2fsprogs
 easyeffects
 ebook-tools
@@ -284,7 +285,7 @@ espeak-ng
 eventviews
 evince
 exa
-exfatprogs
+exfat-utils
 exiv2
 expat
 f2fs-tools
@@ -351,6 +352,7 @@ fuse-common
 fuse-emulator
 fuse2
 fuse3
+fuseiso
 fwupd
 fwupd-efi
 fzf
