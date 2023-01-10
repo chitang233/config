@@ -186,7 +186,7 @@ criu 3.17.1-1
 cronie 1.6.1-1
 crun 1.7.2-1
 cryptsetup 2.6.0-1
-cubeb-git 0.2.r1421.g1736e4a-1
+cubeb-git 0.2.r1423.gc96f0d4-1
 cuda 11.8.0-1
 cuda-tools 11.8.0-1
 cudnn 8.6.0.163-1
@@ -194,7 +194,7 @@ cups 1:2.4.2-3
 cups-filters 1.28.16-3
 cups-pdf 3.0.1-7
 cups-pk-helper 0.2.7-1
-curl 7.87.0-2
+curl 7.87.0-3
 cython 0.29.33-1
 datagrip 2022.3.2-1
 dav1d 1.0.0-1
@@ -269,8 +269,8 @@ efivar 38-2
 egl-wayland 2:1.1.11-2
 eglexternalplatform 1.1-2
 eigen 3.4.0-1
-electron 22.0.0-1
-electron19 19.1.9-2
+electron 22.0.0-2
+electron19 19.1.9-3
 element-desktop 1.11.17-1
 element-web 1.11.17-1
 elisa 22.12.1-1
@@ -316,8 +316,8 @@ file 5.44-1
 filelight 22.12.1-1
 filesystem 2022.10.18-1
 findutils 4.9.0-1
-firefox-appmenu 108.0.1-2
-firefox-nightly 110.0a1+20230108.1+h0f9ef9ff3fea-1
+firefox-appmenu 108.0.2-1
+firefox-nightly 110.0a1+20230109.1+h329b80a0d033-1
 firefox-pwa 2.3.0-1
 flac 1.4.2-1
 flake8 1:6.0.0-1
@@ -682,7 +682,7 @@ kimagemapeditor 22.12.1-1
 kimap 22.12.1-1
 kinfocenter 5.26.5-1
 kinit 5.101.0-1
-kio 5.101.0-1
+kio 5.101.0-2
 kio-extras 22.12.1-1
 kio-fuse 5.0.1-1
 kio-gdrive 22.12.1-1
@@ -1021,8 +1021,8 @@ libcloudproviders 0.3.1+r8+g3a229ee-1
 libcolord 1.4.6-1
 libcpuid 0.6.2-1
 libcups 1:2.4.2-3
-libcurl-compat 7.87.0-2
-libcurl-gnutls 7.87.0-2
+libcurl-compat 7.87.0-3
+libcurl-gnutls 7.87.0-3
 libdaemon 0.14-5
 libdatrie 0.2.13-2
 libdbusmenu-glib 16.04.0-5
@@ -1284,7 +1284,7 @@ libsonic 0.2.0-1
 libsoup 2.74.3-1
 libsoup3 3.2.2-1
 libsoxr 0.1.3-3
-libspectre 0.2.11-1
+libspectre 0.2.12-1
 libspectrum 1.5.0-1
 libspeechd 0.11.4-1
 libspiro 1:20221101-1
@@ -1441,7 +1441,7 @@ mailimporter 22.12.1-1
 make 4.4-1
 mallard-ducktype 1.0.2-8
 mame 0.251-1
-man-db 2.11.1-1
+man-db 2.11.2-1
 mangoapp 0.6.8-3
 mangohud 0.6.8-3
 mangohud-common 0.6.8-3
@@ -1670,7 +1670,7 @@ plasma-workspace 5.26.5-1
 plasma-workspace-wallpapers 5.26.5-1
 plasma5-wallpapers-wallpaper-engine 0.5.4-3
 png++ 0.2.10-2
-pnpm 7.22.0-1
+pnpm 7.23.0-1
 podman 4.3.1-2
 podman-compose 1.0.3-2
 podman-dnsname 1.3.1-2
@@ -1712,7 +1712,7 @@ pyinstaller-hooks-contrib 2022.14-1
 pyside2 5.15.8-3
 pystring 1.1.3.git1-1
 python 3.10.9-1
-python-aiofiles 22.1.0-2
+python-aiofiles 22.1.0-3
 python-aiogram 2.22.2-1
 python-aiohttp 3.8.3-2
 python-aiohttp-socks 0.7.1-4
@@ -1726,7 +1726,7 @@ python-appdirs 1.4.4-7
 python-argon2-cffi-bindings 21.2.0-3
 python-argon2_cffi 21.3.0-2
 python-asgiref 3.5.2-1
-python-astroid 2.13.0-1
+python-astroid 2.13.2-1
 python-asttokens 2.2.1-1
 python-async-timeout 4.0.2-1
 python-async_generator 1.10-7
@@ -1814,7 +1814,7 @@ python-incremental 22.10.0-1
 python-inflect 6.0.2-1
 python-iniconfig 1.1.1-5
 python-installer 0.6.0-1
-python-ipykernel 6.20.0-1
+python-ipykernel 6.20.1-1
 python-ipython-genutils 0.2.0-1
 python-ipywidgets 8.0.4-1
 python-isort 5.11.4-1
@@ -1831,9 +1831,9 @@ python-jinja 1:3.1.2-2
 python-json-logger 2.0.4-1
 python-json5 0.9.12-1
 python-jsonschema 4.17.3-1
-python-jupyter-events 0.5.0-2
+python-jupyter-events 0.6.0-1
 python-jupyter_client 7.4.8-1
-python-jupyter_core 5.1.2-1
+python-jupyter_core 5.1.3-1
 python-jupyter_packaging 0.12.3-1
 python-jupyterlab_server 2.18.0-1
 python-kaitaistruct 0.10-1
@@ -1887,7 +1887,7 @@ python-pexpect 4.8.0-6
 python-pickleshare 0.7.5-8
 python-pillow 9.4.0-2
 python-pip 22.3.1-1
-python-pkginfo 1.9.5-1
+python-pkginfo 1.9.6-1
 python-platformdirs 2.6.2-1
 python-pluggy 1.0.0-1
 python-ply 3.11-10
@@ -1921,7 +1921,7 @@ python-pydantic 1.10.4-1
 python-pyflakes 3.0.1-2
 python-pygments 2.14.0-1
 python-pyinotify 0.9.6-11
-python-pylint 2.15.9-1
+python-pylint 2.15.10-1
 python-pynacl 1.4.0-5
 python-pynput 1.7.6-2
 python-pyopenssl 23.0.0-1
@@ -1988,7 +1988,7 @@ python-tomli 2.0.1-1
 python-tomlkit 0.11.6-1
 python-tornado 6.2.0-2
 python-tox 3.26.0-2
-python-traitlets 5.8.0-1
+python-traitlets 5.8.1-1
 python-trio 0.22.0-2
 python-trove-classifiers 2022.12.22-1
 python-twisted 22.10.0-1
@@ -2106,8 +2106,8 @@ qqc2-desktop-style 5.101.0-1
 qrencode 4.1.1-2
 qsstv 9.5.8-2
 qt-gstreamer 1.2.0-4
-qt5-base 5.15.8+kde+r157-1
-qt5-declarative 5.15.8+kde+r22-1
+qt5-base 5.15.8+kde+r160-1
+qt5-declarative 5.15.8+kde+r22-2
 qt5-gamepad 5.15.8-1
 qt5-graphicaleffects 5.15.8-1
 qt5-imageformats 5.15.8+kde+r6-1
@@ -2125,7 +2125,7 @@ qt5-translations 5.15.8-1
 qt5-wayland 5.15.8+kde+r57-1
 qt5-webchannel 5.15.8+kde+r3-1
 qt5-webengine 5.15.12-2
-qt5-websockets 5.15.8+kde+r2-1
+qt5-websockets 5.15.8+kde+r3-1
 qt5-webview 5.15.8-1
 qt5-x11extras 5.15.8-1
 qt5-xmlpatterns 5.15.8-1
@@ -2169,18 +2169,18 @@ rlwrap 0.46.1-1
 rnnoise 0.4.1-1
 rocs 22.12.1-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.26.14525.df718bcb0f-1
+rpcs3-git 0.0.26.14531.18966d424c-1
 rsync 3.2.7-3
 rtkit 0.13-2
 rtl-sdr 1:0.8.0-4
 rtmpdump 1:2.4.r99.f1b83c1-2
 rubberband 3.1.2-1
-ruby 3.0.4-20
+ruby 3.0.5-1
 ruby-abbrev 0.1.0-4
 ruby-base64 0.1.1-4
 ruby-benchmark 0.2.0-4
 ruby-bigdecimal 3.1.2-4
-ruby-bundledgems 3.0.4-20
+ruby-bundledgems 3.0.5-1
 ruby-bundler 2.4.1-1
 ruby-cgi 0.3.6-1
 ruby-csv 3.2.5-4
@@ -2190,7 +2190,7 @@ ruby-did_you_mean 1.6.1-4
 ruby-digest 3.1.1-1
 ruby-drb 2.1.0-5
 ruby-english 0.7.1-5
-ruby-erb 4.0.2-1
+ruby-erb 4.0.2-2
 ruby-etc 1.3.0-6
 ruby-fcntl 1.0.1-4
 ruby-fiddle 1.1.0-4
@@ -2217,7 +2217,7 @@ ruby-rdoc 6.4.0-4
 ruby-reline 0.3.1-2
 ruby-rexml 3.2.5-1
 ruby-ruby2_keywords 0.0.5-1
-ruby-stdlib 3.0.4-20
+ruby-stdlib 3.0.5-1
 ruby-stringio 3.0.2-4
 ruby-test-unit 3.5.7-1
 ruby-time 0.2.0-4
@@ -2228,7 +2228,7 @@ run-parts 5.5-1
 runc 1.1.4-1
 rustdesk-bin 1.1.9-3
 rustup 1.25.1-2
-ryujinx-git r2510.6f60e102a2-1
+ryujinx-git r2517.8734ea9dd4-1
 samba 4.17.4-4
 sane 1.1.1-2
 sbc 2.0-1
@@ -2343,7 +2343,7 @@ telepathy-kde-accounts-kcm 22.12.1-1
 telepathy-kde-approver 22.12.1-1
 telepathy-kde-auth-handler 22.12.1-1
 telepathy-kde-call-ui 22.12.1-1
-telepathy-kde-common-internals 22.12.1-1
+telepathy-kde-common-internals 22.12.1-2
 telepathy-kde-contact-list 22.12.1-1
 telepathy-kde-contact-runner 22.12.1-1
 telepathy-kde-desktop-applets 22.12.1-1
@@ -2449,7 +2449,7 @@ webkit2gtk 2.38.3-1
 webkit2gtk-4.1 2.38.3-1
 webrtc-audio-processing 0.3.1-3
 weechat 3.8-1
-weechat-matrix 0.3.0-8
+weechat-matrix 0.3.0-9
 wemeet-bin 3.12.0.400-9
 weston 11.0.0-1
 wget 1.21.3-1
