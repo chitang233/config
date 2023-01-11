@@ -24,7 +24,7 @@ akonadiconsole 22.12.1-1
 akregator 22.12.1-1
 alembic 1.8.4-1
 alist-bin 3.8.0-1
-alsa-card-profiles 1:0.3.63-4
+alsa-card-profiles 1:0.3.63-5
 alsa-lib 1.2.8-1
 alsa-plugins 1:1.2.7.1-1
 alsa-topology-conf 1.2.5.1-1
@@ -76,7 +76,7 @@ avogadrolibs 1.97.0-1
 avogadrolibs-qt5 1.97.0-1
 axel 2.17.11-2
 ayatana-ido 0.9.2-1
-azure-cli 2.43.0-1
+azure-cli 2.44.0-1
 babl 0.1.98-1
 baloo 5.101.0-1
 baloo-widgets 22.12.1-1
@@ -252,7 +252,7 @@ dragon 22.12.1-1
 drkonqi 5.26.5-1
 droidcam 1:1.8.2-1.1
 dtc 1.6.1-4
-dtkcommon 5.5.23-1
+dtkcommon 5.6.3-1
 duf 0.8.1-2
 duktape 2.7.0-5
 dust 0.8.3-1
@@ -269,7 +269,7 @@ efivar 38-2
 egl-wayland 2:1.1.11-2
 eglexternalplatform 1.1-2
 eigen 3.4.0-1
-electron 22.0.0-2
+electron 22.0.1-1
 electron19 19.1.9-3
 element-desktop 1.11.17-1
 element-web 1.11.17-1
@@ -317,7 +317,7 @@ filelight 22.12.1-1
 filesystem 2022.10.18-1
 findutils 4.9.0-1
 firefox-appmenu 108.0.2-1
-firefox-nightly 110.0a1+20230109.1+h329b80a0d033-1
+firefox-nightly 110.0a1+20230110.1+h9231302514fc-1
 firefox-pwa 2.3.0-1
 flac 1.4.2-1
 flake8 1:6.0.0-1
@@ -343,9 +343,9 @@ freeglut 3.4.0-1
 freeimage 3.18.0-17
 freerdp 2:2.9.0-1
 freetype2 2.12.1-1
-frei0r-plugins 1.8.0-3
+frei0r-plugins 2.2.0-1
 fribidi 1.0.12-1
-frpc 0.46.0-1
+frpc 0.46.1-1
 ftgl 2.4.0-2
 ftl-sdk 0.10.1-3.1
 fuse-common 3.12.0-1
@@ -499,7 +499,7 @@ heaptrack 1.4.0-2
 helvum 0.3.4-1
 hexo-cli 4.3.0-6
 hicolor-icon-theme 0.17-2
-hidapi 0.13.0-1
+hidapi 0.13.1-1
 highway 1.0.2-1
 hmcl-bin 3.5.3.228-1
 htop 3.2.1-1
@@ -545,8 +545,6 @@ jasper 4.0.0-1
 java-environment-common 3-3
 java-runtime-common 3-3
 jbig2dec 0.19-1
-jdk11-graalvm-bin 22.3.0-1
-jdk19-graalvm-bin 22.3.0-1
 jdk8-graalvm-bin 21.2.0-2.1
 jemalloc 1:5.3.0-1
 jetbrains-toolbox 1.27.2.13801-1
@@ -952,9 +950,9 @@ lib32-pam 1.5.2-1
 lib32-pango 1:1.50.12-1
 lib32-pcre2 10.40-3
 lib32-pcsclite 1.9.9-1
-lib32-pipewire 1:0.3.63-3
-lib32-pipewire-jack 1:0.3.63-3
-lib32-pipewire-v4l2 1:0.3.63-3
+lib32-pipewire 1:0.3.63-5
+lib32-pipewire-jack 1:0.3.63-5
+lib32-pipewire-v4l2 1:0.3.63-5
 lib32-pixman 0.42.2-1
 lib32-sdl12-compat 1.2.60-1
 lib32-sdl2 2.26.2-1
@@ -1015,7 +1013,7 @@ libcbor 0.9.0-1
 libcdio 2.1.0-3
 libcdio-paranoia 10.2+2.0.1-2
 libcdr 0.1.7-5
-libcerf 1:2.2-1
+libcerf 1:2.3-1
 libcheese 43.0-1
 libcloudproviders 0.3.1+r8+g3a229ee-1
 libcolord 1.4.6-1
@@ -1645,12 +1643,12 @@ pim-data-exporter 22.12.1-1
 pim-sieve-editor 22.12.1-1
 pimcommon 22.12.1-1
 pinentry 1.2.1-1
-pipewire 1:0.3.63-4
-pipewire-alsa 1:0.3.63-4
-pipewire-audio 1:0.3.63-4
-pipewire-jack 1:0.3.63-4
-pipewire-pulse 1:0.3.63-4
-pipewire-v4l2 1:0.3.63-4
+pipewire 1:0.3.63-5
+pipewire-alsa 1:0.3.63-5
+pipewire-audio 1:0.3.63-5
+pipewire-jack 1:0.3.63-5
+pipewire-pulse 1:0.3.63-5
+pipewire-v4l2 1:0.3.63-5
 pixman 0.42.2-1
 pkgconf 1.8.0-1
 plasma-browser-integration 5.26.5-1
@@ -1670,7 +1668,7 @@ plasma-workspace 5.26.5-1
 plasma-workspace-wallpapers 5.26.5-1
 plasma5-wallpapers-wallpaper-engine 0.5.4-3
 png++ 0.2.10-2
-pnpm 7.23.0-1
+pnpm 7.24.2-1
 podman 4.3.1-2
 podman-compose 1.0.3-2
 podman-dnsname 1.3.1-2
@@ -1745,7 +1743,7 @@ python-blinker 1.5-1
 python-brotli 1.0.9-9
 python-build 0.9.0-1
 python-cachecontrol 1:0.12.11-1
-python-cachetools 5.2.0-1
+python-cachetools 5.2.1-1
 python-cachy 0.3.0-8
 python-cairo 1.23.0-2
 python-cairocffi 1.4.0-1
@@ -1831,7 +1829,7 @@ python-jinja 1:3.1.2-2
 python-json-logger 2.0.4-1
 python-json5 0.9.12-1
 python-jsonschema 4.17.3-1
-python-jupyter-events 0.6.0-1
+python-jupyter-events 0.6.1-1
 python-jupyter_client 7.4.8-1
 python-jupyter_core 5.1.3-1
 python-jupyter_packaging 0.12.3-1
@@ -1971,7 +1969,7 @@ python-sortedcontainers 2.4.0-3
 python-soupsieve 2.3.2.post1-1
 python-sphinx 5.3.0-1
 python-sphinx-alabaster-theme 0.7.12-9
-python-sphinxcontrib-applehelp 1.0.2-9
+python-sphinxcontrib-applehelp 1.0.3-1
 python-sphinxcontrib-devhelp 1.0.2-9
 python-sphinxcontrib-htmlhelp 2.0.0-5
 python-sphinxcontrib-jsmath 1.0.1-12
@@ -2012,7 +2010,7 @@ python-wheel 0.38.4-1
 python-wrapt 1.14.1-1
 python-wsproto 1.2.0-1
 python-wxpython 1:4.2.0-3
-python-xcffib 1.0.0-1
+python-xcffib 1.1.0-1
 python-xlib 0.31-4
 python-yaml 6.0-1
 python-yarl 1.8.2-1
@@ -2106,8 +2104,8 @@ qqc2-desktop-style 5.101.0-1
 qrencode 4.1.1-2
 qsstv 9.5.8-2
 qt-gstreamer 1.2.0-4
-qt5-base 5.15.8+kde+r160-1
-qt5-declarative 5.15.8+kde+r22-2
+qt5-base 5.15.8+kde+r162-1
+qt5-declarative 5.15.8+kde+r24-1
 qt5-gamepad 5.15.8-1
 qt5-graphicaleffects 5.15.8-1
 qt5-imageformats 5.15.8+kde+r6-1
@@ -2169,7 +2167,7 @@ rlwrap 0.46.1-1
 rnnoise 0.4.1-1
 rocs 22.12.1-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.26.14531.18966d424c-1
+rpcs3-git 0.0.26.14540.d28eea342a-1
 rsync 3.2.7-3
 rtkit 0.13-2
 rtl-sdr 1:0.8.0-4
@@ -2228,7 +2226,7 @@ run-parts 5.5-1
 runc 1.1.4-1
 rustdesk-bin 1.1.9-3
 rustup 1.25.1-2
-ryujinx-git r2517.8734ea9dd4-1
+ryujinx-git r2523.600f86dc7b-1
 samba 4.17.4-4
 sane 1.1.1-2
 sbc 2.0-1
@@ -2427,7 +2425,7 @@ virtualbox 7.0.4-3
 virtualbox-ext-oracle 7.0.4-1
 virtualbox-guest-iso 7.0.4-1
 virtualbox-host-dkms 7.0.4-3
-visual-studio-code-bin 1.74.2-1
+visual-studio-code-bin 1.74.3-1
 vkbasalt 0.3.2.8-1
 vkd3d 1.5-1
 vlc-luajit 3.0.18-3

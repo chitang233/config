@@ -545,8 +545,6 @@ jasper
 java-environment-common
 java-runtime-common
 jbig2dec
-jdk11-graalvm-bin
-jdk19-graalvm-bin
 jdk8-graalvm-bin
 jemalloc
 jetbrains-toolbox
