@@ -210,6 +210,7 @@ dee
 default-cursors
 desktop-file-utils
 desmume
+detect-it-easy
 device-mapper
 dhcpcd
 dialog
@@ -270,6 +271,7 @@ egl-wayland
 eglexternalplatform
 eigen
 electron
+electron-netease-cloud-music
 electron19
 element-desktop
 element-web
@@ -433,6 +435,7 @@ gperftools
 gpgme
 gpm
 gptfdisk
+gradle
 granatier
 grantlee
 grantlee-editor
@@ -1507,6 +1510,7 @@ nestopia
 net-snmp
 net-tools
 netavark
+netease-cloud-music-gtk4
 nethack
 netpbm
 nettle
