@@ -1930,6 +1930,7 @@ python-pyopenssl
 python-pyotherside
 python-pyparsing
 python-pyperclip
+python-pyproject-hooks
 python-pypubsub
 python-pyqt5
 python-pyqt5-sip
@@ -2392,6 +2393,7 @@ ttf-liberation
 ttf-material-design-icons
 ttf-material-design-icons-git
 ttf-misans
+ttf-roboto
 ttf-ubuntu-font-family
 twolame
 tzdata
