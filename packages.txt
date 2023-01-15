@@ -24,7 +24,7 @@ akonadiconsole 22.12.1-1
 akregator 22.12.1-1
 alembic 1.8.4-1
 alist-bin 3.8.0-1
-alsa-card-profiles 1:0.3.63-6
+alsa-card-profiles 1:0.3.64-1
 alsa-lib 1.2.8-1
 alsa-plugins 1:1.2.7.1-1
 alsa-topology-conf 1.2.5.1-1
@@ -33,7 +33,7 @@ amtk 5.6.1-1
 analitza 22.12.1-1
 android-ndk r25.b-1
 android-sdk-platform-tools 33.0.3-1
-android-studio 2021.3.1.17-1
+android-studio 2022.1.1.19-1
 android-udev 20230104-1
 antimicrox 3.3.2-1
 aom 3.5.0-1
@@ -110,7 +110,7 @@ boost 1.80.0-3
 boost-libs 1.80.0-3
 bovo 22.12.1-1
 box2d 2.4.1-1
-brave-bin 1:1.46.153-1
+brave-bin 1:1.47.171-1
 breeze 5.26.5-1
 breeze-gtk 5.26.5-1
 breeze-icons 5.101.0-1
@@ -140,7 +140,7 @@ cbonsai 1.3.1-3
 ccid 1.5.1-1
 cdparanoia 10.2-8
 cdrtools 3.02a09-5
-cemu-git 2.0.25.r2.g1cf7226-1
+cemu-git 2.0.25.r4.g9d55f46-1
 cervisia 22.12.1-1
 cfitsio 1:4.2.0-1
 chafa 1.12.4-2
@@ -168,7 +168,7 @@ colord 1.4.6-1
 compiler-rt 14.0.6-1
 compsize 1.5-1
 confuse 3.3-3
-conky 1.15.0-1
+conky 1.17.0-1
 conmon 1:2.1.5-1
 containerd 1.6.14-1
 containers-common 1:0.50.1-2
@@ -178,6 +178,7 @@ coordgen 3.0.1-1
 copyq 6.3.2-1
 coreutils 9.1-3
 cpio 2.13-3
+cpp-httplib 0.11.4-1
 cpu-g-git 0.16.3.1ubuntu1.r64.a94ef88-1
 cpu-x 4.5.0-1
 cpupower-gui 1.0.0-5.1
@@ -196,7 +197,7 @@ cups-pdf 3.0.1-7
 cups-pk-helper 0.2.7-1
 curl 7.87.0-3
 cython 0.29.33-1
-datagrip 2022.3.2-1
+datagrip 2022.3.3-1
 dav1d 1.0.0-1
 db 6.2.32-1
 db5.3 5.3.28-2
@@ -216,7 +217,7 @@ dhcpcd 9.4.1-1
 dialog 1:1.3_20221229-1
 diffutils 3.8-1
 dingtalk-bin 1.4.0.20909-2
-discord 0.0.23-1
+discord 0.0.24-1
 discord-rpc-git 3.4.0.r10.g963aa9f-5
 discount 2.2.7.b-1
 discover 5.26.5-1
@@ -257,6 +258,7 @@ dtkcommon 5.6.3-1
 duf 0.8.1-2
 duktape 2.7.0-5
 dust 0.8.3-1
+dynarmic 6.4.3-3
 e2fsprogs 1.46.5-4
 easyeffects 7.0.0-2
 ebook-tools 0.2.2-7
@@ -318,8 +320,9 @@ file 5.44-1
 filelight 22.12.1-1
 filesystem 2022.10.18-1
 findutils 4.9.0-1
+fio 3.33-1
 firefox-appmenu 108.0.2-1
-firefox-nightly 110.0a1+20230112.1+hee5d2c307738-1
+firefox-nightly 110.0a1+20230114.1+h299ec4caa0bc-1
 firefox-pwa 2.3.0-1
 flac 1.4.2-1
 flake8 1:6.0.0-1
@@ -564,7 +567,7 @@ jupyter-nbclient 0.7.2-1
 jupyter-nbconvert 7.2.7-1
 jupyter-nbformat 5.7.3-1
 jupyter-notebook-shim 0.2.2-1
-jupyter-server 2.0.6-1
+jupyter-server 2.1.0-1
 jupyter-server-mathjax 0.2.6-1
 jupyterlab 3.5.2-1
 jupyterlab-widgets 3.0.5-1
@@ -632,7 +635,7 @@ kdegraphics-mobipocket 22.12.1-1
 kdegraphics-thumbnailers 22.12.1-1
 kdelibs4support 5.101.0-1
 kdenetwork-filesharing 22.12.1-1
-kdenlive 22.12.1-1
+kdenlive 22.12.1-2
 kdepim-addons 22.12.1-1
 kdepim-runtime 22.12.1-1
 kdeplasma-addons 5.26.5-1
@@ -645,6 +648,7 @@ kdf 22.12.1-1
 kdiagram 2.8.0-1
 kdialog 22.12.1-1
 kdiamond 22.12.1-1
+kdiskmark 3.1.2-1
 kdnssd 5.101.0-1
 kdoctools 5.101.0-1
 kdsoap 2.1.1-1
@@ -905,11 +909,11 @@ lib32-libunistring 1.1-1
 lib32-libunwind 1.6.2-2
 lib32-libusb 1.0.26-1
 lib32-libva 2.17.0-1
-lib32-libva-mesa-driver 22.3.2-2
+lib32-libva-mesa-driver 22.3.3-1
 lib32-libvdpau 1.5-1
 lib32-libvorbis 1.3.7-1
 lib32-libvpx1.3 1.3.0-3
-lib32-libwebp 1.2.4-1
+lib32-libwebp 1.3.0-2
 lib32-libwrap 7.6.31-4
 lib32-libx11 1.8.3-1
 lib32-libxau 1.0.11-1
@@ -935,8 +939,8 @@ lib32-libxtst 1.2.4-1
 lib32-libxxf86vm 1.1.5-1
 lib32-llvm-libs 14.0.6-3
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-2
-lib32-mesa 22.3.2-2
-lib32-mesa-vdpau 22.3.2-2
+lib32-mesa 22.3.3-1
+lib32-mesa-vdpau 22.3.3-1
 lib32-mpg123 1.31.1-1
 lib32-ncurses 6.4-1
 lib32-nettle 3.8.1-1
@@ -953,9 +957,9 @@ lib32-pam 1.5.2-1
 lib32-pango 1:1.50.12-1
 lib32-pcre2 10.40-3
 lib32-pcsclite 1.9.9-1
-lib32-pipewire 1:0.3.63-6
-lib32-pipewire-jack 1:0.3.63-6
-lib32-pipewire-v4l2 1:0.3.63-6
+lib32-pipewire 1:0.3.64-1
+lib32-pipewire-jack 1:0.3.64-1
+lib32-pipewire-v4l2 1:0.3.64-1
 lib32-pixman 0.42.2-1
 lib32-sdl12-compat 1.2.60-1
 lib32-sdl2 2.26.2-1
@@ -1325,7 +1329,7 @@ libutempter 1.2.1-3
 libutf8proc 2.8.0-1
 libuv 1.44.2-1
 libva 2.17.0-1
-libva-mesa-driver 22.3.2-3
+libva-mesa-driver 22.3.3-1
 libva-utils 2.17.1-1
 libvdpau 1.5-1
 libverto 0.3.2-4
@@ -1342,7 +1346,7 @@ libvpx 1.12.0-2
 libvpx1.3 1.3.0-3
 libwacom 2.5.0-1
 libwbclient 4.17.4-4
-libwebp 1.2.4-2
+libwebp 1.3.0-2
 libwebsockets 4.3.2-3
 libwireplumber 0.4.13-1
 libwmf 0.2.12-3
@@ -1400,8 +1404,8 @@ lilv 0.24.20-1
 linux-api-headers 5.18.15-1
 linux-firmware 20221214.f3c283e-1
 linux-firmware-whence 20221214.f3c283e-1
-linux-zen 6.1.4.zen2-1
-linux-zen-headers 6.1.4.zen2-1
+linux-zen 6.1.6.zen1-1
+linux-zen-headers 6.1.6.zen1-1
 linuxqq-nt-bwrap 3.0.0_571-5
 lirc 1:0.10.2-2
 live-media 2022.12.01-1
@@ -1461,13 +1465,13 @@ mda.lv2 1.2.10-1
 mdadm 4.2-2
 media-player-info 24-2
 mediainfo 22.12-1
-mesa 22.3.2-3
+mesa 22.3.3-1
 mesa-utils 8.5.0-2
 meson 1.0.0-2
 messagelib 22.12.1-1
 mgba-qt 0.10.0-2
 mgba-sdl 0.10.0-2
-microsoft-edge-stable-bin 108.0.1462.76-1
+microsoft-edge-stable-bin 109.0.1518.52-1
 milou 5.26.5-1
 minetest 5.6.1-2
 minetest-common 5.6.1-2
@@ -1541,12 +1545,12 @@ nvidia-dkms 525.78.01-1
 nvidia-prime 1.0-4
 nvidia-settings 525.78.01-1
 nvidia-utils 525.78.01-1
-nvidia-vaapi-driver-git 0.0.8.r32.g7d4a27a-1
+nvidia-vaapi-driver-git 0.0.8.r33.g0591599-1
 nvtop 3.0.1-1
 nx-x11 3.5.99.26-1
 nxagent 3.5.99.26-1
 nyan-lang-git r254.7b5517f-1
-obs-studio-browser 29.0.0-1
+obs-studio-browser 29.0.0-2
 ocl-icd 2.3.1-1
 okular 22.12.1-1
 onefetch 2.14.2-1
@@ -1647,12 +1651,12 @@ pim-data-exporter 22.12.1-1
 pim-sieve-editor 22.12.1-1
 pimcommon 22.12.1-1
 pinentry 1.2.1-1
-pipewire 1:0.3.63-6
-pipewire-alsa 1:0.3.63-6
-pipewire-audio 1:0.3.63-6
-pipewire-jack 1:0.3.63-6
-pipewire-pulse 1:0.3.63-6
-pipewire-v4l2 1:0.3.63-6
+pipewire 1:0.3.64-1
+pipewire-alsa 1:0.3.64-1
+pipewire-audio 1:0.3.64-1
+pipewire-jack 1:0.3.64-1
+pipewire-pulse 1:0.3.64-1
+pipewire-v4l2 1:0.3.64-1
 pixman 0.42.2-1
 pkgconf 1.8.0-1
 plasma-browser-integration 5.26.5-1
@@ -1672,7 +1676,7 @@ plasma-workspace 5.26.5-2
 plasma-workspace-wallpapers 5.26.5-1
 plasma5-wallpapers-wallpaper-engine 0.5.4-3
 png++ 0.2.10-2
-pnpm 7.24.3-1
+pnpm 7.25.0-1
 podman 4.3.1-2
 podman-compose 1.0.3-2
 podman-dnsname 1.3.1-2
@@ -1764,7 +1768,7 @@ python-comm 0.1.2-1
 python-commonmark 0.9.1-6
 python-configargparse 1.5.3-2
 python-constantly 15.1.0-11
-python-contourpy 1.0.6-1
+python-contourpy 1.0.7-1
 python-coverage 6.5.0-2
 python-crashtest 0.4.1-1
 python-cryptg 0.2-1
@@ -1833,8 +1837,8 @@ python-jinja 1:3.1.2-2
 python-json-logger 2.0.4-1
 python-json5 0.9.12-1
 python-jsonschema 4.17.3-1
-python-jupyter-events 0.6.2-1
-python-jupyter_client 7.4.8-1
+python-jupyter-events 0.6.3-1
+python-jupyter_client 7.4.9-1
 python-jupyter_core 5.1.3-1
 python-jupyter_packaging 0.12.3-1
 python-jupyterlab_server 2.18.0-1
@@ -1882,7 +1886,7 @@ python-pandocfilters 1.5.0-1
 python-paramiko 2.11.1-1
 python-parso 1:0.8.3-1
 python-passlib 1.7.4-5
-python-pbr 5.11.0-2
+python-pbr 5.11.1-1
 python-peewee 3.15.4-1
 python-pep517 0.13.0-1
 python-pexpect 4.8.0-6
@@ -1893,7 +1897,7 @@ python-pkginfo 1.9.6-1
 python-platformdirs 2.6.2-1
 python-pluggy 1.0.0-1
 python-ply 3.11-10
-python-poetry 1.3.1-3
+python-poetry 1.3.2-1
 python-poetry-core 1.4.0-1
 python-poetry-plugin-export 1.2.0-1
 python-polib 1.1.1-1.1
@@ -1939,7 +1943,7 @@ python-pyrsistent 0.19.3-1
 python-pyscard 2.0.5-1
 python-pysmbc 1.0.23-3
 python-pysocks 1.7.1-7
-python-pytest 7.2.0-4
+python-pytest 7.2.1-1
 python-python-socks 2.0.3-2
 python-pytz 2022.7-1
 python-pyusb 1.2.1-3
@@ -1973,7 +1977,7 @@ python-snowballstemmer 2.2.0-3
 python-sortedcontainers 2.4.0-3
 python-soupsieve 2.3.2.post1-1
 python-sphinx 5.3.0-1
-python-sphinx-alabaster-theme 0.7.12-9
+python-sphinx-alabaster-theme 0.7.13-1
 python-sphinxcontrib-applehelp 1.0.3-1
 python-sphinxcontrib-devhelp 1.0.2-9
 python-sphinxcontrib-htmlhelp 2.0.0-5
@@ -1993,7 +1997,7 @@ python-tornado 6.2.0-2
 python-tox 3.26.0-2
 python-traitlets 5.8.1-1
 python-trio 0.22.0-2
-python-trove-classifiers 2022.12.22-1
+python-trove-classifiers 2023.1.12-1
 python-twisted 22.10.0-1
 python-typing_extensions 4.4.0-1
 python-typing_inspect 0.8.0-1
@@ -2110,7 +2114,7 @@ qrencode 4.1.1-2
 qsstv 9.5.8-2
 qt-gstreamer 1.2.0-4
 qt5-base 5.15.8+kde+r162-1
-qt5-declarative 5.15.8+kde+r24-1
+qt5-declarative 5.15.8+kde+r24-2
 qt5-gamepad 5.15.8-1
 qt5-graphicaleffects 5.15.8-1
 qt5-imageformats 5.15.8+kde+r6-1
@@ -2231,7 +2235,7 @@ run-parts 5.5-1
 runc 1.1.4-1
 rustdesk-bin 1.1.9-3
 rustup 1.25.1-2
-ryujinx-git r2536.9f57747c57-1
+ryujinx-git r2546.b402b4e7f6-1
 samba 4.17.4-4
 sane 1.1.1-2
 sbc 2.0-1
@@ -2378,7 +2382,7 @@ tk 8.6.13-1
 tmux 3.3_a-2
 tor-browser 12.0.1-1
 tpm2-tss 3.2.0-3
-traceroute 2.1.0-5
+traceroute 2.1.1-1
 tracker3 3.4.2-1
 translate-shell 0.9.7-1
 trash-cli 0.22.10.20-3
@@ -2388,7 +2392,7 @@ tslib 1.22-1
 ttf-arimo-nerd 2.2.2-1
 ttf-dejavu 2.37+18+g9b5d1b2f-3
 ttf-hack 3.003-3
-ttf-jetbrains-mono 2.242-2
+ttf-jetbrains-mono 2.304-1
 ttf-liberation 2.1.5-1
 ttf-material-design-icons 4.0.0-1
 ttf-material-design-icons-git v7.0.96.r0.g6b7bfd3-1
@@ -2402,7 +2406,7 @@ udftools 2.3-1
 udisks2 2.9.4-1
 umbrello 22.12.1-1
 unace 2.5-11
-ungoogled-chromium 108.0.5359.124-1
+ungoogled-chromium 109.0.5414.74-1
 unrar 1:6.2.3-1
 unzip 6.0-19
 upower 1.90.0-1
@@ -2420,7 +2424,7 @@ vamp-plugin-sdk 2.10.0-1
 vcdimager 2.0.1-4
 vde2 2.3.3-3
 vdpauinfo 1.5-1
-ventoy-bin 1.0.87-1
+ventoy-bin 1.0.88-1
 vid.stab 1.1-3
 vim 9.0.1182-1
 vim-runtime 9.0.1182-1
@@ -2442,7 +2446,7 @@ vte3 0.70.2-1
 vtk 9.1.0-24
 vulkan-headers 1:1.3.235-1
 vulkan-icd-loader 1.3.235-1
-vulkan-intel 22.3.2-3
+vulkan-intel 22.3.3-1
 vulkan-tools 1.3.235-2
 w3m 0.5.3.git20220409_1-2
 wavpack 5.6.0-1
@@ -2580,7 +2584,7 @@ xorgproto 2022.2-1
 xosd 2.2.14-10
 xpra 4.3.3-1
 xsel 1.2.0.20200527-2
-xterm 377-1
+xterm 378-1
 xvidcore 1.3.7-2
 xxhash 0.8.1-3
 xz 5.4.1-1
@@ -2608,7 +2612,7 @@ yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.0-1
 yubioath-desktop 5.1.0-3
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3295-1
+yuzu-early-access 3308-1
 zam-plugins 4.1-2
 zam-plugins-clap 4.1-2
 zam-plugins-ladspa 4.1-2
@@ -2638,4 +2642,6 @@ zulu-8-bin 8.0.352-1
 zulu-jdk-fx-bin 17.0.1-1
 zvbi 0.2.39-1
 zxing-cpp 2.0.0-1
+zycore-c 1.4.1-2
+zydis 4.0.0-2
 zziplib 0.13.72-1

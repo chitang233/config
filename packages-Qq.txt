@@ -178,6 +178,7 @@ coordgen
 copyq
 coreutils
 cpio
+cpp-httplib
 cpu-g-git
 cpu-x
 cpupower-gui
@@ -257,6 +258,7 @@ dtkcommon
 duf
 duktape
 dust
+dynarmic
 e2fsprogs
 easyeffects
 ebook-tools
@@ -318,6 +320,7 @@ file
 filelight
 filesystem
 findutils
+fio
 firefox-appmenu
 firefox-nightly
 firefox-pwa
@@ -645,6 +648,7 @@ kdf
 kdiagram
 kdialog
 kdiamond
+kdiskmark
 kdnssd
 kdoctools
 kdsoap
@@ -2638,4 +2642,6 @@ zulu-8-bin
 zulu-jdk-fx-bin
 zvbi
 zxing-cpp
+zycore-c
+zydis
 zziplib
