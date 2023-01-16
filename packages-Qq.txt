@@ -88,6 +88,7 @@ bash2048
 bashtop
 bat
 bc
+beep
 besttrace
 betterdiscord-installer
 betterdiscordctl-git
@@ -2640,6 +2641,7 @@ zulu-18-bin
 zulu-19-bin
 zulu-8-bin
 zulu-jdk-fx-bin
+zulu-jre-fx-bin
 zvbi
 zxing-cpp
 zycore-c
