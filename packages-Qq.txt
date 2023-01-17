@@ -1364,6 +1364,7 @@ libxcb
 libxcomp
 libxcomposite
 libxcrypt
+libxcrypt-compat
 libxcursor
 libxcvt
 libxdamage
@@ -1515,6 +1516,7 @@ nestopia
 net-snmp
 net-tools
 netavark
+netease-cloud-music
 netease-cloud-music-gtk4
 nethack
 netpbm
