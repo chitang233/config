@@ -1614,6 +1614,7 @@ pass
 patch
 patchelf
 pcaudiolib
+pcem
 pciutils
 pcre
 pcre2
