@@ -23,7 +23,7 @@ akonadi-search 22.12.1-1
 akonadiconsole 22.12.1-1
 akregator 22.12.1-1
 alembic 1.8.4-1
-alist-bin 3.8.0-1
+alist-bin 3.9.0-1
 alsa-card-profiles 1:0.3.64-1
 alsa-lib 1.2.8-1
 alsa-plugins 1:1.2.7.1-1
@@ -98,7 +98,7 @@ bison 3.8.2-4
 black-hole-solver 1.12.0-1
 blas 3.11.0-1
 bleachbit 4.4.2-3
-blender 17:3.4.1-4
+blender 17:3.4.1-7
 blinken 22.12.1-1
 blosc 1.21.3-1
 bluedevil 1:5.26.5-1
@@ -153,7 +153,7 @@ chrpath 0.16-4
 cifs-utils 7.0-2
 ciphey 5.14.0-6
 cjson 1.7.15-1
-clang 14.0.6-4
+clang 15.0.7-1
 clash-meta-bin 1.13.2-1
 clion 1:2022.3.1-1
 cloudflared 2023.1.0-1
@@ -166,7 +166,7 @@ cmake 3.25.1-1
 cni-plugins 1.1.1-2
 cogl 1.22.8-2
 colord 1.4.6-1
-compiler-rt 14.0.6-1
+compiler-rt 15.0.7-1
 compsize 1.5-1
 confuse 3.3-3
 conky 1.17.0-1
@@ -217,7 +217,7 @@ device-mapper 2.03.18-1
 dhcpcd 9.4.1-1
 dialog 1:1.3_20221229-1
 diffutils 3.8-1
-dingtalk-bin 1.4.0.20909-2
+dingtalk-bin 1.6.0.230113-2
 discord 0.0.24-1
 discord-rpc-git 3.4.0.r10.g963aa9f-5
 discount 2.2.7.b-1
@@ -276,8 +276,8 @@ eigen 3.4.0-1
 electron 22.0.2-1
 electron-netease-cloud-music 0.9.36-1
 electron19 19.1.9-3
-element-desktop 1.11.17-1
-element-web 1.11.17-1
+element-desktop 1.11.18-1
+element-web 1.11.18-1
 elisa 22.12.1-1
 emacs 28.2-2
 embree 3.13.5-1
@@ -325,6 +325,7 @@ fio 3.33-1
 firefox-appmenu 108.0.2-2
 firefox-nightly 111.0a1+20230118.1+h455aa95a34de-1
 firefox-pwa 2.3.0-1
+firejail 0.9.72-1
 flac 1.4.2-1
 flake8 1:6.0.0-1
 flashrom 1.2-4
@@ -439,7 +440,7 @@ gperftools 2.10-1
 gpgme 1.18.0-2
 gpm 1.20.7.r38.ge82d1a6-4
 gptfdisk 1.0.9-2
-gradle 7.5.1-1
+gradle 7.6-1
 granatier 22.12.1-1
 grantlee 5.3.1-1
 grantlee-editor 22.12.1-1
@@ -549,8 +550,8 @@ itinerary 22.12.1-1
 itstool 1:2.0.7-1
 jansson 2.14-2
 jasper 4.0.0-1
-java-environment-common 3-3
-java-runtime-common 3-3
+java-environment-common 3-4
+java-runtime-common 3-4
 jbig2dec 0.19-1
 jdk8-graalvm-bin 21.2.0-2.1
 jemalloc 1:5.3.0-1
@@ -643,7 +644,7 @@ kdeplasma-addons 5.26.5-1
 kdesdk-kio 22.12.1-1
 kdesdk-thumbnailers 22.12.1-1
 kdesu 5.102.0-1
-kdevelop 22.12.1-1
+kdevelop 22.12.1-3
 kdevelop-php 22.12.1-1
 kdf 22.12.1-1
 kdiagram 2.8.0-1
@@ -910,7 +911,7 @@ lib32-libunistring 1.1-1
 lib32-libunwind 1.6.2-2
 lib32-libusb 1.0.26-1
 lib32-libva 2.17.0-1
-lib32-libva-mesa-driver 22.3.3-1
+lib32-libva-mesa-driver 22.3.3-3
 lib32-libvdpau 1.5-1
 lib32-libvorbis 1.3.7-1
 lib32-libvpx1.3 1.3.0-3
@@ -938,10 +939,10 @@ lib32-libxss 1.2.3-2
 lib32-libxt 1.2.1-1
 lib32-libxtst 1.2.4-1
 lib32-libxxf86vm 1.1.5-1
-lib32-llvm-libs 14.0.6-3
+lib32-llvm-libs 15.0.7-1
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-2
-lib32-mesa 22.3.3-1
-lib32-mesa-vdpau 22.3.3-1
+lib32-mesa 22.3.3-3
+lib32-mesa-vdpau 22.3.3-3
 lib32-mpg123 1.31.2-1
 lib32-ncurses 6.4-1
 lib32-nettle 3.8.1-1
@@ -1330,7 +1331,7 @@ libutempter 1.2.1-3
 libutf8proc 2.8.0-1
 libuv 1.44.2-1
 libva 2.17.0-1
-libva-mesa-driver 22.3.3-1
+libva-mesa-driver 22.3.3-3
 libva-utils 2.17.1-1
 libvdpau 1.5-1
 libverto 0.3.2-4
@@ -1408,11 +1409,12 @@ linux-firmware 20221214.f3c283e-1
 linux-firmware-whence 20221214.f3c283e-1
 linux-zen 6.1.6.zen1-2
 linux-zen-headers 6.1.6.zen1-2
-linuxqq-nt-bwrap 3.0.0_571-5
+linuxqq 2:3.0.0_571-2
+linuxqq-firejail 1:0.0.7-2
 lirc 1:0.10.2-2
 live-media 2022.12.01-1
-lldb 14.0.6-1
-llvm-libs 14.0.6-4
+lldb 15.0.7-1
+llvm-libs 15.0.7-1
 lm_sensors 1:3.6.0.r41.g31d1f125-2
 lmdb 0.9.29-1
 lmms 1.2.2-13
@@ -1467,7 +1469,7 @@ mda.lv2 1.2.10-1
 mdadm 4.2-2
 media-player-info 24-2
 mediainfo 22.12-1
-mesa 22.3.3-1
+mesa 22.3.3-3
 mesa-utils 8.5.0-2
 meson 1.0.0-2
 messagelib 22.12.1-1
@@ -1498,7 +1500,7 @@ mono 6.12.0.177-1
 mpfr 4.2.0-2
 mpg123 1.31.2-1
 mplayer 38407-1
-mpv 1:0.35.0-4
+mpv 1:0.35.0-5
 mtdev 1.1.6-2
 mtools 1:4.0.42-1
 mujs 1.3.2-1
@@ -1578,7 +1580,7 @@ openjpeg2 2.5.0-2
 openmpi 4.1.4-4
 openpgl 0.4.1beta-1
 openpmix 4.2.2-1
-openshadinglanguage 1.12.8.0-1
+openshadinglanguage 1.12.8.0-2
 openssh 9.1p1-3
 openssl 3.0.7-4
 openssl-1.1 1.1.1.s-4
@@ -1695,7 +1697,7 @@ popt 1.19-1
 portaudio 1:19.7.0-1
 portmidi 236-1
 portsmf 234-2
-postgresql-libs 14.6-1
+postgresql-libs 14.6-2
 potrace 1.16-2
 powerdevil 5.26.5-1
 poxml 22.12.1-1
@@ -1719,7 +1721,7 @@ pybind11 2.10.3-1
 pycharm-professional 2022.3.1-1
 pyinstaller 5.7.0-1
 pyinstaller-hooks-contrib 2022.15-1
-pyside2 5.15.8-3
+pyside2 5.15.8-5
 pystring 1.1.3.git1-1
 python 3.10.9-1
 python-aiofiles 22.1.0-3
@@ -1974,7 +1976,7 @@ python-send2trash 1.8.0-3
 python-setuptools 1:65.6.3-1
 python-setuptools-scm 7.1.0-1
 python-shellingham 1.5.0.post1-1
-python-shiboken2 5.15.8-3
+python-shiboken2 5.15.8-5
 python-six 1.16.0-6
 python-sniffio 1.3.0-2
 python-snowballstemmer 2.2.0-3
@@ -2005,7 +2007,7 @@ python-trove-classifiers 2023.1.12-1
 python-twisted 22.10.0-1
 python-typing_extensions 4.4.0-1
 python-typing_inspect 0.8.0-1
-python-ujson 5.6.0-1
+python-ujson 5.7.0-1
 python-unidecode 1.3.6-1
 python-unpaddedbase64 2.1.0-4
 python-urllib3 1.26.12-1
@@ -2121,7 +2123,7 @@ qt5-base 5.15.8+kde+r165-1
 qt5-declarative 5.15.8+kde+r24-2
 qt5-gamepad 5.15.8-1
 qt5-graphicaleffects 5.15.8-1
-qt5-imageformats 5.15.8+kde+r6-1
+qt5-imageformats 5.15.8+kde+r9-1
 qt5-location 5.15.8+kde+r3-1
 qt5-multimedia 5.15.8+kde+r1-1
 qt5-networkauth 5.15.8-1
@@ -2131,7 +2133,7 @@ qt5-script 5.15.12-2
 qt5-sensors 5.15.8-1
 qt5-speech 5.15.8+kde+r1-1
 qt5-svg 5.15.8+kde+r8-1
-qt5-tools 5.15.8+kde+r1-1
+qt5-tools 5.15.8+kde+r1-3
 qt5-translations 5.15.8-1
 qt5-wayland 5.15.8+kde+r57-1
 qt5-webchannel 5.15.8+kde+r3-1
@@ -2146,7 +2148,7 @@ qt6-base 6.4.2-1
 qt6-declarative 6.4.2-1
 qt6-imageformats 6.4.2-1
 qt6-svg 6.4.2-1
-qt6-tools 6.4.2-1
+qt6-tools 6.4.2-3
 qt6-translations 6.4.2-1
 qt6-wayland 6.4.2-1
 qtkeychain-qt5 0.13.2-1
@@ -2180,7 +2182,7 @@ rlwrap 0.46.1-1
 rnnoise 0.4.1-1
 rocs 22.12.1-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.26.14577.b3a9c8d83f-1
+rpcs3-git 0.0.26.14584.c3c2bb7ad8-1
 rsync 3.2.7-3
 rtkit 0.13-2
 rtl-sdr 1:0.8.0-4
@@ -2393,7 +2395,7 @@ trash-cli 0.22.10.20-3
 tree 2.1.0-1
 triplea 2.6.586-1
 tslib 1.22-1
-ttf-arimo-nerd 2.2.2-1
+ttf-arimo-nerd 2.3.1-1
 ttf-dejavu 2.37+18+g9b5d1b2f-3
 ttf-hack 3.003-3
 ttf-jetbrains-mono 2.304-1
@@ -2450,7 +2452,7 @@ vte3 0.70.2-1
 vtk 9.1.0-25
 vulkan-headers 1:1.3.235-1
 vulkan-icd-loader 1.3.235-1
-vulkan-intel 22.3.3-1
+vulkan-intel 22.3.3-3
 vulkan-tools 1.3.235-2
 w3m 0.5.3.git20220409_1-2
 wavpack 5.6.0-1
@@ -2629,6 +2631,7 @@ zarchive-git 0.1.2.r0.gd2c7177-2
 zbar 0.23.90-1
 zenity 3.43.0-1
 zeromq 4.3.4-2
+zerotier-gui-git 1.4.0.r88.6be475e-1
 zerotier-one 1.10.2-1
 zimg 3.0.4-1
 zip 3.0-10

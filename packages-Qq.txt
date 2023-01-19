@@ -325,6 +325,7 @@ fio
 firefox-appmenu
 firefox-nightly
 firefox-pwa
+firejail
 flac
 flake8
 flashrom
@@ -1408,7 +1409,8 @@ linux-firmware
 linux-firmware-whence
 linux-zen
 linux-zen-headers
-linuxqq-nt-bwrap
+linuxqq
+linuxqq-firejail
 lirc
 live-media
 lldb
@@ -2629,6 +2631,7 @@ zarchive-git
 zbar
 zenity
 zeromq
+zerotier-gui-git
 zerotier-one
 zimg
 zip
