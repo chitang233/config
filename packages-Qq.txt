@@ -65,6 +65,7 @@ audacity
 audiocd-kio
 audiofile
 audit
+augeas
 autoconf
 autoconf-archive
 automake
@@ -127,6 +128,7 @@ ca-certificates
 ca-certificates-mozilla
 ca-certificates-utils
 cabextract
+caddy
 cairo
 cairomm
 calendarsupport
@@ -207,6 +209,9 @@ dbus-glib
 dbus-python
 dconf
 ddgr
+debian-archive-keyring
+debian-ports-archive-keyring
+debootstrap
 debugedit
 dee
 default-cursors
@@ -276,6 +281,7 @@ eigen
 electron
 electron-netease-cloud-music
 electron19
+electron20
 element-desktop
 element-web
 elisa
@@ -290,7 +296,7 @@ espeak-ng
 eventviews
 evince
 exa
-exfat-utils
+exfatprogs
 exiv2
 expat
 f2fs-tools
@@ -431,6 +437,7 @@ gnupg
 gnuplot
 gnutls
 go
+gobject-introspection
 gobject-introspection-runtime
 goland
 goverlay-bin
@@ -509,6 +516,7 @@ hexo-cli
 hicolor-icon-theme
 hidapi
 highway
+hivex
 hmcl-bin
 htop
 http-parser
@@ -1026,6 +1034,7 @@ libcerf
 libcheese
 libcloudproviders
 libcolord
+libconfig
 libcpuid
 libcups
 libcurl-compat
@@ -1058,6 +1067,7 @@ libetonyek
 libev
 libevdev
 libevent
+libewf
 libexif
 libexttextcat
 libfakekey
@@ -1086,6 +1096,7 @@ libgphoto2
 libgravatar
 libgssglue
 libgudev
+libguestfs
 libgusb
 libgxps
 libhandy
@@ -1142,6 +1153,7 @@ liblangtag
 liblc3
 libldac
 libldap
+libldm
 libliftoff
 liblo
 liblouis
@@ -1186,6 +1198,7 @@ libnfs
 libnftnl
 libnghttp2
 libnice
+libnih
 libnl
 libnm
 libnotify
@@ -1277,6 +1290,8 @@ libsasl
 libsbsms
 libseccomp
 libsecret
+libselinux
+libsepol
 libshout
 libsigc++
 libsigc++-3.0
@@ -1338,6 +1353,7 @@ libverto
 libvirt
 libvirt-glib
 libvirt-python
+libvirt-sandbox
 libvirt-storage-gluster
 libvirt-storage-iscsi-direct
 libvisio
@@ -1421,12 +1437,16 @@ lmms
 log4cplus
 lokalize
 lpsolve
+lrzip
 lsb-release
 lshw
 lskat
 lsof
 lsp-plugins
+lsscsi
 lua
+lua-alt-getopt
+lua-filesystem
 lua51
 lua51-socket
 lua52
@@ -1437,6 +1457,8 @@ lunar-client
 lutris
 lv2
 lvm2
+lxc
+lxcfs
 lz4
 lzo
 lzop
@@ -1599,6 +1621,7 @@ oxygen-sounds
 p11-kit
 p7zip
 pacman
+pacman-contrib
 pacman-mirrorlist
 pahole
 palapeli
@@ -1637,6 +1660,7 @@ perl-http-date
 perl-http-message
 perl-http-negotiate
 perl-io-html
+perl-libintl-perl
 perl-libwww
 perl-lwp-mediatypes
 perl-mailtools
@@ -1861,6 +1885,7 @@ python-loguru
 python-lxml
 python-lz4
 python-magic
+python-mako
 python-markdown
 python-markupsafe
 python-matplotlib
@@ -2119,6 +2144,7 @@ qqc2-desktop-style
 qrencode
 qsstv
 qt-gstreamer
+qt-virt-manager
 qt5-base
 qt5-declarative
 qt5-gamepad
@@ -2151,6 +2177,7 @@ qt6-svg
 qt6-tools
 qt6-translations
 qt6-wayland
+qtermwidget
 qtkeychain-qt5
 qtractor
 qtscrcpy
@@ -2183,6 +2210,7 @@ rnnoise
 rocs
 rpcbind
 rpcs3-git
+rpcsvc-proto
 rsync
 rtkit
 rtl-sdr
@@ -2245,6 +2273,9 @@ ryujinx-git
 samba
 sane
 sbc
+sbkeys
+sbsigntools
+sbupdate-git
 scdoc
 scour
 scrcpy
@@ -2278,7 +2309,9 @@ signond
 simplescreenrecorder
 skanlite
 skanpage
+skopeo
 slang
+sleuthkit
 slirp4netns
 smartmontools
 smbclient
@@ -2305,9 +2338,11 @@ speexdsp
 spglib
 spice
 spice-gtk
+spice-protocol
 spirv-headers
 spirv-tools
 sqlite
+squashfs-tools
 sratom
 srt
 sshfs
@@ -2322,6 +2357,7 @@ strace
 sudo
 suil
 suitesparse
+supermin
 supertux
 supertuxkart
 svgpart
@@ -2333,6 +2369,7 @@ swtpm
 syndication
 syntax-highlighting
 sysfsutils
+syslinux
 sysstat
 system-config-printer
 systemd
@@ -2407,6 +2444,7 @@ ttf-roboto
 ttf-ubuntu-font-family
 twolame
 tzdata
+ubuntu-keyring
 uchardet
 udftools
 udisks2
@@ -2435,6 +2473,7 @@ vid.stab
 vim
 vim-runtime
 virglrenderer
+virt-bootstrap-git
 virt-install
 virt-manager
 virtualbox
@@ -2594,11 +2633,13 @@ xterm
 xvidcore
 xxhash
 xz
+xz-static
 yacd
 yacd-tauri
 yajl
 yakuake
 yaml-cpp
+yara
 yarn
 yasm
 yelp

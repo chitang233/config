@@ -23,7 +23,7 @@ akonadi-search 22.12.1-1
 akonadiconsole 22.12.1-1
 akregator 22.12.1-1
 alembic 1.8.4-1
-alist-bin 3.9.0-1
+alist-bin 3.9.1-1
 alsa-card-profiles 1:0.3.64-1
 alsa-lib 1.2.8-1
 alsa-plugins 1:1.2.7.1-1
@@ -65,6 +65,7 @@ audacity 1:3.2.3-1
 audiocd-kio 22.12.1-1
 audiofile 0.3.6-7
 audit 3.0.9-1
+augeas 1.14.0-1
 autoconf 2.71-1
 autoconf-archive 1:2022.09.03-1
 automake 1.16.5-1
@@ -127,6 +128,7 @@ ca-certificates 20220905-1
 ca-certificates-mozilla 3.87-1
 ca-certificates-utils 20220905-1
 cabextract 1.9.1-2
+caddy 2.6.2-1
 cairo 1.17.6-2
 cairomm 1.14.4-1
 calendarsupport 22.12.1-1
@@ -207,6 +209,9 @@ dbus-glib 0.112-2
 dbus-python 1.2.18-3
 dconf 0.40.0-2
 ddgr 2.1-2
+debian-archive-keyring 2021.1.1-1
+debian-ports-archive-keyring 2022.02.15-1
+debootstrap 1.0.128-1
 debugedit 5.0-4
 dee 1.2.7-13
 default-cursors 2-1
@@ -225,7 +230,7 @@ discover 5.26.5-1
 discover-overlay 0.6.3-1.1
 distrobox 1.4.2.1-1
 djvulibre 3.5.28-4
-dkms 3.0.9-1
+dkms 3.0.10-1
 dmenu 5.2-1
 dmidecode 3.4-1
 dmraid 1.0.0.rc16.3-14
@@ -273,9 +278,10 @@ efivar 38-2
 egl-wayland 2:1.1.11-2
 eglexternalplatform 1.1-2
 eigen 3.4.0-1
-electron 22.0.2-1
+electron 22.0.3-1
 electron-netease-cloud-music 0.9.36-1
 electron19 19.1.9-3
+electron20 20.3.10-1
 element-desktop 1.11.18-1
 element-web 1.11.18-1
 elisa 22.12.1-1
@@ -290,7 +296,7 @@ espeak-ng 1.51.1-2
 eventviews 22.12.1-1
 evince 43.1-2
 exa 0.10.1-6
-exfat-utils 1.3.0-2
+exfatprogs 1.2.0-1
 exiv2 0.27.5-3
 expat 2.5.0-1
 f2fs-tools 1.15.0-2
@@ -431,6 +437,7 @@ gnupg 2.2.40-1
 gnuplot 5.4.5-1
 gnutls 3.7.8-4
 go 2:1.19.5-1
+gobject-introspection 1.74.0-1
 gobject-introspection-runtime 1.74.0-1
 goland 2022.3.1-1
 goverlay-bin 0.9.1-2
@@ -509,6 +516,7 @@ hexo-cli 4.3.0-6
 hicolor-icon-theme 0.17-2
 hidapi 0.13.1-1
 highway 1.0.2-1
+hivex 1.3.21-7
 hmcl-bin 3.5.3.228-2
 htop 3.2.1-1
 http-parser 2.9.4-1
@@ -1026,6 +1034,7 @@ libcerf 1:2.3-1
 libcheese 43.0-1
 libcloudproviders 0.3.1+r8+g3a229ee-1
 libcolord 1.4.6-1
+libconfig 1.7.3-1
 libcpuid 0.6.2-1
 libcups 1:2.4.2-3
 libcurl-compat 7.87.0-3
@@ -1058,6 +1067,7 @@ libetonyek 0.1.10-3
 libev 4.33-2
 libevdev 1.13.0-1
 libevent 2.1.12-4
+libewf 20140608-6
 libexif 0.6.24-1
 libexttextcat 3.4.6-1
 libfakekey 0.3-2
@@ -1086,6 +1096,7 @@ libgphoto2 2.5.30-1
 libgravatar 22.12.1-1
 libgssglue 0.7-1
 libgudev 237-2
+libguestfs 1.48.6-2
 libgusb 0.4.3-1
 libgxps 0.3.2-3
 libhandy 1.8.0-1
@@ -1142,6 +1153,7 @@ liblangtag 0.6.4-1
 liblc3 1.0.1-1
 libldac 2.0.2.3-1
 libldap 2.6.3-2
+libldm 0.2.5-2
 libliftoff 0.3.0-1
 liblo 1:0.31-2
 liblouis 3.24.0-1
@@ -1186,6 +1198,7 @@ libnfs 5.0.2-1
 libnftnl 1.2.4-1
 libnghttp2 1.51.0-1
 libnice 0.1.21-1
+libnih 1.0.3-4
 libnl 3.7.0-1
 libnm 1.40.10-1
 libnotify 0.8.1-1
@@ -1277,6 +1290,8 @@ libsasl 2.1.28-3
 libsbsms 2.3.0-3
 libseccomp 2.5.4-1
 libsecret 0.20.5-2
+libselinux 3.4-1
+libsepol 3.4-1
 libshout 1:2.4.6-2
 libsigc++ 2.12.0-1
 libsigc++-3.0 3.4.0-1
@@ -1335,11 +1350,12 @@ libva-mesa-driver 22.3.3-3
 libva-utils 2.17.1-1
 libvdpau 1.5-1
 libverto 0.3.2-4
-libvirt 1:8.10.0-1
+libvirt 1:9.0.0-1
 libvirt-glib 4.0.0-2
-libvirt-python 1:8.10.0-1
-libvirt-storage-gluster 1:8.10.0-1
-libvirt-storage-iscsi-direct 1:8.10.0-1
+libvirt-python 1:9.0.0-1
+libvirt-sandbox 0.8.0-2
+libvirt-storage-gluster 1:9.0.0-1
+libvirt-storage-iscsi-direct 1:9.0.0-1
 libvisio 0.1.7-8
 libvisual 0.4.0-8
 libvncserver 0.9.13-1
@@ -1421,12 +1437,16 @@ lmms 1.2.2-13
 log4cplus 2.0.8-1
 lokalize 22.12.1-1
 lpsolve 5.5.2.11-2
+lrzip 0.651-2
 lsb-release 2.0.r48.3cf5103-1
 lshw B.02.19.2-5
 lskat 22.12.1-1
 lsof 4.96.5-1
 lsp-plugins 1.2.4-1
+lsscsi 0.32-1
 lua 5.4.4-3
+lua-alt-getopt 0.8.0-1
+lua-filesystem 1.8.0-3
 lua51 5.1.5-9
 lua51-socket 1:3.1.0-1
 lua52 5.2.4-5
@@ -1437,6 +1457,8 @@ lunar-client 2.15.1-1
 lutris 0.5.12-2
 lv2 1.18.10-1
 lvm2 2.03.18-1
+lxc 1:5.0.1-2
+lxcfs 5.0.2-1
 lz4 1:1.9.4-1
 lzo 2.10-4
 lzop 1.04-3
@@ -1599,6 +1621,7 @@ oxygen-sounds 5.26.5-1
 p11-kit 0.24.1-1
 p7zip 1:17.04-3
 pacman 6.0.2-5
+pacman-contrib 1.8.2-1
 pacman-mirrorlist 20221204-1
 pahole 1:1.24+r29+g02d67c5-1
 palapeli 22.12.1-1
@@ -1637,6 +1660,7 @@ perl-http-date 6.05-6
 perl-http-message 6.44-1
 perl-http-negotiate 6.01-11
 perl-io-html 1.004-3
+perl-libintl-perl 1.33-1
 perl-libwww 6.67-1
 perl-lwp-mediatypes 6.04-3
 perl-mailtools 2.21-6
@@ -1792,7 +1816,7 @@ python-distlib 0.3.6-1
 python-distro 1.8.0-2
 python-docutils 1:0.19-2
 python-dotenv 0.21.0-1
-python-dulwich 0.21.1-1
+python-dulwich 0.21.2-1
 python-emoji 2.2.0-1
 python-entrypoints 0.4-2
 python-evdev 1.6.0-1
@@ -1861,6 +1885,7 @@ python-loguru 0.6.0-2
 python-lxml 4.9.2-1
 python-lz4 3.1.10-7
 python-magic 1:0.4.27-1
+python-mako 1.2.4-1
 python-markdown 3.4.1-2
 python-markupsafe 2.1.1-1
 python-matplotlib 3.6.2-2
@@ -2119,6 +2144,7 @@ qqc2-desktop-style 5.102.0-1
 qrencode 4.1.1-2
 qsstv 9.5.8-2
 qt-gstreamer 1.2.0-4
+qt-virt-manager 0.72.99-4.1
 qt5-base 5.15.8+kde+r165-1
 qt5-declarative 5.15.8+kde+r24-2
 qt5-gamepad 5.15.8-1
@@ -2151,6 +2177,7 @@ qt6-svg 6.4.2-1
 qt6-tools 6.4.2-3
 qt6-translations 6.4.2-1
 qt6-wayland 6.4.2-1
+qtermwidget 1.2.0-1
 qtkeychain-qt5 0.13.2-1
 qtractor 0.9.30-1
 qtscrcpy 2.1.2-1.1
@@ -2183,6 +2210,7 @@ rnnoise 0.4.1-1
 rocs 22.12.1-1
 rpcbind 1.2.6-3
 rpcs3-git 0.0.26.14584.c3c2bb7ad8-1
+rpcsvc-proto 1.4.3-1
 rsync 3.2.7-3
 rtkit 0.13-2
 rtl-sdr 1:0.8.0-4
@@ -2241,10 +2269,13 @@ run-parts 5.5-1
 runc 1.1.4-1
 rustdesk-bin 1.1.9-3
 rustup 1.25.1-2
-ryujinx-git r2560.410be95ab6-1
+ryujinx-git r2564.de3134adbe-1
 samba 4.17.4-4
 sane 1.1.1-2
 sbc 2.0-1
+sbkeys 1.1.0-2
+sbsigntools 0.9.4-2
+sbupdate-git 0.r131.4926075-1
 scdoc 1.11.2-4
 scour 0.38.2-2
 scrcpy 1.25-1
@@ -2278,7 +2309,9 @@ signond 8.61-1
 simplescreenrecorder 0.4.4-1
 skanlite 22.12.1-1
 skanpage 22.12.1-1
+skopeo 1.10.0-1
 slang 2.3.3-2
+sleuthkit 4.11.1-1
 slirp4netns 1.2.0-1
 smartmontools 7.3-1
 smbclient 4.17.4-4
@@ -2305,9 +2338,11 @@ speexdsp 1.2.1-1
 spglib 2.0.2-1
 spice 0.15.1-1
 spice-gtk 0.41-5
+spice-protocol 0.14.4-1
 spirv-headers 1:1.3.236.0-1
 spirv-tools 2022.4-1
 sqlite 3.40.1-1
+squashfs-tools 4.5.1-2
 sratom 0.6.14-1
 srt 1.5.1-3
 sshfs 3.7.3-1
@@ -2322,6 +2357,7 @@ strace 6.1-2
 sudo 1.9.12.p1-1
 suil 0.10.18-1
 suitesparse 6.0.3-1
+supermin 5.3.2-1
 supertux 0.6.3-5
 supertuxkart 1.4-5
 svgpart 22.12.1-1
@@ -2333,6 +2369,7 @@ swtpm 0.7.3-2
 syndication 5.102.0-1
 syntax-highlighting 5.102.0-1
 sysfsutils 2.1.1-1
+syslinux 6.04.pre2.r11.gbf6db5b4-3
 sysstat 12.7.1-1
 system-config-printer 1.5.18-1
 systemd 252.4-2
@@ -2407,6 +2444,7 @@ ttf-roboto 2.138-4
 ttf-ubuntu-font-family 0.83-8
 twolame 0.4.0-2
 tzdata 2022g-1
+ubuntu-keyring 2021.03.26-1
 uchardet 0.0.7-1
 udftools 2.3-1
 udisks2 2.9.4-1
@@ -2435,6 +2473,7 @@ vid.stab 1.1-3
 vim 9.0.1182-1
 vim-runtime 9.0.1182-1
 virglrenderer 0.10.4-1
+virt-bootstrap-git r154.7704260-1
 virt-install 4.1.0-1
 virt-manager 4.1.0-1
 virtualbox 7.0.6-1
@@ -2485,7 +2524,7 @@ wpebackend-fdo 1.14.0-1
 wxwidgets-common 3.2.1-2
 wxwidgets-gtk3 3.2.1-2
 x11-ssh-askpass 1.2.4.1-7
-x11docker 7.5.0-1
+x11docker 7.6.0-1
 x264 3:0.164.r3095.baee400-4
 x265 3.5-3
 xapian-core 1:1.4.21-1
@@ -2594,11 +2633,13 @@ xterm 378-1
 xvidcore 1.3.7-2
 xxhash 0.8.1-3
 xz 5.4.1-1
+xz-static 5.2.7-1
 yacd 0.3.8-1
 yacd-tauri 1.0.2-1
 yajl 2.1.0-5
 yakuake 22.12.1-1
 yaml-cpp 0.7.0-2
+yara 4.2.3-2
 yarn 1.22.19-1
 yasm 1.3.0-6
 yelp 42.2-1
