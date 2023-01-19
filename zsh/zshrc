@@ -11,6 +11,9 @@ WORDCHARS=${WORDCHARS//[\/]}
 ZSH_HIGHLIGHT_HIGHLIGHTERS=(main brackets)
 eval "$(starship init zsh)"
 
+export SSH_AUTH_SOCK=$(gpgconf --list-dirs agent-ssh-socket)
+gpgconf --launch gpg-agent
+
 # ------------------
 # Initialize modules
 # ------------------
