@@ -22,7 +22,7 @@ akonadi-notes 22.12.1-1
 akonadi-search 22.12.1-1
 akonadiconsole 22.12.1-1
 akregator 22.12.1-1
-alembic 1.8.4-1
+alembic 1.8.4-2
 alist-bin 3.9.1-1
 alsa-card-profiles 1:0.3.64-1
 alsa-lib 1.2.8-1
@@ -164,8 +164,8 @@ clucene 2.3.3.4-13
 clutter 1.26.4-2
 clutter-gst 3.0.27-4
 clutter-gtk 1.8.4-3
-cmake 3.25.1-1
-cni-plugins 1.1.1-2
+cmake 3.25.2-1
+cni-plugins 1.2.0-2
 cogl 1.22.8-2
 colord 1.4.6-1
 compiler-rt 15.0.7-1
@@ -178,7 +178,7 @@ containers-common 1:0.50.1-2
 convertall 0.8.0-1
 convertlit 1.8-11
 coordgen 3.0.1-1
-copyq 6.3.2-1
+copyq 6.4.0-1
 coreutils 9.1-3
 cpio 2.13-3
 cpp-httplib 0.11.4-1
@@ -264,11 +264,11 @@ dtkcommon 5.6.3-1
 duf 0.8.1-2
 duktape 2.7.0-5
 dust 0.8.3-1
-dynarmic 6.4.4-1
+dynarmic 6.4.4-3
 e2fsprogs 1.46.5-4
 easyeffects 7.0.0-2
 ebook-tools 0.2.2-7
-editorconfig-core-c 0.12.5-1
+editorconfig-core-c 0.12.6-1
 edk2-aarch64 202211-3
 edk2-arm 202211-3
 edk2-ovmf 202211-3
@@ -286,7 +286,7 @@ element-desktop 1.11.18-1
 element-web 1.11.18-1
 elisa 22.12.1-1
 emacs 28.2-2
-embree 3.13.5-1
+embree 3.13.5-2
 emoji-keyboard 4.0.0-4
 enca 1.19-4
 enchant 2.3.3-2
@@ -297,7 +297,7 @@ eventviews 22.12.1-1
 evince 43.1-2
 exa 0.10.1-6
 exfatprogs 1.2.0-1
-exiv2 0.27.5-3
+exiv2 0.27.6-1
 expat 2.5.0-1
 f2fs-tools 1.15.0-2
 faac 1.30-3
@@ -329,7 +329,7 @@ filesystem 2022.10.18-1
 findutils 4.9.0-1
 fio 3.33-1
 firefox-appmenu 108.0.2-2
-firefox-nightly 111.0a1+20230118.1+h455aa95a34de-1
+firefox-nightly 111.0a1+20230119.1+h849b9d9a8b6f-1
 firefox-pwa 2.3.0-1
 firejail 0.9.72-1
 flac 1.4.2-1
@@ -558,8 +558,8 @@ itinerary 22.12.1-1
 itstool 1:2.0.7-1
 jansson 2.14-2
 jasper 4.0.0-1
-java-environment-common 3-4
-java-runtime-common 3-4
+java-environment-common 3-5
+java-runtime-common 3-5
 jbig2dec 0.19-1
 jdk8-graalvm-bin 21.2.0-2.1
 jemalloc 1:5.3.0-1
@@ -1497,7 +1497,7 @@ meson 1.0.0-2
 messagelib 22.12.1-1
 mgba-qt 0.10.0-2
 mgba-sdl 0.10.0-2
-microsoft-edge-stable-bin 109.0.1518.52-1
+microsoft-edge-stable-bin 109.0.1518.61-1
 milou 5.26.5-1
 minetest 5.6.1-2
 minetest-common 5.6.1-2
@@ -1706,7 +1706,7 @@ plasma-workspace 5.26.5-2
 plasma-workspace-wallpapers 5.26.5-1
 plasma5-wallpapers-wallpaper-engine 0.5.4-3
 png++ 0.2.10-2
-pnpm 7.25.0-1
+pnpm 7.25.1-1
 podman 4.3.1-2
 podman-compose 1.0.3-2
 podman-dnsname 1.3.1-2
@@ -1887,11 +1887,13 @@ python-lz4 3.1.10-7
 python-magic 1:0.4.27-1
 python-mako 1.2.4-1
 python-markdown 3.4.1-2
+python-markdown-it-py 2.1.0-1
 python-markupsafe 2.1.1-1
 python-matplotlib 3.6.2-2
 python-matplotlib-inline 0.1.6-2
 python-matrix-nio 0.20.0-1
 python-mccabe 0.7.0-1
+python-mdurl 0.1.2-2
 python-mistune 2.0.4-1
 python-mitmproxy-wireguard 0.1.20-1
 python-mock 3.0.5-9
@@ -1989,7 +1991,7 @@ python-rencode 1.0.6-7
 python-requests 2.28.1-1
 python-requests-toolbelt 0.10.1-1
 python-requests-unixsocket 0.3.0-2
-python-rich 13.1.0-1
+python-rich 13.2.0-2
 python-rsa 4.9-1
 python-rst.linker 2.3.1-1.1
 python-ruamel-yaml 0.17.21-1
@@ -2032,6 +2034,7 @@ python-trove-classifiers 2023.1.12-1
 python-twisted 22.10.0-1
 python-typing_extensions 4.4.0-1
 python-typing_inspect 0.8.0-1
+python-uc-micro-py 1.0.1-3
 python-ujson 5.7.0-1
 python-unidecode 1.3.6-1
 python-unpaddedbase64 2.1.0-4
@@ -2145,7 +2148,7 @@ qrencode 4.1.1-2
 qsstv 9.5.8-2
 qt-gstreamer 1.2.0-4
 qt-virt-manager 0.72.99-4.1
-qt5-base 5.15.8+kde+r165-1
+qt5-base 5.15.8+kde+r174-1
 qt5-declarative 5.15.8+kde+r24-2
 qt5-gamepad 5.15.8-1
 qt5-graphicaleffects 5.15.8-1
@@ -2209,7 +2212,7 @@ rlwrap 0.46.1-1
 rnnoise 0.4.1-1
 rocs 22.12.1-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.26.14584.c3c2bb7ad8-1
+rpcs3-git 0.0.26.14586.59588b12c8-1
 rpcsvc-proto 1.4.3-1
 rsync 3.2.7-3
 rtkit 0.13-2
@@ -2356,7 +2359,7 @@ stk 4.6.2-1
 strace 6.1-2
 sudo 1.9.12.p1-1
 suil 0.10.18-1
-suitesparse 6.0.3-1
+suitesparse 7.0.0-1
 supermin 5.3.2-1
 supertux 0.6.3-5
 supertuxkart 1.4-5
@@ -2432,7 +2435,7 @@ trash-cli 0.22.10.20-3
 tree 2.1.0-1
 triplea 2.6.586-1
 tslib 1.22-1
-ttf-arimo-nerd 2.3.1-1
+ttf-arimo-nerd 2.3.1-2
 ttf-dejavu 2.37+18+g9b5d1b2f-3
 ttf-hack 3.003-3
 ttf-jetbrains-mono 2.304-1
@@ -2682,11 +2685,11 @@ zsh 5.9-2
 zsh-completions 0.34.0-3
 zsnes 2.0.10-1
 zstd 1.5.2-7
-zulu-11-bin 11.0.17-1
-zulu-17-bin 17.0.5-1
+zulu-11-bin 11.0.18-1
+zulu-17-bin 17.0.6-1
 zulu-18-bin 18.0.2-1
-zulu-19-bin 19.0.1-1
-zulu-8-bin 8.0.352-1
+zulu-19-bin 19.0.2-1
+zulu-8-bin 8.0.362-1
 zulu-jdk-fx-bin 17.0.1-1
 zulu-jre-fx-bin 17.0.5-1
 zvbi 0.2.39-1

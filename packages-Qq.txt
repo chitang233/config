@@ -1887,11 +1887,13 @@ python-lz4
 python-magic
 python-mako
 python-markdown
+python-markdown-it-py
 python-markupsafe
 python-matplotlib
 python-matplotlib-inline
 python-matrix-nio
 python-mccabe
+python-mdurl
 python-mistune
 python-mitmproxy-wireguard
 python-mock
@@ -2032,6 +2034,7 @@ python-trove-classifiers
 python-twisted
 python-typing_extensions
 python-typing_inspect
+python-uc-micro-py
 python-ujson
 python-unidecode
 python-unpaddedbase64
