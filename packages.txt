@@ -2278,7 +2278,6 @@ sane 1.1.1-2
 sbc 2.0-1
 sbkeys 1.1.0-2
 sbsigntools 0.9.4-2
-sbupdate-git 0.r131.4926075-1
 scdoc 1.11.2-4
 scour 0.38.2-2
 scrcpy 1.25-1
