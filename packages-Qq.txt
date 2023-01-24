@@ -143,7 +143,6 @@ cbonsai
 ccid
 cdparanoia
 cdrtools
-cemu-git
 cervisia
 cfitsio
 chafa
