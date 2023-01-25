@@ -172,7 +172,7 @@ compsize 1.5-1
 confuse 3.3-3
 conky 1.17.0-1
 conmon 1:2.1.5-1
-containerd 1.6.14-1
+containerd 1.6.15-1
 containers-common 1:0.50.1-2
 convertall 0.8.0-1
 convertlit 1.8-11
@@ -217,7 +217,7 @@ default-cursors 2-1
 desktop-file-utils 0.26-2
 desmume 0.9.13-1
 detect-it-easy 3.07-1
-device-mapper 2.03.18-1
+device-mapper 2.03.18-3
 dhcpcd 9.4.1-1
 dialog 1:1.3_20221229-1
 diffutils 3.8-1
@@ -238,8 +238,8 @@ dnssec-anchors 20190629-3
 docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
 docker 1:20.10.23-1
-docker-buildx 0.9.1-1
-docker-compose 2.14.2-1
+docker-buildx 0.10.0-1
+docker-compose 2.15.1-1
 docker-credential-pass-bin 0.7.0-1
 docker-machine 0.16.2-5
 docker-scan 0.23.0-1
@@ -328,7 +328,7 @@ filesystem 2022.10.18-1
 findutils 4.9.0-1
 fio 3.33-1
 firefox-appmenu 108.0.2-2
-firefox-nightly 111.0a1+20230123.1+h5b25444c8911-1
+firefox-nightly 111.0a1+20230124.1+h5529d6960828-1
 firefox-pwa 2.3.0-1
 firejail 0.9.72-1
 flac 1.4.2-1
@@ -367,7 +367,7 @@ fuse3 3.13.0-1
 fuseiso 20070708-8
 fwupd 1.8.10-1
 fwupd-efi 1.3-1
-fzf 0.35.1-1
+fzf 0.37.0-1
 gamemode 1.7-1
 gamescope 3.11.51-1
 gavl 1.4.0-6
@@ -407,8 +407,8 @@ glfw-x11 3.3.8-1
 glhack 1.2-9
 glib-networking 1:2.74.0-1
 glib-perl 1.329.3-3
-glib2 2.74.4-1
-glib2-docs 2.74.4-1
+glib2 2.74.5-1
+glib2-docs 2.74.5-1
 glibc 2.36-7
 glibmm 2.66.5-1
 glibmm-2.68 2.74.0-1
@@ -514,7 +514,7 @@ helvum 0.3.4-1
 hexo-cli 4.3.0-6
 hicolor-icon-theme 0.17-2
 hidapi 0.13.1-1
-highway 1.0.2-1
+highway 1.0.3-1
 hivex 1.3.21-7
 hmcl-bin 3.5.3.228-2
 htop 3.2.1-1
@@ -543,7 +543,7 @@ innoextract 1.9-8
 inotify-tools 3.22.6.0-1
 intel-gmmlib 22.3.3-1
 intel-media-driver 23.1.0-1
-intel-media-sdk 22.6.4-1
+intel-media-sdk 23.1.0-1
 intellij-idea-ultimate-edition 2022.3.1-1
 intltool 0.51.0-6
 iperf3 3.12-2
@@ -573,7 +573,7 @@ json-glib 1.6.6-2
 jsoncpp 1.9.5-2
 juk 22.12.1-1
 jupyter-nbclient 0.7.2-1
-jupyter-nbconvert 7.2.8-1
+jupyter-nbconvert 7.2.9-1
 jupyter-nbformat 5.7.3-1
 jupyter-notebook-shim 0.2.2-1
 jupyter-server 2.1.0-1
@@ -853,7 +853,7 @@ lib32-gdk-pixbuf2 2.42.10-2
 lib32-gettext 0.21.1-1
 lib32-giflib 5.2.1-1
 lib32-glew1.10 1.10.0-5
-lib32-glib2 2.74.4-1
+lib32-glib2 2.74.5-1
 lib32-glibc 2.36-7
 lib32-glu 9.0.2-3
 lib32-gmp 6.2.1-1
@@ -1168,7 +1168,7 @@ libmaxminddb 1.7.1-1
 libmbim 1.28.2-1
 libmd 1.0.4-1
 libmediainfo 22.12-1
-libmfx 22.6.4-1
+libmfx 23.1.0-1
 libmgba 0.10.1-1
 libmicrodns 0.2.0-1
 libmikmod 3.3.11.1-6
@@ -1455,7 +1455,7 @@ luit 20221028-1
 lunar-client 2.15.1-1
 lutris 0.5.12-2
 lv2 1.18.10-1
-lvm2 2.03.18-1
+lvm2 2.03.18-3
 lxc 1:5.0.2-1
 lxcfs 5.0.3-1
 lz4 1:1.9.4-1
@@ -1485,6 +1485,7 @@ markdownpart 22.12.1-1
 mathjax2 2.7.9-1
 mbedtls 2.28.2-1
 mbox-importer 22.12.1-1
+mcpelauncher-msa-ui-qt-git v0.6.0.r0.g41138a9-1
 md4c 0.4.8-1
 mda.lv2 1.2.10-1
 mdadm 4.2-2
@@ -1705,7 +1706,7 @@ plasma-workspace 5.26.5-2
 plasma-workspace-wallpapers 5.26.5-1
 plasma5-wallpapers-wallpaper-engine 0.5.4-3
 png++ 0.2.10-2
-pnpm 7.25.1-1
+pnpm 7.26.0-1
 podman 4.3.1-2
 podman-compose 1.0.3-2
 podman-dnsname 1.3.1-2
@@ -1814,11 +1815,11 @@ python-dill 0.3.6-1
 python-distlib 0.3.6-1
 python-distro 1.8.0-2
 python-docutils 1:0.19-2
-python-dotenv 0.21.0-1
+python-dotenv 0.21.1-1
 python-dulwich 0.21.2-1
 python-emoji 2.2.0-1
 python-entrypoints 0.4-2
-python-evdev 1.6.0-1
+python-evdev 1.6.1-1
 python-exceptiongroup 1.1.0-1
 python-executing 1.2.0-1
 python-fastimport 0.9.14-3
@@ -1868,7 +1869,7 @@ python-json5 0.9.12-1
 python-jsonschema 4.17.3-1
 python-jupyter-events 0.6.3-1
 python-jupyter_client 7.4.9-1
-python-jupyter_core 5.1.3-1
+python-jupyter_core 5.1.5-1
 python-jupyter_packaging 0.12.3-1
 python-jupyterlab_server 2.19.0-1
 python-kaitaistruct 0.10-1
@@ -2010,7 +2011,7 @@ python-sortedcontainers 2.4.0-3
 python-soupsieve 2.3.2.post1-1
 python-sphinx 5.3.0-1
 python-sphinx-alabaster-theme 0.7.13-1
-python-sphinxcontrib-applehelp 1.0.3-1
+python-sphinxcontrib-applehelp 1.0.4-1
 python-sphinxcontrib-devhelp 1.0.2-9
 python-sphinxcontrib-htmlhelp 2.0.0-5
 python-sphinxcontrib-jsmath 1.0.1-12
@@ -2147,7 +2148,7 @@ qrencode 4.1.1-2
 qsstv 9.5.8-2
 qt-gstreamer 1.2.0-4
 qt-virt-manager 0.72.99-4.1
-qt5-base 5.15.8+kde+r174-1
+qt5-base 5.15.8+kde+r176-1
 qt5-declarative 5.15.8+kde+r24-2
 qt5-gamepad 5.15.8-1
 qt5-graphicaleffects 5.15.8-1
@@ -2175,10 +2176,13 @@ qt6-5compat 6.4.2-1
 qt6-base 6.4.2-1
 qt6-declarative 6.4.2-1
 qt6-imageformats 6.4.2-1
+qt6-positioning 6.4.2-1
 qt6-svg 6.4.2-1
 qt6-tools 6.4.2-3
 qt6-translations 6.4.2-1
 qt6-wayland 6.4.2-1
+qt6-webchannel 6.4.2-1
+qt6-webengine 6.4.2-1
 qtermwidget 1.2.0-1
 qtkeychain-qt5 0.13.2-1
 qtractor 0.9.30-1
@@ -2211,7 +2215,7 @@ rlwrap 0.46.1-1
 rnnoise 0.4.1-1
 rocs 22.12.1-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.26.14604.52b67b46fc-1
+rpcs3-git 0.0.26.14604.52b67b46fc-2
 rpcsvc-proto 1.4.3-1
 rsync 3.2.7-3
 rtkit 0.13-2
@@ -2271,7 +2275,7 @@ run-parts 5.5-1
 runc 1.1.4-1
 rustdesk-bin 1.1.9-3
 rustup 1.25.1-2
-ryujinx-git r2582.ad6ff6ce99-1
+ryujinx-git r2585.e7cf4e6eaf-1
 samba 4.17.4-4
 sane 1.1.1-2
 sbc 2.0-1
@@ -2412,7 +2416,7 @@ tesseract 5.3.0-1
 tesseract-data-afr 2:4.1.0-3
 tesseract-data-osd 2:4.1.0-3
 tevent 1:0.13.0-1
-texinfo 7.0.1-1
+texinfo 7.0.2-1
 texlive-bin 2022.62885-3
 texlive-core 2022.63035-1
 thin-provisioning-tools 0.9.0-1
@@ -2433,7 +2437,7 @@ trash-cli 0.22.10.20-3
 tree 2.1.0-1
 triplea 2.6.586-1
 tslib 1.22-1
-ttf-arimo-nerd 2.3.1-2
+ttf-arimo-nerd 2.3.3-1
 ttf-dejavu 2.37+18+g9b5d1b2f-3
 ttf-hack 3.003-3
 ttf-jetbrains-mono 2.304-1
@@ -2452,7 +2456,7 @@ udisks2 2.9.4-1
 umbrello 22.12.1-1
 unace 2.5-11
 ungoogled-chromium 109.0.5414.74-1
-unrar 1:6.2.4-1
+unrar 1:6.2.5-1
 unzip 6.0-19
 upower 1.90.0-1
 usbmuxd 1.1.1-1
@@ -2565,7 +2569,7 @@ xf86-video-nouveau 1.0.17-2
 xf86-video-openchrome 0.6.0.r798.g0c75274-1
 xf86-video-qxl 0.1.5.r23.g52e9752-2
 xf86-video-vesa 2.6.0-1
-xf86-video-vmware 13.3.0-4
+xf86-video-vmware 13.4.0-1
 xf86-video-voodoo 1.2.6-1
 xfsprogs 6.1.1-2
 xkeyboard-config 2.37-1
@@ -2660,7 +2664,7 @@ yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.0-1
 yubioath-desktop 5.1.0-3
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3324-1
+yuzu-early-access 3326-1
 zam-plugins 4.1-2
 zam-plugins-clap 4.1-2
 zam-plugins-ladspa 4.1-2

@@ -1485,6 +1485,7 @@ markdownpart
 mathjax2
 mbedtls
 mbox-importer
+mcpelauncher-msa-ui-qt-git
 md4c
 mda.lv2
 mdadm
@@ -2175,10 +2176,13 @@ qt6-5compat
 qt6-base
 qt6-declarative
 qt6-imageformats
+qt6-positioning
 qt6-svg
 qt6-tools
 qt6-translations
 qt6-wayland
+qt6-webchannel
+qt6-webengine
 qtermwidget
 qtkeychain-qt5
 qtractor
