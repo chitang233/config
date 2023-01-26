@@ -164,6 +164,7 @@ clutter
 clutter-gst
 clutter-gtk
 cmake
+cmocka
 cni-plugins
 cogl
 colord
@@ -1519,6 +1520,7 @@ mongodb-bin
 mongodb-tools-bin
 mongosh-bin
 mono
+mpdecimal
 mpfr
 mpg123
 mplayer
@@ -1821,12 +1823,14 @@ python-emoji
 python-entrypoints
 python-evdev
 python-exceptiongroup
+python-execnet
 python-executing
 python-fastimport
 python-fastjsonschema
 python-fastpbkdf2
 python-fido2
 python-filelock
+python-flaky
 python-flask
 python-fonttools
 python-frozenlist
@@ -1977,6 +1981,10 @@ python-pyscard
 python-pysmbc
 python-pysocks
 python-pytest
+python-pytest-drop-dup-tests
+python-pytest-rerunfailures
+python-pytest-timeout
+python-pytest-xdist
 python-python-socks
 python-pytz
 python-pyusb
@@ -2022,6 +2030,7 @@ python-telethon
 python-terminado
 python-testpath
 python-tgcrypto
+python-tinyaes
 python-tinycss2
 python-toml
 python-tomli
