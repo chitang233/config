@@ -2559,7 +2559,6 @@ xerces-c 3.2.4-2
 xf86-input-evdev 2.10.6-3
 xf86-input-libinput 1.2.1-1
 xf86-input-synaptics 1.9.2-1
-xf86-input-vmmouse 13.2.0-1
 xf86-input-void 1.4.2-1
 xf86-video-amdgpu 22.0.0-1
 xf86-video-ati 1:19.1.0.r15.g7a6a34af-1
@@ -2567,10 +2566,7 @@ xf86-video-dummy 0.4.0-1
 xf86-video-fbdev 0.5.0-3
 xf86-video-nouveau 1.0.17-2
 xf86-video-openchrome 0.6.0.r798.g0c75274-1
-xf86-video-qxl 0.1.5.r23.g52e9752-2
 xf86-video-vesa 2.6.0-1
-xf86-video-vmware 13.4.0-1
-xf86-video-voodoo 1.2.6-1
 xfsprogs 6.1.1-2
 xkeyboard-config 2.37-1
 xmlsec 1.2.37-1
