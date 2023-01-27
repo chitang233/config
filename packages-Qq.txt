@@ -826,6 +826,7 @@ ldns
 lensfun
 leptonica
 less
+lf
 lhasa
 lib2geom
 lib32-acl
@@ -1634,6 +1635,7 @@ pango
 pangomm
 papirus-icon-theme
 parley
+parsec-bin
 parted
 partitionmanager
 paru
