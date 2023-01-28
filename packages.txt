@@ -39,9 +39,9 @@ antimicrox 3.3.2-1
 aom 3.5.0-1
 apparmor 3.1.2-1
 appmenu-gtk-module 0.7.6-1
-appstream 0.15.6-1
+appstream 0.16.0-1
 appstream-glib 0.8.2-1
-appstream-qt 0.15.6-1
+appstream-qt 0.16.0-1
 archlinux-appstream-data 20230115-1
 archlinux-keyring 20221220-1
 archlinuxcn-keyring 20220716-1
@@ -61,7 +61,7 @@ atool 0.39.0-8
 attica 5.102.0-1
 attr 2.5.1-2
 aubio 0.4.9-14
-audacity 1:3.2.3-1
+audacity 1:3.2.4-1
 audiocd-kio 22.12.1-1
 audiofile 0.3.6-7
 audit 3.0.9-1
@@ -93,7 +93,7 @@ beep 1.4.12-1
 besttrace 1.3.2-1
 betterdiscord-installer 1.2.0-1
 betterdiscordctl-git 2.0.1.r2.g49a26fe-1.1
-bind 9.18.10-1
+bind 9.18.11-1
 binutils 2.40-2
 bison 3.8.2-4
 black-hole-solver 1.12.0-1
@@ -120,7 +120,7 @@ bridge-utils 1.7.1-1
 brltty 6.5-3
 brotli 1.0.9-9
 btop 1.2.13-1
-btrfs-progs 6.1.2-1
+btrfs-progs 6.1.3-1
 bubblewrap 0.7.0-1
 bzip2 1.0.8-5
 c-ares 1.18.1-1
@@ -147,7 +147,7 @@ cervisia 22.12.1-1
 cfitsio 1:4.2.0-1
 chafa 1.12.4-2
 chaotic-keyring 20220803-1
-chaotic-mirrorlist 20230106-1
+chaotic-mirrorlist 20230127-1
 cheese 43.0-1
 chromaprint 1.5.1-6
 chrpath 0.16-4
@@ -190,7 +190,7 @@ criu 3.17.1-1
 cronie 1.6.1-1
 crun 1.7.2-1
 cryptsetup 2.6.0-1
-cubeb-git 0.2.r1424.g67af793-1
+cubeb-git 0.2.r1425.g88585b6-1
 cuda 11.8.0-1
 cuda-tools 11.8.0-1
 cudnn 8.6.0.163-1
@@ -342,7 +342,7 @@ fltk 1.3.8-1
 fluffychat-bin 1.8.0-1
 fluidsynth 2.3.1-1
 fmt 9.1.0-4
-fontconfig 2:2.14.1-2
+fontconfig 2:2.14.2-1
 fonts-cjk-sc-opposans 1.0.2-2
 foomatic-db 3:20230115-1
 foomatic-db-gutenprint-ppds 5.3.4-2
@@ -367,7 +367,7 @@ fuse2 2.9.9-4
 fuse3 3.13.0-1
 fuseiso 20070708-8
 fwupd 1.8.10-1
-fwupd-efi 1.3-1
+fwupd-efi 1.4-1
 fzf 0.37.0-1
 gamemode 1.7-1
 gamescope 3.11.51-1
@@ -399,7 +399,7 @@ git-completion 1.4-1
 git-credential-manager-core-bin 2.0.886-2
 git-crypt 0.7.0-2
 git-lfs 3.3.0-1
-github-cli 2.22.0-1
+github-cli 2.22.1-1
 gitkraken 9.0.1-1
 gjs 2:1.74.1-1
 glew 2.2.0-6
@@ -414,7 +414,7 @@ glibc 2.36-7
 glibmm 2.66.5-1
 glibmm-2.68 2.74.0-1
 glm 0.9.9.8-1
-glmark2 2021.12-1
+glmark2 2023.01-1
 glslang 11.13.0-2
 glu 9.0.2-3
 glusterfs 1:10.3-2
@@ -545,7 +545,7 @@ inotify-tools 3.22.6.0-1
 intel-gmmlib 22.3.3-1
 intel-media-driver 23.1.0-1
 intel-media-sdk 23.1.0-1
-intellij-idea-ultimate-edition 2022.3.1-1
+intellij-idea-ultimate-edition 2022.3.2-1
 intltool 0.51.0-6
 iperf3 3.12-2
 iproute2 6.1.0-3
@@ -821,7 +821,7 @@ lapack 3.11.0-1
 latte-dock 0.10.9-1
 layer-shell-qt 5.26.5-1
 lcms2 2.14-2
-ldb 2:2.6.1-1
+ldb 2:2.6.1-2
 ldns 1.8.3-2
 lensfun 1:0.3.3-1
 leptonica 1.82.0-3
@@ -845,7 +845,7 @@ lib32-e2fsprogs 1.46.5-1
 lib32-expat 2.5.0-2
 lib32-faudio 23.01-1
 lib32-flac 1.4.2-1
-lib32-fontconfig 2:2.14.1-2
+lib32-fontconfig 2:2.14.2-1
 lib32-freeglut 3.4.0-1
 lib32-freetype2 2.12.1-1
 lib32-fribidi 1.0.12-1
@@ -1364,7 +1364,7 @@ libvorbis 1.3.7-3
 libvpx 1.12.0-2
 libvpx1.3 1.3.0-3
 libwacom 2.6.0-1
-libwbclient 4.17.4-4
+libwbclient 4.17.5-1
 libwebp 1.3.0-2
 libwebsockets 4.3.2-3
 libwireplumber 0.4.13-1
@@ -1414,7 +1414,7 @@ libxtst 1.2.4-1
 libxv 1.0.12-1
 libxvmc 1.0.13-1
 libxxf86vm 1.1.5-1
-libyaml 0.2.5-1
+libyaml 0.2.5-2
 libyuv r2322+3aebf69d-1
 libzen 0.4.40-1
 libzip 1.9.2-1
@@ -1557,14 +1557,14 @@ nitrogen 1.6.1-4
 nmap 7.93-1
 nnn 4.7-1
 node-gyp 9.3.1-1
-nodejs 19.4.0-1
+nodejs 19.5.0-1
 nodejs-nopt 7.0.0-1
 noto-fonts 20220810-1
 noto-fonts-cjk 20220126-1
 noto-fonts-emoji 20220920-1
 noto-fonts-extra 20220810-1
 npm 8.19.2-1
-npm-check-updates 16.6.2-1
+npm-check-updates 16.6.3-1
 npth 1.6-3
 nspr 4.35-1
 nss 3.87-1
@@ -1710,7 +1710,7 @@ plasma-workspace 5.26.5-2
 plasma-workspace-wallpapers 5.26.5-1
 plasma5-wallpapers-wallpaper-engine 0.5.4-3
 png++ 0.2.10-2
-pnpm 7.26.0-1
+pnpm 7.26.1-1
 podman 4.3.1-2
 podman-compose 1.0.3-2
 podman-dnsname 1.3.1-2
@@ -1746,7 +1746,7 @@ pulseaudio-qt 1.3-1
 purpose 5.102.0-1
 putty 0.78-1
 pybind11 2.10.3-1
-pycharm-professional 2022.3.1-1
+pycharm-professional 2022.3.2-1
 pyinstaller 5.7.0-3
 pyinstaller-hooks-contrib 2022.15-3
 pyside2 5.15.8-6
@@ -2001,7 +2001,7 @@ python-rencode 1.0.6-7
 python-requests 2.28.1-1
 python-requests-toolbelt 0.10.1-1
 python-requests-unixsocket 0.3.0-2
-python-rich 13.2.0-2
+python-rich 13.3.0-1
 python-rsa 4.9-1
 python-rst.linker 2.3.1-1.1
 python-ruamel-yaml 0.17.21-1
@@ -2052,7 +2052,7 @@ python-unpaddedbase64 2.1.0-4
 python-urllib3 1.26.12-1
 python-urwid 2.1.2-3
 python-uvloop 0.17.0-1
-python-validate-pyproject 0.11-1
+python-validate-pyproject 0.12-1
 python-virtualenv 20.17.1-1
 python-wcwidth 0.2.5-6
 python-webcolors 1.12-1
@@ -2226,7 +2226,7 @@ rlwrap 0.46.1-1
 rnnoise 0.4.1-1
 rocs 22.12.1-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.26.14610.f6759de1e9-1
+rpcs3-git 0.0.26.14614.7c4734c24d-1
 rpcsvc-proto 1.4.3-1
 rsync 3.2.7-3
 rtkit 0.13-2
@@ -2286,8 +2286,8 @@ run-parts 5.5-1
 runc 1.1.4-1
 rustdesk-bin 1.1.9-3
 rustup 1.25.1-2
-ryujinx-git r2585.e7cf4e6eaf-1
-samba 4.17.4-4
+ryujinx-git r2587.c7f9962dde-1
+samba 4.17.5-1
 sane 1.1.1-2
 sbc 2.0-1
 sbkeys 1.1.0-2
@@ -2330,7 +2330,7 @@ slang 2.3.3-2
 sleuthkit 4.11.1-1
 slirp4netns 1.2.0-1
 smartmontools 7.3-1
-smbclient 4.17.4-4
+smbclient 4.17.5-1
 snapd-xdg-open-git r44.6fed357-2
 snapper 0.10.4-2
 snappy 1.1.9-2
@@ -2395,12 +2395,12 @@ systemsettings 5.26.5-1
 t1lib 5.1.2-8
 tabby-bin 1.0.188-1
 taglib 1.13-1
-talloc 2.3.4-1
+talloc 2.4.0-2
 tar 1.34-1
 tbb 2021.5.0-2
 tcl 8.6.13-1
 tcping 0.1.1rc1-1
-tdb 1.4.7-1
+tdb 1.4.8-1
 telegram-desktop-megumifox 4.5.3-1
 telepathy-accounts-signon 2.1-3
 telepathy-farstream 0.6.2-7
@@ -2426,7 +2426,7 @@ termius 7.54.3-1
 tesseract 5.3.0-1
 tesseract-data-afr 2:4.1.0-3
 tesseract-data-osd 2:4.1.0-3
-tevent 1:0.13.0-1
+tevent 1:0.14.0-1
 texinfo 7.0.2-1
 texlive-bin 2022.62885-3
 texlive-core 2022.63035-1
@@ -2527,7 +2527,7 @@ whois 5.5.15-1
 wildmidi 0.4.5-1
 wine-gecko 2.47.3-1
 wine-mono 7.4.0-1
-wine-staging 7.22-1
+wine-staging 8.0-1
 winetricks 20220411-1
 wireless_tools 30.pre9-3
 wireplumber 0.4.13-1
@@ -2671,7 +2671,7 @@ yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.0-1
 yubioath-desktop 5.1.0-3
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3333-1
+yuzu-early-access 3336-1
 zam-plugins 4.1-2
 zam-plugins-clap 4.1-2
 zam-plugins-ladspa 4.1-2
