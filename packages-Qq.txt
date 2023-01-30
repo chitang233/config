@@ -96,6 +96,7 @@ betterdiscordctl-git
 bind
 binutils
 bison
+bitwarden
 black-hole-solver
 blas
 bleachbit
@@ -252,6 +253,7 @@ dosfstools
 dotconf
 dotnet-host
 dotnet-runtime
+dotnet-runtime-6.0
 double-conversion
 doxygen
 dpkg
@@ -282,6 +284,7 @@ electron
 electron-netease-cloud-music
 electron19
 electron20
+electron21
 element-desktop
 element-web
 elisa
@@ -526,6 +529,7 @@ hwloc
 hyphen
 iana-etc
 icalingua++
+icoutils
 icu
 icu69-bin
 id3lib
@@ -838,6 +842,7 @@ lib32-attr
 lib32-brotli
 lib32-bzip2
 lib32-cairo
+lib32-colord
 lib32-curl
 lib32-dbus
 lib32-dbus-glib
@@ -860,7 +865,10 @@ lib32-glibc
 lib32-glu
 lib32-gmp
 lib32-gnutls
+lib32-gst-plugins-base-libs
+lib32-gstreamer
 lib32-gtk2
+lib32-gtk3
 lib32-harfbuzz
 lib32-icu
 lib32-imlib2
@@ -880,6 +888,7 @@ lib32-libdbusmenu-glib
 lib32-libdbusmenu-gtk2
 lib32-libdrm
 lib32-libelf
+lib32-libepoxy
 lib32-libffi
 lib32-libgcrypt
 lib32-libgcrypt15
@@ -905,6 +914,7 @@ lib32-libpng
 lib32-libpng12
 lib32-libpsl
 lib32-libpulse
+lib32-librsvg
 lib32-librtmp0
 lib32-libsm
 lib32-libsndfile
@@ -939,6 +949,7 @@ lib32-libxfixes
 lib32-libxft
 lib32-libxi
 lib32-libxinerama
+lib32-libxkbcommon
 lib32-libxml2
 lib32-libxmu
 lib32-libxrandr
@@ -947,6 +958,7 @@ lib32-libxshmfence
 lib32-libxss
 lib32-libxt
 lib32-libxtst
+lib32-libxv
 lib32-libxxf86vm
 lib32-llvm-libs
 lib32-lm_sensors
@@ -963,6 +975,7 @@ lib32-opencl-nvidia
 lib32-openssl
 lib32-openssl-1.1
 lib32-opus
+lib32-orc
 lib32-p11-kit
 lib32-pam
 lib32-pango
@@ -1205,6 +1218,7 @@ libnm
 libnotify
 libnova
 libnsl
+libnss_nis
 libnumbertext
 libodfgen
 libogg
@@ -1445,6 +1459,7 @@ lskat
 lsof
 lsp-plugins
 lsscsi
+lttng-ust2.12
 lua
 lua-alt-getopt
 lua-filesystem
@@ -1460,6 +1475,7 @@ lv2
 lvm2
 lxc
 lxcfs
+lynx
 lz4
 lzo
 lzop
@@ -1618,6 +1634,7 @@ orc
 os-prober
 osinfo-db
 ostree
+osu-lazer
 otf-smiley-sans-bin
 oxygen
 oxygen-sounds
