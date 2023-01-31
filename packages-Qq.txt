@@ -2105,9 +2105,9 @@ python-jinja
 python-json-logger
 python-json5
 python-jsonschema
+python-jupyter-client
+python-jupyter-core
 python-jupyter-events
-python-jupyter_client
-python-jupyter_core
 python-jupyter_packaging
 python-jupyterlab_server
 python-kaitaistruct
@@ -2667,6 +2667,7 @@ threadweaver
 thunderbird-appmenu
 tigervnc
 timeshift
+tinycompress
 tinyxml
 tinyxml2
 tk
