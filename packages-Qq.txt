@@ -1828,6 +1828,7 @@ opencolorio
 opencore-amr
 opencv
 openexr
+openfec
 openimagedenoise
 openimageio
 openjpeg2
@@ -1922,6 +1923,7 @@ pipewire-alsa
 pipewire-audio
 pipewire-jack
 pipewire-pulse
+pipewire-roc
 pipewire-v4l2
 pixman
 pkgconf
@@ -2456,6 +2458,7 @@ rhash
 ripgrep
 rlwrap
 rnnoise
+roc-toolkit
 rocs
 rpcbind
 rpcs3-git
@@ -2575,6 +2578,7 @@ sord
 sound-theme-freedesktop
 soundtouch
 source-highlight
+sox
 spandsp
 spatialindex
 spdlog

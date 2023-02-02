@@ -33,7 +33,7 @@ alsa-topology-conf 1.2.5.1-1
 alsa-ucm-conf 1.2.8-1
 amtk 5.6.1-1
 analitza 22.12.1-1
-android-ndk r25.b-1
+android-ndk r25.c-1
 android-sdk-platform-tools 33.0.3-1
 android-studio 2022.1.1.19-1
 android-udev 20230104-1
@@ -180,7 +180,7 @@ containerd 1.6.16-1
 containers-common 1:0.50.1-2
 convertall 0.8.0-1
 convertlit 1.8-11
-coordgen 3.0.1-1
+coordgen 3.0.2-1
 copyq 6.4.0-1
 coreutils 9.1-3
 cpio 2.13-3
@@ -442,7 +442,7 @@ gnugo 3.8-7
 gnupg 2.2.40-1
 gnuplot 5.4.5-1
 gnutls 3.7.8-5
-go 2:1.19.5-1
+go 2:1.20-1
 gobject-introspection 1.74.0-1
 gobject-introspection-runtime 1.74.0-1
 goland 2022.3.2-1
@@ -765,7 +765,7 @@ intltool 0.51.0-6
 iperf3 3.12-2
 iproute2 6.1.0-4
 ipscan 3.9.0-1
-iptables-nft 1:1.8.8-3
+iptables-nft 1:1.8.9-1
 iputils 20221126-1
 ipython 8.9.0-1
 iso-codes 4.12.0-1
@@ -792,7 +792,7 @@ jupyter-nbclient 0.7.2-1
 jupyter-nbconvert 7.2.9-1
 jupyter-nbformat 5.7.3-1
 jupyter-notebook-shim 0.2.2-1
-jupyter-server 2.1.0-1
+jupyter-server 2.2.0-1
 jupyter-server-mathjax 0.2.6-1
 jupyterlab 3.5.3-1
 jupyterlab-widgets 3.0.5-1
@@ -1141,7 +1141,7 @@ lib32-libunistring 1.1-1
 lib32-libunwind 1.6.2-2
 lib32-libusb 1.0.26-1
 lib32-libva 2.17.0-1
-lib32-libva-mesa-driver 22.3.3-3
+lib32-libva-mesa-driver 22.3.4-1
 lib32-libvdpau 1.5-1
 lib32-libvorbis 1.3.7-1
 lib32-libvpx1.3 1.3.0-3
@@ -1173,8 +1173,8 @@ lib32-libxv 1.0.12-1
 lib32-libxxf86vm 1.1.5-1
 lib32-llvm-libs 15.0.7-1
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-2
-lib32-mesa 22.3.3-3
-lib32-mesa-vdpau 22.3.3-3
+lib32-mesa 22.3.4-1
+lib32-mesa-vdpau 22.3.4-1
 lib32-mpg123 1.31.2-1
 lib32-ncurses 6.4-1
 lib32-nettle 3.8.1-1
@@ -1272,7 +1272,7 @@ libdbusmenu-gtk3 16.04.0-5
 libdbusmenu-qt5 0.9.3+16.04.20160218-6
 libdc1394 2.2.6-2
 libdca 0.0.7-1
-libde265 1.0.10-2
+libde265 1.0.11-1
 libdispatch 5.5.0-1
 libdmtx 0.7.7-1
 libdrm 2.4.114-1
@@ -1324,7 +1324,7 @@ libgudev 237-2
 libguestfs 1.48.6-2
 libgusb 0.4.4-1
 libgxps 0.3.2-3
-libhandy 1.8.0-1
+libhandy 1.8.1-1
 libharu 2.4.3-1
 libheif 1.14.2-1
 libibus 1.5.27-1
@@ -1537,7 +1537,7 @@ libspectrum 1.5.0-1
 libspeechd 0.11.4-1
 libspiro 1:20221101-1
 libspnav 1.1-1
-libsrtp 1:2.4.2-1
+libsrtp 1:2.5.0-1
 libssh 0.10.4-3
 libssh2 1.10.0-3
 libstaroffice 0.0.7-2
@@ -1572,7 +1572,7 @@ libutempter 1.2.1-3
 libutf8proc 2.8.0-1
 libuv 1.44.2-1
 libva 2.17.0-1
-libva-mesa-driver 22.3.3-3
+libva-mesa-driver 22.3.4-1
 libva-utils 2.17.1-1
 libvdpau 1.5-1
 libverto 0.3.2-4
@@ -1649,8 +1649,8 @@ lilv 0.24.20-1
 linux-api-headers 5.18.15-1
 linux-firmware 20230117.7e4f0ed-1
 linux-firmware-whence 20230117.7e4f0ed-1
-linux-zen 6.1.8.zen1-1
-linux-zen-headers 6.1.8.zen1-1
+linux-zen 6.1.9.zen1-1
+linux-zen-headers 6.1.9.zen1-1
 linuxqq 2:3.0.0_571-2
 linuxqq-firejail 1:1.0.0-1
 lirc 1:0.10.2-2
@@ -1694,7 +1694,7 @@ lzop 1.04-3
 m17n-db 1.8.0-3
 m17n-lib 1.8.0-13
 m4 1.4.19-2
-maeparser 1.3.0-3
+maeparser 1.3.1-1
 mailcap 2.1.53-1
 mailcommon 22.12.1-1
 mailimporter 22.12.1-1
@@ -1721,7 +1721,7 @@ mda.lv2 1.2.10-1
 mdadm 4.2-2
 media-player-info 24-2
 mediainfo 22.12-1
-mesa 22.3.3-3
+mesa 22.3.4-1
 mesa-utils 8.5.0-2
 meson 1.0.0-2
 messagelib 22.12.1-1
@@ -1828,6 +1828,7 @@ opencolorio 2.2.0-2
 opencore-amr 0.1.6-1
 opencv 4.7.0-1
 openexr 3.1.5-1
+openfec 1.4.2.6-1
 openimagedenoise 1.4.3-1
 openimageio 2.4.6.1-4
 openjpeg2 2.5.0-2
@@ -1878,7 +1879,7 @@ pcaudiolib 1.2-2
 pcem 17-5
 pciutils 3.9.0-2
 pcre 8.45-3
-pcre2 10.41-1
+pcre2 10.42-2
 pcsc-perl 1.4.14-13
 pcsc-tools 1.6.0-1
 pcsclite 1.9.9-2
@@ -1922,6 +1923,7 @@ pipewire-alsa 1:0.3.65-5
 pipewire-audio 1:0.3.65-5
 pipewire-jack 1:0.3.65-5
 pipewire-pulse 1:0.3.65-5
+pipewire-roc 1:0.3.65-5
 pipewire-v4l2 1:0.3.65-5
 pixman 0.42.2-1
 pkgconf 1.8.0-1
@@ -1942,7 +1944,7 @@ plasma-workspace 5.26.5-3
 plasma-workspace-wallpapers 5.26.5-1
 plasma5-wallpapers-wallpaper-engine 0.5.4-3
 png++ 0.2.10-2
-pnpm 7.26.2-1
+pnpm 7.26.3-1
 podman 4.3.1-2
 podman-compose 1.0.3-2
 podman-dnsname 1.3.1-2
@@ -1977,7 +1979,7 @@ pugixml 1.13-1
 pulseaudio-qt 1.3-1
 purpose 5.102.0-1
 putty 0.78-1
-pybind11 2.10.3-1
+pybind11 2.10.3-2
 pycharm-professional 2022.3.2-1
 pyinstaller 5.7.0-3
 pyinstaller-hooks-contrib 2022.15-3
@@ -2094,7 +2096,7 @@ python-ipywidgets 8.0.4-1
 python-isort 5.12.0-1
 python-itsdangerous 2.1.2-2
 python-jaraco.classes 3.2.3-1
-python-jaraco.context 4.2.0-2
+python-jaraco.context 4.2.1-1
 python-jaraco.functools 3.5.2-1
 python-jaraco.packaging 9.1.2-1
 python-jaraco.text 3.11.0-1
@@ -2157,7 +2159,7 @@ python-pandocfilters 1.5.0-1
 python-paramiko 2.11.1-1
 python-parso 1:0.8.3-1
 python-passlib 1.7.4-5
-python-pbr 5.11.1-1
+python-pbr 5.11.1-2
 python-peewee 3.15.4-1
 python-pep517 0.13.0-1
 python-pexpect 4.8.0-6
@@ -2172,7 +2174,7 @@ python-poetry 1.3.2-1
 python-poetry-core 1.5.0-1
 python-poetry-plugin-export 1.2.0-1
 python-polib 1.1.1-1.1
-python-pooch 1.6.0-3
+python-pooch 1.6.0-4
 python-prettytable 3.6.0-2
 python-prometheus_client 0.15.0-2
 python-prompt_toolkit 3.0.36-1
@@ -2196,7 +2198,7 @@ python-pycups 2.0.1-5
 python-pycurl 7.45.2-1
 python-pydantic 1.10.4-1
 python-pyflakes 3.0.1-2
-python-pygments 2.14.0-1
+python-pygments 2.14.0-2
 python-pyinotify 0.9.6-11
 python-pylint 2.15.10-1
 python-pynacl 1.4.0-5
@@ -2244,7 +2246,7 @@ python-secretstorage 3.3.3-1
 python-send2trash 1.8.0-3
 python-setuptools 1:65.6.3-1
 python-setuptools-scm 7.1.0-1
-python-shellingham 1.5.0.post1-1
+python-shellingham 1.5.0.post1-2
 python-shiboken2 5.15.8-6
 python-six 1.16.0-6
 python-sniffio 1.3.0-2
@@ -2255,7 +2257,7 @@ python-sphinx 5.3.0-1
 python-sphinx-alabaster-theme 0.7.13-1
 python-sphinxcontrib-applehelp 1.0.4-1
 python-sphinxcontrib-devhelp 1.0.2-9
-python-sphinxcontrib-htmlhelp 2.0.0-5
+python-sphinxcontrib-htmlhelp 2.0.1-1
 python-sphinxcontrib-jsmath 1.0.1-12
 python-sphinxcontrib-qthelp 1.0.3-9
 python-sphinxcontrib-serializinghtml 1.1.5-4
@@ -2456,6 +2458,7 @@ rhash 1.4.3-1
 ripgrep 13.0.0-3
 rlwrap 0.46.1-1
 rnnoise 0.4.1-1
+roc-toolkit 0.2.1-3
 rocs 22.12.1-1
 rpcbind 1.2.6-3
 rpcs3-git 0.0.26.14637.c471120a80-1
@@ -2575,17 +2578,18 @@ sord 0.16.14-1
 sound-theme-freedesktop 0.8-5
 soundtouch 2.3.2-1
 source-highlight 3.1.9-10
+sox 14.4.2+r182+g42b3557e-2
 spandsp 0.0.6-4
 spatialindex 1.9.3-1
 spdlog 1.11.0-2
 spectacle 22.12.1-1
 speech-dispatcher 0.11.4-1
-speedtest-cli 2.1.3-3
+speedtest-cli 2.1.3-4
 speex 1.2.1-1
 speexdsp 1.2.1-1
 spglib 2.0.2-1
 spice 0.15.1-1
-spice-gtk 0.41-6
+spice-gtk 0.42-1
 spice-protocol 0.14.4-1
 spirv-headers 1:1.3.236.0-1
 spirv-tools 2022.4-1
@@ -2662,9 +2666,9 @@ tevent 1:0.14.0-1
 texinfo 7.0.2-1
 texlive-bin 2022.62885-3
 texlive-core 2022.63035-1
-thin-provisioning-tools 0.9.0-1
+thin-provisioning-tools 1.0.0-1
 threadweaver 5.102.0-1
-thunderbird-appmenu 102.5.1-8
+thunderbird-appmenu 102.5.1-9
 tigervnc 1.12.90-1
 timeshift 22.11.2-1
 tinycompress 1.2.8-1
@@ -2704,7 +2708,7 @@ unace 2.5-11
 ungoogled-chromium 109.0.5414.119-1
 unrar 1:6.2.5-1
 unzip 6.0-19
-upower 1.90.0-1
+upower 1.90.0-2
 usbmuxd 1.1.1-2
 usbredir 0.13.0-1
 usbutils 015-2
@@ -2742,7 +2746,7 @@ vte3 0.70.2-1
 vtk 9.1.0-25
 vulkan-headers 1:1.3.240-1
 vulkan-icd-loader 1.3.240-1
-vulkan-intel 22.3.3-3
+vulkan-intel 22.3.4-1
 vulkan-tools 1.3.240-1
 w3m 0.5.3.git20230121_1-1
 wavpack 5.6.0-1
@@ -2752,7 +2756,7 @@ wayland-utils 1.1.0-1
 webkit2gtk 2.38.3-1
 webkit2gtk-4.1 2.38.3-1
 webrtc-audio-processing 0.3.1-3
-webstorm 2022.3.1-1
+webstorm 2022.3.2-1
 weechat 3.8-1
 weechat-matrix 0.3.0-9
 wemeet-bin 3.12.0.400-9
@@ -2907,7 +2911,7 @@ yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.0-1
 yubioath-desktop 5.1.0-3
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3353-1
+yuzu-early-access 3357-1
 zam-plugins 4.1-2
 zam-plugins-clap 4.1-2
 zam-plugins-ladspa 4.1-2
