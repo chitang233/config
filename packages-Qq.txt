@@ -44,10 +44,13 @@ appmenu-gtk-module
 appstream
 appstream-glib
 appstream-qt
+arch-install-scripts
 archlinux-appstream-data
 archlinux-keyring
 archlinuxcn-keyring
 ardour
+arduino-docs
+arduino-ide-bin
 argon2
 aria2-fast
 aribb24
@@ -125,6 +128,7 @@ brotli
 btop
 btrfs-progs
 bubblewrap
+busybox
 bzip2
 c-ares
 ca-certificates
@@ -146,6 +150,7 @@ cbonsai
 ccid
 cdparanoia
 cdrtools
+cemu-git
 cervisia
 cfitsio
 chafa
@@ -446,6 +451,7 @@ go
 gobject-introspection
 gobject-introspection-runtime
 goland
+google-cloud-sdk
 goverlay-bin
 gpart
 gparted
@@ -2214,6 +2220,7 @@ python-pyqt5-sip
 python-pyrogram
 python-pyrsistent
 python-pyscard
+python-pyserial
 python-pysmbc
 python-pysocks
 python-pytest
@@ -2637,6 +2644,7 @@ tbb
 tcl
 tcping
 tdb
+teamviewer
 telegram-desktop-megumifox
 telepathy-accounts-signon
 telepathy-farstream
