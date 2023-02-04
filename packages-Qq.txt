@@ -37,6 +37,7 @@ android-ndk
 android-sdk-platform-tools
 android-studio
 android-udev
+anthy
 antimicrox
 aom
 apparmor
@@ -317,6 +318,7 @@ falkon
 farstream
 faudio
 fcitx5
+fcitx5-anthy
 fcitx5-chinese-addons
 fcitx5-configtool
 fcitx5-gtk
@@ -342,6 +344,7 @@ firefox-appmenu
 firefox-nightly
 firefox-pwa
 firejail
+fish
 flac
 flake8
 flashrom
@@ -1933,6 +1936,7 @@ pipewire-roc
 pipewire-v4l2
 pixman
 pkgconf
+pkgfile
 plasma-browser-integration
 plasma-desktop
 plasma-disks
@@ -2116,7 +2120,7 @@ python-jsonschema
 python-jupyter-client
 python-jupyter-core
 python-jupyter-events
-python-jupyter_packaging
+python-jupyter-packaging
 python-jupyterlab_server
 python-kaitaistruct
 python-keyring
