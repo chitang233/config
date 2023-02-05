@@ -11,6 +11,7 @@ acpi_call-dkms
 adobe-source-code-pro-fonts
 adwaita-cursors
 adwaita-icon-theme
+afpfs-ng
 aha
 akonadi
 akonadi-calendar
@@ -45,6 +46,8 @@ appmenu-gtk-module
 appstream
 appstream-glib
 appstream-qt
+apr
+apr-util
 arch-install-scripts
 archlinux-appstream-data
 archlinux-keyring
@@ -166,6 +169,7 @@ cjson
 clang
 clash-meta-bin
 clion
+cloudflare-warp-bin
 cloudflared
 cloudflarespeedtest
 clucene
@@ -539,6 +543,7 @@ haskell-auto-update
 haskell-base-compat
 haskell-base-compat-batteries
 haskell-base-orphans
+haskell-base-unicode-symbols
 haskell-base16-bytestring
 haskell-base64
 haskell-base64-bytestring
@@ -599,12 +604,14 @@ haskell-hslua
 haskell-hslua-aeson
 haskell-hslua-classes
 haskell-hslua-core
+haskell-hslua-list
 haskell-hslua-marshalling
 haskell-hslua-module-doclayout
 haskell-hslua-module-path
 haskell-hslua-module-system
 haskell-hslua-module-text
 haskell-hslua-module-version
+haskell-hslua-module-zip
 haskell-hslua-objectorientation
 haskell-hslua-packaging
 haskell-hsyaml
@@ -643,7 +650,10 @@ haskell-old-time
 haskell-onetuple
 haskell-open-browser
 haskell-optparse-applicative
+haskell-pandoc
+haskell-pandoc-lua-engine
 haskell-pandoc-lua-marshal
+haskell-pandoc-server
 haskell-pandoc-types
 haskell-pem
 haskell-pretty-show
@@ -716,6 +726,7 @@ haskell-vector-algorithms
 haskell-vector-stream
 haskell-wai
 haskell-wai-app-static
+haskell-wai-cors
 haskell-wai-extra
 haskell-wai-logger
 haskell-warp
@@ -741,11 +752,13 @@ hidapi
 highway
 hivex
 hmcl-bin
+hslua-cli
 htop
 http-parser
 hunspell
 hwdata
 hwloc
+hydra
 hyphen
 iana-etc
 icalingua++
@@ -1220,6 +1233,8 @@ lib32-tdb
 lib32-util-linux
 lib32-vkd3d
 lib32-vulkan-icd-loader
+lib32-vulkan-mesa-layers
+lib32-vulkan-virtio
 lib32-wayland
 lib32-webrtc-audio-processing
 lib32-xz
@@ -1305,6 +1320,7 @@ libewf
 libexif
 libexttextcat
 libfakekey
+libfbclient
 libfdk-aac
 libffi
 libfido2
@@ -1403,6 +1419,7 @@ libmaxminddb
 libmbim
 libmd
 libmediainfo
+libmemcached-awesome
 libmfx
 libmgba
 libmicrodns
@@ -1754,6 +1771,7 @@ mobile-broadband-provider-info
 modemmanager
 modemmanager-qt
 molequeue
+mongo-c-driver
 mongodb-bin
 mongodb-tools-bin
 mongosh-bin
@@ -1871,7 +1889,7 @@ palapeli
 pam
 pam-u2f
 pambase
-pandoc
+pandoc-cli
 pandoc-crossref
 pango
 pangomm
@@ -2559,6 +2577,7 @@ seatd
 sed
 semver
 serd
+serf
 session-desktop-bin
 sfml
 shaderc
@@ -2617,6 +2636,7 @@ stella
 step
 stk
 strace
+subversion
 sudo
 suil
 suitesparse
@@ -2688,6 +2708,7 @@ tinyxml
 tinyxml2
 tk
 tmux
+todesk-bin
 toilet
 tor-browser
 tpm2-tss
@@ -2718,6 +2739,7 @@ udisks2
 umbrello
 unace
 ungoogled-chromium
+unixodbc
 unrar
 unzip
 upower
@@ -2743,6 +2765,7 @@ virglrenderer
 virt-bootstrap-git
 virt-install
 virt-manager
+virtio-win
 virtualbox
 virtualbox-ext-oracle
 virtualbox-guest-iso
@@ -2759,7 +2782,9 @@ vtk
 vulkan-headers
 vulkan-icd-loader
 vulkan-intel
+vulkan-mesa-layers
 vulkan-tools
+vulkan-virtio
 w3m
 wavpack
 wayland
@@ -2773,6 +2798,7 @@ weechat
 weechat-matrix
 wemeet-bin
 weston
+wgcf-git
 wget
 which
 whois

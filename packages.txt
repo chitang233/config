@@ -11,6 +11,7 @@ acpi_call-dkms 1.2.2-1
 adobe-source-code-pro-fonts 2.038ro+1.058it+1.018var-1
 adwaita-cursors 43-2
 adwaita-icon-theme 43-2
+afpfs-ng 0.8.2-2
 aha 0.5.1-2
 akonadi 22.12.2-1
 akonadi-calendar 22.12.2-1
@@ -23,7 +24,7 @@ akonadi-search 22.12.2-1
 akonadiconsole 22.12.2-1
 akregator 22.12.2-1
 alembic 1.8.4-2
-alist-bin 3.9.2-1
+alist-bin 3.9.2-3
 aliyun-cli 3.0.141-1
 aliyunpan-liupan1890 2.12.14-3
 alsa-card-profiles 1:0.3.65-6
@@ -45,6 +46,8 @@ appmenu-gtk-module 0.7.6-1
 appstream 0.16.0-1
 appstream-glib 0.8.2-1
 appstream-qt 0.16.0-1
+apr 1.7.0-3
+apr-util 1.6.1-11
 arch-install-scripts 28-1
 archlinux-appstream-data 20230115-1
 archlinux-keyring 20230130-1
@@ -166,6 +169,7 @@ cjson 1.7.15-1
 clang 15.0.7-1
 clash-meta-bin 1.14.1-1
 clion 1:2022.3.2-1
+cloudflare-warp-bin 2023.1.133-1
 cloudflared 2023.1.0-1
 cloudflarespeedtest 2.0.3-1
 clucene 2.3.3.4-14
@@ -341,7 +345,7 @@ filesystem 2023.01.30-1
 findutils 4.9.0-2
 fio 3.33-1
 firefox-appmenu 108.0.2-3
-firefox-nightly 111.0a1+20230203.1+ha356e2d3cf46-1
+firefox-nightly 111.0a1+20230204.1+h193873a76970-1
 firefox-pwa 2.3.0-1
 firejail 0.9.72-1
 fish 3.6.0-1
@@ -352,7 +356,7 @@ flatpak 1:1.15.1-1
 flatpak-xdg-utils 1.0.5-1
 flex 2.6.4-4
 fltk 1.3.8-1
-fluffychat-bin 1.8.0-1
+fluffychat-bin 1.9.0-1
 fluidsynth 2.3.1-1
 fmt 9.1.0-4
 fontconfig 2:2.14.2-1
@@ -539,6 +543,7 @@ haskell-auto-update 0.1.6-292
 haskell-base-compat 0.12.2-1
 haskell-base-compat-batteries 0.12.2-34
 haskell-base-orphans 0.8.7-41
+haskell-base-unicode-symbols 0.2.4.2-13
 haskell-base16-bytestring 1.0.2.0-54
 haskell-base64 0.4.2.4-40
 haskell-base64-bytestring 1.2.1.0-76
@@ -555,12 +560,12 @@ haskell-byteorder 1.0.4-24
 haskell-call-stack 0.4.0-133
 haskell-case-insensitive 1.2.1.0-177
 haskell-cereal 0.5.8.3-1
-haskell-citeproc 0.8.1-3
+haskell-citeproc 0.8.1-4
 haskell-cmdargs 0.10.21-4
 haskell-colour 2.3.6-158
 haskell-commonmark 0.2.2-31
 haskell-commonmark-extensions 0.2.3.3-15
-haskell-commonmark-pandoc 0.2.1.3-1
+haskell-commonmark-pandoc 0.2.1.3-2
 haskell-comonad 5.0.8-176
 haskell-conduit 1.3.4.3-22
 haskell-conduit-extra 1.3.6-54
@@ -581,7 +586,7 @@ haskell-digest 0.0.1.5-1
 haskell-distributive 0.6.2.1-179
 haskell-dlist 1.0-202
 haskell-doclayout 0.4-25
-haskell-doctemplates 0.10.0.2-40
+haskell-doctemplates 0.11-1
 haskell-easy-file 0.2.2-19
 haskell-emojis 0.1.2-48
 haskell-erf 2.0.0.0-24
@@ -599,12 +604,14 @@ haskell-hslua 2.2.1-26
 haskell-hslua-aeson 2.2.1-27
 haskell-hslua-classes 2.2.0-43
 haskell-hslua-core 2.2.1-37
+haskell-hslua-list 1.1.0.1-1
 haskell-hslua-marshalling 2.2.1-31
 haskell-hslua-module-doclayout 1.0.4-76
 haskell-hslua-module-path 1.0.3-35
 haskell-hslua-module-system 1.0.2-31
 haskell-hslua-module-text 1.0.3.1-3
 haskell-hslua-module-version 1.0.3-32
+haskell-hslua-module-zip 1.0.0-1
 haskell-hslua-objectorientation 2.2.1-27
 haskell-hslua-packaging 2.2.1-23
 haskell-hsyaml 0.2.1.1-32
@@ -621,7 +628,7 @@ haskell-indexed-traversable-instances 0.1.1.1-31
 haskell-integer-logarithms 1.0.3.1-6
 haskell-iproute 1.7.12-52
 haskell-ipynb 0.2-73
-haskell-jira-wiki-markup 1.4.0-87
+haskell-jira-wiki-markup 1.5.0-1
 haskell-juicypixels 3.3.8-5
 haskell-lexer 1.1.1-1
 haskell-libyaml 0.1.2-276
@@ -643,8 +650,11 @@ haskell-old-time 1.1.0.3-30
 haskell-onetuple 0.3.1-49
 haskell-open-browser 0.2.1.0-28
 haskell-optparse-applicative 0.17.0.0-32
-haskell-pandoc-lua-marshal 0.1.7-33
-haskell-pandoc-types 1.22.2.1-31
+haskell-pandoc 3.0-2
+haskell-pandoc-lua-engine 0.1-1
+haskell-pandoc-lua-marshal 0.2.0-1
+haskell-pandoc-server 0.1-1
+haskell-pandoc-types 1.23-1
 haskell-pem 0.2.4-258
 haskell-pretty-show 1.10-14
 haskell-primitive 0.7.4.0-59
@@ -682,7 +692,7 @@ haskell-syb 0.7.2.2-24
 haskell-tagged 0.8.6.1-5
 haskell-tagsoup 0.14.8-200
 haskell-temporary 1.3-503
-haskell-texmath 0.12.5.5-2
+haskell-texmath 0.12.5.5-3
 haskell-text-conversions 0.3.1.1-35
 haskell-text-icu 0.8.0.2-23
 haskell-text-short 0.1.5-53
@@ -716,6 +726,7 @@ haskell-vector-algorithms 0.9.0.1-30
 haskell-vector-stream 0.1.0.0-1
 haskell-wai 3.2.3-171
 haskell-wai-app-static 3.1.7.4-109
+haskell-wai-cors 0.2.7-288
 haskell-wai-extra 3.1.13.0-36
 haskell-wai-logger 2.4.0-187
 haskell-warp 3.3.23-28
@@ -741,11 +752,13 @@ hidapi 0.13.1-1
 highway 1.0.3-1
 hivex 1.3.21-7
 hmcl-bin 3.5.3.228-2
+hslua-cli 1.2.0-1
 htop 3.2.1-1
 http-parser 2.9.4-1
 hunspell 1.7.2-1
 hwdata 0.366-1
 hwloc 2.8.0-1
+hydra 9.4-2
 hyphen 2.8.8-5
 iana-etc 20221215-1
 icalingua++ 2.8.6-1
@@ -1220,6 +1233,8 @@ lib32-tdb 1.4.7-1
 lib32-util-linux 2.38.1-1
 lib32-vkd3d 1.5-1
 lib32-vulkan-icd-loader 1.3.240-1
+lib32-vulkan-mesa-layers 22.3.4-1
+lib32-vulkan-virtio 22.3.4-1
 lib32-wayland 1.21.0-1
 lib32-webrtc-audio-processing 0.3.1-4
 lib32-xz 5.4.1-1
@@ -1305,6 +1320,7 @@ libewf 20140608-6
 libexif 0.6.24-1
 libexttextcat 3.4.6-1
 libfakekey 0.3-2
+libfbclient 4.0.0.2496-1
 libfdk-aac 2.0.2-1
 libffi 3.4.4-1
 libfido2 1.12.0-5
@@ -1363,7 +1379,7 @@ libixion 0.17.0-4
 libjcat 0.1.12-1
 libjpeg-turbo 2.1.4-2
 libjpeg6-turbo 1.5.3-2
-libjxl 0.8.0-1
+libjxl 0.8.1-1
 libkate 0.4.1-8
 libkcddb 22.12.2-1
 libkcompactdisc 22.12.2-1
@@ -1403,6 +1419,7 @@ libmaxminddb 1.7.1-1
 libmbim 1.28.2-1
 libmd 1.0.4-1
 libmediainfo 22.12-1
+libmemcached-awesome 1.1.3-1
 libmfx 23.1.0-1
 libmgba 0.10.1-1
 libmicrodns 0.2.0-1
@@ -1754,6 +1771,7 @@ mobile-broadband-provider-info 20221107-2
 modemmanager 1.20.4-1
 modemmanager-qt 5.102.0-1
 molequeue 0.9.0-2
+mongo-c-driver 1.23.2-1
 mongodb-bin 6.0.4-1
 mongodb-tools-bin 100.6.1-2
 mongosh-bin 1.6.2-1
@@ -1818,7 +1836,7 @@ nvtop 3.0.1-1
 nx-x11 3.5.99.26-1
 nxagent 3.5.99.26-1
 nyan-lang-git r254.7b5517f-1
-obs-studio-browser 29.0.1-1
+obs-studio-browser 29.0.2-1
 ocl-icd 2.3.1-1
 okular 22.12.2-1
 onefetch 2.15.1-1
@@ -1871,8 +1889,8 @@ palapeli 22.12.2-1
 pam 1.5.2-1
 pam-u2f 1.2.1-2
 pambase 20221020-1
-pandoc 2.19.2-61
-pandoc-crossref 0.3.14.0-28
+pandoc-cli 0.1-1
+pandoc-crossref 0.3.15.0-1
 pango 1:1.50.12-1
 pangomm 2.46.3-1
 papirus-icon-theme 20230104-1
@@ -1898,7 +1916,7 @@ perl-clone 0.46-1
 perl-encode-locale 1.05-10
 perl-error 0.17029-4
 perl-file-listing 6.15-2
-perl-html-parser 3.80-1
+perl-html-parser 3.81-1
 perl-html-tagset 3.20-13
 perl-http-cookies 6.10-3
 perl-http-daemon 6.14-2
@@ -2100,7 +2118,7 @@ python-incremental 22.10.0-1
 python-inflect 6.0.2-1
 python-iniconfig 2.0.0-2
 python-installer 0.6.0-1
-python-ipykernel 6.21.1-1
+python-ipykernel 6.21.1-2
 python-ipython-genutils 0.2.0-1
 python-ipywidgets 8.0.4-1
 python-isort 5.12.0-1
@@ -2109,7 +2127,7 @@ python-jaraco.classes 3.2.3-1
 python-jaraco.context 4.3.0-1
 python-jaraco.functools 3.5.2-1
 python-jaraco.packaging 9.1.2-1
-python-jaraco.text 3.11.0-1
+python-jaraco.text 3.11.1-1
 python-jarowinkler 1.2.3-1
 python-jedi 0.18.2-1
 python-jeepney 0.8.0-1
@@ -2210,7 +2228,7 @@ python-pydantic 1.10.4-1
 python-pyflakes 3.0.1-2
 python-pygments 2.14.0-2
 python-pyinotify 0.9.6-11
-python-pylint 2.15.10-1
+python-pylint 2.16.1-1
 python-pynacl 1.4.0-5
 python-pynput 1.7.6-2
 python-pyopenssl 23.0.0-1
@@ -2302,7 +2320,7 @@ python-virtualenv 20.17.1-1
 python-wcwidth 0.2.5-6
 python-webcolors 1.12-1
 python-webencodings 0.5.1-9
-python-websocket-client 1.5.0-1
+python-websocket-client 1.5.1-1
 python-websockets 10.4-1
 python-werkzeug 2.2.2-1
 python-wheel 0.38.4-1
@@ -2404,7 +2422,7 @@ qrencode 4.1.1-2
 qsstv 9.5.8-2
 qt-gstreamer 1.2.0-4
 qt-virt-manager 0.72.99-4.1
-qt5-base 5.15.8+kde+r178-1
+qt5-base 5.15.8+kde+r180-1
 qt5-declarative 5.15.8+kde+r24-2
 qt5-gamepad 5.15.8-1
 qt5-graphicaleffects 5.15.8-1
@@ -2472,7 +2490,7 @@ rnnoise 0.4.1-1
 roc-toolkit 0.2.1-3
 rocs 22.12.2-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.26.14662.c5b25fa132-1
+rpcs3-git 0.0.26.14666.37b46df738-1
 rpcsvc-proto 1.4.3-1
 rsync 3.2.7-3
 rtkit 0.13-2
@@ -2531,7 +2549,7 @@ rubygems 3.3.25-1
 run-parts 5.5-1
 runc 1.1.4-1
 rustdesk-bin 1.1.9-3
-rustup 1.25.1-2
+rustup 1.25.2-1
 ryujinx-git r2590.780627e7b0-1
 samba 4.17.5-1
 sane 1.1.1-2
@@ -2559,6 +2577,7 @@ seatd 0.7.0-2
 sed 4.9-1
 semver 7.3.8-1
 serd 0.30.16-1
+serf 1.3.9-8
 session-desktop-bin 1.10.4-2
 sfml 2.5.1-3
 shaderc 2022.4-1
@@ -2617,6 +2636,7 @@ stella 6.7-2
 step 22.12.2-1
 stk 4.6.2-1
 strace 6.1-2
+subversion 1.14.2-6
 sudo 1.9.12.p2-1
 suil 0.10.18-1
 suitesparse 7.0.1-2
@@ -2649,7 +2669,7 @@ tcl 8.6.13-1
 tcping 0.1.1rc1-1
 tdb 1.4.8-1
 teamviewer 15.38.3-1
-telegram-desktop-megumifox 4.5.3-1
+telegram-desktop-megumifox 4.6.0-1
 telepathy-accounts-signon 2.1-3
 telepathy-farstream 0.6.2-7
 telepathy-glib 0.24.2-2
@@ -2681,13 +2701,14 @@ texlive-core 2022.63035-1
 thin-provisioning-tools 1.0.0-1
 threadweaver 5.102.0-1
 thunderbird-appmenu 102.5.1-9
-tigervnc 1.12.90-1
+tigervnc 1.13.0-1
 timeshift 22.11.2-1
 tinycompress 1.2.8-1
 tinyxml 2.6.2-9
 tinyxml2 9.0.0-1
 tk 8.6.13-1
 tmux 3.3_a-2
+todesk-bin 4.3.1.0-1
 toilet 0.3.r155.3eb9d58-2
 tor-browser 12.0.2-1
 tpm2-tss 3.2.0-3
@@ -2709,7 +2730,7 @@ ttf-misans 2.000-1
 ttf-roboto 2.138-4
 ttf-ubuntu-font-family 0.83-8
 twolame 0.4.0-2
-typora 1.4.7-1
+typora 1.5.5-1
 tzdata 2022g-2
 ubuntu-keyring 2021.03.26-1
 uchardet 0.0.8-1
@@ -2718,6 +2739,7 @@ udisks2 2.9.4-1
 umbrello 22.12.2-1
 unace 2.5-11
 ungoogled-chromium 109.0.5414.119-1
+unixodbc 2.3.11-1
 unrar 1:6.2.5-1
 unzip 6.0-19
 upower 1.90.0-2
@@ -2743,6 +2765,7 @@ virglrenderer 0.10.4-1
 virt-bootstrap-git r154.7704260-1
 virt-install 4.1.0-1
 virt-manager 4.1.0-1
+virtio-win 0.1.229.1-1
 virtualbox 7.0.6-1
 virtualbox-ext-oracle 7.0.6-1
 virtualbox-guest-iso 7.0.6-1
@@ -2759,7 +2782,9 @@ vtk 9.1.0-25
 vulkan-headers 1:1.3.240-1
 vulkan-icd-loader 1.3.240-1
 vulkan-intel 22.3.4-1
+vulkan-mesa-layers 22.3.4-1
 vulkan-tools 1.3.240-1
+vulkan-virtio 22.3.4-1
 w3m 0.5.3.git20230121_1-1
 wavpack 5.6.0-1
 wayland 1.21.0-2
@@ -2773,13 +2798,14 @@ weechat 3.8-1
 weechat-matrix 0.3.0-9
 wemeet-bin 3.12.0.400-9
 weston 11.0.0-1
+wgcf-git 2.2.15.r0.140f983-1
 wget 1.21.3-1
 which 2.21-5
 whois 5.5.15-1
 wildmidi 0.4.5-1
 wine-gecko 2.47.3-1
 wine-mono 7.4.0-1
-wine-staging 8.0-2
+wine-staging 8.1-1
 winetricks 20220411-1
 wireless_tools 30.pre9-3
 wireplumber 0.4.13-1
@@ -2923,7 +2949,7 @@ yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.0-1
 yubioath-desktop 5.1.0-3
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3361-1
+yuzu-early-access 3363-1
 zam-plugins 4.1-2
 zam-plugins-clap 4.1-2
 zam-plugins-ladspa 4.1-2
