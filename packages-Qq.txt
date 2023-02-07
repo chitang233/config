@@ -294,6 +294,7 @@ eglexternalplatform
 eigen
 electron
 electron-netease-cloud-music
+electron12-bin
 electron19
 electron20
 electron21
@@ -1280,6 +1281,7 @@ libcdio
 libcdio-paranoia
 libcdr
 libcerf
+libcgif
 libcheese
 libcloudproviders
 libcolord
@@ -1344,6 +1346,7 @@ libgoom2
 libgpg-error
 libgphoto2
 libgravatar
+libgsf
 libgssglue
 libgudev
 libguestfs
@@ -1602,6 +1605,7 @@ libva-mesa-driver
 libva-utils
 libvdpau
 libverto
+libvips
 libvirt
 libvirt-glib
 libvirt-python
@@ -2583,6 +2587,7 @@ sfml
 shaderc
 shadow
 shared-mime-info
+signal-desktop-beta
 signon-kwallet-extension
 signon-plugin-oauth2
 signon-ui
