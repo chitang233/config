@@ -40,7 +40,7 @@ android-studio 2022.1.1.20-1
 android-udev 20230104-1
 anthy 9100h-6
 antimicrox 3.3.3-1
-aom 3.5.0-1
+aom 3.6.0-1
 apparmor 3.1.2-1
 appmenu-gtk-module 0.7.6-1
 appstream 0.16.0-1
@@ -140,7 +140,7 @@ ca-certificates-mozilla 3.87-1
 ca-certificates-utils 20220905-1
 cabextract 1.9.1-2
 caddy 2.6.2-1
-cairo 1.17.8-1
+cairo 1.17.8-2
 cairomm 1.14.4-1
 calendarsupport 22.12.2-1
 calf 0.90.3-5
@@ -154,7 +154,7 @@ cbonsai 1.3.1-3
 ccid 1.5.2-1
 cdparanoia 10.2-8
 cdrtools 3.02a09-5
-cemu-git 2.0.26.r3.gf3ff919-2
+cemu-git 2.0.26.r4.gdaf3ef0-1
 cervisia 22.12.2-1
 cfitsio 1:4.2.0-1
 chafa 1.12.4-2
@@ -253,7 +253,7 @@ docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
 docker 1:20.10.23-1
 docker-buildx 0.10.0-1
-docker-compose 2.15.1-1
+docker-compose 2.16.0-1
 docker-credential-pass-bin 0.7.0-1
 docker-machine 0.16.2-5
 docker-scan 0.23.0-1
@@ -318,7 +318,7 @@ expat 2.5.0-1
 f2fs-tools 1.15.0-2
 faac 1.30-3
 faad2 2.10.1-1
-fakeroot 1.30.1-1
+fakeroot 1.31-1
 falkon 22.12.2-1
 farstream 0.2.9-3
 faudio 23.02-1
@@ -346,7 +346,7 @@ filesystem 2023.01.31-1
 findutils 4.9.0-2
 fio 3.33-1
 firefox-appmenu 108.0.2-3
-firefox-nightly 111.0a1+20230208.1+h61a5e77067ce-1
+firefox-nightly 111.0a1+20230209.1+ha8b83be2a943-1
 firefox-pwa 2.3.0-1
 firejail 0.9.72-1
 fish 3.6.0-1
@@ -419,7 +419,7 @@ git-credential-manager-core-bin 2.0.886-2
 git-crypt 0.7.0-2
 git-lfs 3.3.0-1
 github-cli 2.23.0-1
-gitkraken 9.0.1-1
+gitkraken 9.1.0-1
 gjs 2:1.74.1-1
 glew 2.2.0-6
 glew1.10 1.10.0-3
@@ -591,7 +591,7 @@ haskell-doctemplates 0.11-2
 haskell-easy-file 0.2.2-19
 haskell-emojis 0.1.2-49
 haskell-erf 2.0.0.0-24
-haskell-fast-logger 3.1.1-72
+haskell-fast-logger 3.1.2-1
 haskell-file-embed 0.0.15.0-1
 haskell-generically 0.1-1
 haskell-ghc-bignum-orphans 0.1.1-1
@@ -651,10 +651,10 @@ haskell-old-time 1.1.0.3-30
 haskell-onetuple 0.3.1-50
 haskell-open-browser 0.2.1.0-28
 haskell-optparse-applicative 0.17.0.0-34
-haskell-pandoc 3.0-3
-haskell-pandoc-lua-engine 0.1-2
+haskell-pandoc 3.0-4
+haskell-pandoc-lua-engine 0.1-3
 haskell-pandoc-lua-marshal 0.2.0-2
-haskell-pandoc-server 0.1-2
+haskell-pandoc-server 0.1-4
 haskell-pandoc-types 1.23-2
 haskell-pem 0.2.4-259
 haskell-pretty-show 1.10-14
@@ -670,7 +670,7 @@ haskell-scientific 0.3.7.0-88
 haskell-semialign 1.2.0.1-99
 haskell-semigroupoids 5.3.7-83
 haskell-servant 0.19.1-17
-haskell-servant-server 0.19.2-20
+haskell-servant-server 0.19.2-21
 haskell-sha 1.6.4.4-19
 haskell-simple-sendfile 0.2.30-338
 haskell-singleton-bool 0.1.6-7
@@ -726,10 +726,10 @@ haskell-vector 0.13.0.0-32
 haskell-vector-algorithms 0.9.0.1-31
 haskell-vector-stream 0.1.0.0-1
 haskell-wai 3.2.3-172
-haskell-wai-app-static 3.1.7.4-110
+haskell-wai-app-static 3.1.7.4-111
 haskell-wai-cors 0.2.7-289
-haskell-wai-extra 3.1.13.0-38
-haskell-wai-logger 2.4.0-189
+haskell-wai-extra 3.1.13.0-40
+haskell-wai-logger 2.4.0-191
 haskell-warp 3.3.23-29
 haskell-witherable 0.4.2-40
 haskell-word8 0.1.3-22
@@ -740,7 +740,7 @@ haskell-x509-validation 1.6.12-62
 haskell-xml 1.3.14-30
 haskell-xml-conduit 1.9.1.1-169
 haskell-xml-types 0.3.8-8
-haskell-yaml 0.11.8.0-85
+haskell-yaml 0.11.10.0-1
 haskell-zip-archive 0.4.2.2-17
 haskell-zlib 0.6.3.0-35
 hdf5 1.12.2-1
@@ -1075,7 +1075,7 @@ lib32-at-spi2-core 2.46.0-2
 lib32-attr 2.5.1-1
 lib32-brotli 1.0.9-5
 lib32-bzip2 1.0.8-3
-lib32-cairo 1.17.8-1
+lib32-cairo 1.17.8-2
 lib32-colord 1.4.6-1
 lib32-curl 7.87.0-1
 lib32-dbus 1.14.4-1
@@ -1204,7 +1204,7 @@ lib32-nettle 3.8.1-1
 lib32-nspr 4.35-1
 lib32-nss 3.87-1
 lib32-nvidia-utils 525.85.05-1
-lib32-openal 1.22.2-1
+lib32-openal 1.23.0-1
 lib32-opencl-nvidia 525.85.05-1
 lib32-openssl 1:3.0.7-1
 lib32-openssl-1.1 1.1.1.s-1
@@ -1435,7 +1435,7 @@ libmodplug 0.8.9.0-5
 libmpc 1.3.1-1
 libmpcdec 1:0.1+r475-3
 libmpeg2 0.5.1-7
-libmspack 1:0.10.1alpha-4
+libmspack 1:0.11alpha-1
 libmspub 0.1.4-13
 libmsym 0.2.3-7
 libmtp 1.1.20-1
@@ -1453,7 +1453,7 @@ libnftnl 1.2.4-1
 libnghttp2 1.51.0-1
 libnice 0.1.21-1
 libnih 1.0.3-4
-libnl 3.7.0-2
+libnl 3.7.0-3
 libnm 1.40.12-1
 libnotify 0.8.1-1
 libnova 0.15.0-3
@@ -1679,8 +1679,8 @@ lilv 0.24.20-1
 linux-api-headers 6.1.9-1
 linux-firmware 20230117.7e4f0ed-1
 linux-firmware-whence 20230117.7e4f0ed-1
-linux-zen 6.1.9.zen1-2
-linux-zen-headers 6.1.9.zen1-2
+linux-zen 6.1.10.zen1-1
+linux-zen-headers 6.1.10.zen1-1
 linuxqq 2:3.0.0_571-2
 linuxqq-firejail 1:1.0.1-1
 lirc 1:0.10.2-2
@@ -1737,9 +1737,9 @@ mangohud 0.6.8-5
 mangohud-common 0.6.8-5
 marble 22.12.2-1
 marble-common 22.12.2-1
-mariadb 10.9.4-2
-mariadb-clients 10.9.4-2
-mariadb-libs 10.9.4-2
+mariadb 10.9.5-1
+mariadb-clients 10.9.5-1
+mariadb-libs 10.9.5-1
 marisa 0.2.6-9
 markdownpart 22.12.2-1
 mathjax2 2.7.9-1
@@ -1823,7 +1823,7 @@ noto-fonts-cjk 20220126-1
 noto-fonts-emoji 20220920-1
 noto-fonts-extra 20230201-1
 npm 8.19.2-1
-npm-check-updates 16.6.3-1
+npm-check-updates 16.6.4-1
 npth 1.6-3
 nspr 4.35-1
 nss 3.87-1
@@ -1834,7 +1834,7 @@ nvidia-dkms 525.85.05-3
 nvidia-prime 1.0-4
 nvidia-settings 525.85.05-1
 nvidia-utils 525.85.05-3
-nvidia-vaapi-driver-git 0.0.8.r59.g17c62b8-1
+nvidia-vaapi-driver-git 0.0.8.r63.g766d843-1
 nvm 0.39.3-1
 nvtop 3.0.1-1
 nx-x11 3.5.99.26-1
@@ -1848,7 +1848,7 @@ oniguruma 6.9.8-1
 open-iscsi 2.1.8-2
 open-isns 0.102-2
 openage-git 0.4.1.r810.g35064788d-1
-openal 1.22.2-1
+openal 1.23.0-1
 openbabel 3.1.1-5
 openbsd-netcat 1.219_1-1
 opencc 1.1.6-1
@@ -1865,7 +1865,7 @@ openimageio 2.4.6.1-4
 openjpeg2 2.5.0-2
 openmpi 4.1.4-4
 openpgl 0.4.1beta-1
-openpmix 4.2.2-1
+openpmix 4.2.3-1
 openshadinglanguage 1.12.9.0-1
 openssh 9.2p1-1
 openssl 3.0.8-1
@@ -1893,8 +1893,8 @@ palapeli 22.12.2-1
 pam 1.5.2-1
 pam-u2f 1.2.1-2
 pambase 20221020-1
-pandoc-cli 0.1-2
-pandoc-crossref 0.3.15.0-2
+pandoc-cli 0.1-4
+pandoc-crossref 0.3.15.0-3
 pango 1:1.50.12-1
 pangomm 2.46.3-1
 papirus-icon-theme 20230104-1
@@ -1976,7 +1976,7 @@ plasma-workspace 5.26.5-3
 plasma-workspace-wallpapers 5.26.5-1
 plasma5-wallpapers-wallpaper-engine 0.5.4-3
 png++ 0.2.10-2
-pnpm 7.26.3-1
+pnpm 7.27.0-1
 podman 4.4.0-2
 podman-compose 1.0.3-2
 podman-dnsname 1.3.1-2
@@ -2046,7 +2046,7 @@ python-base58 2.1.1-2
 python-base91 1.0.1-1
 python-bcrypt 4.0.1-1
 python-beautifulsoup4 4.11.1-1
-python-bleach 5.0.1-2
+python-bleach 6.0.0-1
 python-blinker 1.5-1
 python-brotli 1.0.9-9
 python-build 0.10.0-1
@@ -2072,7 +2072,7 @@ python-contourpy 1.0.7-1
 python-coverage 6.5.0-2
 python-crashtest 0.4.1-1
 python-cryptg 0.2-1
-python-cryptography 39.0.0-1
+python-cryptography 39.0.1-1
 python-cssselect 1.2.0-1
 python-cuda 11.8.0-1
 python-cycler 0.11.0-1
@@ -2253,7 +2253,7 @@ python-pytest 7.2.1-1
 python-pytest-drop-dup-tests 0.3.0-2
 python-pytest-rerunfailures 11.0-1
 python-pytest-timeout 2.1.0-1
-python-pytest-xdist 3.1.0-2
+python-pytest-xdist 3.2.0-1
 python-python-socks 2.0.3-2
 python-pytz 2022.7-1
 python-pyusb 1.2.1-3
@@ -2277,7 +2277,7 @@ python-scipy 1.10.0-1
 python-scrypt 0.8.20-3
 python-secretstorage 3.3.3-1
 python-send2trash 1.8.0-3
-python-setuptools 1:67.1.0-1
+python-setuptools 1:67.2.0-1
 python-setuptools-scm 7.1.0-1
 python-shellingham 1.5.0.post1-2
 python-shiboken2 5.15.8-6
@@ -2308,7 +2308,7 @@ python-tornado 6.2.0-2
 python-tox 3.26.0-2
 python-traitlets 5.9.0-1
 python-trio 0.22.0-2
-python-trove-classifiers 2023.1.20-1
+python-trove-classifiers 2023.2.8-1
 python-twisted 22.10.0-1
 python-typing_extensions 4.4.0-1
 python-typing_inspect 0.8.0-1
@@ -2426,7 +2426,7 @@ qrencode 4.1.1-2
 qsstv 9.5.8-2
 qt-gstreamer 1.2.0-4
 qt-virt-manager 0.72.99-4.1
-qt5-base 5.15.8+kde+r180-1
+qt5-base 5.15.8+kde+r181-1
 qt5-declarative 5.15.8+kde+r24-2
 qt5-gamepad 5.15.8-1
 qt5-graphicaleffects 5.15.8-1
@@ -2494,7 +2494,7 @@ rnnoise 0.4.1-1
 roc-toolkit 0.2.1-3
 rocs 22.12.2-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.26.14691.27cad422b9-1
+rpcs3-git 0.0.26.14694.d3b7a5146c-1
 rpcsvc-proto 1.4.3-1
 rsync 3.2.7-3
 rtkit 0.13-2
@@ -2554,7 +2554,7 @@ run-parts 5.5-1
 runc 1.1.4-1
 rustdesk-bin 1.1.9-3
 rustup 1.25.2-1
-ryujinx-git r2595.59755818ef-1
+ryujinx-git r2607.5f38086f94-1
 samba 4.17.5-1
 sane 1.1.1-2
 sbc 2.0-1
@@ -2674,7 +2674,7 @@ tcl 8.6.13-1
 tcping 0.1.1rc1-1
 tdb 1.4.8-1
 teamviewer 15.38.3-1
-telegram-desktop-megumifox 4.6.1-1
+telegram-desktop-megumifox 4.6.2-1
 telepathy-accounts-signon 2.1-3
 telepathy-farstream 0.6.2-7
 telepathy-glib 0.24.2-2
@@ -2705,7 +2705,7 @@ texlive-bin 2022.62885-3
 texlive-core 2022.63035-1
 thin-provisioning-tools 1.0.0-1
 threadweaver 5.102.0-1
-thunderbird-appmenu 102.5.1-9
+thunderbird-appmenu 102.5.1-10
 tigervnc 1.13.0-1
 timeshift 22.11.2-1
 tinycompress 1.2.8-1
@@ -2973,7 +2973,7 @@ zimg 3.0.4-1
 zip 3.0-10
 zita-convolver 4.0.3-2
 zlib 1:1.2.13-2
-zsh 5.9-2
+zsh 5.9-3
 zsh-completions 0.34.0-3
 zsnes 2.0.10-1
 zstd 1.5.2-8
