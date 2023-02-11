@@ -270,6 +270,7 @@ double-conversion
 doxygen
 dpkg
 draco
+dracut
 dragon
 drkonqi
 droidcam
@@ -300,6 +301,7 @@ electron20
 electron21
 element-desktop
 element-web
+elfutils
 elisa
 emacs
 embree
@@ -783,6 +785,7 @@ inotify-tools
 intel-gmmlib
 intel-media-driver
 intel-media-sdk
+intel-ucode
 intellij-idea-ultimate-edition
 intltool
 iperf3
@@ -1751,6 +1754,7 @@ mda.lv2
 mdadm
 media-player-info
 mediainfo
+memstrack
 mesa
 mesa-utils
 meson
@@ -1768,8 +1772,6 @@ minuet
 mitmproxy
 mixxx
 mjpegtools
-mkinitcpio
-mkinitcpio-busybox
 mlt
 mobile-broadband-provider-info
 modemmanager
