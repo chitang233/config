@@ -202,7 +202,7 @@ cracklib 2.9.8-1
 criu 3.17.1-1
 cronie 1.6.1-1
 crun 1.8-1
-cryptsetup 2.6.0-1
+cryptsetup 2.6.1-1
 cubeb-git 0.2.r1427.g70b4e3d-1
 cuda 11.8.0-1
 cuda-tools 11.8.0-1
@@ -217,7 +217,7 @@ datagrip 2022.3.3-1
 dav1d 1.0.0-1
 db 6.2.32-1
 db5.3 5.3.28-2
-dbus 1.14.4-1
+dbus 1.14.6-1
 dbus-glib 0.112-2
 dbus-python 1.2.18-3
 dconf 0.40.0-2
@@ -251,7 +251,7 @@ dnsmasq 2.89-1
 dnssec-anchors 20190629-3
 docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
-docker 1:20.10.23-1
+docker 1:23.0.1-1
 docker-buildx 0.10.0-1
 docker-compose 2.16.0-1
 docker-credential-pass-bin 0.7.0-1
@@ -280,7 +280,7 @@ duf 0.8.1-2
 duktape 2.7.0-5
 dust 0.8.4-1
 dynarmic 6.4.5-3
-e2fsprogs 1.46.6-1
+e2fsprogs 1.47.0-1
 easyeffects 7.0.0-2
 ebook-tools 0.2.2-7
 editorconfig-core-c 0.12.6-1
@@ -320,7 +320,7 @@ expat 2.5.0-1
 f2fs-tools 1.15.0-2
 faac 1.30-3
 faad2 2.10.1-1
-fakeroot 1.31-1
+fakeroot 1.31-2
 falkon 22.12.2-1
 farstream 0.2.9-3
 faudio 23.02-1
@@ -348,7 +348,7 @@ filesystem 2023.01.31-1
 findutils 4.9.0-2
 fio 3.33-1
 firefox-appmenu 108.0.2-3
-firefox-nightly 111.0a1+20230210.1+h54d29db98836-1
+firefox-nightly 111.0a1+20230211.1+hb6bf621975fb-1
 firefox-pwa 2.3.0-1
 firejail 0.9.72-1
 fish 3.6.0-1
@@ -375,7 +375,7 @@ freeciv 3.0.6-1
 freeglut 3.4.0-1
 freeimage 3.18.0-17
 freerdp 2:2.9.0-1
-freetype2 2.12.1-1
+freetype2 2.13.0-1
 frei0r-plugins 2.2.0-1
 fribidi 1.0.12-1
 frpc 0.47.0-1
@@ -793,7 +793,7 @@ iproute2 6.1.0-4
 ipscan 3.9.0-1
 iptables-nft 1:1.8.9-1
 iputils 20221126-1
-ipython 8.9.0-1
+ipython 8.10.0-1
 iso-codes 4.12.0-1
 itinerary 22.12.2-1
 itstool 1:2.0.7-1
@@ -1081,15 +1081,15 @@ lib32-bzip2 1.0.8-3
 lib32-cairo 1.17.8-2
 lib32-colord 1.4.6-1
 lib32-curl 7.87.0-1
-lib32-dbus 1.14.4-1
+lib32-dbus 1.14.6-1
 lib32-dbus-glib 0.112-2
-lib32-e2fsprogs 1.46.6-1
+lib32-e2fsprogs 1.47.0-1
 lib32-expat 2.5.0-2
 lib32-faudio 23.01-1
 lib32-flac 1.4.2-1
 lib32-fontconfig 2:2.14.2-1
 lib32-freeglut 3.4.0-1
-lib32-freetype2 2.12.1-1
+lib32-freetype2 2.13.0-1
 lib32-fribidi 1.0.12-1
 lib32-gamemode 1.7-1
 lib32-gcc-libs 12.2.1-2
@@ -1247,7 +1247,7 @@ lib32-zstd 1.5.2-1
 libabw 0.1.3-3
 libaccounts-glib 1.26-1
 libaccounts-qt 1.16-3
-libadwaita 1:1.2.1-1
+libadwaita 1:1.2.2-1
 libaec 1.0.6-1
 libaio 0.3.113-1
 libajantv2 1:16.2_bugfix5-1
@@ -1367,7 +1367,7 @@ libidn11 1.33-2
 libidn2 2.3.4-3
 libiec61883 1.2.0-7
 libieee1284 0.2.11-14
-libimagequant 4.0.4-1
+libimagequant 4.1.0-1
 libime 1.0.16-2
 libimobiledevice 1.3.0-6
 libindi 2.0.0-1
@@ -1682,8 +1682,8 @@ lilv 0.24.20-1
 linux-api-headers 6.1.9-1
 linux-firmware 20230117.7e4f0ed-1
 linux-firmware-whence 20230117.7e4f0ed-1
-linux-zen 6.1.10.zen1-1
-linux-zen-headers 6.1.10.zen1-1
+linux-zen 6.1.11.zen1-1
+linux-zen-headers 6.1.11.zen1-1
 linuxqq 2:3.0.0_571-2
 linuxqq-firejail 1:1.0.1-1
 lirc 1:0.10.2-2
@@ -1979,7 +1979,7 @@ plasma-workspace-wallpapers 5.26.5-1
 plasma5-wallpapers-wallpaper-engine 0.5.4-3
 png++ 0.2.10-2
 pnpm 7.27.0-1
-podman 4.4.0-2
+podman 4.4.1-2
 podman-compose 1.0.3-2
 podman-dnsname 1.3.1-2
 polkit 122-1
@@ -2168,14 +2168,14 @@ python-matplotlib-inline 0.1.6-2
 python-matrix-nio 0.20.0-1
 python-mccabe 0.7.0-1
 python-mdurl 0.1.2-2
-python-mistune 2.0.4-1
+python-mistune 2.0.5-1
 python-mitmproxy-wireguard 0.1.20-1
 python-mock 3.0.5-9
 python-more-itertools 9.0.0-1
 python-msgpack 1.0.4-1
 python-multidict 6.0.3-2
 python-mutagen 1.46.0-1
-python-mypy_extensions 0.4.3-5
+python-mypy_extensions 1.0.0-1
 python-nest-asyncio 1.5.6-1
 python-netifaces 0.11.0-3
 python-nose 1.3.7-14
@@ -2222,7 +2222,7 @@ python-pyaes 1.6.1-9
 python-pyaml 21.10.1-1
 python-pyasn1 0.4.8-7
 python-pyaudio 0.2.12-1
-python-pybase62 0.5.0-1
+python-pybase62 0.6.0-1
 python-pyclibrary 0.2.1-1
 python-pycodestyle 2.10.0-1
 python-pycparser 2.21-3
@@ -2253,7 +2253,7 @@ python-pysmbc 1.0.23-3
 python-pysocks 1.7.1-7
 python-pytest 7.2.1-1
 python-pytest-drop-dup-tests 0.3.0-2
-python-pytest-rerunfailures 11.0-1
+python-pytest-rerunfailures 11.1-1
 python-pytest-timeout 2.1.0-1
 python-pytest-xdist 3.2.0-1
 python-python-socks 2.0.3-2
@@ -2783,8 +2783,8 @@ vkd3d 1.6-1
 vlc-luajit 3.0.18-3
 vmaf 2.3.1-1
 volume_key 0.3.12-7
-vte-common 0.70.2-1
-vte3 0.70.2-1
+vte-common 0.70.3-1
+vte3 0.70.3-1
 vtk 9.1.0-26
 vulkan-headers 1:1.3.240-1
 vulkan-icd-loader 1.3.240-1
@@ -2816,7 +2816,7 @@ wine-staging 8.1-1
 winetricks 20220411-1
 wireless_tools 30.pre9-3
 wireplumber 0.4.13-1
-wlroots 0.16.1-2
+wlroots 0.16.2-1
 wmctrl 1.07-6
 woff2 1.0.2-4
 wolfssl 5.5.4-1
@@ -2956,7 +2956,7 @@ yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.0-1
 yubioath-desktop 5.1.0-3
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3378-1
+yuzu-early-access 3383-1
 zam-plugins 4.1-2
 zam-plugins-clap 4.1-2
 zam-plugins-ladspa 4.1-2
