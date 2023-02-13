@@ -118,8 +118,8 @@ bluez-libs 5.66-1
 bluez-qt 5.102.0-1
 bolt 0.9.5-1
 bomber 22.12.2-1
-boost 1.81.0-2
-boost-libs 1.81.0-2
+boost 1.81.0-3
+boost-libs 1.81.0-3
 bovo 22.12.2-1
 box2d 2.4.1-1
 brave-bin 1:1.48.158-1
@@ -138,7 +138,7 @@ c-ares 1.19.0-1
 ca-certificates 20220905-1
 ca-certificates-mozilla 3.87-1
 ca-certificates-utils 20220905-1
-cabextract 1.9.1-2
+cabextract 1.10-1
 caddy 2.6.2-1
 cairo 1.17.8-2
 cairomm 1.14.4-1
@@ -293,12 +293,12 @@ efivar 38-2
 egl-wayland 2:1.1.11-3
 eglexternalplatform 1.1-2
 eigen 3.4.0-1
-electron 22.0.3-1
+electron 22.0.3-2
 electron-netease-cloud-music 0.9.36-1
 electron12-bin 12.2.3-1
-electron19 19.1.9-3
-electron20 20.3.10-1
-electron21 21.3.5-1
+electron19 19.1.9-4
+electron20 20.3.10-2
+electron21 21.3.5-2
 element-desktop 1.11.20-1
 element-web 1.11.20-1
 elfutils 0.188-3
@@ -348,7 +348,7 @@ filesystem 2023.01.31-1
 findutils 4.9.0-2
 fio 3.33-1
 firefox-appmenu 108.0.2-3
-firefox-nightly 111.0a1+20230211.1+hb6bf621975fb-1
+firefox-nightly 111.0a1+20230213.1+h5c8fa31115c9-1
 firefox-pwa 2.3.0-1
 firejail 0.9.72-1
 fish 3.6.0-1
@@ -450,12 +450,12 @@ gnome-desktop-common 1:43.1-1
 gnome-keyring 1:42.1-2
 gnome-latex 3.44.0-1
 gnome-online-accounts 3.46.0-1
-gnome-terminal 3.46.7-1
+gnome-terminal 3.46.8-1
 gnome-video-effects 0.5.0+4+g9554041-2
 gnu-free-fonts 20120503-8
 gnugo 3.8-7
 gnupg 2.2.40-1
-gnuplot 5.4.5-1
+gnuplot 5.4.6-1
 gnutls 3.7.8-5
 go 2:1.20-1
 gobject-introspection 1.74.0-1
@@ -763,14 +763,14 @@ hwdata 0.366-1
 hwloc 2.8.0-1
 hydra 9.4-2
 hyphen 2.8.8-5
-iana-etc 20221215-1
+iana-etc 20230105-1
 icalingua++ 2.8.7-1
 icoutils 0.32.3-3
 icu 72.1-2
 icu69-bin 69.1-1
 id3lib 3.8.3-18
 ijs 0.35-5
-imagemagick 7.1.0.61-1
+imagemagick 7.1.0.62-1
 imake 1.0.9-1
 imath 3.1.6-2
 imgcat 1.2.0-2
@@ -790,7 +790,7 @@ intellij-idea-ultimate-edition 2022.3.2-1
 intltool 0.51.0-6
 iperf3 3.12-2
 iproute2 6.1.0-4
-ipscan 3.9.0-1
+ipscan 3.9.1-1
 iptables-nft 1:1.8.9-1
 iputils 20221126-1
 ipython 8.10.0-1
@@ -1142,7 +1142,7 @@ lib32-libltdl 2.4.7-2
 lib32-libmikmod 3.3.11.1-6
 lib32-libmodplug 0.8.9.0-4
 lib32-libnl 3.7.0-1
-lib32-libnm 1.40.12-1
+lib32-libnm 1.42.0-1
 lib32-libnsl 2.0.0-1
 lib32-libogg 1.3.5-1
 lib32-libpcap 1.10.3-1
@@ -1457,7 +1457,7 @@ libnghttp2 1.51.0-1
 libnice 0.1.21-1
 libnih 1.0.3-4
 libnl 3.7.0-3
-libnm 1.40.12-1
+libnm 1.42.0-1
 libnotify 0.8.1-1
 libnova 0.15.0-3
 libnsl 2.0.0-2
@@ -1633,7 +1633,7 @@ libwpe 1.14.1-1
 libwpg 0.3.3-4
 libwps 0.4.13-1
 libwrap 7.6.31-4
-libx11 1.8.3-6
+libx11 1.8.4-1
 libxau 1.0.11-1
 libxaw 1.0.14-1
 libxcb 1.15-2
@@ -1809,7 +1809,7 @@ netease-cloud-music-gtk4 2.2.0-1
 nethack 3.6.6-4
 netpbm 10.73.42-2
 nettle 3.8.1-1
-networkmanager 1.40.12-1
+networkmanager 1.42.0-1
 networkmanager-qt 5.102.0-1
 nftables 1:1.0.6-1
 nilfs-utils 2.2.9-2
@@ -1825,7 +1825,7 @@ noto-fonts-cjk 20220126-1
 noto-fonts-emoji 20220920-1
 noto-fonts-extra 20230201-1
 npm 8.19.2-1
-npm-check-updates 16.6.5-1
+npm-check-updates 16.7.0-1
 npth 1.6-3
 nspr 4.35-1
 nss 3.87-1
@@ -2462,7 +2462,7 @@ qt6-tools 6.4.2-3
 qt6-translations 6.4.2-1
 qt6-wayland 6.4.2-1
 qt6-webchannel 6.4.2-1
-qt6-webengine 6.4.2-1
+qt6-webengine 6.4.2-2
 qtermwidget 1.2.0-1
 qtkeychain-qt5 0.13.2-1
 qtractor 0.9.31-1
@@ -2496,7 +2496,7 @@ rnnoise 0.4.1-1
 roc-toolkit 0.2.1-3
 rocs 22.12.2-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.26.14705.465ca97531-1
+rpcs3-git 0.0.26.14712.3976018980-1
 rpcsvc-proto 1.4.3-1
 rsync 3.2.7-3
 rtkit 0.13-2
@@ -2556,7 +2556,7 @@ run-parts 5.5-1
 runc 1.1.4-1
 rustdesk-bin 1.1.9-3
 rustup 1.25.2-1
-ryujinx-git r2607.5f38086f94-1
+ryujinx-git r2610.e4f68592c3-1
 samba 4.17.5-1
 sane 1.1.1-2
 sbc 2.0-1
@@ -2766,8 +2766,8 @@ vde2 2.3.3-3
 vdpauinfo 1.5-1
 ventoy-bin 1.0.88-1
 vid.stab 1.1-3
-vim 9.0.1182-1
-vim-runtime 9.0.1182-1
+vim 9.0.1302-1
+vim-runtime 9.0.1302-1
 virglrenderer 0.10.4-1
 virt-bootstrap-git r154.7704260-1
 virt-install 4.1.0-1
@@ -2804,7 +2804,7 @@ webstorm 2022.3.2-1
 weechat 3.8-1
 weechat-matrix 0.3.0-9
 wemeet-bin 3.12.0.400-10
-weston 11.0.0-1
+weston 11.0.1-1
 wgcf-git 2.2.15.r0.140f983-1
 wget 1.21.3-1
 which 2.21-5
@@ -2864,7 +2864,7 @@ xf86-video-nouveau 1.0.17-2
 xf86-video-openchrome 0.6.0.r798.g0c75274-1
 xf86-video-vesa 2.6.0-1
 xfsprogs 6.1.1-2
-xkeyboard-config 2.37-1
+xkeyboard-config 2.38-1
 xmlsec 1.2.37-1
 xorg-bdftopcf 1.1.1-1
 xorg-docs 1.7.2-2
@@ -2918,7 +2918,7 @@ xorg-xrefresh 1.0.7-1
 xorg-xset 1.2.5-1
 xorg-xsetroot 1.1.3-1
 xorg-xvinfo 1.1.5-1
-xorg-xwayland 22.1.7-2
+xorg-xwayland 22.1.8-1
 xorg-xwd 1.0.8-1
 xorg-xwininfo 1.1.5-3
 xorg-xwud 1.0.6-1
@@ -2956,7 +2956,7 @@ yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.0-1
 yubioath-desktop 5.1.0-3
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3383-1
+yuzu-early-access 3394-1
 zam-plugins 4.1-2
 zam-plugins-clap 4.1-2
 zam-plugins-ladspa 4.1-2
