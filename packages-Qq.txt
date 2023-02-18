@@ -168,6 +168,7 @@ ciphey
 cjson
 clang
 clash-meta-bin
+clinfo
 clion
 cloudflare-warp-bin
 cloudflared
