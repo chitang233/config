@@ -92,6 +92,7 @@ baloo
 baloo-widgets
 bandwhich
 base
+base-devel
 bash
 bash-completion
 bash2048
@@ -262,6 +263,7 @@ dog
 dolphin
 dolphin-emu
 dolphin-plugins
+dosbox
 dosfstools
 dotconf
 dotnet-host
@@ -271,7 +273,6 @@ double-conversion
 doxygen
 dpkg
 draco
-dracut
 dragon
 drkonqi
 droidcam
@@ -1773,6 +1774,8 @@ minuet
 mitmproxy
 mixxx
 mjpegtools
+mkinitcpio
+mkinitcpio-busybox
 mlt
 mobile-broadband-provider-info
 modemmanager
@@ -2577,6 +2580,8 @@ sdl2_mixer
 sdl2_ttf
 sdl_image
 sdl_mixer
+sdl_net
+sdl_sound
 sdl_ttf
 seabios
 seahorse
