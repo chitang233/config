@@ -259,6 +259,7 @@ docker-compose
 docker-credential-pass-bin
 docker-machine
 docker-scan
+doctl
 dog
 dolphin
 dolphin-emu
@@ -1042,6 +1043,7 @@ ktorrent
 ktouch
 ktuberling
 kturtle
+kubectl
 kubrick
 kunitconversion
 kuserfeedback
@@ -1793,6 +1795,7 @@ mplayer
 mpv
 mtdev
 mtools
+mtr
 mujs
 multipath-tools
 music-you-git
