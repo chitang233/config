@@ -27,7 +27,7 @@ alembic 1.8.4-2
 alist-bin 3.11.0-1
 aliyun-cli 3.0.149-1
 aliyunpan-liupan1890 2.12.14-4
-alsa-card-profiles 1:0.3.65-6
+alsa-card-profiles 1:0.3.66-2
 alsa-lib 1.2.8-1
 alsa-plugins 1:1.2.7.1-1
 alsa-topology-conf 1.2.5.1-1
@@ -49,7 +49,7 @@ appstream-qt 0.16.1-1
 apr 1.7.0-3
 apr-util 1.6.1-11
 arch-install-scripts 28-1
-archlinux-appstream-data 20230115-1
+archlinux-appstream-data 20230220-1
 archlinux-keyring 20230130-1
 archlinuxcn-keyring 20220716-1
 ardour 7.3-1
@@ -213,7 +213,7 @@ cups 1:2.4.2-5
 cups-filters 1.28.17-1
 cups-pdf 3.0.1-7
 cups-pk-helper 0.2.7-1
-curl 7.88.0-4
+curl 7.88.1-1
 cython 0.29.33-1
 datagrip 2022.3.3-1
 dav1d 1.0.0-1
@@ -351,7 +351,7 @@ filesystem 2023.01.31-1
 findutils 4.9.0-2
 fio 3.33-1
 firefox-appmenu 108.0.2-4
-firefox-nightly 112.0a1+20230220.1+h366911fbd1b5-1
+firefox-nightly 112.0a1+20230221.1+h9c9b3637c346-1
 firefox-pwa 2.3.0-1
 firejail 0.9.72-1
 fish 3.6.0-1
@@ -377,7 +377,7 @@ freecell-solver 6.8.0-1
 freeciv 3.0.6-1
 freeglut 3.4.0-1
 freeimage 3.18.0-17
-freerdp 2:2.9.0-1
+freerdp 2:2.10.0-1
 freetype2 2.13.0-1
 frei0r-plugins 2.2.0-1
 fribidi 1.0.12-1
@@ -459,7 +459,7 @@ gnu-free-fonts 20120503-8
 gnugo 3.8-7
 gnupg 2.2.40-1
 gnuplot 5.4.6-1
-gnutls 3.7.9-1
+gnutls 3.8.0-1
 go 2:1.20.1-1
 gobject-introspection 1.74.0-1
 gobject-introspection-runtime 1.74.0-1
@@ -792,7 +792,7 @@ intel-ucode 20230214-1
 intellij-idea-ultimate-edition 2022.3.2-1
 intltool 0.51.0-6
 iperf3 3.12-2
-iproute2 6.1.0-5
+iproute2 6.2.0-1
 ipscan 3.9.1-1
 iptables-nft 1:1.8.9-1
 iputils 20221126-1
@@ -1084,7 +1084,7 @@ lib32-brotli 1.0.9-5
 lib32-bzip2 1.0.8-3
 lib32-cairo 1.17.8-2
 lib32-colord 1.4.6-1
-lib32-curl 7.88.0-4
+lib32-curl 7.88.1-2
 lib32-dbus 1.14.6-1
 lib32-dbus-glib 0.112-2
 lib32-e2fsprogs 1.47.0-1
@@ -1122,12 +1122,12 @@ lib32-libcaca 0.99.beta20-1
 lib32-libcanberra 1:0.30+r2+gc0620e4-2
 lib32-libcap 2.67-1
 lib32-libcups 2.4.2-2
-lib32-libcurl-compat 7.88.0-4
-lib32-libcurl-gnutls 7.88.0-4
+lib32-libcurl-compat 7.88.1-2
+lib32-libcurl-gnutls 7.88.1-2
 lib32-libdatrie 0.2.13-2
 lib32-libdbusmenu-glib 16.04.0-5
 lib32-libdbusmenu-gtk2 16.04.0-5
-lib32-libdrm 2.4.114-1
+lib32-libdrm 2.4.115-1
 lib32-libelf 0.188-1
 lib32-libepoxy 1.5.10-1
 lib32-libffi 3.4.4-1
@@ -1141,7 +1141,7 @@ lib32-libidn2 2.3.4-2
 lib32-libindicator-gtk2 12.10.1-9
 lib32-libjpeg-turbo 2.1.5-4
 lib32-libjpeg6-turbo 1.5.3-2
-lib32-libldap 2.6.3-3
+lib32-libldap 2.6.4-1
 lib32-libltdl 2.4.7-2
 lib32-libmikmod 3.3.11.1-6
 lib32-libmodplug 0.8.9.0-4
@@ -1151,6 +1151,7 @@ lib32-libnsl 2.0.0-1
 lib32-libogg 1.3.5-1
 lib32-libpcap 1.10.3-1
 lib32-libpciaccess 0.17-1
+lib32-libpipewire 1:0.3.66-2
 lib32-libpng 1.6.39-1
 lib32-libpng12 1.2.59-2
 lib32-libpsl 0.21.1-3
@@ -1171,7 +1172,7 @@ lib32-libunistring 1.1-1
 lib32-libunwind 1.6.2-2
 lib32-libusb 1.0.26-1
 lib32-libva 2.17.0-1
-lib32-libva-mesa-driver 22.3.4-1
+lib32-libva-mesa-driver 22.3.5-1
 lib32-libvdpau 1.5-1
 lib32-libvorbis 1.3.7-1
 lib32-libvpx1.3 1.3.0-3
@@ -1203,8 +1204,8 @@ lib32-libxv 1.0.12-1
 lib32-libxxf86vm 1.1.5-1
 lib32-llvm-libs 15.0.7-1
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-2
-lib32-mesa 22.3.4-1
-lib32-mesa-vdpau 22.3.4-1
+lib32-mesa 22.3.5-1
+lib32-mesa-vdpau 22.3.5-1
 lib32-mpg123 1.31.2-1
 lib32-ncurses 6.4-1
 lib32-nettle 3.8.1-1
@@ -1222,9 +1223,9 @@ lib32-pam 1.5.2-1
 lib32-pango 1:1.50.12-1
 lib32-pcre2 10.42-1
 lib32-pcsclite 1.9.9-1
-lib32-pipewire 1:0.3.65-2
-lib32-pipewire-jack 1:0.3.65-2
-lib32-pipewire-v4l2 1:0.3.65-2
+lib32-pipewire 1:0.3.66-2
+lib32-pipewire-jack 1:0.3.66-2
+lib32-pipewire-v4l2 1:0.3.66-2
 lib32-pixman 0.42.2-1
 lib32-sdl12-compat 1.2.60-1
 lib32-sdl2 2.26.3-1
@@ -1241,8 +1242,8 @@ lib32-tdb 1.4.7-1
 lib32-util-linux 2.38.1-1
 lib32-vkd3d 1.5-1
 lib32-vulkan-icd-loader 1.3.240-1
-lib32-vulkan-mesa-layers 22.3.4-1
-lib32-vulkan-virtio 22.3.4-1
+lib32-vulkan-mesa-layers 22.3.5-1
+lib32-vulkan-virtio 22.3.5-1
 lib32-wayland 1.21.0-1
 lib32-webrtc-audio-processing 0.3.1-4
 lib32-xz 5.4.1-1
@@ -1295,8 +1296,8 @@ libcolord 1.4.6-1
 libconfig 1.7.3-1
 libcpuid 0.6.2-1
 libcups 1:2.4.2-5
-libcurl-compat 7.88.0-4
-libcurl-gnutls 7.88.0-4
+libcurl-compat 7.88.1-1
+libcurl-gnutls 7.88.1-1
 libdaemon 0.14-5
 libdatrie 0.2.13-2
 libdbusmenu-glib 16.04.0-5
@@ -1362,7 +1363,7 @@ libgxps 0.3.2-3
 libhandy 1.8.1-1
 libharu 2.4.3-1
 libheif 1.15.1-1
-libibus 1.5.27-1
+libibus 1.5.28-1
 libical 3.0.16-4
 libice 1.1.1-1
 libid3tag 0.15.1b-11
@@ -1449,6 +1450,7 @@ libmtp 1.1.20-1
 libmusicbrainz5 5.1.0-5
 libmwaw 0.3.21-3
 libmypaint 1.6.1-1
+libmysofa 1.3.1-2
 libnatpmp 20150609-3
 libndp 1.8-1
 libnet 1:1.1.6-1
@@ -1461,7 +1463,7 @@ libnghttp2 1.52.0-1
 libnice 0.1.21-1
 libnih 1.0.3-4
 libnl 3.7.0-3
-libnm 1.42.0-1
+libnm 1.42.0-2
 libnotify 0.8.2-1
 libnova 0.15.0-3
 libnsl 2.0.0-2
@@ -1484,6 +1486,7 @@ libpciaccess 0.17-1
 libpgm 5.3.128-2
 libphonenumber 1:8.13.4-1
 libpipeline 1.5.7-1
+libpipewire 1:0.3.66-2
 libplacebo 5.229.1-2
 libplist 2.2.0-6
 libpng 1.6.39-1
@@ -1608,7 +1611,7 @@ libutempter 1.2.1-3
 libutf8proc 2.8.0-1
 libuv 1.44.2-1
 libva 2.17.0-1
-libva-mesa-driver 22.3.4-1
+libva-mesa-driver 22.3.5-1
 libva-utils 2.17.1-1
 libvdpau 1.5-1
 libverto 0.3.2-4
@@ -1744,9 +1747,9 @@ mangohud 0.6.8-5
 mangohud-common 0.6.8-5
 marble 22.12.2-1
 marble-common 22.12.2-1
-mariadb 10.10.3-1
-mariadb-clients 10.10.3-1
-mariadb-libs 10.10.3-1
+mariadb 10.11.2-1
+mariadb-clients 10.11.2-1
+mariadb-libs 10.11.2-1
 marisa 0.2.6-9
 markdownpart 22.12.2-1
 mathjax2 2.7.9-1
@@ -1759,7 +1762,7 @@ mdadm 4.2-2
 media-player-info 24-2
 mediainfo 22.12-1
 memstrack 0.2.2-1
-mesa 22.3.4-1
+mesa 22.3.5-1
 mesa-utils 8.5.0-2
 meson 1.0.0-2
 messagelib 22.12.2-1
@@ -1792,7 +1795,7 @@ mpdecimal 2.5.1-1
 mpfr 4.2.0-3
 mpg123 1.31.2-2
 mplayer 38407-1
-mpv 1:0.35.1-1
+mpv 1:0.35.1-2
 mtdev 1.1.6-2
 mtools 1:4.0.42-1
 mtr 0.95-3
@@ -1816,7 +1819,7 @@ netease-cloud-music-gtk4 2.2.0-1
 nethack 3.6.6-4
 netpbm 10.73.42-2
 nettle 3.8.1-1
-networkmanager 1.42.0-1
+networkmanager 1.42.0-2
 networkmanager-qt 5.103.0-1
 nftables 1:1.0.6-1
 nilfs-utils 2.2.9-2
@@ -1893,7 +1896,7 @@ otf-smiley-sans-bin 1.1.1-1
 oxygen 5.27.0-1
 oxygen-sounds 5.27.0-1
 p11-kit 0.24.1-1
-p7zip 1:17.04-4
+p7zip 1:17.05-1
 pacman 6.0.2-5
 pacman-contrib 1.8.2-1
 pacman-mirrorlist 20221204-1
@@ -1958,13 +1961,13 @@ pim-data-exporter 22.12.2-1
 pim-sieve-editor 22.12.2-1
 pimcommon 22.12.2-1
 pinentry 1.2.1-1
-pipewire 1:0.3.65-6
-pipewire-alsa 1:0.3.65-6
-pipewire-audio 1:0.3.65-6
-pipewire-jack 1:0.3.65-6
-pipewire-pulse 1:0.3.65-6
-pipewire-roc 1:0.3.65-6
-pipewire-v4l2 1:0.3.65-6
+pipewire 1:0.3.66-2
+pipewire-alsa 1:0.3.66-2
+pipewire-audio 1:0.3.66-2
+pipewire-jack 1:0.3.66-2
+pipewire-pulse 1:0.3.66-2
+pipewire-roc 1:0.3.66-2
+pipewire-v4l2 1:0.3.66-2
 pixman 0.42.2-1
 pkgconf 1.8.0-1
 pkgfile 21-2
@@ -2237,7 +2240,7 @@ python-pycryptodome 3.17.0-1
 python-pycryptodomex 3.12.0-1
 python-pycups 2.0.1-5
 python-pycurl 7.45.2-1
-python-pydantic 1.10.4-1
+python-pydantic 1.10.5-1
 python-pyflakes 3.0.1-2
 python-pygments 2.14.0-2
 python-pyinotify 0.9.6-11
@@ -2286,7 +2289,7 @@ python-scipy 1.10.1-1
 python-scrypt 0.8.20-3
 python-secretstorage 3.3.3-1
 python-send2trash 1.8.0-3
-python-setuptools 1:67.3.0-1
+python-setuptools 1:67.3.2-1
 python-setuptools-scm 7.1.0-1
 python-shellingham 1.5.0.post1-2
 python-shiboken2 5.15.8-6
@@ -2503,7 +2506,7 @@ rnnoise 0.4.1-1
 roc-toolkit 0.2.1-3
 rocs 22.12.2-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.26.14723.bb2c9196f5-1
+rpcs3-git 0.0.26.14725.364c33060b-1
 rpcsvc-proto 1.4.3-1
 rsync 3.2.7-3
 rtkit 0.13-2
@@ -2598,7 +2601,7 @@ sfml 2.5.1-3
 shaderc 2022.4-1
 shadow 4.13-2
 shared-mime-info 2.2+13+ga2ffb28-1
-signal-desktop-beta 6.5.0beta2-1
+signal-desktop-beta 6.7.0beta1-1
 signon-kwallet-extension 22.12.2-1
 signon-plugin-oauth2 0.25-1
 signon-ui 0.17+20171022-3
@@ -2731,7 +2734,7 @@ tpm2-tss 3.2.0-3
 traceroute 2.1.1-1
 tracker3 3.4.2-2
 translate-shell 0.9.7-1
-trash-cli 0.22.10.20-3
+trash-cli 0.23.2.13.2-1
 tree 2.1.0-1
 triplea 2.6.586-1
 tslib 1.22-1
@@ -2797,10 +2800,10 @@ vte3 0.70.3-1
 vtk 9.1.0-26
 vulkan-headers 1:1.3.240-1
 vulkan-icd-loader 1.3.240-1
-vulkan-intel 22.3.4-1
-vulkan-mesa-layers 22.3.4-1
+vulkan-intel 22.3.5-1
+vulkan-mesa-layers 22.3.5-1
 vulkan-tools 1.3.240-1
-vulkan-virtio 22.3.4-1
+vulkan-virtio 22.3.5-1
 w3m 0.5.3.git20230121_1-1
 wavpack 5.6.0-1
 wayland 1.21.0-2
@@ -2965,7 +2968,7 @@ yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.0-1
 yubioath-desktop 5.1.0-3
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3410-1
+yuzu-early-access 3411-1
 zam-plugins 4.1-2
 zam-plugins-clap 4.1-2
 zam-plugins-ladspa 4.1-2
