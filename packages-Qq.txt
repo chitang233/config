@@ -25,7 +25,6 @@ akonadiconsole
 akregator
 alembic
 alist-bin
-aliyun-cli
 aliyunpan-liupan1890
 alsa-card-profiles
 alsa-lib
@@ -314,6 +313,7 @@ enchant
 enet
 erofs-utils
 espeak-ng
+ethtool
 eventviews
 evince
 exa
@@ -386,6 +386,7 @@ ftgl
 ftl-sdk
 fuse-common
 fuse-emulator
+fuse-overlayfs
 fuse2
 fuse3
 fuseiso
@@ -1821,6 +1822,7 @@ netpbm
 nettle
 networkmanager
 networkmanager-qt
+nexttrace
 nftables
 nilfs-utils
 ninja
@@ -2495,6 +2497,7 @@ redis
 redland
 reiserfsprogs
 remmina
+repo
 retroarch
 retroarch-assets-glui
 retroarch-assets-ozone
@@ -2607,6 +2610,7 @@ signon-plugin-oauth2
 signon-ui
 signond
 simplescreenrecorder
+sing-box
 skanlite
 skanpage
 skopeo
