@@ -4,7 +4,7 @@
 # Inserts a blank line between shell prompts
 add_newline = false
 format = "$username$directory$character"
-right_format = "$all"
+right_format = "$hostname$time"
 
 [character]
 success_symbol = "[➜](bold green)"
@@ -18,48 +18,13 @@ ssh_only = false
 format = "[$user]($style) in "
 show_always = true
 
-[bun]
-format = ' \[[$symbol($version)]($style)\]'
-
-[buf]
-symbol = " "
-
 [c]
 symbol = " "
 format = ' \[[$symbol($version(-$name))]($style)\]'
 
-[cmake]
-format = ' \[[$symbol($version)]($style)\]'
-
-[cmd_duration]
-format = ' \[[$duration]($style)\]'
-
-[cobol]
-format = ' \[[$symbol($version)]($style)\]'
-
-[conda]
-symbol = " "
-format = ' \[[$symbol$environment]($style)\]'
-
-[crystal]
-format = ' \[[$symbol($version)]($style)\]'
-
-[daml]
-format = ' \[[$symbol($version)]($style)\]'
-
-[dart]
-symbol = " "
-format = ' \[[$symbol($version)]($style)\]'
-
-[deno]
-format = ' \[[$symbol($version)]($style)\]'
-
 [docker_context]
 symbol = " "
 format = ' \[[$symbol$context]($style)\]'
-
-[dotnet]
-format = ' \[[$symbol($version)(🎯 $tfm)]($style)\]'
 
 [directory]
 truncation_length = 5
