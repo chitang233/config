@@ -99,8 +99,8 @@ bash2048
 bashtop
 bat
 bc
+bcg729
 beep
-besttrace
 betterdiscord-installer
 betterdiscordctl-git
 bind
@@ -341,7 +341,7 @@ fcitx5-qt
 fd
 feh
 ffcall
-ffmpeg-obs
+ffmpeg-vulkan
 ffmpeg4.4
 ffmpegthumbnailer
 ffmpegthumbs
@@ -791,6 +791,11 @@ inotify-tools
 intel-gmmlib
 intel-media-driver
 intel-media-sdk
+intel-oneapi-common
+intel-oneapi-compiler-dpcpp-cpp-runtime
+intel-oneapi-compiler-shared-runtime
+intel-oneapi-openmp
+intel-oneapi-tbb
 intel-ucode
 intellij-idea-ultimate-edition
 intltool
@@ -1074,6 +1079,7 @@ ldns
 lensfun
 leptonica
 less
+level-zero-loader
 lf
 lhasa
 lib2geom
@@ -1230,6 +1236,7 @@ lib32-pipewire
 lib32-pipewire-jack
 lib32-pipewire-v4l2
 lib32-pixman
+lib32-polkit
 lib32-sdl12-compat
 lib32-sdl2
 lib32-sdl2_image
@@ -1423,6 +1430,7 @@ liblo
 liblouis
 liblqr
 liblrdf
+liblsp-r3d-glx-lib
 libltc
 liblzf
 libmad
@@ -1692,7 +1700,8 @@ lilv
 linux-api-headers
 linux-firmware
 linux-firmware-whence
-linux-zen
+linux-lts
+linux-lts-headers
 linux-zen-headers
 linuxqq
 linuxqq-firejail
@@ -1712,6 +1721,11 @@ lshw
 lskat
 lsof
 lsp-plugins
+lsp-plugins-clap
+lsp-plugins-ladspa
+lsp-plugins-lv2
+lsp-plugins-standalone
+lsp-plugins-vst
 lsscsi
 lttng-ust2.12
 lua
@@ -1846,7 +1860,7 @@ nss
 nss-mdns
 ntfs-3g
 numactl
-nvidia-dkms
+nvidia-lts
 nvidia-prime
 nvidia-settings
 nvidia-utils
@@ -1860,6 +1874,7 @@ obs-studio-browser
 ocl-icd
 okular
 onefetch
+onetbb
 oniguruma
 open-iscsi
 open-isns
@@ -1933,6 +1948,8 @@ pcsclite
 pcsx2
 perl
 perl-clone
+perl-digest-hmac
+perl-digest-sha1
 perl-encode-locale
 perl-error
 perl-file-listing
@@ -1944,12 +1961,18 @@ perl-http-date
 perl-http-message
 perl-http-negotiate
 perl-io-html
+perl-io-socket-inet6
 perl-libintl-perl
 perl-libwww
 perl-lwp-mediatypes
 perl-mailtools
+perl-net-dns
 perl-net-http
+perl-net-ip
+perl-net-libidn2
+perl-net-ssleay
 perl-parse-yapp
+perl-socket6
 perl-timedate
 perl-try-tiny
 perl-uri
@@ -2671,6 +2694,7 @@ supertuxkart
 svgpart
 svt-av1
 svt-hevc
+swaks
 sweeper
 swig
 swtpm
@@ -2689,7 +2713,6 @@ tabby-bin
 taglib
 talloc
 tar
-tbb
 tcl
 tcping
 tdb
@@ -2813,6 +2836,7 @@ vulkan-mesa-layers
 vulkan-tools
 vulkan-virtio
 w3m
+watt-toolkit-bin
 wavpack
 wayland
 wayland-protocols
@@ -2838,6 +2862,8 @@ wireguard-tools
 wireless_tools
 wireplumber
 wireproxy
+wireshark-cli
+wireshark-qt
 wlroots
 wmctrl
 woff2
