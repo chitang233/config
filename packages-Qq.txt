@@ -32,6 +32,7 @@ alsa-lib
 alsa-plugins
 alsa-topology-conf
 alsa-ucm-conf
+amf-headers
 amtk
 analitza
 android-ndk
@@ -62,6 +63,7 @@ aribb25
 ark
 artikulate
 asciinema
+asio
 aspell
 at-spi2-core
 atkmm
@@ -155,6 +157,7 @@ cbonsai
 ccid
 cdparanoia
 cdrtools
+cef-minimal-obs-bin
 cemu-git
 cervisia
 cfitsio
@@ -346,6 +349,7 @@ ffmpeg4.4
 ffmpegthumbnailer
 ffmpegthumbs
 ffms2
+ffnvcodec-headers
 fftw
 file
 filelight
@@ -789,7 +793,9 @@ ink
 inkscape
 innoextract
 inotify-tools
+intel-compute-runtime
 intel-gmmlib
+intel-graphics-compiler
 intel-media-driver
 intel-media-sdk
 intel-oneapi-common
@@ -800,6 +806,7 @@ intel-oneapi-compiler-shared-runtime
 intel-oneapi-compiler-shared-runtime-libs
 intel-oneapi-openmp
 intel-oneapi-tbb
+intel-opencl-clang
 intel-ucode
 intellij-idea-ultimate-edition
 intltool
@@ -1712,6 +1719,7 @@ linuxqq
 linuxqq-firejail
 lirc
 live-media
+lld
 lldb
 llvm-libs
 lm_sensors
@@ -1826,6 +1834,7 @@ multipath-tools
 music-you-git
 mypaint-brushes1
 nano
+nasm
 ncompress
 ncurses
 ncurses5-compat-libs
@@ -1849,6 +1858,7 @@ nftables
 nilfs-utils
 ninja
 nitrogen
+nlohmann-json
 nmap
 nnn
 node-gyp
@@ -1881,6 +1891,7 @@ ocl-icd
 okular
 onefetch
 onetbb
+onevpl
 oniguruma
 open-iscsi
 open-isns
@@ -2549,6 +2560,7 @@ rtmpdump
 rubberband
 ruby
 ruby-abbrev
+ruby-backports
 ruby-base64
 ruby-benchmark
 ruby-bigdecimal
@@ -2559,6 +2571,7 @@ ruby-csv
 ruby-date
 ruby-delegate
 ruby-did_you_mean
+ruby-diff-lcs
 ruby-digest
 ruby-drb
 ruby-english
@@ -2578,6 +2591,7 @@ ruby-irb
 ruby-json
 ruby-logger
 ruby-minitest
+ruby-mustache
 ruby-mutex_m
 ruby-net-http
 ruby-open-uri
@@ -2588,6 +2602,11 @@ ruby-rake
 ruby-rdoc
 ruby-reline
 ruby-rexml
+ruby-rspec
+ruby-rspec-core
+ruby-rspec-expectations
+ruby-rspec-mocks
+ruby-rspec-support
 ruby-ruby2_keywords
 ruby-stdlib
 ruby-stringio
@@ -2676,6 +2695,7 @@ spice
 spice-gtk
 spice-protocol
 spirv-headers
+spirv-llvm-translator
 spirv-tools
 sqlite
 squashfs-tools
@@ -2851,6 +2871,7 @@ wayland-utils
 webkit2gtk
 webkit2gtk-4.1
 webrtc-audio-processing
+websocketpp
 webstorm
 weechat
 weechat-matrix
