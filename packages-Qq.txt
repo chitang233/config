@@ -768,6 +768,7 @@ hunspell
 hwdata
 hwloc
 hydra
+hyfetch
 hyphen
 iana-etc
 icalingua++
@@ -793,7 +794,10 @@ intel-media-driver
 intel-media-sdk
 intel-oneapi-common
 intel-oneapi-compiler-dpcpp-cpp-runtime
+intel-oneapi-compiler-dpcpp-cpp-runtime-libs
+intel-oneapi-compiler-shared-opencl-cpu
 intel-oneapi-compiler-shared-runtime
+intel-oneapi-compiler-shared-runtime-libs
 intel-oneapi-openmp
 intel-oneapi-tbb
 intel-ucode
@@ -1355,6 +1359,7 @@ libgdiplus
 libgee
 libgexiv2
 libgig
+libgirepository
 libgit2
 libglvnd
 libgme
@@ -1820,6 +1825,7 @@ mujs
 multipath-tools
 music-you-git
 mypaint-brushes1
+nano
 ncompress
 ncurses
 ncurses5-compat-libs
@@ -2796,6 +2802,7 @@ usbredir
 usbutils
 util-linux
 util-linux-libs
+uudeck
 v4l-utils
 v4l2loopback-dc-dkms
 v4l2loopback-dkms
