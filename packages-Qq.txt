@@ -147,6 +147,7 @@ cairo
 cairomm
 calendarsupport
 calf
+calibre
 cantarell-fonts
 cantor
 capstone
@@ -165,6 +166,7 @@ chafa
 chaotic-keyring
 chaotic-mirrorlist
 cheese
+chmlib
 chromaprint
 chrpath
 cifs-utils
@@ -344,7 +346,7 @@ fcitx5-qt
 fd
 feh
 ffcall
-ffmpeg-vulkan
+ffmpeg-obs
 ffmpeg4.4
 ffmpegthumbnailer
 ffmpegthumbs
@@ -378,6 +380,7 @@ foomatic-db-gutenprint-ppds
 foomatic-db-nonfree
 foomatic-db-nonfree-ppds
 foomatic-db-ppds
+fpm
 frameworkintegration
 freecell-solver
 freeciv
@@ -799,12 +802,8 @@ intel-graphics-compiler
 intel-media-driver
 intel-media-sdk
 intel-oneapi-common
-intel-oneapi-compiler-dpcpp-cpp-runtime
 intel-oneapi-compiler-dpcpp-cpp-runtime-libs
-intel-oneapi-compiler-shared-opencl-cpu
-intel-oneapi-compiler-shared-runtime
 intel-oneapi-compiler-shared-runtime-libs
-intel-oneapi-openmp
 intel-oneapi-tbb
 intel-opencl-clang
 intel-ucode
@@ -1123,6 +1122,7 @@ lib32-giflib
 lib32-glew1.10
 lib32-glib2
 lib32-glibc
+lib32-glslang
 lib32-glu
 lib32-gmp
 lib32-gnutls
@@ -1302,6 +1302,7 @@ libbytesize
 libcaca
 libcacard
 libcamera
+libcamera-ipa
 libcanberra
 libcap
 libcap-ng
@@ -1328,6 +1329,7 @@ libdbusmenu-qt5
 libdc1394
 libdca
 libde265
+libdecor
 libdispatch
 libdmtx
 libdrm
@@ -1619,10 +1621,13 @@ libtommath
 libtool
 libtorrent-rasterbar
 libtpms
+libtraceevent
+libtracefs
 libudev0-shim
 libuhd
 libunistring
 libunity
+libunrar
 libunwind
 libupnp
 liburcu
@@ -1782,6 +1787,7 @@ mariadb-clients
 mariadb-libs
 marisa
 markdownpart
+mathjax
 mathjax2
 mbedtls
 mbox-importer
@@ -1921,6 +1927,7 @@ openssl-1.1
 opensubdiv
 openvdb
 openxr
+optipng
 opus
 opusfile
 orc
@@ -2034,8 +2041,8 @@ plasma5-wallpapers-wallpaper-engine
 png++
 pnpm
 podman
-podman-compose
 podman-dnsname
+podofo
 polkit
 polkit-kde-agent
 polkit-qt5
@@ -2085,6 +2092,7 @@ python-anyio
 python-anytree
 python-apipkg
 python-appdirs
+python-apsw
 python-argon2-cffi-bindings
 python-argon2_cffi
 python-asgiref
@@ -2105,12 +2113,14 @@ python-beautifulsoup4
 python-bleach
 python-blinker
 python-brotli
+python-brotlicffi
 python-build
 python-cachecontrol
 python-cachetools
 python-cachy
 python-cairo
 python-cairocffi
+python-cchardet
 python-certifi
 python-cffi
 python-chardet
@@ -2129,6 +2139,7 @@ python-coverage
 python-crashtest
 python-cryptg
 python-cryptography
+python-css-parser
 python-cssselect
 python-cuda
 python-cycler
@@ -2140,8 +2151,8 @@ python-deprecation
 python-dill
 python-distlib
 python-distro
+python-dnspython
 python-docutils
-python-dotenv
 python-dulwich
 python-emoji
 python-entrypoints
@@ -2152,6 +2163,7 @@ python-executing
 python-fastimport
 python-fastjsonschema
 python-fastpbkdf2
+python-feedparser
 python-fido2
 python-filelock
 python-flaky
@@ -2168,13 +2180,17 @@ python-h11
 python-h2
 python-hiredis
 python-hpack
+python-html2text
+python-html5-parser
 python-html5lib
 python-hyperframe
 python-hyperlink
 python-idna
+python-ifaddr
 python-imagesize
 python-importlib-metadata
 python-incremental
+python-inflate64
 python-inflect
 python-iniconfig
 python-installer
@@ -2222,12 +2238,14 @@ python-matplotlib-inline
 python-matrix-nio
 python-mccabe
 python-mdurl
+python-mechanize
 python-mistune
 python-mitmproxy-wireguard
 python-mock
 python-more-itertools
 python-msgpack
 python-multidict
+python-multivolumefile
 python-mutagen
 python-mypy_extensions
 python-nest-asyncio
@@ -2248,6 +2266,7 @@ python-paramiko
 python-parso
 python-passlib
 python-pbr
+python-pdftotext
 python-peewee
 python-pep517
 python-pexpect
@@ -2272,11 +2291,14 @@ python-ptyprocess
 python-publicsuffix2
 python-pure-eval
 python-py
+python-py7zr
 python-pyaes
 python-pyaml
 python-pyasn1
 python-pyaudio
 python-pybase62
+python-pybcj
+python-pychm
 python-pyclibrary
 python-pycodestyle
 python-pycparser
@@ -2295,10 +2317,14 @@ python-pyopenssl
 python-pyotherside
 python-pyparsing
 python-pyperclip
+python-pyppmd
 python-pyproject-hooks
 python-pypubsub
 python-pyqt5
 python-pyqt5-sip
+python-pyqt6
+python-pyqt6-sip
+python-pyqt6-webengine
 python-pyrogram
 python-pyrsistent
 python-pyscard
@@ -2307,6 +2333,7 @@ python-pysmbc
 python-pysocks
 python-pytest
 python-pytest-drop-dup-tests
+python-pytest-flake8
 python-pytest-rerunfailures
 python-pytest-timeout
 python-pytest-xdist
@@ -2316,10 +2343,12 @@ python-pyusb
 python-pywhat
 python-pyxdg
 python-pyzmq
+python-pyzstd
 python-qtpy
 python-rapidfuzz
 python-rapidjson
 python-redis
+python-regex
 python-rencode
 python-requests
 python-requests-toolbelt
@@ -2335,6 +2364,7 @@ python-secretstorage
 python-send2trash
 python-setuptools
 python-setuptools-scm
+python-sgmllib3k
 python-shellingham
 python-shiboken2
 python-six
@@ -2354,6 +2384,7 @@ python-stack-data
 python-telethon
 python-terminado
 python-testpath
+python-texttable
 python-tgcrypto
 python-tinyaes
 python-tinycss2
@@ -2372,6 +2403,7 @@ python-uc-micro-py
 python-ujson
 python-unidecode
 python-unpaddedbase64
+python-unrardll
 python-urllib3
 python-urwid
 python-uvloop
@@ -2392,6 +2424,7 @@ python-xlib
 python-yaml
 python-yarl
 python-yubico
+python-zeroconf
 python-zipp
 python-zope-interface
 python-zstandard
@@ -2560,19 +2593,23 @@ rtmpdump
 rubberband
 ruby
 ruby-abbrev
+ruby-arr-pm
 ruby-backports
 ruby-base64
 ruby-benchmark
 ruby-bigdecimal
 ruby-bundledgems
 ruby-bundler
+ruby-cabin
 ruby-cgi
+ruby-clamp
 ruby-csv
 ruby-date
 ruby-delegate
 ruby-did_you_mean
 ruby-diff-lcs
 ruby-digest
+ruby-dotenv
 ruby-drb
 ruby-english
 ruby-erb
@@ -2583,6 +2620,7 @@ ruby-fileutils
 ruby-find
 ruby-forwardable
 ruby-getoptlong
+ruby-insist
 ruby-io-console
 ruby-io-nonblock
 ruby-io-wait
@@ -2595,6 +2633,7 @@ ruby-mustache
 ruby-mutex_m
 ruby-net-http
 ruby-open-uri
+ruby-pleaserun
 ruby-power_assert
 ruby-psych
 ruby-racc
@@ -2610,6 +2649,7 @@ ruby-rspec-support
 ruby-ruby2_keywords
 ruby-stdlib
 ruby-stringio
+ruby-stud
 ruby-test-unit
 ruby-time
 ruby-tmpdir
@@ -2801,6 +2841,7 @@ ttf-liberation
 ttf-material-design-icons
 ttf-material-design-icons-git
 ttf-misans
+ttf-opensans
 ttf-roboto
 ttf-ubuntu-font-family
 twolame
@@ -3059,7 +3100,7 @@ zstd
 zulu-11-bin
 zulu-17-bin
 zulu-18-bin
-zulu-19-bin
+zulu-20-bin
 zulu-8-bin
 zulu-jdk-fx-bin
 zulu-jre-fx-bin
