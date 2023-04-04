@@ -1717,8 +1717,7 @@ lilv
 linux-api-headers
 linux-firmware
 linux-firmware-whence
-linux-lts
-linux-lts-headers
+linux-zen
 linux-zen-headers
 linuxqq
 linuxqq-firejail
@@ -1882,7 +1881,7 @@ nss
 nss-mdns
 ntfs-3g
 numactl
-nvidia-lts
+nvidia-dkms
 nvidia-prime
 nvidia-settings
 nvidia-utils
@@ -1977,6 +1976,7 @@ perl-digest-sha1
 perl-encode-locale
 perl-error
 perl-file-listing
+perl-file-which
 perl-html-parser
 perl-html-tagset
 perl-http-cookies
@@ -2812,6 +2812,7 @@ tevent
 texinfo
 texlive-bin
 texlive-core
+texlive-latexextra
 thin-provisioning-tools
 threadweaver
 thunderbird-appmenu
@@ -3042,6 +3043,7 @@ xorg-xwininfo
 xorg-xwud
 xorgproto
 xosd
+xournalpp
 xpra
 xsel
 xterm
