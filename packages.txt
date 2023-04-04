@@ -88,7 +88,7 @@ avogadrolibs 1.97.0-6
 avogadrolibs-qt5 1.97.0-6
 axel 2.17.11-2
 ayatana-ido 0.9.3-1
-azure-cli 2.46.0-1
+azure-cli 2.47.0-1
 babl 0.1.102-1
 baloo 5.104.0-1
 baloo-widgets 22.12.3-1
@@ -173,7 +173,7 @@ cifs-utils 7.0-3
 ciphey 5.14.0-6
 cjson 1.7.15-1
 clang 15.0.7-2
-clash-meta-bin 1.14.2-1
+clash-meta-bin 1.14.3-1
 clinfo 3.0.21.02.21-1
 clion 1:2023.1-1
 cloudflare-warp-bin 2023.3.258-1
