@@ -177,7 +177,7 @@ clash-meta-bin 1.14.3-1
 clinfo 3.0.21.02.21-1
 clion 1:2023.1-1
 cloudflare-warp-bin 2023.3.258-1
-cloudflared 2023.3.0-1
+cloudflared 2023.3.1-1
 cloudflarespeedtest 2.0.3-1
 clucene 2.3.3.4-14
 clutter 1.26.4-2
@@ -346,7 +346,7 @@ fcitx5-qt 5.0.17-1
 fd 8.7.0-1
 feh 3.9.1-2
 ffcall 2.4-2
-ffmpeg-obs 6-4
+ffmpeg-obs 6.0.r12.ga6dc929-1
 ffmpeg4.4 4.4.3-1
 ffmpegthumbnailer 2.2.2-5
 ffmpegthumbs 22.12.3-2
@@ -391,6 +391,7 @@ freetype2 2.13.0-1
 frei0r-plugins 2.2.0-1
 fribidi 1.0.12-1
 frpc 0.48.0-1
+fstrm 0.6.1-1
 ftgl 2.4.0-2
 ftl-sdk 0.10.1-3.1
 fuse-common 3.14.1-1
@@ -428,12 +429,12 @@ ghostscript 10.01.1-1
 giflib 5.2.1-2
 gimp 2.10.34-1
 git 2.40.0-1
-git-cola 4.2.0-1
-git-completion 1.4-1
+git-cola 4.2.1-1
+git-completion 2.0-1
 git-credential-manager-core-bin 2.0.886-2
 git-crypt 0.7.0-2
 git-lfs 3.3.0-1
-github-cli 2.25.1-1
+github-cli 2.26.0-1
 gitkraken 9.2.1-1
 gjs 2:1.74.2-1
 glew 2.2.0-6
@@ -766,6 +767,7 @@ hexo-cli 4.3.0-6
 hicolor-icon-theme 0.17-3
 hidapi 0.13.1-2
 highway 1.0.4-1
+hiredis 1.1.0-1
 hivex 1.3.21-7
 hmcl-bin 3.5.4.232-2
 hslua-cli 1.2.0-14
@@ -1285,7 +1287,7 @@ libass 0.17.1-1
 libassuan 2.5.5-2
 libasyncns 1:0.8+r3+g68cd5af-2
 libatasmart 0.19-5
-libatomic_ops 7.6.14-1
+libatomic_ops 7.8.0-1
 libavc1394 0.5.4-5
 libavif 0.11.1-1
 libavtp 0.2.0-2
@@ -1484,7 +1486,7 @@ libnewt 0.52.23-1
 libnfnetlink 1.0.2-1
 libnfs 5.0.2-1
 libnftnl 1.2.5-1
-libnghttp2 1.52.0-1
+libnghttp2 1.52.0-2
 libnice 0.1.21-1
 libnih 1.0.3-4
 libnl 3.7.0-3
@@ -1821,6 +1823,8 @@ mobile-broadband-provider-info 20221107-2
 modemmanager 1.20.6-1
 modemmanager-qt 5.104.0-1
 molequeue 0.9.0-3
+monero 0.18.2.0-1
+monero-gui 0.18.2.0-2
 mongo-c-driver 1.23.2-1
 mongodb-bin 6.0.5-1
 mongodb-tools-bin 100.7.0-2
@@ -1874,7 +1878,7 @@ noto-fonts-cjk 20220126-1
 noto-fonts-emoji 20220920-1
 noto-fonts-extra 20230401-1
 npm 8.19.2-1
-npm-check-updates 16.8.2-1
+npm-check-updates 16.9.0-1
 npth 1.6-4
 nspr 4.35-1
 nss 3.89-1
@@ -2854,6 +2858,7 @@ udftools 2.3-1
 udisks2 2.9.4-1
 umbrello 22.12.3-1
 unace 2.5-11
+unbound 1.17.1-1
 ungoogled-chromium 111.0.5563.146-1
 unixodbc 2.3.11-1
 unrar 1:6.2.6-1
@@ -2917,7 +2922,7 @@ websocketpp 0.8.2-1
 webstorm 2023.1-1
 weechat 3.8-1
 weechat-matrix 0.3.0-9
-wemeet-bin 3.14.0.401-2
+wemeet-bin 3.14.0.402-1
 weston 11.0.1-1
 wgcf-git 2.2.15.r0.140f983-1
 wget 1.21.3-1
@@ -2972,7 +2977,7 @@ xdg-utils 1.1.3+25+g8ae0263-1
 xdotool 3.20211022.1-1
 xerces-c 3.2.4-2
 xf86-input-evdev 2.10.6-3
-xf86-input-libinput 1.2.1-1
+xf86-input-libinput 1.3.0-1
 xf86-input-synaptics 1.9.2-1
 xf86-input-void 1.4.2-1
 xf86-video-amdgpu 23.0.0-1
@@ -2985,6 +2990,7 @@ xf86-video-vesa 2.6.0-1
 xfsprogs 6.2.0-1
 xkeyboard-config 2.38-1
 xmlsec 1.2.37-1
+xmrig 6.19.2-1
 xorg-bdftopcf 1.1.1-1
 xorg-docs 1.7.2-2
 xorg-font-util 1.4.0-1
@@ -3076,7 +3082,7 @@ yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.1-1
 yubioath-desktop 5.1.0-3
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3498-1
+yuzu-early-access 3499-1
 zam-plugins 4.1-2
 zam-plugins-clap 4.1-2
 zam-plugins-ladspa 4.1-2

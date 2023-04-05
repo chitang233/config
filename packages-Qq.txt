@@ -391,6 +391,7 @@ freetype2
 frei0r-plugins
 fribidi
 frpc
+fstrm
 ftgl
 ftl-sdk
 fuse-common
@@ -766,6 +767,7 @@ hexo-cli
 hicolor-icon-theme
 hidapi
 highway
+hiredis
 hivex
 hmcl-bin
 hslua-cli
@@ -1821,6 +1823,8 @@ mobile-broadband-provider-info
 modemmanager
 modemmanager-qt
 molequeue
+monero
+monero-gui
 mongo-c-driver
 mongodb-bin
 mongodb-tools-bin
@@ -2854,6 +2858,7 @@ udftools
 udisks2
 umbrello
 unace
+unbound
 ungoogled-chromium
 unixodbc
 unrar
@@ -2985,6 +2990,7 @@ xf86-video-vesa
 xfsprogs
 xkeyboard-config
 xmlsec
+xmrig
 xorg-bdftopcf
 xorg-docs
 xorg-font-util
