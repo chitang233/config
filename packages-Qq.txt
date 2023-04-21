@@ -153,6 +153,7 @@ cantor
 capstone
 catatonit
 catimg
+cbindgen
 cblas
 cbonsai
 ccid
@@ -235,6 +236,7 @@ debootstrap
 debugedit
 dee
 default-cursors
+dejagnu
 desktop-file-utils
 desmume
 detect-it-easy
@@ -275,6 +277,8 @@ dotconf
 dotnet-host
 dotnet-runtime
 dotnet-runtime-6.0
+dotnet-sdk
+dotnet-targeting-pack
 double-conversion
 doxygen
 dpkg
@@ -286,6 +290,7 @@ dtc
 dtkcommon
 duf
 duktape
+dump_syms
 dust
 dynarmic
 e2fsprogs
@@ -313,6 +318,7 @@ elfutils
 elisa
 emacs
 embree
+embree3
 emoji-keyboard
 enca
 enchant
@@ -326,6 +332,7 @@ exa
 exfatprogs
 exiv2
 expat
+expect
 f2fs-tools
 faac
 faad2
@@ -411,8 +418,6 @@ gc
 gcab
 gcc
 gcc-libs
-gcc11
-gcc11-libs
 gcr
 gcr-4
 gd
@@ -1088,6 +1093,7 @@ layer-shell-qt
 lcms2
 ldb
 ldns
+lemmy
 lensfun
 leptonica
 less
@@ -1727,6 +1733,7 @@ lirc
 live-media
 lld
 lldb
+llvm
 llvm-libs
 lm_sensors
 lmdb
@@ -1799,6 +1806,7 @@ mdadm
 media-player-info
 mediainfo
 memstrack
+mercurial
 mesa
 mesa-utils
 meson
@@ -1859,6 +1867,7 @@ netease-cloud-music
 netease-cloud-music-gtk4
 nethack
 netpbm
+netstandard-targeting-pack
 nettle
 networkmanager
 networkmanager-qt
@@ -1974,6 +1983,7 @@ pcsc-tools
 pcsclite
 pcsx2
 perl
+perl-archive-zip
 perl-clone
 perl-digest-hmac
 perl-digest-sha1
@@ -1988,6 +1998,7 @@ perl-http-daemon
 perl-http-date
 perl-http-message
 perl-http-negotiate
+perl-image-exiftool
 perl-io-html
 perl-io-socket-inet6
 perl-libintl-perl
@@ -2562,6 +2573,7 @@ quazip-qt5
 quota-tools
 radvd
 ragel
+railwayapp-cli
 rapidyaml
 raptor
 rarian
@@ -2910,6 +2922,10 @@ vulkan-mesa-layers
 vulkan-tools
 vulkan-virtio
 w3m
+wasi-compiler-rt
+wasi-libc
+wasi-libc++
+wasi-libc++abi
 watt-toolkit-bin
 wavpack
 wayland
