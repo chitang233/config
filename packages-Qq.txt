@@ -1060,6 +1060,7 @@ ksudoku
 ksystemlog
 ksystemstats
 kteatime
+ktextaddons
 ktexteditor
 ktextwidgets
 ktimer
