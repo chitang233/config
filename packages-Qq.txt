@@ -216,9 +216,6 @@ cronie
 crun
 cryptsetup
 cubeb-git
-cuda
-cuda-tools
-cudnn
 cups
 cups-filters
 cups-pdf
@@ -1806,7 +1803,6 @@ mailcommon
 mailimporter
 make
 mallard-ducktype
-mame
 man-db
 mangoapp
 mangohud
@@ -1882,7 +1878,6 @@ ndctl
 neochat
 neofetch
 neon
-nerd-fonts-complete
 nestopia
 net-snmp
 net-tools
@@ -2184,7 +2179,6 @@ python-cryptg
 python-cryptography
 python-css-parser
 python-cssselect
-python-cuda
 python-cycler
 python-dateutil
 python-debugpy
@@ -2342,7 +2336,6 @@ python-pyaudio
 python-pybase62
 python-pybcj
 python-pychm
-python-pyclibrary
 python-pycodestyle
 python-pycparser
 python-pycryptodome
@@ -2886,15 +2879,19 @@ triplea
 tslib
 ttf-arimo-nerd
 ttf-dejavu
+ttf-firacode-nerd
 ttf-hack
-ttf-jetbrains-mono
 ttf-liberation
 ttf-material-design-icons
 ttf-material-design-icons-git
 ttf-misans
+ttf-nerd-fonts-symbols-1000-em
+ttf-nerd-fonts-symbols-common
 ttf-opensans
 ttf-roboto
 ttf-ubuntu-font-family
+ttf-ubuntu-mono-nerd
+ttf-ubuntu-nerd
 twolame
 typora
 tzdata
@@ -3157,11 +3154,8 @@ zsnes
 zstd
 zulu-11-bin
 zulu-17-bin
-zulu-18-bin
 zulu-20-bin
-zulu-8-bin
 zulu-jdk-fx-bin
-zulu-jre-fx-bin
 zvbi
 zxing-cpp
 zycore-c
