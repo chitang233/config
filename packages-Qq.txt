@@ -27,6 +27,7 @@ akregator
 alembic
 alist-bin
 aliyunpan-liupan1890
+alligator
 alsa-card-profiles
 alsa-lib
 alsa-plugins
@@ -35,10 +36,10 @@ alsa-ucm-conf
 amf-headers
 amtk
 analitza
-android-ndk
 android-sdk-platform-tools
 android-studio
 android-udev
+angelfish
 anthy
 antimicrox
 aom
@@ -75,6 +76,7 @@ aubio
 audacity
 audiocd-kio
 audiofile
+audiotube
 audit
 augeas
 autoconf
@@ -185,10 +187,12 @@ clutter
 clutter-gst
 clutter-gtk
 cmake
+cmark
 cmocka
 cni-plugins
 cogl
 colord
+colord-kde
 compiler-rt
 compsize
 confuse
@@ -431,6 +435,7 @@ geoipupdate
 gettext
 ghc-libs
 ghostscript
+ghostwriter
 giflib
 gimp
 git
@@ -863,6 +868,7 @@ kajongg
 kalarm
 kalendar
 kalgebra
+kalk
 kalzium
 kamera
 kamoso
@@ -870,6 +876,7 @@ kanagram
 kapman
 kapptemplate
 karchive
+kasts
 kate
 katomic
 kauth
@@ -887,6 +894,7 @@ kcalc
 kcalendarcore
 kcalutils
 kcharselect
+kclock
 kcmutils
 kcodecs
 kcolorchooser
@@ -904,6 +912,7 @@ kde-cli-tools
 kde-dev-scripts
 kde-dev-utils
 kde-gtk-config
+kde-inotify-survey
 kdebugsettings
 kdeclarative
 kdeconnect
@@ -923,6 +932,7 @@ kdesdk-thumbnailers
 kdesu
 kdevelop
 kdevelop-php
+kdevelop-python
 kdf
 kdiagram
 kdialog
@@ -934,6 +944,7 @@ kdsoap
 kdsoap-ws-discovery-client
 keditbookmarks
 kemoticons
+keysmith
 keyutils
 kfilemetadata
 kfind
@@ -967,6 +978,7 @@ kimap
 kinfocenter
 kinit
 kio
+kio-admin
 kio-extras
 kio-fuse
 kio-gdrive
@@ -980,6 +992,7 @@ kitemviews
 kiten
 kitinerary
 kjobwidgets
+kjournald
 kjs
 kjumpingcube
 kldap
@@ -1008,10 +1021,12 @@ knights
 knotes
 knotifications
 knotifyconfig
+koko
 kolf
 kollision
 kolourpaint
 kompare
+kongress
 konqueror
 konquest
 konsole
@@ -1037,8 +1052,10 @@ kpty
 kpublictransport
 kqtquickcharts
 kquickcharts
+kquickimageeditor
 krb5
 krdc
+krecorder
 kreversi
 krfb
 krita
@@ -1067,6 +1084,7 @@ ktimer
 ktnef
 ktorrent
 ktouch
+ktrip
 ktuberling
 kturtle
 kubectl
@@ -1079,6 +1097,8 @@ kwalletmanager
 kwave
 kwayland
 kwayland-integration
+kweather
+kweathercore
 kwidgetsaddons
 kwin
 kwindowsystem
@@ -1451,6 +1471,7 @@ libldm
 libliftoff
 liblo
 liblouis
+liblphobos
 liblqr
 liblrdf
 liblsp-r3d-glx-lib
@@ -1534,6 +1555,7 @@ libqalculate
 libqmi
 libqrtr-glib
 libqtxdg
+libquotient
 libqxp
 libraqm
 libraw
@@ -1857,6 +1879,7 @@ ncompress
 ncurses
 ncurses5-compat-libs
 ndctl
+neochat
 neofetch
 neon
 nerd-fonts-complete
@@ -1908,6 +1931,8 @@ nyan-lang-git
 obs-studio-browser
 ocl-icd
 okular
+onedrive-abraunegg
+onedrivegui-git
 onefetch
 onetbb
 onevpl
@@ -2054,6 +2079,7 @@ plasma-wayland-session
 plasma-workspace
 plasma-workspace-wallpapers
 plasma5-wallpapers-wallpaper-engine
+plasmatube
 png++
 pnpm
 podman
@@ -2095,6 +2121,7 @@ pycharm-professional
 pyinstaller
 pyinstaller-hooks-contrib
 pyside2
+pyside6
 pystring
 python
 python-aiofiles
@@ -2439,6 +2466,7 @@ python-xcffib
 python-xlib
 python-yaml
 python-yarl
+python-ytmusicapi
 python-yubico
 python-zeroconf
 python-zipp
@@ -2532,7 +2560,9 @@ qsstv
 qt-gstreamer
 qt-virt-manager
 qt5-base
+qt5-charts
 qt5-declarative
+qt5-feedback
 qt5-gamepad
 qt5-graphicaleffects
 qt5-imageformats
@@ -2711,6 +2741,7 @@ sfml
 shaderc
 shadow
 shared-mime-info
+shiboken6
 signal-desktop-beta
 signon-kwallet-extension
 signon-plugin-oauth2
@@ -2820,6 +2851,7 @@ telepathy-logger
 telepathy-logger-qt
 telepathy-mission-control
 telepathy-qt
+telly-skout
 tepl
 termius
 tesseract
@@ -2842,6 +2874,7 @@ tk
 tmux
 todesk-bin
 toilet
+tokodon
 tor-browser
 tpm2-tss
 traceroute

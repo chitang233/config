@@ -27,6 +27,7 @@ akregator 23.04.0-1
 alembic 1.8.5-2
 alist-bin 3.16.0-1
 aliyunpan-liupan1890 3.10.24.git03b0319-1
+alligator 23.04.0-1
 alsa-card-profiles 1:0.3.69-2
 alsa-lib 1.2.8-1
 alsa-plugins 1:1.2.7.1-2
@@ -35,10 +36,10 @@ alsa-ucm-conf 1.2.8-1
 amf-headers 1.4.29-1
 amtk 5.6.1-1
 analitza 23.04.0-1
-android-ndk r25.c-1
 android-sdk-platform-tools 34.0.1-1
 android-studio 2022.2.1.18-1
 android-udev 20230303-1
+angelfish 23.04.0-1
 anthy 9100h-6
 antimicrox 3.3.3-1
 aom 3.6.0-1
@@ -75,6 +76,7 @@ aubio 0.4.9-15
 audacity 1:3.2.5-2
 audiocd-kio 23.04.0-1
 audiofile 0.3.6-7
+audiotube 23.04.0-2
 audit 3.1-1
 augeas 1.14.0-1
 autoconf 2.71-4
@@ -185,10 +187,12 @@ clutter 1.26.4-2
 clutter-gst 3.0.27-4
 clutter-gtk 1.8.4-3
 cmake 3.26.3-1
+cmark 0.30.3-1
 cmocka 1.1.5-2
 cni-plugins 1.2.0-2
 cogl 1.22.8-2
 colord 1.4.6-1
+colord-kde 23.04.0-1
 compiler-rt 15.0.7-1
 compsize 1.5-1
 confuse 3.3-3
@@ -431,6 +435,7 @@ geoipupdate 5.0.4-1
 gettext 0.21.1-5
 ghc-libs 9.0.2-3
 ghostscript 10.01.1-1
+ghostwriter 23.04.0-1
 giflib 5.2.1-2
 gimp 2.10.34-1
 git 2.40.0-1
@@ -863,6 +868,7 @@ kajongg 23.04.0-1
 kalarm 23.04.0-1
 kalendar 23.04.0-1
 kalgebra 23.04.0-1
+kalk 23.04.0-1
 kalzium 23.04.0-1
 kamera 23.04.0-1
 kamoso 23.04.0-1
@@ -870,6 +876,7 @@ kanagram 23.04.0-1
 kapman 23.04.0-1
 kapptemplate 23.04.0-1
 karchive 5.105.0-1
+kasts 23.04.0-1
 kate 23.04.0-1
 katomic 23.04.0-1
 kauth 5.105.0-1
@@ -887,6 +894,7 @@ kcalc 23.04.0-1
 kcalendarcore 5.105.0-1
 kcalutils 23.04.0-1
 kcharselect 23.04.0-1
+kclock 23.04.0-1
 kcmutils 5.105.0-1
 kcodecs 5.105.0-1
 kcolorchooser 23.04.0-1
@@ -904,6 +912,7 @@ kde-cli-tools 5.27.4-1
 kde-dev-scripts 23.04.0-1
 kde-dev-utils 23.04.0-1
 kde-gtk-config 5.27.4-1
+kde-inotify-survey 23.04.0-1
 kdebugsettings 23.04.0-1
 kdeclarative 5.105.0-1
 kdeconnect 23.04.0-1
@@ -923,6 +932,7 @@ kdesdk-thumbnailers 23.04.0-1
 kdesu 5.105.0-1
 kdevelop 23.04.0-1
 kdevelop-php 23.04.0-1
+kdevelop-python 23.04.0-1
 kdf 23.04.0-1
 kdiagram 2.8.0-1
 kdialog 23.04.0-1
@@ -934,6 +944,7 @@ kdsoap 2.1.1-1
 kdsoap-ws-discovery-client git20200927-2
 keditbookmarks 23.04.0-1
 kemoticons 5.105.0-1
+keysmith 23.04.0-1
 keyutils 1.6.3-1
 kfilemetadata 5.105.0-1
 kfind 23.04.0-1
@@ -967,6 +978,7 @@ kimap 23.04.0-1
 kinfocenter 5.27.4-1
 kinit 5.105.0-1
 kio 5.105.0-1
+kio-admin 23.04.0-1
 kio-extras 23.04.0-1
 kio-fuse 5.0.1-1
 kio-gdrive 23.04.0-1
@@ -980,6 +992,7 @@ kitemviews 5.105.0-1
 kiten 23.04.0-1
 kitinerary 23.04.0-1
 kjobwidgets 5.105.0-1
+kjournald 23.04.0-1
 kjs 5.105.0-1
 kjumpingcube 23.04.0-1
 kldap 23.04.0-1
@@ -1008,10 +1021,12 @@ knights 23.04.0-1
 knotes 23.04.0-1
 knotifications 5.105.0-1
 knotifyconfig 5.105.0-1
+koko 23.04.0-1
 kolf 23.04.0-1
 kollision 23.04.0-1
 kolourpaint 23.04.0-1
 kompare 23.04.0-1
+kongress 23.04.0-1
 konqueror 23.04.0-1
 konquest 23.04.0-1
 konsole 23.04.0-1
@@ -1037,8 +1052,10 @@ kpty 5.105.0-1
 kpublictransport 23.04.0-1
 kqtquickcharts 23.04.0-1
 kquickcharts 5.105.0-1
+kquickimageeditor 0.2.0-1
 krb5 1.20.1-1
 krdc 23.04.0-1
+krecorder 23.04.0-1
 kreversi 23.04.0-1
 krfb 23.04.0-1
 krita 5.1.5-4
@@ -1067,6 +1084,7 @@ ktimer 23.04.0-1
 ktnef 23.04.0-1
 ktorrent 23.04.0-1
 ktouch 23.04.0-1
+ktrip 23.04.0-1
 ktuberling 23.04.0-1
 kturtle 23.04.0-1
 kubectl 1.26.3-1
@@ -1079,6 +1097,8 @@ kwalletmanager 23.04.0-1
 kwave 23.04.0-1
 kwayland 5.105.0-1
 kwayland-integration 5.27.4-1
+kweather 23.04.0-1
+kweathercore 0.7-1
 kwidgetsaddons 5.105.0-1
 kwin 5.27.4.1-1
 kwindowsystem 5.105.0-1
@@ -1451,6 +1471,7 @@ libldm 0.2.5-2
 libliftoff 0.4.1-1
 liblo 1:0.31-3
 liblouis 3.25.0-1
+liblphobos 3:1.32.0-1
 liblqr 0.4.2-3
 liblrdf 0.6.1-4
 liblsp-r3d-glx-lib 1.2.6-1
@@ -1534,6 +1555,7 @@ libqalculate 4.6.1-1
 libqmi 1.32.4-1
 libqrtr-glib 1.2.2-2
 libqtxdg 3.11.0-1
+libquotient 0.7.1-1
 libqxp 0.0.2-9
 libraqm 0.10.1-1
 libraw 0.21.1-1
@@ -1857,6 +1879,7 @@ ncompress 5.0-2
 ncurses 6.4-1
 ncurses5-compat-libs 6.4-1
 ndctl 76.1-1
+neochat 23.04.0-1
 neofetch 7.1.0-2
 neon 0.32.5-1
 nerd-fonts-complete 2.2.2-1
@@ -1908,6 +1931,8 @@ nyan-lang-git r254.7b5517f-1
 obs-studio-browser 29.0.2-2
 ocl-icd 2.3.1-1
 okular 23.04.0-1
+onedrive-abraunegg 2.4.23-3
+onedrivegui-git 1.0.2.r11.g2e5b259-2
 onefetch 2.17.0-1
 onetbb 2021.8.0-2
 onevpl 2023.2.1-1
@@ -2054,6 +2079,7 @@ plasma-wayland-session 5.27.4.1-1
 plasma-workspace 5.27.4.1-1
 plasma-workspace-wallpapers 5.27.4.1-1
 plasma5-wallpapers-wallpaper-engine 0.5.4-3
+plasmatube 23.04.0-1
 png++ 0.2.10-2
 pnpm 8.3.1-1
 podman 4.5.0-2
@@ -2095,6 +2121,7 @@ pycharm-professional 2022.3.3-2
 pyinstaller 5.10.1-1
 pyinstaller-hooks-contrib 2023.2-1
 pyside2 5.15.9-4
+pyside6 6.5.0-1
 pystring 1.1.3.git1-1
 python 3.10.10-1
 python-aiofiles 23.1.0-1
@@ -2439,6 +2466,7 @@ python-xcffib 1.2.0-1
 python-xlib 0.33-1
 python-yaml 6.0-1
 python-yarl 1.8.2-1
+python-ytmusicapi 1.0.1-1
 python-yubico 1.3.3-2.1
 python-zeroconf 0.39.4-1
 python-zipp 3.15.0-1
@@ -2532,7 +2560,9 @@ qsstv 9.5.8-2
 qt-gstreamer 1.2.0-4
 qt-virt-manager 0.72.99-4.1
 qt5-base 5.15.9+kde+r151-1
+qt5-charts 5.15.9-1
 qt5-declarative 5.15.9+kde+r23-1
+qt5-feedback 0.0.0.20150918-4
 qt5-gamepad 5.15.9-1
 qt5-graphicaleffects 5.15.9-1
 qt5-imageformats 5.15.9+kde+r9-1
@@ -2711,6 +2741,7 @@ sfml 2.5.1-3
 shaderc 2023.3-1
 shadow 4.13-2
 shared-mime-info 2.2+13+ga2ffb28-1
+shiboken6 6.5.0-1
 signal-desktop-beta 6.16.0beta1-1
 signon-kwallet-extension 23.04.0-1
 signon-plugin-oauth2 0.25-1
@@ -2820,6 +2851,7 @@ telepathy-logger 0.8.2-5
 telepathy-logger-qt 17.09.0-1
 telepathy-mission-control 5.16.6-2
 telepathy-qt 0.9.8-2
+telly-skout 23.04.0-1
 tepl 1:6.4.0-2
 termius 7.56.4-1
 tesseract 5.3.1-1
@@ -2842,6 +2874,7 @@ tk 8.6.13-1
 tmux 3.3_a-3
 todesk-bin 4.3.1.0-1
 toilet 0.3.r155.3eb9d58-2
+tokodon 23.04.0-1
 tor-browser 12.0.4-1
 tpm2-tss 3.2.0-3
 traceroute 2.1.2-1
