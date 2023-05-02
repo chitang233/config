@@ -3,6 +3,7 @@
 # --------------------
 source ~/.config/zsh/aliases.zsh
 source ~/.config/zsh/vi.zsh
+source ~/.config/zsh/navi.zsh
 
 setopt HIST_IGNORE_ALL_DUPS
 setopt CORRECT
@@ -10,7 +11,6 @@ SPROMPT='zsh: correct %F{red}%R%f to %F{green}%r%f [nyae]? '
 WORDCHARS=${WORDCHARS//[\/]}
 ZSH_HIGHLIGHT_HIGHLIGHTERS=(main brackets)
 eval "$(starship init zsh)"
-eval "$(navi widget zsh)"
 
 export SSH_AUTH_SOCK=$(gpgconf --list-dirs agent-ssh-socket)
 gpgconf --launch gpg-agent
