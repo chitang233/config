@@ -300,6 +300,7 @@ elfutils
 elisa
 emacs
 embree3
+emby-theater
 emoji-keyboard
 enca
 enchant
@@ -1299,6 +1300,7 @@ libcbor
 libcdio
 libcdio-paranoia
 libcdr
+libcec
 libcerf
 libcgif
 libcheese
@@ -1819,6 +1821,7 @@ multipath-tools
 music-you-git
 mypaint-brushes1
 nano
+navi
 ncompress
 ncurses
 ncurses5-compat-libs
@@ -1918,6 +1921,7 @@ oxygen
 oxygen-sounds
 p11-kit
 p7zip
+p8-platform
 pacman
 pacman-contrib
 pacman-mirrorlist
@@ -2639,6 +2643,7 @@ simplescreenrecorder
 sing-box
 skanlite
 skanpage
+skim
 skopeo
 slang
 sleuthkit

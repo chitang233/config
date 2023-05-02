@@ -68,7 +68,7 @@ atool 0.39.0-8
 attica 5.105.0-1
 attr 2.5.1-3
 aubio 0.4.9-15
-audacity 1:3.3.1-1
+audacity 1:3.3.1-2
 audiocd-kio 23.04.0-1
 audiofile 0.3.6-7
 audiotube 23.04.0-2
@@ -164,7 +164,7 @@ chromaprint 1.5.1-7
 cifs-utils 7.0-3
 ciphey 5.14.0-6
 cjson 1.7.15-1
-clang 15.0.7-6
+clang 15.0.7-8
 clash-meta-bin 1.14.3-1
 clinfo 3.0.21.02.21-1
 clion 1:2023.1.2-1
@@ -248,12 +248,12 @@ dnsmasq 2.89-1
 dnssec-anchors 20190629-3
 docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
-docker 1:23.0.4-1
+docker 1:23.0.5-1
 docker-buildx 0.10.4-1
 docker-compose 2.17.3-1
 docker-credential-pass-bin 0.7.0-1
 docker-machine 0.16.2-5
-docker-scan 0.25.0-1
+docker-scan 0.26.0-1
 doctl 1.94.0-1
 dog 0.1.0-4
 dolphin 23.04.0-3
@@ -294,12 +294,13 @@ electron 22.3.3-1
 electron-netease-cloud-music 0.9.36-1
 electron20 20.3.12-2
 electron21 21.4.4-1
-element-desktop 1.11.26-1
-element-web 1.11.26-1
+element-desktop 1.11.30-1
+element-web 1.11.30-1
 elfutils 0.189-1
 elisa 23.04.0-1
 emacs 28.2-2
 embree3 3.13.5-2
+emby-theater 3.0.19-2
 emoji-keyboard 4.0.0-4
 enca 1.19-4
 enchant 2.3.4-1
@@ -345,7 +346,7 @@ filesystem 2023.01.31-1
 findutils 4.9.0-3
 fio 3.34-1
 firefox-appmenu 112.0.1-3
-firefox-nightly 114.0a1+20230430.1+haa398d16e528-1
+firefox-nightly 114.0a1+20230502.1+h5bcc01abc23d-1
 firefox-pwa 2.5.0-1
 fish 3.6.1-1
 flac 1.4.2-1
@@ -385,7 +386,7 @@ fuse3 3.14.1-1
 fuseiso 20070708-8
 fwupd 1.8.14-1
 fwupd-efi 1.4-1
-fzf 0.39.0-1
+fzf 0.40.0-1
 gamemode 1.7-1
 gamescope 3.11.51-1
 gavl 1.4.0-7
@@ -450,7 +451,7 @@ gnugo 3.8-7
 gnupg 2.2.41-1
 gnuplot 5.4.6-1
 gnutls 3.8.0-1
-go 2:1.20.3-1
+go 2:1.20.4-1
 gobject-introspection 1.76.1-1
 gobject-introspection-runtime 1.76.1-1
 goland 2023.1-1
@@ -470,7 +471,7 @@ grantleetheme 23.04.0-1
 graphene 1.10.8-1
 graphicsmagick 1.3.40-2
 graphite 1:1.3.14-3
-graphviz 8.0.4-1
+graphviz 8.0.5-1
 grep 3.10-1
 groff 1.22.4-10
 grub 2:2.06.r499.ge67a551a4-1
@@ -1088,7 +1089,7 @@ lib2geom 1.2.2-1
 lib32-acl 2.3.1-2
 lib32-alsa-lib 1.2.8-1
 lib32-alsa-plugins 1.2.7.1-2
-lib32-amdvlk 2022.Q4.4-3
+lib32-amdvlk 2023.Q2.1-1
 lib32-at-spi2-core 2.48.0-2
 lib32-attr 2.5.1-1
 lib32-brotli 1.0.9-5
@@ -1299,6 +1300,7 @@ libcbor 0.10.2-1
 libcdio 2.1.0-3
 libcdio-paranoia 10.2+2.0.1-2
 libcdr 0.1.7-5
+libcec 6.0.2-3
 libcerf 1:2.3-2
 libcgif 0.3.1-1
 libcheese 43.0-1
@@ -1374,7 +1376,7 @@ libgusb 0.4.5-1
 libgxps 0.3.2-4
 libhandy 1.8.2-1
 libharu 2.4.3-1
-libheif 1.15.2-1
+libheif 1.16.1-1
 libibus 1.5.28-3
 libical 3.0.16-4
 libice 1.1.1-2
@@ -1446,7 +1448,7 @@ libmd 1.0.4-1
 libmediainfo 23.04-1
 libmemcached-awesome 1.1.4-1
 libmfx 23.1.6-1
-libmgba 0.10.1-2
+libmgba 0.10.2-1
 libmicrodns 0.2.0-1
 libmikmod 3.3.11.1-6
 libmm-glib 1.20.6-1
@@ -1559,7 +1561,7 @@ libretro-shaders-slang 1194-1
 libretro-snes9x 2390-1
 libretro-yabause 3342-1
 librevenge 0.0.5-2
-librewolf 112.0.1-2
+librewolf 112.0.2-1
 librist 0.2.7-2
 librsvg 2:2.56.0-1
 librtmp0 2.4-5
@@ -1781,8 +1783,8 @@ mesa 23.0.3-1
 mesa-utils 9.0.0-2
 meson 1.0.1-1
 messagelib 23.04.0-1
-mgba-qt 0.10.1-2
-mgba-sdl 0.10.1-2
+mgba-qt 0.10.2-1
+mgba-sdl 0.10.2-1
 microsoft-edge-stable-bin 112.0.1722.64-1
 milou 5.27.4-1
 miniupnpc 2.2.4-1
@@ -1804,7 +1806,7 @@ monero-gui 0.18.2.2-1
 mongo-c-driver 1.23.3-1
 mongodb-bin 6.0.5-1
 mongodb-tools-bin 100.7.0-2
-mongosh-bin 1.8.1-1
+mongosh-bin 1.8.2-1
 mono 6.12.0.190-1
 mpdecimal 2.5.1-1
 mpfr 4.2.0-3
@@ -1819,6 +1821,7 @@ multipath-tools 0.9.5-1
 music-you-git 2.0.8-1
 mypaint-brushes1 1.3.1-1
 nano 7.2-1
+navi 2.22.1-2
 ncompress 5.0-2
 ncurses 6.4-1
 ncurses5-compat-libs 6.4-2
@@ -1862,7 +1865,7 @@ nvidia-dkms 530.41.03-1
 nvidia-prime 1.0-4
 nvidia-settings 530.41.03-1
 nvidia-utils 530.41.03-1
-nvidia-vaapi-driver-git 0.0.9.r10.gd49cfe1-1
+nvidia-vaapi-driver-git 0.0.9.r12.g4726a8a-1
 nvm 0.39.3-1
 nvtop 3.0.1-1
 nx-x11 3.5.99.26-1
@@ -1918,6 +1921,7 @@ oxygen 5.27.4-1
 oxygen-sounds 5.27.4-1
 p11-kit 0.24.1-1
 p7zip 1:17.05-1
+p8-platform 2.1.0.1-4
 pacman 6.0.2-6
 pacman-contrib 1.9.0-1
 pacman-mirrorlist 20230410-1
@@ -2242,7 +2246,7 @@ python-pickleshare 0.7.5-8
 python-pillow 9.4.0-2
 python-pip 23.0.1-1
 python-pkginfo 1.9.6-1
-python-platformdirs 3.2.0-1
+python-platformdirs 3.5.0-1
 python-pluggy 1.0.0-2
 python-ply 3.11-10
 python-poetry 1.4.2-1
@@ -2536,7 +2540,7 @@ rnnoise 0.4.1-1
 roc-toolkit 0.2.3-1
 rocs 23.04.0-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.27.14956.ea3a73b598-1
+rpcs3-git 0.0.27.14957.bf190fd3d8-1
 rsync 3.2.7-4
 rtkit 0.13-2
 rtl-sdr 1:0.8.0-4
@@ -2639,6 +2643,7 @@ simplescreenrecorder 0.4.4-3
 sing-box 1.2.6-1
 skanlite 23.04.0-1
 skanpage 23.04.0-1
+skim 0.10.4-1
 skopeo 1.12.0-1
 slang 2.3.3-2
 sleuthkit 4.11.1-1
@@ -2766,12 +2771,12 @@ trash-cli 0.23.2.13.2-1
 tree 2.1.0-1
 triplea 2.6.586-1
 tslib 1.22-1
-ttf-arimo-nerd 3.0.0-1
+ttf-arimo-nerd 3.0.0-2
 ttf-dejavu 2.37+18+g9b5d1b2f-3
-ttf-firacode-nerd 3.0.0-1
+ttf-firacode-nerd 3.0.0-2
 ttf-hack 3.003-3
 ttf-jetbrains-mono 2.304-1
-ttf-jetbrains-mono-nerd 3.0.0-1
+ttf-jetbrains-mono-nerd 3.0.0-2
 ttf-liberation 2.1.5-1
 ttf-material-design-icons 4.0.0-1
 ttf-material-design-icons-git v7.0.96.r0.g6b7bfd3-1
@@ -2781,8 +2786,8 @@ ttf-nerd-fonts-symbols-common 3.0.0-2
 ttf-opensans 1.101-2
 ttf-roboto 2.138-4
 ttf-ubuntu-font-family 1:0.83-1
-ttf-ubuntu-mono-nerd 3.0.0-1
-ttf-ubuntu-nerd 3.0.0-1
+ttf-ubuntu-mono-nerd 3.0.0-2
+ttf-ubuntu-nerd 3.0.0-2
 twolame 0.4.0-3
 tzdata 2023c-1
 ubuntu-keyring 2021.03.26-1
@@ -2982,7 +2987,7 @@ xorg-xwud 1.0.6-1
 xorgproto 2022.2-1
 xournalpp 1.1.3-1
 xpra 4.4.4-1
-xsel 1.2.0.20200527-2
+xsel 1.2.1-1
 xterm 379-1
 xvidcore 1.3.7-2
 xxhash 0.8.1-4
