@@ -262,9 +262,9 @@ dolphin-plugins
 dosbox
 dosfstools
 dotconf
-dotnet-host
-dotnet-runtime
+dotnet-host-bin
 dotnet-runtime-6.0
+dotnet-runtime-bin
 double-conversion
 doxygen
 dpkg
@@ -756,6 +756,7 @@ hwloc
 hydra
 hyfetch
 hyphen
+i2p
 iana-etc
 icalingua++
 icoutils
@@ -798,10 +799,11 @@ jansson
 jasper
 java-environment-common
 java-runtime-common
+java-service-wrapper
 jbig2dec
 jdk8-graalvm-bin
 jemalloc
-jetbrains-toolbox
+jetbrains-fleet
 jfsutils
 joyutils
 jp2a
@@ -816,7 +818,9 @@ jupyter-nbconvert
 jupyter-nbformat
 jupyter-notebook-shim
 jupyter-server
+jupyter-server-fileid
 jupyter-server-mathjax
+jupyter-server-ydoc
 jupyterlab
 jupyterlab-widgets
 jupyterlab_pygments
@@ -1365,6 +1369,7 @@ libglvnd
 libgme
 libgnome-keyring
 libgnomekbd
+libgoa
 libgoom2
 libgpg-error
 libgphoto2
@@ -2034,7 +2039,9 @@ popt
 portaudio
 portmidi
 portsmf
+postgresql
 postgresql-libs
+postgresql-old-upgrade
 potrace
 powerdevil
 poxml
@@ -2068,6 +2075,7 @@ python-aiohttp
 python-aiohttp-socks
 python-aioredis
 python-aiosignal
+python-aiosqlite
 python-altgraph
 python-anyio
 python-apipkg
@@ -2075,6 +2083,7 @@ python-appdirs
 python-apsw
 python-argon2-cffi-bindings
 python-argon2_cffi
+python-arrow
 python-asgiref
 python-astroid
 python-asttokens
@@ -2145,6 +2154,7 @@ python-fido2
 python-filelock
 python-flask
 python-fonttools
+python-fqdn
 python-frozenlist
 python-future
 python-fuzzywuzzy
@@ -2172,6 +2182,7 @@ python-installer
 python-ipykernel
 python-ipython-genutils
 python-ipywidgets
+python-isoduration
 python-isort
 python-itsdangerous
 python-jaraco.classes
@@ -2184,11 +2195,13 @@ python-jeepney
 python-jinja
 python-json-logger
 python-json5
+python-jsonpointer
 python-jsonschema
 python-jupyter-client
 python-jupyter-core
 python-jupyter-events
 python-jupyter-packaging
+python-jupyter-ydoc
 python-jupyterlab_server
 python-kaitaistruct
 python-keyring
@@ -2288,6 +2301,7 @@ python-pyotherside
 python-pyparsing
 python-pyperclip
 python-pyppmd
+python-pyproject-api
 python-pyproject-hooks
 python-pypubsub
 python-pyqt5
@@ -2319,6 +2333,8 @@ python-rencode
 python-requests
 python-requests-toolbelt
 python-requests-unixsocket
+python-rfc3339-validator
+python-rfc3986-validator
 python-rich
 python-rsa
 python-ruamel-yaml
@@ -2350,6 +2366,7 @@ python-tomli
 python-tomlkit
 python-tornado
 python-tox
+python-tqdm
 python-traitlets
 python-trio
 python-trove-classifiers
@@ -2361,6 +2378,7 @@ python-ujson
 python-unidecode
 python-unpaddedbase64
 python-unrardll
+python-uri-template
 python-urllib3
 python-urwid
 python-uvloop
@@ -2378,8 +2396,10 @@ python-wsproto
 python-wxpython
 python-xcffib
 python-xlib
+python-y-py
 python-yaml
 python-yarl
+python-ypy-websocket
 python-ytmusicapi
 python-yubico
 python-zeroconf
