@@ -91,6 +91,8 @@ baloo-widgets 23.04.1-1
 bandwhich 0.20.0-1
 base 3-1
 base-devel 1-1
+base-ex-cli 0.3.4-1
+base91 0.6.0-6
 bash 5.1.016-3
 bash-completion 2.11-3
 bash2048 1.0-1
@@ -224,7 +226,7 @@ debian-archive-keyring 2023.3-1
 debian-ports-archive-keyring 2023.02.01-1
 debootstrap 1.0.128-1
 debugedit 5.0-5
-dee 1.2.7-14
+dee 1.2.7-14.1
 default-cursors 2-1
 desktop-file-utils 0.26-2
 desmume 0.9.13-1
@@ -336,7 +338,7 @@ fcitx5-qt 5.0.17-2
 fd 8.7.0-1
 feh 3.10-1
 ffcall 2.4-2
-ffmpeg-obs 6.0.r12.ga6dc929-3
+ffmpeg-obs 6.0.r12.ga6dc929-3.2
 ffmpeg4.4 4.4.3-2
 ffmpegthumbs 23.04.1-1
 ffms2 2.40-4
@@ -347,7 +349,7 @@ filesystem 2023.01.31-1
 findutils 4.9.0-3
 fio 3.34-1
 firefox-appmenu 112.0.1-6
-firefox-nightly 115.0a1+20230513.1+h33f0079fba2d-1
+firefox-nightly 115.0a1+20230513.1+hd36ba840f6ab-1
 firefox-pwa 2.5.0-1
 fish 3.6.1-1
 flac 1.4.2-1
@@ -380,7 +382,7 @@ fstrm 0.6.1-1
 ftgl 2.4.0-2
 ftl-sdk 0.10.1-3.1
 fuse-common 3.14.1-1
-fuse-emulator 1.6.0-3
+fuse-emulator 1.6.0-3.2
 fuse-overlayfs 1.11-1
 fuse2 2.9.9-4
 fuse3 3.14.1-1
@@ -419,6 +421,7 @@ git-credential-manager-core-bin 2.0.886-2
 git-crypt 0.7.0-2
 git-lfs 3.3.0-1
 github-cli 2.29.0-1
+github-copilot-cli 0.1.33-1
 gjs 2:1.76.0-1
 glew 2.2.0-6
 glew1.10 1.10.0-3
@@ -787,7 +790,7 @@ intel-oneapi-compiler-dpcpp-cpp-runtime-libs 2023.0.0-5
 intel-oneapi-compiler-shared-runtime-libs 2023.0.0-7
 intel-oneapi-tbb 2021.8.0-1
 intel-opencl-clang 15.0.0-1
-intel-ucode 20230214-1
+intel-ucode 20230512-1
 intellij-idea-ultimate-edition 2023.1.1-1
 iperf3 3.13-1
 iproute2 6.3.0-1
@@ -1577,7 +1580,7 @@ libsasl 2.1.28-4
 libsbsms 2.3.0-3
 libseccomp 2.5.4-2
 libsecret 0.20.5-2
-libselinux 3.5-1
+libselinux 3.5-1.1
 libsepol 3.5-1
 libshout 1:2.4.6-2
 libsigc++ 2.12.0-1
@@ -1770,9 +1773,9 @@ mangohud 0.6.9.1-2
 mangohud-common 0.6.9.1-2
 marble 23.04.1-1
 marble-common 23.04.1-1
-mariadb 10.11.2-2
-mariadb-clients 10.11.2-2
-mariadb-libs 10.11.2-2
+mariadb 10.11.3-1
+mariadb-clients 10.11.3-1
+mariadb-libs 10.11.3-1
 marisa 0.2.6-10
 markdownpart 23.04.1-1
 mathjax 3.2.2-1
@@ -1922,7 +1925,7 @@ orc 0.4.33-1
 os-prober 1.81-1
 osinfo-db 20230308-1
 ostree 2023.2-1
-osu-lazer 2023.419.0-1
+osu-lazer 2023.511.0-1
 otf-smiley-sans-bin 1.1.1-1
 oxygen 5.27.5-1
 oxygen-sounds 5.27.5-1
@@ -2409,7 +2412,7 @@ python-zipp 3.15.0-2
 python-zope-interface 6.0-3
 python-zstandard 0.21.0-1
 python2 2.7.18-9
-qbittorrent-enhanced 4.5.2.10-1
+qbittorrent-enhanced 4.5.2.10-1.2
 qca-qt5 2.3.6-2
 qemu-audio-alsa 8.0.0-1
 qemu-audio-dbus 8.0.0-1
@@ -2562,7 +2565,7 @@ rnnoise 0.4.1-1
 roc-toolkit 0.2.3-1
 rocs 23.04.1-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.27.14986.db7f84f9f8-1
+rpcs3-git 0.0.27.14987.b0de5970ce-1
 rsync 3.2.7-4
 rtkit 0.13-2
 rtl-sdr 1:0.8.0-4
@@ -2621,7 +2624,7 @@ run-parts 5.5-1
 runc 1.1.7-1
 rustdesk-bin 1.1.9-3
 rustup 1.26.0-3
-ryujinx-git r2794.c2709b3bdd-1
+ryujinx-git r2798.17ba217940-1
 samba 4.18.2-2
 sane 1.2.1-4
 sbc 2.0-1
@@ -2794,12 +2797,12 @@ trash-cli 0.23.2.13.2-2
 tree 2.1.0-1
 triplea 2.6.586-1
 tslib 1.22-1
-ttf-arimo-nerd 3.0.0-2
+ttf-arimo-nerd 3.0.1-1
 ttf-dejavu 2.37+18+g9b5d1b2f-3
-ttf-firacode-nerd 3.0.0-2
+ttf-firacode-nerd 3.0.1-1
 ttf-hack 3.003-3
 ttf-jetbrains-mono 2.304-1
-ttf-jetbrains-mono-nerd 3.0.0-2
+ttf-jetbrains-mono-nerd 3.0.1-1
 ttf-liberation 2.1.5-1
 ttf-material-design-icons 4.0.0-1
 ttf-material-design-icons-git v7.0.96.r0.g6b7bfd3-1
@@ -2809,8 +2812,8 @@ ttf-nerd-fonts-symbols-common 3.0.0-2
 ttf-opensans 1.101-2
 ttf-roboto 2.138-4
 ttf-ubuntu-font-family 1:0.83-1
-ttf-ubuntu-mono-nerd 3.0.0-2
-ttf-ubuntu-nerd 3.0.0-2
+ttf-ubuntu-mono-nerd 3.0.1-1
+ttf-ubuntu-nerd 3.0.1-1
 twolame 0.4.0-3
 tzdata 2023c-1
 ubuntu-keyring 2021.03.26-1
@@ -3039,7 +3042,7 @@ yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.1-1
 yubioath-desktop 5.1.0-3
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3584-1
+yuzu-early-access 3588-1
 zam-plugins 4.1-2
 zam-plugins-clap 4.1-2
 zam-plugins-ladspa 4.1-2

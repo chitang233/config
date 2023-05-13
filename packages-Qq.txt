@@ -91,6 +91,8 @@ baloo-widgets
 bandwhich
 base
 base-devel
+base-ex-cli
+base91
 bash
 bash-completion
 bash2048
@@ -419,6 +421,7 @@ git-credential-manager-core-bin
 git-crypt
 git-lfs
 github-cli
+github-copilot-cli
 gjs
 glew
 glew1.10
