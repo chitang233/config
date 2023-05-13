@@ -218,6 +218,7 @@ dbus
 dbus-glib
 dbus-python
 dconf
+ddcutil
 ddgr
 debian-archive-keyring
 debian-ports-archive-keyring
@@ -756,6 +757,7 @@ hwloc
 hydra
 hyfetch
 hyphen
+i2c-tools
 i2p
 iana-etc
 icalingua++
@@ -2483,7 +2485,7 @@ qemu-ui-spice-core
 qemu-user
 qemu-user-static
 qemu-vhost-user-gpu
-qgpgme
+qgpgme-qt5
 qhull
 qpdf
 qqc2-desktop-style
@@ -2695,6 +2697,7 @@ spice-gtk
 spice-protocol
 spirv-llvm-translator
 spirv-tools
+sqlcipher
 sqlite
 squashfs-tools
 sratom
