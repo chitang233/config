@@ -26,7 +26,6 @@ akonadiconsole
 akregator
 alembic
 alist-bin
-aliyunpan-liupan1890
 alligator
 alsa-card-profiles
 alsa-lib
@@ -105,7 +104,6 @@ betterdiscordctl-git
 bind
 binutils
 bison
-bitwarden
 black-hole-solver
 blas
 bleachbit
@@ -118,7 +116,6 @@ bluez-libs
 bluez-qt
 bolt
 bomber
-boost
 boost-libs
 bovo
 box2d
@@ -179,6 +176,7 @@ clutter-gst
 clutter-gtk
 cmake
 cmark
+cmocka
 cni-plugins
 cogl
 colord
@@ -294,9 +292,6 @@ egl-wayland
 eglexternalplatform
 eigen
 electron
-electron-netease-cloud-music
-electron20
-electron21
 element-desktop
 element-web
 elfutils
@@ -363,7 +358,6 @@ fluffychat-bin
 fluidsynth
 fmt
 fontconfig
-fonts-cjk-sc-opposans
 foomatic-db
 foomatic-db-gutenprint-ppds
 foomatic-db-nonfree
@@ -447,7 +441,6 @@ gnome-desktop-4
 gnome-desktop-common
 gnome-keyring
 gnome-latex
-gnome-online-accounts
 gnome-terminal
 gnome-video-effects
 gnu-free-fonts
@@ -2157,6 +2150,7 @@ python-fastpbkdf2
 python-feedparser
 python-fido2
 python-filelock
+python-flaky
 python-flask
 python-fonttools
 python-fqdn
@@ -2321,6 +2315,9 @@ python-pyserial
 python-pysmbc
 python-pysocks
 python-pytest
+python-pytest-drop-dup-tests
+python-pytest-rerunfailures
+python-pytest-timeout
 python-pytest-xdist
 python-python-socks
 python-pytz
@@ -2809,14 +2806,12 @@ ttf-material-design-icons-git
 ttf-misans
 ttf-nerd-fonts-symbols
 ttf-nerd-fonts-symbols-common
-ttf-opensans
 ttf-roboto
 ttf-ubuntu-font-family
 ttf-ubuntu-mono-nerd
 ttf-ubuntu-nerd
 twolame
 tzdata
-ubuntu-keyring
 uchardet
 udftools
 udisks2

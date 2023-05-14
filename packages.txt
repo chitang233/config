@@ -26,7 +26,6 @@ akonadiconsole 23.04.1-1
 akregator 23.04.1-1
 alembic 1.8.5-2
 alist-bin 3.16.3-1
-aliyunpan-liupan1890 3.10.24.git03b0319-1
 alligator 23.04.1-1
 alsa-card-profiles 1:0.3.70-2
 alsa-lib 1.2.9-1
@@ -105,7 +104,6 @@ betterdiscordctl-git 2.0.1.r2.g49a26fe-1.1
 bind 9.18.14-1
 binutils 2.40-5
 bison 3.8.2-5
-bitwarden 2023.4.0-1
 black-hole-solver 1.12.0-1
 blas 3.11.0-2
 bleachbit 4.4.2-4
@@ -118,7 +116,6 @@ bluez-libs 5.66-1
 bluez-qt 5.105.0-1
 bolt 0.9.5-1
 bomber 23.04.1-1
-boost 1.81.0-5
 boost-libs 1.81.0-5
 bovo 23.04.1-1
 box2d 2.4.1-1
@@ -179,6 +176,7 @@ clutter-gst 3.0.27-4
 clutter-gtk 1.8.4-3
 cmake 3.26.3-1
 cmark 0.30.3-1
+cmocka 1.1.5-2
 cni-plugins 1.2.0-2
 cogl 1.22.8-2
 colord 1.4.6-1
@@ -294,9 +292,6 @@ egl-wayland 2:1.1.11-4
 eglexternalplatform 1.1-2
 eigen 3.4.0-1
 electron 22.3.3-1
-electron-netease-cloud-music 0.9.36-1
-electron20 20.3.12-2
-electron21 21.4.4-1
 element-desktop 1.11.31-2
 element-web 1.11.31-2
 elfutils 0.189-1
@@ -349,7 +344,7 @@ filesystem 2023.01.31-1
 findutils 4.9.0-3
 fio 3.34-1
 firefox-appmenu 112.0.1-6
-firefox-nightly 115.0a1+20230513.1+hd36ba840f6ab-1
+firefox-nightly 115.0a1+20230514.1+hc2e4de2178a5-1
 firefox-pwa 2.5.0-1
 fish 3.6.1-1
 flac 1.4.2-1
@@ -363,7 +358,6 @@ fluffychat-bin 1.9.0-1
 fluidsynth 2.3.2-1
 fmt 9.1.0-4
 fontconfig 2:2.14.2-1
-fonts-cjk-sc-opposans 1.0.2-2
 foomatic-db 3:20230402-1
 foomatic-db-gutenprint-ppds 5.3.4-2
 foomatic-db-nonfree 3:20230402-1
@@ -447,7 +441,6 @@ gnome-desktop-4 1:44.0-1
 gnome-desktop-common 1:44.0-1
 gnome-keyring 1:42.1-2
 gnome-latex 3.44.0-1
-gnome-online-accounts 3.48.0-2
 gnome-terminal 3.48.1-1
 gnome-video-effects 1:0.5.0+r18+g5f4c801-1
 gnu-free-fonts 20120503-8
@@ -1760,8 +1753,8 @@ lynx 2.8.9-6
 lz4 1:1.9.4-1
 lzo 2.10-5
 lzop 1.04-3
-m17n-db 1.8.1-1
-m17n-lib 1.8.1-1
+m17n-db 1.8.2-1
+m17n-lib 1.8.2-1
 m4 1.4.19-3
 maeparser 1.3.1-1
 mailcap 2.1.53-1
@@ -2157,6 +2150,7 @@ python-fastpbkdf2 0.2-10
 python-feedparser 6.0.10-3
 python-fido2 1.1.1-1
 python-filelock 3.12.0-2
+python-flaky 3.7.0-8
 python-flask 2.2.5-1
 python-fonttools 4.39.4-1
 python-fqdn 1.5.1-2
@@ -2264,7 +2258,7 @@ python-pickleshare 0.7.5-9
 python-pillow 9.5.0-2
 python-pip 23.1.2-1
 python-pkginfo 1.9.6-2
-python-platformdirs 3.5.0-2
+python-platformdirs 3.5.1-1
 python-pluggy 1.0.0-4
 python-ply 3.11-12
 python-poetry 1.4.2-2
@@ -2321,6 +2315,9 @@ python-pyserial 3.5-5
 python-pysmbc 1.0.23-4
 python-pysocks 1.7.1-8
 python-pytest 7.3.1-4
+python-pytest-drop-dup-tests 0.3.0-2
+python-pytest-rerunfailures 11.1.2-2
+python-pytest-timeout 2.1.0-2
 python-pytest-xdist 3.2.1-3
 python-python-socks 2.2.0-1
 python-pytz 2023.3-1
@@ -2624,7 +2621,7 @@ run-parts 5.5-1
 runc 1.1.7-1
 rustdesk-bin 1.1.9-3
 rustup 1.26.0-3
-ryujinx-git r2798.17ba217940-1
+ryujinx-git r2798.17ba217940-2
 samba 4.18.2-2
 sane 1.2.1-4
 sbc 2.0-1
@@ -2809,14 +2806,12 @@ ttf-material-design-icons-git v7.0.96.r0.g6b7bfd3-1
 ttf-misans 2.000-1
 ttf-nerd-fonts-symbols 3.0.0-2
 ttf-nerd-fonts-symbols-common 3.0.0-2
-ttf-opensans 1.101-2
 ttf-roboto 2.138-4
 ttf-ubuntu-font-family 1:0.83-1
 ttf-ubuntu-mono-nerd 3.0.1-1
 ttf-ubuntu-nerd 3.0.1-1
 twolame 0.4.0-3
 tzdata 2023c-1
-ubuntu-keyring 2021.03.26-1
 uchardet 0.0.8-1
 udftools 2.3-1
 udisks2 2.9.4-1
