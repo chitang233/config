@@ -160,6 +160,7 @@ chaotic-mirrorlist
 cheese
 chmlib
 chromaprint
+chrpath
 cifs-utils
 ciphey
 cjson
@@ -174,7 +175,6 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
-cmake
 cmark
 cmocka
 cni-plugins
@@ -2085,6 +2085,7 @@ python-arrow
 python-asgiref
 python-astroid
 python-asttokens
+python-async-lru
 python-async-timeout
 python-async_generator
 python-atomicwrites
@@ -2264,6 +2265,7 @@ python-ply
 python-poetry
 python-poetry-core
 python-poetry-plugin-export
+python-polib
 python-pooch
 python-prettytable
 python-prometheus_client
