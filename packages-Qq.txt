@@ -175,6 +175,7 @@ clucene
 clutter
 clutter-gst
 clutter-gtk
+cmake
 cmark
 cmocka
 cni-plugins
@@ -2171,6 +2172,7 @@ python-html5-parser
 python-html5lib
 python-hyperframe
 python-hyperlink
+python-hypothesis
 python-idna
 python-ifaddr
 python-importlib-metadata
@@ -2229,6 +2231,7 @@ python-mechanize
 python-mistune
 python-mitmproxy-wireguard
 python-mock
+python-moddb
 python-more-itertools
 python-msgpack
 python-multidict
@@ -2246,6 +2249,7 @@ python-opencv
 python-opengl
 python-ordered-set
 python-outcome
+python-overrides
 python-packaging
 python-pandocfilters
 python-paramiko
@@ -2310,6 +2314,7 @@ python-pyqt5-sip
 python-pyqt6
 python-pyqt6-sip
 python-pyqt6-webengine
+python-pyrate-limiter
 python-pyrogram
 python-pyrsistent
 python-pyscard
@@ -2330,6 +2335,7 @@ python-pyzmq
 python-pyzstd
 python-qtpy
 python-rapidfuzz
+python-rapidfuzz-capi
 python-rapidjson
 python-redis
 python-regex
@@ -2343,6 +2349,7 @@ python-rich
 python-rsa
 python-ruamel-yaml
 python-ruamel.yaml.clib
+python-scikit-build
 python-scipy
 python-scrypt
 python-secretstorage
@@ -2368,6 +2375,7 @@ python-tinycss2
 python-toml
 python-tomli
 python-tomlkit
+python-toolz
 python-tornado
 python-tox
 python-tqdm
