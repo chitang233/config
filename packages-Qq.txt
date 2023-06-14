@@ -1775,6 +1775,7 @@ markdownpart
 mathjax
 mathjax2
 mbedtls
+mbedtls2
 mbox-importer
 mcpelauncher-msa-ui-qt-git
 md4c
@@ -2567,6 +2568,7 @@ retroarch-assets-glui
 retroarch-assets-ozone
 retroarch-assets-xmb
 rhash
+ripgrep
 rlwrap
 rnnoise
 roc-toolkit
@@ -2863,13 +2865,15 @@ virtualbox
 virtualbox-ext-oracle
 virtualbox-guest-iso
 virtualbox-host-dkms
-visual-studio-code-bin
+visual-studio-code-insiders-bin
 vkbasalt
 vkd3d
 vlc-luajit
 vmaf
 vnstat
 volume_key
+vscodium-insiders
+vscodium-insiders-marketplace
 vte-common
 vte3
 vtk

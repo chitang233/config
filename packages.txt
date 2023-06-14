@@ -1775,6 +1775,7 @@ markdownpart 23.04.1-1
 mathjax 3.2.2-1
 mathjax2 2.7.9-1
 mbedtls 3.4.0-3
+mbedtls2 2.28.3-3
 mbox-importer 23.04.1-1
 mcpelauncher-msa-ui-qt-git v0.6.0.r0.g41138a9-3
 md4c 0.4.8-1
@@ -2567,6 +2568,7 @@ retroarch-assets-glui 1:451-1
 retroarch-assets-ozone 1:451-1
 retroarch-assets-xmb 1:451-1
 rhash 1.4.3-1
+ripgrep 13.0.0-3
 rlwrap 0.46.1-1
 rnnoise 0.4.1-1
 roc-toolkit 0.2.4-1
@@ -2863,13 +2865,15 @@ virtualbox 7.0.8-2
 virtualbox-ext-oracle 7.0.8-1
 virtualbox-guest-iso 7.0.8-1
 virtualbox-host-dkms 7.0.8-2
-visual-studio-code-bin 1.78.2-1
+visual-studio-code-insiders-bin 1685079939-1
 vkbasalt 0.3.2.9-1
 vkd3d 1.7.1-1
 vlc-luajit 3.0.18-7
 vmaf 2.3.1-1
 vnstat 2.10-1
 volume_key 0.3.12-8
+vscodium-insiders 1.78.0.23095-1
+vscodium-insiders-marketplace 1.72.0-1.3
 vte-common 0.72.1-1
 vte3 0.72.1-1
 vtk 9.2.6-6
