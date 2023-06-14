@@ -278,6 +278,7 @@ dtc
 duf
 duktape
 dust
+dvisvgm
 dynarmic
 e2fsprogs
 easyeffects
@@ -293,6 +294,7 @@ egl-wayland
 eglexternalplatform
 eigen
 electron
+electron24
 element-desktop
 element-web
 elfutils
@@ -566,6 +568,12 @@ haskell-connection
 haskell-constraints
 haskell-contravariant
 haskell-cookie
+haskell-crypton
+haskell-crypton-connection
+haskell-crypton-x509
+haskell-crypton-x509-store
+haskell-crypton-x509-system
+haskell-crypton-x509-validation
 haskell-cryptonite
 haskell-data-array-byte
 haskell-data-default
@@ -607,6 +615,8 @@ haskell-hslua-module-version
 haskell-hslua-module-zip
 haskell-hslua-objectorientation
 haskell-hslua-packaging
+haskell-hslua-repl
+haskell-hslua-typing
 haskell-http-api-data
 haskell-http-client
 haskell-http-client-tls
@@ -620,6 +630,7 @@ haskell-indexed-traversable-instances
 haskell-integer-logarithms
 haskell-iproute
 haskell-ipynb
+haskell-isocline
 haskell-jira-wiki-markup
 haskell-juicypixels
 haskell-lexer
@@ -1762,9 +1773,7 @@ mailcap
 mailcommon
 mailimporter
 make
-mangoapp
 mangohud
-mangohud-common
 marble
 marble-common
 mariadb
@@ -1947,6 +1956,7 @@ partitionmanager
 paru
 pass
 patch
+patchelf
 pcaudiolib
 pcem
 pciutils
@@ -2110,7 +2120,6 @@ python-cachetools
 python-cachy
 python-cairo
 python-cairocffi
-python-cchardet
 python-certifi
 python-cffi
 python-chardet
@@ -2150,6 +2159,7 @@ python-executing
 python-fastimport
 python-fastjsonschema
 python-fastpbkdf2
+python-faust-cchardet
 python-feedparser
 python-fido2
 python-filelock
