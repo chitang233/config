@@ -160,6 +160,7 @@ chaotic-mirrorlist
 cheese
 chmlib
 chromaprint
+chromium
 chrpath
 cifs-utils
 ciphey
@@ -799,6 +800,7 @@ intel-opencl-clang
 intel-ucode
 intellij-idea-ultimate-edition
 iperf3
+ipfs-desktop
 iproute2
 ipscan
 iptables-nft
@@ -2433,6 +2435,7 @@ python-zope-interface
 python-zstandard
 python2
 qbittorrent-enhanced
+qbittorrent-vuetorrent-bin
 qca-qt5
 qemu-audio-alsa
 qemu-audio-dbus
@@ -2844,7 +2847,6 @@ udisks2
 umbrello
 unace
 unbound
-ungoogled-chromium
 unixodbc
 unrar
 unzip

@@ -160,6 +160,7 @@ chaotic-mirrorlist 20230603-1
 cheese 44.0.1-1
 chmlib 0.40-7
 chromaprint 1.5.1-7
+chromium 114.0.5735.133-1
 chrpath 0.16-4
 cifs-utils 7.0-3
 ciphey 5.14.0-7
@@ -799,6 +800,7 @@ intel-opencl-clang 15.0.0-1
 intel-ucode 20230613-1
 intellij-idea-ultimate-edition 2023.1.2-1
 iperf3 3.13-1
+ipfs-desktop 0.28.0-1
 iproute2 6.3.0-2
 ipscan 3.9.1-2
 iptables-nft 1:1.8.9-1
@@ -2433,6 +2435,7 @@ python-zope-interface 6.0-3
 python-zstandard 0.21.0-2
 python2 2.7.18-9
 qbittorrent-enhanced 4.5.3.10-1
+qbittorrent-vuetorrent-bin 1.5.10-1
 qca-qt5 2.3.6-2
 qemu-audio-alsa 8.0.2-1
 qemu-audio-dbus 8.0.2-1
@@ -2844,7 +2847,6 @@ udisks2 2.9.4-4
 umbrello 23.04.2-1
 unace 2.5-11
 unbound 1.17.1-2
-ungoogled-chromium 114.0.5735.106-1
 unixodbc 2.3.11-1
 unrar 1:6.2.8-1
 unzip 6.0-19
