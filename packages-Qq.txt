@@ -639,6 +639,7 @@ haskell-lpeg
 haskell-lua
 haskell-memory
 haskell-microlens
+haskell-microlens-ghc
 haskell-microlens-mtl
 haskell-microlens-th
 haskell-mime-types
@@ -1840,6 +1841,7 @@ ncompress
 ncurses
 ncurses5-compat-libs
 ndctl
+nekoray-git
 neochat
 neofetch
 neon
@@ -2685,6 +2687,8 @@ signon-ui
 signond
 simplescreenrecorder
 sing-box
+sing-geoip
+sing-geosite
 skanlite
 skanpage
 skim
@@ -2851,6 +2855,8 @@ usbutils
 util-linux
 util-linux-libs
 uudeck
+v2ray-domain-list-community
+v2ray-geoip
 v4l-utils
 v4l2loopback-dc-dkms
 v4l2loopback-dkms

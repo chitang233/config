@@ -140,7 +140,7 @@ cairo 1.17.8-2
 cairomm 1.14.4-1
 calendarsupport 23.04.2-1
 calf 0.90.3-6
-calibre 6.20.0-1
+calibre 6.21.0-1
 cantarell-fonts 1:0.303.1-1
 cantor 23.04.2-1
 capstone 4.0.2-7
@@ -251,7 +251,7 @@ dnssec-anchors 20190629-3
 docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
 docker 1:24.0.2-1
-docker-buildx 0.10.5-1
+docker-buildx 0.11.0-1
 docker-compose 2.18.1-1
 docker-credential-pass-bin 0.7.0-1
 docker-machine 0.16.2-5
@@ -276,7 +276,7 @@ drkonqi 5.27.5-1
 droidcam 1:2.0.0-1
 dtc 1.7.0-4
 duf 0.8.1-2
-duktape 2.7.0-5
+duktape 2.7.0-6
 dust 0.8.6-1
 dvisvgm 3.0.4-1
 dynarmic 6.4.8-1
@@ -293,8 +293,8 @@ efivar 38-3
 egl-wayland 2:1.1.12-1
 eglexternalplatform 1.1-2
 eigen 3.4.0-1
-electron 22.3.3-1
-electron24 24.5.0-1
+electron 22.3.12-2
+electron24 24.5.0-2
 element-desktop 1.11.32-1
 element-web 1.11.32-1
 elfutils 0.189-1
@@ -347,7 +347,7 @@ filesystem 2023.01.31-1
 findutils 4.9.0-3
 fio 3.34-1
 firefox-appmenu 112.0.1-10
-firefox-nightly 116.0a1+20230614.1+h37def70ef369-1
+firefox-nightly 116.0a1+20230614.1+h933dd3c3e1c8-1
 firefox-pwa 2.6.1-1
 fish 3.6.1-1
 flac 1.4.2-1
@@ -384,9 +384,9 @@ fuse-overlayfs 1.12-1
 fuse2 2.9.9-4
 fuse3 3.14.1-1
 fuseiso 20070708-8
-fwupd 1.9.2-1
+fwupd 1.9.2-2
 fwupd-efi 1.4-1
-fzf 0.41.1-1
+fzf 0.42.0-1
 gamemode 1.7-1
 gamescope 3.11.51-1
 gavl 1.4.0-7
@@ -432,7 +432,7 @@ glibmm 2.66.6-1
 glibmm-2.68 2.76.0-1
 glm 0.9.9.8-1
 glmark2 2023.01-1
-glslang 12.1.0-2
+glslang 12.2.0-1
 glu 9.0.2-3
 glusterfs 1:11.0-1
 gmp 6.2.1-2
@@ -474,7 +474,7 @@ graphite 1:1.3.14-3
 graphviz 8.0.5-2
 grep 3.11-1
 groff 1.22.4-10
-grub 2:2.06.r499.ge67a551a4-1
+grub 2:2.06.r499.ge67a551a4-2
 grub-btrfs 4.12-2
 gsettings-desktop-schemas 44.0-1
 gsfonts 20200910-3
@@ -639,6 +639,7 @@ haskell-lpeg 1.0.4-4
 haskell-lua 2.3.1-1
 haskell-memory 0.17.0-46
 haskell-microlens 0.4.13.1-1
+haskell-microlens-ghc 0.4.14.1-1
 haskell-microlens-mtl 0.2.0.3-1
 haskell-microlens-th 0.4.3.13-1
 haskell-mime-types 0.1.1.0-1
@@ -795,7 +796,7 @@ intel-oneapi-compiler-dpcpp-cpp-runtime-libs 2023.1.0-1
 intel-oneapi-compiler-shared-runtime-libs 2023.1.0-1
 intel-oneapi-tbb 2021.9.0-1
 intel-opencl-clang 15.0.0-1
-intel-ucode 20230516.a-1
+intel-ucode 20230613-1
 intellij-idea-ultimate-edition 2023.1.2-1
 iperf3 3.13-1
 iproute2 6.3.0-2
@@ -1419,7 +1420,7 @@ libixion 0.17.0-5
 libjcat 0.1.13-2
 libjpeg-turbo 2.1.5.1-1
 libjpeg6-turbo 1.5.3-2
-libjxl 0.8.1-2
+libjxl 0.8.2-1
 libkate 0.4.1-9
 libkcddb 23.04.2-1
 libkcompactdisc 23.04.2-1
@@ -1840,6 +1841,7 @@ ncompress 5.0-2
 ncurses 6.4_20230520-1
 ncurses5-compat-libs 6.4-2
 ndctl 76.1-1
+nekoray-git 3.8.r0.gb747f2c-1
 neochat 23.04.2-1
 neofetch 7.1.0-2
 neon 0.32.5-2
@@ -1853,7 +1855,7 @@ netpbm 10.73.43-1
 nettle 3.9.1-1
 networkmanager 1.42.6-1
 networkmanager-qt 5.107.0-1
-nexttrace 1.1.2-1
+nexttrace 1.1.5-1
 nftables 1:1.0.7-2
 nilfs-utils 2.2.9-2
 ninja 1.11.1-3
@@ -1945,7 +1947,7 @@ pam 1.5.3-3
 pam-u2f 1.3.0-1
 pambase 20221020-1
 pandoc-cli 0.1.1-2
-pandoc-crossref 0.3.15.2-33
+pandoc-crossref 0.3.16.0-1
 pango 1:1.50.14-1
 pangomm 2.46.3-1
 papirus-icon-theme 20230601-1
@@ -2132,7 +2134,7 @@ python-colorama 0.4.6-2
 python-comm 0.1.3-2
 python-configargparse 1.5.3-3
 python-constantly 15.1.0-13
-python-contourpy 1.0.7-3
+python-contourpy 1.1.0-1
 python-coverage 6.5.0-5
 python-crashtest 0.4.1-2
 python-cryptg 0.4-1
@@ -2584,7 +2586,7 @@ rnnoise 0.4.1-1
 roc-toolkit 0.2.4-1
 rocs 23.04.2-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.28.15183.49c6c2c529-1
+rpcs3-git 0.0.28.15184.d662a39a12-1
 rsync 3.2.7-4
 rtkit 0.13-2
 rtl-sdr 1:0.8.0-4
@@ -2685,6 +2687,8 @@ signon-ui 0.17+20171022-3
 signond 8.61-1
 simplescreenrecorder 0.4.4-3
 sing-box 1.2.7-1
+sing-geoip 20230112-2
+sing-geosite 20230319124808-1
 skanlite 23.04.2-1
 skanpage 23.04.2-1
 skim 0.10.4-1
@@ -2848,9 +2852,11 @@ upower 1.90.0-4
 usbmuxd 1.1.1-3
 usbredir 0.13.0-1
 usbutils 015-3
-util-linux 2.39-8
-util-linux-libs 2.39-8
+util-linux 2.39-9
+util-linux-libs 2.39-9
 uudeck 2023.1.10.1600-3
+v2ray-domain-list-community 20230614021741-1
+v2ray-geoip 202306080049-1
 v4l-utils 1.24.1-2
 v4l2loopback-dc-dkms 1:2.0.0-1
 v4l2loopback-dkms 0.12.7-2
@@ -2875,14 +2881,14 @@ virtualbox 7.0.8-2
 virtualbox-ext-oracle 7.0.8-1
 virtualbox-guest-iso 7.0.8-1
 virtualbox-host-dkms 7.0.8-2
-visual-studio-code-insiders-bin 1686703284-1
+visual-studio-code-insiders-bin 1686734655-1
 vkbasalt 0.3.2.9-1
 vkd3d 1.7.1-1
 vlc-luajit 3.0.18-7
 vmaf 2.3.1-1
 vnstat 2.10-1
 volume_key 0.3.12-8
-vscodium-insiders 1.79.0.23152-1
+vscodium-insiders 1.80.0.23165-1
 vscodium-insiders-marketplace 1.72.0-1.3
 vte-common 0.72.2-1
 vte3 0.72.2-1
@@ -3061,7 +3067,7 @@ yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.1-1
 yubioath-desktop 5.1.0-3
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3671-1
+yuzu-early-access 3674-1
 zam-plugins 4.1-2
 zam-plugins-clap 4.1-2
 zam-plugins-ladspa 4.1-2
