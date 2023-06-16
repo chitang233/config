@@ -157,6 +157,8 @@ cfitsio
 chafa
 chaotic-keyring
 chaotic-mirrorlist
+checkra1n-cli
+checkra1n-gui
 cheese
 chmlib
 chromaprint
@@ -206,6 +208,7 @@ cronie
 crun
 cryptsetup
 cubeb-git
+cuda
 cups
 cups-filters
 cups-pdf
@@ -396,6 +399,8 @@ gc
 gcab
 gcc
 gcc-libs
+gcc12
+gcc12-libs
 gcr
 gcr-4
 gd
@@ -1407,6 +1412,7 @@ libieee1284
 libimagequant
 libime
 libimobiledevice
+libimobiledevice-glue
 libindi
 libindicator-gtk2
 libindicator-gtk3
@@ -1414,6 +1420,7 @@ libinih
 libinklevel
 libinput
 libinstpatch
+libirecovery
 libiscsi
 libisl
 libisoburn
@@ -1455,6 +1462,7 @@ liblqr
 liblrdf
 liblsp-r3d-glx-lib
 libltc
+libluv
 liblzf
 libmad
 libmalcontent
@@ -1619,6 +1627,7 @@ libsysprof-capture
 libtar
 libtasn1
 libteam
+libtermkey
 libthai
 libtheora
 libtiff
@@ -1631,6 +1640,7 @@ libtorrent-rasterbar
 libtpms
 libtraceevent
 libtracefs
+libtvcontrol
 libudev0-shim
 libuhd
 libunistring
@@ -1663,6 +1673,7 @@ libvncserver
 libvorbis
 libvpx
 libvpx1.3
+libvterm
 libwacom
 libwbclient
 libwebp
@@ -1830,6 +1841,7 @@ mpfr
 mpg123
 mplayer
 mpv
+msgpack-c
 mtdev
 mtools
 mtr
@@ -1847,6 +1859,8 @@ nekoray-git
 neochat
 neofetch
 neon
+neovim
+nerdfix
 nestopia
 net-snmp
 net-tools
@@ -1866,6 +1880,7 @@ nmap
 nnn
 node-gyp
 nodejs
+nodejs-neovim
 nodejs-nopt
 noto-fonts
 noto-fonts-cjk
@@ -2178,6 +2193,7 @@ python-glfw
 python-gobject
 python-gpgme
 python-graphviz
+python-greenlet
 python-h11
 python-h2
 python-hiredis
@@ -2316,6 +2332,7 @@ python-pyinotify
 python-pylint
 python-pynacl
 python-pynput
+python-pynvim
 python-pyopenssl
 python-pyotherside
 python-pyparsing
@@ -2821,6 +2838,7 @@ tracker3
 translate-shell
 trash-cli
 tree
+tree-sitter
 triplea
 tslib
 ttf-arimo-nerd
@@ -2847,6 +2865,7 @@ udisks2
 umbrello
 unace
 unbound
+unibilium
 unixodbc
 unrar
 unzip
@@ -2872,6 +2891,7 @@ vdpauinfo
 ventoy-bin
 vid.stab
 vim
+vim-plug
 vim-runtime
 virglrenderer
 virt-bootstrap-git
@@ -2982,6 +3002,7 @@ xfsprogs
 xkeyboard-config
 xmlsec
 xmrig
+xmrig-cuda
 xorg-bdftopcf
 xorg-font-util
 xorg-fonts-100dpi
