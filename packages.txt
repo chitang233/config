@@ -25,7 +25,7 @@ akonadi-search 23.04.2-1
 akonadiconsole 23.04.2-1
 akregator 23.04.2-1
 alembic 1.8.5-4
-alist-bin 3.18.0-1
+alist-bin 3.19.0-1
 alligator 23.04.2-1
 alsa-card-profiles 1:0.3.71-2
 alsa-lib 1.2.9-1
@@ -76,7 +76,7 @@ augeas 1.14.0-1
 autoconf 2.71-4
 automake 1.16.5-2
 avahi 1:0.8+r22+gfd482a7-1
-avisynthplus 3.7.2-1
+avisynthplus 3.7.2-2
 avogadro-crystals 1.0.1-1
 avogadro-molecules 1.0.0-1
 avogadrolibs 1.97.0-7
@@ -297,10 +297,11 @@ efivar 38-3
 egl-wayland 2:1.1.12-1
 eglexternalplatform 1.1-2
 eigen 3.4.0-1
-electron 25.1.1-2
+electron 1:25-1
 electron24 24.5.1-1
-element-desktop 1.11.32-1
-element-web 1.11.32-1
+electron25 25.1.1-3
+element-desktop 1.11.33-1
+element-web 1.11.33-1
 elfutils 0.189-1
 elisa 23.04.2-1
 emacs 28.2-2
@@ -351,7 +352,7 @@ filesystem 2023.01.31-1
 findutils 4.9.0-3
 fio 3.34-1
 firefox-appmenu 112.0.1-10
-firefox-nightly 116.0a1+20230616.1+h6bc2d3f9b1aa-1
+firefox-nightly 116.0a1+20230618.1+h72d2cda2651d-1
 firefox-pwa 2.6.1-1
 fish 3.6.1-1
 flac 1.4.2-1
@@ -762,7 +763,7 @@ hidapi 0.14.0-1
 highway 1.0.4-1
 hiredis 1.1.0-1
 hivex 1.3.23-1
-hmcl-bin 3.5.4.232-2
+hmcl-bin 3.5.4.234-1
 hslua-cli 1.4.1-3
 htop 3.2.2-1
 http-parser 2.9.4-1
@@ -821,7 +822,7 @@ java-service-wrapper 3.5.51-1
 jbig2dec 0.19-1
 jdk8-graalvm-bin 21.2.0-2.1
 jemalloc 1:5.3.0-2
-jetbrains-fleet 1.18.88-1
+jetbrains-toolbox 1.28.1.15219-1
 jfsutils 1.1.15-8
 joyutils 1.8.1-1
 jp2a 1.1.1-1
@@ -1100,7 +1101,7 @@ layer-shell-qt 5.27.5-1
 lcms2 2.15-1
 ldb 2:2.7.2-2
 ldns 1.8.3-2
-lemmy 0.17.0-2
+lemmy 0.17.4-1
 lensfun 1:0.3.3-2
 leptonica 1.83.1-1
 less 1:633-1
@@ -1426,7 +1427,7 @@ libisl 0.26-1
 libisoburn 1.5.6-1
 libisofs 1.5.6-1
 libixion 0.17.0-5
-libjcat 0.1.13-2
+libjcat 0.1.14-1
 libjpeg-turbo 2.1.5.1-1
 libjpeg6-turbo 1.5.3-2
 libjxl 0.8.2-1
@@ -1470,7 +1471,7 @@ libmanette 0.2.6-5
 libmatroska 1.7.1-1
 libmaxminddb 1.7.1-1
 libmbim 1.28.4-1
-libmd 1.0.4-1
+libmd 1.1.0-1
 libmediainfo 23.04-1
 libmemcached-awesome 1.1.4-2
 libmfx 23.2.2-1
@@ -1527,6 +1528,7 @@ libpcap 1.10.4-1
 libpciaccess 0.17-1
 libpgm 5.3.128-3
 libphonenumber 1:8.13.4-2
+libpipeline 1.5.7-1
 libpipewire 1:0.3.71-2
 libplacebo 5.229.2-2
 libplist 2.3.0-2
@@ -1622,7 +1624,7 @@ libssh 0.10.5-1
 libssh2 1.10.0-3
 libstaroffice 0.0.7-2
 libstemmer 2.2.0-2
-libsynctex 2023.66984-6
+libsynctex 2023.66984-7
 libsysprof-capture 3.48.0-2
 libtar 1.2.20-6
 libtasn1 4.19.0-1
@@ -1638,8 +1640,8 @@ libtommath 1.2.0-4
 libtool 2.4.7+4+g1ec8fa28-3
 libtorrent-rasterbar 1:2.0.9-1
 libtpms 0.9.6-1
-libtraceevent 1:1.7.2-1
-libtracefs 1.6.4-2
+libtraceevent 1:1.7.3-1
+libtracefs 1.7.0-1
 libtvcontrol 0.0.1-3
 libudev0-shim 1-4
 libuhd 4.4.0.0-2
@@ -1787,7 +1789,8 @@ mailcap 2.1.54-1
 mailcommon 23.04.2-1
 mailimporter 23.04.2-1
 make 4.4.1-2
-mangohud 0.6.9.1-6
+man-db 2.11.2-1
+mangohud 0.6.9.1-8
 marble 23.04.2-1
 marble-common 23.04.2-1
 mariadb 10.11.4-1
@@ -1882,9 +1885,11 @@ node-gyp 9.4.0-1
 nodejs 20.3.0-1
 nodejs-neovim 4.10.1-1
 nodejs-nopt 7.1.0-1
+noto-color-emoji-fontconfig 1.0.0-1
 noto-fonts 20230601-1
 noto-fonts-cjk 20220126-1
 noto-fonts-emoji 20220920-1
+noto-fonts-emoji-blob 1:15.0-1
 noto-fonts-extra 20230601-1
 npm 8.19.2-2
 npm-check-updates 16.10.12-1
@@ -1984,7 +1989,7 @@ pcre2 10.42-2
 pcsc-perl 1.4.14-13
 pcsc-tools 1.6.2-1
 pcsclite 1.9.9-3
-pcsx2 1.7.3753-2
+pcsx2 1.7.4587-1
 perl 5.36.1-2
 perl-archive-zip 1.68-7
 perl-clone 0.46-1
@@ -2273,7 +2278,7 @@ python-nest-asyncio 1.5.6-2
 python-netifaces 0.11.0-4
 python-notify2 0.3.1-8
 python-numpy 1.24.3-2
-python-objgraph 3.5.0-8
+python-objgraph 3.6.0-1
 python-olefile 0.46-6
 python-olm 3.2.15-1
 python-opencv 4.7.0-12
@@ -2418,7 +2423,7 @@ python-twisted 22.10.0-3
 python-typing_extensions 4.6.3-1
 python-typing_inspect 0.8.0-3
 python-uc-micro-py 1.0.2-1
-python-ujson 5.7.0-2
+python-ujson 5.8.0-1
 python-unidecode 1.3.6-2
 python-unpaddedbase64 2.1.0-5
 python-unrardll 0.1.7-1
@@ -2431,7 +2436,7 @@ python-virtualenv 20.21.0-1
 python-wcwidth 0.2.6-1
 python-webcolors 1.13-2
 python-webencodings 0.5.1-10
-python-websocket-client 1.5.3-1
+python-websocket-client 1.6.0-1
 python-websockets 10.4-3
 python-werkzeug 2.3.2-1
 python-wheel 0.40.0-3
@@ -2443,7 +2448,7 @@ python-xlib 0.33-2
 python-y-py 0.6.0-2
 python-yaml 6.0-3
 python-yarl 1.9.2-1
-python-ypy-websocket 0.10.0-1
+python-ypy-websocket 0.11.0-1
 python-ytmusicapi 1.1.0-1
 python-yubico 1.3.3-2.3
 python-zeroconf 0.39.4-2
@@ -2606,7 +2611,7 @@ rnnoise 0.4.1-1
 roc-toolkit 0.2.4-1
 rocs 23.04.2-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.28.15208.924692bf1c-2
+rpcs3-git 0.0.28.15213.e2bced978e-1
 rsync 3.2.7-4
 rtkit 0.13-2
 rtl-sdr 1:0.8.0-4
@@ -2665,7 +2670,7 @@ run-parts 5.5-1
 runc 1.1.7-1
 rustdesk-bin 1.1.9-3
 rustup 1.26.0-3
-ryujinx-git r2899.f92921a6d1-1
+ryujinx-git r2900.f9a538bb0f-1
 samba 4.18.3-1
 sane 1.2.1-4
 sbc 2.0-1
@@ -2782,6 +2787,7 @@ systemsettings 5.27.5-1
 t1lib 5.1.2-8
 tabby-bin 1.0.188-1
 taglib 1.13-1
+tailscale 1.42.0-1
 talloc 2.4.0-3
 tar 1.34-2
 tcl 8.6.13-1
@@ -2811,13 +2817,16 @@ telly-skout 23.04.2-1
 tepl 1:6.4.0-3
 termius 7.59.5-1
 tesseract 5.3.1-1
-tesseract-data-afr 2:4.1.0-3
-tesseract-data-osd 2:4.1.0-3
+tesseract-data-afr 2:4.1.0-4
+tesseract-data-osd 2:4.1.0-4
 tevent 1:0.14.1-2
 texinfo 7.0.3-1
-texlive-bin 2023.66984-6
-texlive-core 2023.66594-7
-texlive-latexextra 2023.66594-7
+texlive-basic 2023.66594-11
+texlive-bin 2023.66984-7
+texlive-latex 2023.66594-11
+texlive-latexextra 2023.66594-11
+texlive-latexrecommended 2023.66594-11
+texlive-pictures 2023.66594-11
 thin-provisioning-tools 1.0.4-1
 threadweaver 5.107.0-1
 thunderbird-appmenu 102.10.0-6
@@ -2837,12 +2846,13 @@ traceroute 2.1.2-1
 tracker3 3.5.3-1
 translate-shell 0.9.7.1-1
 trash-cli 0.23.2.13.2-2
+trayscale 0.9.7-1.2
 tree 2.1.1-1
 tree-sitter 0.20.8-3
 triplea 2.6.586-1
 tslib 1.22-1
 ttf-arimo-nerd 3.0.2-1
-ttf-dejavu 2.37+18+g9b5d1b2f-3
+ttf-dejavu 2.37+18+g9b5d1b2f-4
 ttf-firacode-nerd 3.0.2-1
 ttf-hack 3.003-6
 ttf-jetbrains-mono 2.304-1
@@ -2884,7 +2894,7 @@ v4l2loopback-dkms 0.12.7-2
 v4l2loopback-utils 0.12.7-2
 vagrant 2.3.6-1
 vamp-plugin-sdk 2.10.0-2
-vapoursynth R62-2
+vapoursynth R63-1
 vcdimager 2.0.1-4
 vde2 2.3.3-3
 vdpauinfo 1.5-1
@@ -2903,7 +2913,7 @@ virtualbox 7.0.8-2
 virtualbox-ext-oracle 7.0.8-1
 virtualbox-guest-iso 7.0.8-1
 virtualbox-host-dkms 7.0.8-2
-visual-studio-code-insiders-bin 1686808644-1
+visual-studio-code-insiders-bin 1686910163-1
 vkbasalt 0.3.2.9-1
 vkd3d 1.7.1-1
 vlc-luajit 3.0.18-7
@@ -3058,7 +3068,7 @@ xorg-xwayland 23.1.2-1
 xorg-xwd 1.0.9-1
 xorg-xwininfo 1.1.6-1
 xorg-xwud 1.0.6-1
-xorgproto 2023.1-1
+xorgproto 2023.2-1
 xournalpp 1.1.3-1
 xpra 4.4.5-1
 xsel 1.2.1-1
@@ -3090,7 +3100,7 @@ yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.1-1
 yubioath-desktop 5.1.0-3
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3678-1
+yuzu-early-access 3684-1
 zam-plugins 4.1-2
 zam-plugins-clap 4.1-2
 zam-plugins-ladspa 4.1-2

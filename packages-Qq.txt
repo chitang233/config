@@ -299,6 +299,7 @@ eglexternalplatform
 eigen
 electron
 electron24
+electron25
 element-desktop
 element-web
 elfutils
@@ -821,7 +822,7 @@ java-service-wrapper
 jbig2dec
 jdk8-graalvm-bin
 jemalloc
-jetbrains-fleet
+jetbrains-toolbox
 jfsutils
 joyutils
 jp2a
@@ -1527,6 +1528,7 @@ libpcap
 libpciaccess
 libpgm
 libphonenumber
+libpipeline
 libpipewire
 libplacebo
 libplist
@@ -1787,6 +1789,7 @@ mailcap
 mailcommon
 mailimporter
 make
+man-db
 mangohud
 marble
 marble-common
@@ -1882,9 +1885,11 @@ node-gyp
 nodejs
 nodejs-neovim
 nodejs-nopt
+noto-color-emoji-fontconfig
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
+noto-fonts-emoji-blob
 noto-fonts-extra
 npm
 npm-check-updates
@@ -2782,6 +2787,7 @@ systemsettings
 t1lib
 tabby-bin
 taglib
+tailscale
 talloc
 tar
 tcl
@@ -2815,9 +2821,12 @@ tesseract-data-afr
 tesseract-data-osd
 tevent
 texinfo
+texlive-basic
 texlive-bin
-texlive-core
+texlive-latex
 texlive-latexextra
+texlive-latexrecommended
+texlive-pictures
 thin-provisioning-tools
 threadweaver
 thunderbird-appmenu
@@ -2837,6 +2846,7 @@ traceroute
 tracker3
 translate-shell
 trash-cli
+trayscale
 tree
 tree-sitter
 triplea
