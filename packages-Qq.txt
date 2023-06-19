@@ -168,7 +168,8 @@ cifs-utils
 ciphey
 cjson
 clang
-clash-meta-bin
+clash-geoip
+clash-meta-alpha-git
 clinfo
 clion
 cloudflare-warp-bin
@@ -217,6 +218,7 @@ curl
 cython
 datagrip
 dav1d
+davinci-resolve
 db
 db5.3
 dbus
@@ -319,6 +321,7 @@ evince
 exa
 exfatprogs
 exiv2
+expac
 expat
 expect
 f2fs-tools
@@ -1811,6 +1814,7 @@ media-player-info
 mediainfo
 memstrack
 mesa
+mesa-demos
 mesa-utils
 meson
 messagelib
@@ -2562,6 +2566,7 @@ qt5-translations
 qt5-wayland
 qt5-webchannel
 qt5-webengine
+qt5-webkit
 qt5-websockets
 qt5-webview
 qt5-x11extras
@@ -3077,7 +3082,6 @@ xvidcore
 xxhash
 xz
 yacd
-yacd-tauri
 yajl
 yakuake
 yaml-cpp
