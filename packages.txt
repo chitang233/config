@@ -1993,7 +1993,7 @@ pcre2 10.42-2
 pcsc-perl 1.4.14-13
 pcsc-tools 1.6.2-1
 pcsclite 1.9.9-3
-pcsx2 1.7.4587-1
+pcsx2 1.7.4592-1
 perl 5.36.1-2
 perl-archive-zip 1.68-7
 perl-clone 0.46-1
@@ -2085,7 +2085,7 @@ powerdevil 5.27.5-3
 poxml 23.04.2-1
 ppp 2.4.9-3
 ppsspp-assets 1.15.4-1
-prismlauncher-bin 7.0-1
+prismlauncher-bin 7.1-1
 prison 5.107.0-1
 procps-ng 3.3.17-1
 projectm 3.1.12-4
