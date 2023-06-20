@@ -330,6 +330,7 @@ faad2
 fakeroot
 falkon
 farstream
+fastfetch
 faudio
 fcitx5
 fcitx5-anthy
@@ -361,7 +362,6 @@ fish
 flac
 flake8
 flashrom
-flatpak
 flatpak-xdg-utils
 flex
 fltk
@@ -2779,6 +2779,8 @@ swaks
 sweeper
 swig
 swtpm
+syncthing
+syncthing-gtk
 syndication
 syntax-highlighting
 sysfsutils
