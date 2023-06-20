@@ -41,6 +41,7 @@ anthy 9100h-6
 antimicrox 3.3.3-1
 aom 3.6.1-1
 apparmor 3.1.5-1
+appimagelauncher 2.2.0-6.4
 appmenu-gtk-module 0.7.6-1
 appstream 0.16.2-1
 appstream-qt 0.16.2-1
@@ -1295,6 +1296,7 @@ libaio 0.3.113-2
 libajantv2 1:16.2_bugfix5-3
 libakonadi 23.04.2-2
 libao 1.2.2-6
+libappimage 1.0.4.5-4
 libappindicator-gtk3 12.10.0.r298-2
 libarchive 3.6.2-2
 libass 0.17.1-1
@@ -1843,6 +1845,7 @@ mongodb-bin 6.0.6-1
 mongodb-tools-bin 100.7.2-1
 mongosh-bin 1.9.1-1
 mono 6.12.0.198-1
+mosh 1.4.0-2
 mpdecimal 2.5.1-1
 mpfr 4.2.0.p9-1
 mpg123 1.31.3-1
@@ -1993,7 +1996,6 @@ pcre2 10.42-2
 pcsc-perl 1.4.14-13
 pcsc-tools 1.6.2-1
 pcsclite 1.9.9-3
-pcsx2 1.7.4592-1
 perl 5.36.1-2
 perl-archive-zip 1.68-7
 perl-clone 0.46-1
@@ -2013,6 +2015,7 @@ perl-http-negotiate 6.01-11
 perl-image-exiftool 12.60-1
 perl-io-html 1.004-3
 perl-io-socket-inet6 2.73-2
+perl-io-tty 1.17-1
 perl-libintl-perl 1.33-1
 perl-libwww 6.67-1
 perl-lwp-mediatypes 6.04-3
@@ -2756,6 +2759,7 @@ spirv-tools 2022.4-1
 sqlcipher 4.5.4-1
 sqlite 3.42.0-1
 squashfs-tools 4.6.1-1
+squashfuse 0.1.105-1
 sratom 0.6.14-1
 srt 1.5.1-3
 sshfs 3.7.3-1

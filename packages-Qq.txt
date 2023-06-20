@@ -41,6 +41,7 @@ anthy
 antimicrox
 aom
 apparmor
+appimagelauncher
 appmenu-gtk-module
 appstream
 appstream-qt
@@ -1295,6 +1296,7 @@ libaio
 libajantv2
 libakonadi
 libao
+libappimage
 libappindicator-gtk3
 libarchive
 libass
@@ -1843,6 +1845,7 @@ mongodb-bin
 mongodb-tools-bin
 mongosh-bin
 mono
+mosh
 mpdecimal
 mpfr
 mpg123
@@ -1993,7 +1996,6 @@ pcre2
 pcsc-perl
 pcsc-tools
 pcsclite
-pcsx2
 perl
 perl-archive-zip
 perl-clone
@@ -2013,6 +2015,7 @@ perl-http-negotiate
 perl-image-exiftool
 perl-io-html
 perl-io-socket-inet6
+perl-io-tty
 perl-libintl-perl
 perl-libwww
 perl-lwp-mediatypes
@@ -2756,6 +2759,7 @@ spirv-tools
 sqlcipher
 sqlite
 squashfs-tools
+squashfuse
 sratom
 srt
 sshfs
