@@ -36,10 +36,12 @@ amtk
 analitza
 android-sdk-platform-tools
 android-studio
+android-udev
 angelfish
 anthy
 antimicrox
 aom
+aosp-devel
 apparmor
 appimagelauncher
 appmenu-gtk-module
@@ -98,6 +100,7 @@ bash-completion
 bash2048
 bashtop
 bat
+bc
 bcg729
 beep
 betterdiscord-installer
@@ -149,6 +152,7 @@ catatonit
 catimg
 cblas
 cbonsai
+ccache
 ccid
 cdparanoia
 cdrtools
@@ -470,6 +474,7 @@ google-cloud-sdk
 goverlay-bin
 gpart
 gparted
+gperf
 gperftools
 gpgme
 gpm
@@ -1245,6 +1250,7 @@ lib32-mesa
 lib32-mesa-vdpau
 lib32-mpg123
 lib32-ncurses
+lib32-ncurses5-compat-libs
 lib32-nettle
 lib32-nspr
 lib32-nss
@@ -1265,6 +1271,7 @@ lib32-pipewire-jack
 lib32-pipewire-v4l2
 lib32-pixman
 lib32-polkit
+lib32-readline
 lib32-sdl12-compat
 lib32-sdl2
 lib32-sdl2_image
@@ -1737,6 +1744,7 @@ libzip
 libzmf
 licenses
 lilv
+lineageos-devel
 linux-api-headers
 linux-firmware
 linux-firmware-whence
@@ -2026,6 +2034,7 @@ perl-net-ip
 perl-net-libidn2
 perl-net-ssleay
 perl-socket6
+perl-switch
 perl-timedate
 perl-try-tiny
 perl-uri
@@ -2066,6 +2075,7 @@ plasma-workspace
 plasma-workspace-wallpapers
 plasma5-wallpapers-wallpaper-engine
 plasmatube
+pngcrush
 pnpm
 podman
 podofo
@@ -2684,6 +2694,7 @@ sane
 sbc
 sbkeys
 sbsigntools
+schedtool
 scour
 scrcpy
 screenkey
@@ -3021,6 +3032,7 @@ xf86-video-openchrome
 xf86-video-vesa
 xfsprogs
 xkeyboard-config
+xml2
 xmlsec
 xmrig
 xmrig-cuda

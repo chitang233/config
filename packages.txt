@@ -1,5 +1,5 @@
 a52dec 0.8.0-2
-aalib 1.4rc5-16
+aalib 1.4rc5-17
 aardvark-dns 1.6.0-1
 abseil-cpp 20230125.3-1
 accounts-qml-module 0.7-4
@@ -36,10 +36,12 @@ amtk 5.6.1-2
 analitza 23.04.2-1
 android-sdk-platform-tools 34.0.3-1
 android-studio 2022.2.1.20-1
+android-udev 20230303-1
 angelfish 23.04.2-1
 anthy 9100h-6
 antimicrox 3.3.3-1
 aom 3.6.1-1
+aosp-devel 0.9-1
 apparmor 3.1.5-1
 appimagelauncher 2.2.0-6.4
 appmenu-gtk-module 0.7.6-1
@@ -98,11 +100,12 @@ bash-completion 2.11-3
 bash2048 1.0-1
 bashtop 0.9.25-1
 bat 0.23.0-3
+bc 1.07.1-4
 bcg729 1.1.1-1
 beep 1.4.12-1
 betterdiscord-installer 1.3.0-1
 betterdiscordctl-git 2.0.1.r2.g49a26fe-1.1
-bind 9.18.15-1
+bind 9.18.16-1
 binutils 2.40-6
 bison 3.8.2-5
 black-hole-solver 1.12.0-1
@@ -149,6 +152,7 @@ catatonit 0.1.7-2
 catimg 2.7.0-1
 cblas 3.11.0-2
 cbonsai 1.3.1-3
+ccache 4.8.2-1
 ccid 1.5.2-1
 cdparanoia 10.2-8
 cdrtools 3.02a09-5
@@ -170,7 +174,7 @@ ciphey 5.14.0-7
 cjson 1.7.15-1
 clang 15.0.7-9
 clash-geoip 20230612-1
-clash-meta-alpha-git 20230619.r0.gd391fda0-1
+clash-meta-alpha-git 20230621.r0.g919daf0d-1
 clinfo 3.0.21.02.21-1
 clion 1:2023.1.3-1
 cloudflare-warp-bin 2023.3.470-1
@@ -259,7 +263,7 @@ docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
 docker 1:24.0.2-1
 docker-buildx 0.11.0-1
-docker-compose 2.18.1-1
+docker-compose 2.19.0-1
 docker-credential-pass-bin 0.7.0-1
 docker-machine 0.16.2-5
 docker-scan 0.26.0-1
@@ -303,8 +307,8 @@ eigen 3.4.0-1
 electron 1:25-1
 electron24 24.5.1-1
 electron25 25.1.1-3
-element-desktop 1.11.33-1
-element-web 1.11.33-1
+element-desktop 1.11.34-1
+element-web 1.11.34-1
 elfutils 0.189-1
 elisa 23.04.2-1
 emacs 28.2-2
@@ -321,7 +325,7 @@ eventviews 23.04.2-1
 evince 44.2-1
 exa 0.10.1-7
 exfatprogs 1.2.1-1
-exiv2 0.28.0-1
+exiv2 0.28.0-2
 expac 10-5
 expat 2.5.0-1
 expect 5.45.4-4
@@ -356,8 +360,8 @@ filelight 23.04.2-1
 filesystem 2023.01.31-1
 findutils 4.9.0-3
 fio 3.34-1
-firefox-appmenu 112.0.1-10
-firefox-nightly 116.0a1+20230620.1+h809786b4d44c-1
+firefox-appmenu 112.0.1-11
+firefox-nightly 116.0a1+20230621.1+hb94f3d418f54-1
 firefox-pwa 2.6.1-1
 fish 3.6.1-1
 flac 1.4.2-1
@@ -418,7 +422,7 @@ geoclue 2.7.0-1
 geoipupdate 5.1.1-1
 gettext 0.21.1-5
 ghc-libs 9.0.2-3
-ghostscript 10.01.1-2
+ghostscript 10.01.2-1
 ghostwriter 23.04.2-1
 giflib 5.2.1-2
 gimp 2.10.34-2
@@ -428,14 +432,14 @@ git-completion 2.0-1
 git-credential-manager-core-bin 2.1.2-1
 git-crypt 0.7.0-2
 git-lfs 3.3.0-1
-github-cli 2.30.0-1
+github-cli 2.31.0-1
 github-copilot-cli 0.1.33-1
 gjs 2:1.76.2-1
 glew 2.2.0-6
 glew1.10 1.10.0-3
 glfw-x11 3.3.8-1
 glhack 1.2-9
-glib-networking 1:2.76.0-1
+glib-networking 1:2.76.0-2
 glib-perl 1.329.3-3
 glib2 2.76.3-1
 glibc 2.37-3
@@ -465,11 +469,12 @@ gnutls 3.8.0-1
 go 2:1.20.5-1
 gobject-introspection 1.76.1-3
 gobject-introspection-runtime 1.76.1-3
-goland 2023.1.2-1
+goland 2023.1.3-1
 google-cloud-sdk 404.0.0-1.1
 goverlay-bin 0.9.1-3
 gpart 0.3-4
 gparted 1.5.0-1
+gperf 3.1-4
 gperftools 2.10-3
 gpgme 1.20.0-3
 gpm 1.20.7.r38.ge82d1a6-5
@@ -493,13 +498,13 @@ gsl 2.7.1-3
 gsm 1.0.22-1
 gspell 1.12.1-1
 gssdp 1.6.2-1
-gst-libav 1.22.3-6
-gst-plugins-bad 1.22.3-6
-gst-plugins-bad-libs 1.22.3-6
-gst-plugins-base 1.22.3-6
-gst-plugins-base-libs 1.22.3-6
-gst-plugins-good 1.22.3-6
-gstreamer 1.22.3-6
+gst-libav 1.22.4-1
+gst-plugins-bad 1.22.4-1
+gst-plugins-bad-libs 1.22.4-1
+gst-plugins-base 1.22.4-1
+gst-plugins-base-libs 1.22.4-1
+gst-plugins-good 1.22.4-1
+gstreamer 1.22.4-1
 gtest 1.13.0-1
 gtk-update-icon-cache 1:4.10.4-1
 gtk-vnc 1.3.1-1
@@ -779,7 +784,7 @@ hyfetch 1.4.9_1-1
 hyphen 2.8.8-5
 i2c-tools 4.3-4
 i2p 2.1.0-1
-iana-etc 20230405-1
+iana-etc 20230524-1
 icalingua++ 2.9.13-1
 icoutils 0.32.3-3
 icu 72.1-2
@@ -1145,8 +1150,8 @@ lib32-glslang 12.1.0-1
 lib32-glu 9.0.2-3
 lib32-gmp 6.2.1-1
 lib32-gnutls 3.8.0-2
-lib32-gst-plugins-base-libs 1.22.3-1
-lib32-gstreamer 1.22.3-1
+lib32-gst-plugins-base-libs 1.22.4-1
+lib32-gstreamer 1.22.4-1
 lib32-gtk2 2.24.33-2
 lib32-gtk3 1:3.24.38-1
 lib32-harfbuzz 7.3.0-1
@@ -1160,7 +1165,7 @@ lib32-libasyncns 1:0.8+r3+g68cd5af-2
 lib32-libcaca 0.99.beta20-1
 lib32-libcanberra 1:0.30+r2+gc0620e4-2
 lib32-libcap 2.69-1
-lib32-libcups 2.4.4-1
+lib32-libcups 2.4.5-1
 lib32-libcurl-compat 8.1.2-1
 lib32-libcurl-gnutls 8.1.2-1
 lib32-libdatrie 0.2.13-2
@@ -1245,12 +1250,13 @@ lib32-mesa 23.1.2-1
 lib32-mesa-vdpau 23.1.2-1
 lib32-mpg123 1.31.3-1
 lib32-ncurses 6.4_20230520-1
+lib32-ncurses5-compat-libs 6.4-1
 lib32-nettle 3.9.1-1
 lib32-nspr 4.35-1
 lib32-nss 3.90-1
-lib32-nvidia-utils 535.54.03-1
+lib32-nvidia-utils 535.54.03-2
 lib32-openal 1.23.1-1
-lib32-opencl-nvidia 535.54.03-1
+lib32-opencl-nvidia 535.54.03-2
 lib32-openssl 1:3.1.1-1
 lib32-openssl-1.1 1.1.1.u-1
 lib32-opus 1.4-1
@@ -1265,6 +1271,7 @@ lib32-pipewire-jack 1:0.3.71-2
 lib32-pipewire-v4l2 1:0.3.71-2
 lib32-pixman 0.42.2-1
 lib32-polkit 122-1
+lib32-readline 8.2.001-2
 lib32-sdl12-compat 1.2.64-1
 lib32-sdl2 2.26.5-1
 lib32-sdl2_image 2.6.3-1
@@ -1539,7 +1546,7 @@ libplacebo 5.229.2-2
 libplist 2.3.0-2
 libpng 1.6.39-1
 libpng12 1.2.59-2
-libproxy 0.4.18-3
+libproxy 0.5.2-1
 libpsl 0.21.2-1
 libpulse 16.1-6
 libpwquality 1.4.5-3
@@ -1737,6 +1744,7 @@ libzip 1.9.2-1
 libzmf 0.0.2-13
 licenses 20220125-2
 lilv 0.24.20-2
+lineageos-devel 0.2-1
 linux-api-headers 6.3-1
 linux-firmware 20230404.2e92a49f-1
 linux-firmware-whence 20230404.2e92a49f-1
@@ -1891,7 +1899,7 @@ nnn 4.8-1
 node-gyp 9.4.0-1
 nodejs 20.3.0-1
 nodejs-neovim 4.10.1-1
-nodejs-nopt 7.1.0-1
+nodejs-nopt 7.2.0-1
 noto-color-emoji-fontconfig 1.0.0-1
 noto-fonts 20230601-1
 noto-fonts-cjk 20220126-1
@@ -1919,7 +1927,7 @@ nyan-lang-git r254.7b5517f-1
 obs-studio-browser 29.1.1-1
 ocl-icd 2.3.2-1
 okular 23.04.2-1
-onedrive-abraunegg 2.4.24-2
+onedrive-abraunegg 2.4.25-1
 onedrivegui-git 1.0.2.r11.g2e5b259-2
 onefetch 2.18.0-1
 onetbb 2021.8.0-3
@@ -2026,6 +2034,7 @@ perl-net-ip 1.26-11
 perl-net-libidn2 1.02-1
 perl-net-ssleay 1.92-2
 perl-socket6 0.29-7
+perl-switch 2.17-8
 perl-timedate 2.33-4
 perl-try-tiny 0.31-2
 perl-uri 5.19-1
@@ -2066,6 +2075,7 @@ plasma-workspace 5.27.6-1
 plasma-workspace-wallpapers 5.27.6-1
 plasma5-wallpapers-wallpaper-engine 0.5.4-4
 plasmatube 23.04.2-1
+pngcrush 1.8.13-3
 pnpm 8.6.3-1
 podman 4.5.1-1
 podofo 0.10.0-3
@@ -2125,7 +2135,7 @@ python-apsw 3.42.0.0-1
 python-argon2-cffi-bindings 21.2.0-4
 python-argon2_cffi 21.3.0-3
 python-arrow 1.2.3-3
-python-asgiref 3.6.0-1
+python-asgiref 3.7.2-1
 python-astroid 2.15.5-1
 python-asttokens 2.2.1-3
 python-async-lru 2.0.2-1
@@ -2240,7 +2250,7 @@ python-jeepney 0.8.0-2
 python-jinja 1:3.1.2-4
 python-json-logger 2.0.7-2
 python-json5 0.9.14-1
-python-jsonpointer 2.3-2
+python-jsonpointer 2.4-1
 python-jsonschema 4.17.3-3
 python-jupyter-client 8.2.0-2
 python-jupyter-core 5.3.1-1
@@ -2391,7 +2401,7 @@ python-rfc3339-validator 0.1.4-4
 python-rfc3986-validator 0.1.1-2
 python-rich 13.4.2-1
 python-rsa 4.9-2
-python-ruamel-yaml 0.17.21-2
+python-ruamel-yaml 0.17.22-1
 python-ruamel.yaml.clib 0.2.7-2
 python-scikit-build 0.17.1-2
 python-scipy 1.10.1-3
@@ -2458,7 +2468,7 @@ python-yarl 1.9.2-1
 python-ypy-websocket 0.12.1-1
 python-ytmusicapi 1.1.0-1
 python-yubico 1.3.3-2.3
-python-zeroconf 0.39.4-2
+python-zeroconf 0.63.0-1
 python-zipp 3.15.0-2
 python-zope-interface 6.0-3
 python-zstandard 0.21.0-2
@@ -2619,7 +2629,7 @@ rnnoise 0.4.1-1
 roc-toolkit 0.2.4-1
 rocs 23.04.2-1
 rpcbind 1.2.6-3
-rpcs3-git 0.0.28.15215.073b723c09-1
+rpcs3-git 0.0.28.15223.00cca7be69-1
 rsync 3.2.7-4
 rtkit 0.13-2
 rtl-sdr 1:0.8.0-4
@@ -2678,12 +2688,13 @@ run-parts 5.5-1
 runc 1.1.7-1
 rustdesk-bin 1.1.9-3
 rustup 1.26.0-3
-ryujinx-git r2900.f9a538bb0f-1
+ryujinx-git r2901.649d372f7d-1
 samba 4.18.3-1
 sane 1.2.1-4
 sbc 2.0-1
 sbkeys 1.1.0-2
 sbsigntools 0.9.5-1
+schedtool 1.3.0-7
 scour 0.38.2-3
 scrcpy 2.0-1
 screenkey 1.5-3
@@ -2708,7 +2719,7 @@ semver 7.3.8-1
 serd 0.30.16-1
 serf 1.3.9-8
 session-desktop-bin 1.10.8-1
-sfml 2.5.1-3
+sfml 2.6.0-2
 shaderc 2023.3-1
 shadow 4.13-2
 shared-mime-info 2.2+13+ga2ffb28-1
@@ -2798,7 +2809,7 @@ systemsettings 5.27.6-1
 t1lib 5.1.2-8
 tabby-bin 1.0.188-1
 taglib 1.13-1
-tailscale 1.42.0-1
+tailscale 1.44.0-1
 talloc 2.4.0-3
 tar 1.34-2
 tcl 8.6.13-1
@@ -2897,7 +2908,7 @@ usbutils 015-3
 util-linux 2.39-10
 util-linux-libs 2.39-10
 uudeck 2023.1.10.1600-3
-v2ray-domain-list-community 20230620064205-1
+v2ray-domain-list-community 20230621141418-1
 v2ray-geoip 202306150049-1
 v4l-utils 1.24.1-2
 v4l2loopback-dc-dkms 1:2.0.0-1
@@ -2924,7 +2935,7 @@ virtualbox 7.0.8-2
 virtualbox-ext-oracle 7.0.8-1
 virtualbox-guest-iso 7.0.8-1
 virtualbox-host-dkms 7.0.8-2
-visual-studio-code-insiders-bin 1687240661-1
+visual-studio-code-insiders-bin 1687336996-1
 vkbasalt 0.3.2.9-1
 vkd3d 1.7.1-1
 vlc-luajit 3.0.18-7
@@ -2951,7 +2962,7 @@ wayland-utils 1.2.0-1
 webkit2gtk 2.40.2-1
 webkit2gtk-4.1 2.40.2-1
 webrtc-audio-processing 0.3.1-3
-webstorm 2023.1.2-1
+webstorm 2023.1.3-1
 weechat 3.8-3
 weechat-matrix 0.3.0-10
 wemeet-bin 3.15.0.400-1
@@ -3021,6 +3032,7 @@ xf86-video-openchrome 0.6.0.r798.g0c75274-2
 xf86-video-vesa 2.6.0-1
 xfsprogs 6.3.0-1
 xkeyboard-config 2.39-1
+xml2 0.5-1
 xmlsec 1.2.37-1
 xmrig 6.19.3-1
 xmrig-cuda 6.17.0-2
@@ -3097,7 +3109,7 @@ yasm 1.3.0-6
 yelp 42.2-2
 yelp-xsl 42.1-1
 youtube-dl-gui 2.4.10-1
-yt-dlp 2023.03.04-2
+yt-dlp 2023.06.21-1
 yubico-c 1.13-6
 yubico-c-client 2.15-5
 yubico-pam 2.27-2
