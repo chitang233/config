@@ -2287,6 +2287,7 @@ redland
 reiserfsprogs
 remmina
 repo
+revda-git
 rhash
 ripgrep
 rlwrap
