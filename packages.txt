@@ -257,7 +257,7 @@ dosbox 0.74.3-2
 dosfstools 4.2-3
 dotconf 1.3-7
 dotnet-host-bin 7.0.7.sdk304-1
-dotnet-runtime-6.0 6.0.18.sdk118-2
+dotnet-runtime-6.0 6.0.19.sdk119-1
 dotnet-runtime-bin 7.0.7.sdk304-1
 double-conversion 3.3.0-1
 doxygen 1.9.7-1
@@ -342,7 +342,7 @@ firefox-appmenu 112.0.1-11
 firefox-nightly 116.0a1+20230623.1+h45769d7ff3c6-1
 firefox-pwa 2.6.1-1
 fish 3.6.1-1
-flac 1.4.2-1
+flac 1.4.3-1
 flake8 1:6.0.0-3
 flashrom 1.2-4
 flatpak-xdg-utils 1.0.5-1
@@ -445,6 +445,7 @@ gnutls 3.8.0-1
 go 2:1.20.5-1
 gobject-introspection 1.76.1-3
 gobject-introspection-runtime 1.76.1-3
+google-chrome-dev 116.0.5829.0-1
 gpart 0.3-4
 gparted 1.5.0-1
 gperf 3.1-4
@@ -589,9 +590,9 @@ jupyter-server 2.6.0-1
 jupyter-server-fileid 0.9.0-1
 jupyter-server-mathjax 0.2.6-2
 jupyter-server-ydoc 0.8.0-5
-jupyterlab 4.0.2-1
+jupyterlab 4.0.2-2
+jupyterlab-pygments 0.2.2-1
 jupyterlab-widgets 3.0.7-2
-jupyterlab_pygments 0.2.2-2
 jxrlib 0.2.4-2
 k3b 1:23.04.2-1
 kaccounts-integration 23.04.2-1
@@ -852,7 +853,7 @@ lib32-dbus 1.14.8-1
 lib32-dbus-glib 0.112-2
 lib32-e2fsprogs 1.47.0-1
 lib32-expat 2.5.0-2
-lib32-flac 1.4.2-1
+lib32-flac 1.4.3-1
 lib32-fontconfig 2:2.14.2-1
 lib32-freeglut 3.4.0-1
 lib32-freetype2 2.13.0-1
@@ -1415,7 +1416,7 @@ libxxf86vm 1.1.5-1
 libyaml 0.2.5-2
 libyuv r2322+3aebf69d-1
 libzen 0.4.41-1
-libzip 1.9.2-1
+libzip 1.10.0-1
 libzmf 0.0.2-13
 licenses 20220125-2
 lilv 0.24.20-2
@@ -1879,7 +1880,7 @@ python-inflate64 0.3.1-2
 python-inflect 6.0.4-2
 python-iniconfig 2.0.0-4
 python-installer 0.7.0-3
-python-ipykernel 6.23.2-1
+python-ipykernel 6.23.3-1
 python-ipython-genutils 0.2.0-2
 python-ipywidgets 8.0.6-4
 python-isoduration 20.11.0-3
@@ -1897,7 +1898,7 @@ python-json-logger 2.0.7-2
 python-json5 0.9.14-1
 python-jsonpointer 2.4-1
 python-jsonschema 4.17.3-3
-python-jupyter-client 8.2.0-2
+python-jupyter-client 8.3.0-1
 python-jupyter-core 5.3.1-1
 python-jupyter-events 0.6.3-4
 python-jupyter-packaging 0.12.3-4
@@ -2020,7 +2021,7 @@ python-pyscard 2.0.7-1
 python-pyserial 3.5-5
 python-pysmbc 1.0.25.1-1
 python-pysocks 1.7.1-8
-python-pytest 7.3.2-1
+python-pytest 7.4.0-1
 python-pytest-drop-dup-tests 0.3.0-2
 python-pytest-rerunfailures 11.1.2-2
 python-pytest-timeout 2.1.0-2
@@ -2097,7 +2098,7 @@ python-virtualenv 20.21.0-1
 python-wcwidth 0.2.6-1
 python-webcolors 1.13-2
 python-webencodings 0.5.1-10
-python-websocket-client 1.6.0-1
+python-websocket-client 1.6.1-1
 python-websockets 10.4-3
 python-werkzeug 2.3.2-1
 python-wheel 0.40.0-3
@@ -2202,7 +2203,7 @@ qrencode 4.1.1-2
 qsstv 9.5.8-3
 qt-gstreamer 1.2.0-4
 qt-virt-manager 0.72.99-4.3
-qt5-base 5.15.10+kde+r129-1
+qt5-base 5.15.10+kde+r129-3
 qt5-declarative 5.15.10+kde+r26-1
 qt5-graphicaleffects 5.15.10-1
 qt5-imageformats 5.15.10+kde+r9-1
@@ -2228,7 +2229,7 @@ qt5-x11extras 5.15.10-1
 qt5-xmlpatterns 5.15.10-1
 qt6-3d 6.5.1-1
 qt6-5compat 6.5.1-1
-qt6-base 6.5.1-2
+qt6-base 6.5.1-4
 qt6-charts 6.5.1-1
 qt6-connectivity 6.5.1-1
 qt6-datavis3d 6.5.1-1
@@ -2350,7 +2351,7 @@ run-parts 5.5-1
 runc 1.1.7-1
 rustdesk-bin 1.1.9-3
 rustup 1.26.0-3
-ryujinx-git r2903.d604e98227-1
+ryujinx-git r2907.bf96bc84a8-1
 samba 4.18.3-1
 sane 1.2.1-4
 sbc 2.0-1

@@ -445,6 +445,7 @@ gnutls
 go
 gobject-introspection
 gobject-introspection-runtime
+google-chrome-dev
 gpart
 gparted
 gperf
@@ -590,8 +591,8 @@ jupyter-server-fileid
 jupyter-server-mathjax
 jupyter-server-ydoc
 jupyterlab
+jupyterlab-pygments
 jupyterlab-widgets
-jupyterlab_pygments
 jxrlib
 k3b
 kaccounts-integration
