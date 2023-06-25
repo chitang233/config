@@ -232,7 +232,7 @@ discord-rpc-git 3.4.0.r10.g963aa9f-5
 discount 2.2.7.c-1
 discover 5.27.6-1
 discover-overlay 0.6.5-1
-distrobox 1.5.0.1-1
+distrobox 1.5.0.2-1
 djvulibre 3.5.28-5
 dkms 3.0.11-1
 dmenu 5.2-1
@@ -242,9 +242,7 @@ dnsmasq 2.89-1
 dnssec-anchors 20190629-3
 docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
-docker 1:24.0.2-1
 docker-buildx 0.11.0-1
-docker-compose 2.19.0-1
 docker-credential-pass-bin 0.7.0-1
 docker-machine 0.16.2-5
 docker-scan 0.26.0-1
@@ -445,7 +443,7 @@ gnutls 3.8.0-1
 go 2:1.20.5-1
 gobject-introspection 1.76.1-3
 gobject-introspection-runtime 1.76.1-3
-google-chrome-dev 116.0.5829.0-1
+google-chrome-dev 116.0.5845.4-1
 gpart 0.3-4
 gparted 1.5.0-1
 gperf 3.1-4
@@ -844,7 +842,7 @@ lib32-alsa-lib 1.2.9-1
 lib32-alsa-plugins 1.2.7.1-2
 lib32-at-spi2-core 2.48.3-1
 lib32-attr 2.5.1-1
-lib32-brotli 1.0.9-5
+lib32-brotli 1.0.9-12
 lib32-bzip2 1.0.8-3
 lib32-cairo 1.17.8-2
 lib32-colord 1.4.6-1
@@ -935,7 +933,7 @@ lib32-libunistring 1.1-1
 lib32-libunwind 1.6.2-2
 lib32-libusb 1.0.26-2
 lib32-libva 2.18.0-1
-lib32-libva-mesa-driver 23.1.2-1
+lib32-libva-mesa-driver 23.1.3-1
 lib32-libvdpau 1.5-1
 lib32-libvorbis 1.3.7-1
 lib32-libvpx1.3 1.3.0-3
@@ -966,8 +964,8 @@ lib32-libxv 1.0.12-1
 lib32-libxxf86vm 1.1.5-1
 lib32-llvm-libs 15.0.7-1
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-2
-lib32-mesa 23.1.2-1
-lib32-mesa-vdpau 23.1.2-1
+lib32-mesa 23.1.3-1
+lib32-mesa-vdpau 23.1.3-1
 lib32-mpg123 1.31.3-1
 lib32-ncurses 6.4_20230520-1
 lib32-ncurses5-compat-libs 6.4-1
@@ -1007,8 +1005,8 @@ lib32-tdb 1.4.8-1
 lib32-util-linux 2.39-2
 lib32-vkd3d 1.7.1-1
 lib32-vulkan-icd-loader 1.3.251-1
-lib32-vulkan-mesa-layers 23.1.2-1
-lib32-vulkan-virtio 23.1.2-1
+lib32-vulkan-mesa-layers 23.1.3-1
+lib32-vulkan-virtio 23.1.3-1
 lib32-wayland 1.22.0-1
 lib32-webrtc-audio-processing 0.3.1-4
 lib32-xz 5.4.3-1
@@ -1347,7 +1345,7 @@ libutempter 1.2.1-3
 libutf8proc 2.8.0-1
 libuv 1.44.2-1
 libva 2.18.0-1
-libva-mesa-driver 23.1.2-1
+libva-mesa-driver 23.1.3-1
 libva-utils 2.18.2-1
 libvdpau 1.5-1
 libverto 0.3.2-4
@@ -1491,7 +1489,7 @@ mdadm 4.2-2
 media-player-info 24-2
 mediainfo 23.04-1
 memstrack 0.2.2-1
-mesa 23.1.2-1
+mesa 23.1.3-1
 mesa-demos 9.0.0-2
 mesa-utils 9.0.0-2
 meson 1.1.1-1
@@ -1515,7 +1513,7 @@ monero-gui 0.18.2.2-1
 mongo-c-driver 1.23.5-1
 mongodb-bin 6.0.6-1
 mongodb-tools-bin 100.7.2-1
-mongosh-bin 1.9.1-1
+mongosh-bin 1.10.1-1
 mono 6.12.0.198-1
 mosh 1.4.0-2
 mpdecimal 2.5.1-1
@@ -1536,7 +1534,7 @@ ncompress 5.0-2
 ncurses 6.4_20230520-1
 ncurses5-compat-libs 6.4-2
 ndctl 76.1-1
-nekoray-git 3.8.r0.gb747f2c-1
+nekoray-git 3.8.r4.g6d37781-1
 neofetch 7.1.0-2
 neon 0.32.5-2
 neovim 0.9.1-1
@@ -1728,6 +1726,9 @@ plasmatube 23.04.2-1
 pngcrush 1.8.13-3
 pnpm 8.6.3-1
 podman 4.5.1-1
+podman-compose 1.0.6-2
+podman-dnsname 1.3.1-2
+podman-docker 4.5.1-1
 podofo 0.10.0-3
 polkit 122-1
 polkit-kde-agent 5.27.6-1
@@ -1744,7 +1745,7 @@ postgresql 15.3-1
 postgresql-libs 15.3-1
 postgresql-old-upgrade 14.7-2
 potrace 1.16-2
-powerdevil 5.27.6-1
+powerdevil 5.27.6-2
 poxml 23.04.2-1
 ppp 2.4.9-3
 prismlauncher 7.1-2
@@ -1761,7 +1762,7 @@ pulseaudio-qt 1.3-1
 purpose 5.107.0-1
 putty 0.78-1
 pycharm-professional 2023.1.3-1
-pyinstaller 5.10.1-1
+pyinstaller 5.12.0-1
 pyinstaller-hooks-contrib 2023.3-1
 pyside2 5.15.10-1
 pyside6 6.5.1.1-1
@@ -1836,6 +1837,7 @@ python-dill 0.3.6-2
 python-distlib 0.3.6-3
 python-distro 1.8.0-3
 python-dnspython 1:2.3.0-3
+python-dotenv 1.0.0-2
 python-dulwich 0.21.5-1
 python-emoji 2.2.0-2
 python-entrypoints 0.4-3
@@ -2352,7 +2354,7 @@ run-parts 5.5-1
 runc 1.1.7-1
 rustdesk-bin 1.1.9-3
 rustup 1.26.0-3
-ryujinx-git r2907.bf96bc84a8-1
+ryujinx-git r2910.bc392e55df-1
 samba 4.18.3-1
 sane 1.2.1-4
 sbc 2.0-1
@@ -2363,7 +2365,7 @@ scour 0.38.2-3
 scrcpy 2.0-1
 screenkey 1.5-3
 scrub 2.6.1-1
-sddm 0.19.0-9
+sddm 0.20.0-1
 sddm-kcm 5.27.6-1
 sdl12-compat 1.2.64-1
 sdl2 2.28.0-1
@@ -2477,7 +2479,7 @@ tar 1.34-2
 tcl 8.6.13-1
 tcping 0.1.1rc1-1
 tdb 1.4.8-2
-telegram-desktop-megumifox 4.8.1-3
+telegram-desktop-megumifox 4.8.4-4
 telepathy-accounts-signon 2.1-3
 telepathy-farstream 0.6.2-7
 telepathy-glib 0.24.2-2
@@ -2606,10 +2608,10 @@ vte3 0.72.2-1
 vtk 9.2.6-6
 vulkan-headers 1:1.3.253-1
 vulkan-icd-loader 1.3.251-1
-vulkan-intel 23.1.2-1
-vulkan-mesa-layers 23.1.2-1
+vulkan-intel 23.1.3-1
+vulkan-mesa-layers 23.1.3-1
 vulkan-tools 1.3.245-1
-vulkan-virtio 23.1.2-1
+vulkan-virtio 23.1.3-1
 w3m 0.5.3.git20230121_1-1
 wavpack 5.6.0-1
 wayland 1.22.0-1

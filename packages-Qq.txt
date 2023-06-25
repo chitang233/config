@@ -242,9 +242,7 @@ dnsmasq
 dnssec-anchors
 docbook-xml
 docbook-xsl
-docker
 docker-buildx
-docker-compose
 docker-credential-pass-bin
 docker-machine
 docker-scan
@@ -1728,6 +1726,9 @@ plasmatube
 pngcrush
 pnpm
 podman
+podman-compose
+podman-dnsname
+podman-docker
 podofo
 polkit
 polkit-kde-agent
@@ -1836,6 +1837,7 @@ python-dill
 python-distlib
 python-distro
 python-dnspython
+python-dotenv
 python-dulwich
 python-emoji
 python-entrypoints
