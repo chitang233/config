@@ -47,7 +47,7 @@ arch-install-scripts 28-1
 archlinux-appstream-data 20230526-1
 archlinux-keyring 20230504-1
 archlinuxcn-keyring 20230316-1
-ardour 7.4-1
+ardour 7.5-1
 argon2 20190702-5
 aria2-fast 1.36.0-3
 aribb24 1.0.3-3
@@ -337,7 +337,7 @@ filesystem 2023.01.31-1
 findutils 4.9.0-3
 fio 3.34-1
 firefox-appmenu 112.0.1-11
-firefox-nightly 116.0a1+20230624.1+h750c24176cc2-1
+firefox-nightly 116.0a1+20230625.1+h36c126e25c92-1
 firefox-pwa 2.6.1-1
 fish 3.6.1-1
 flac 1.4.3-1
@@ -538,21 +538,19 @@ icu 72.1-2
 icu69-bin 69.1-1
 id3lib 3.8.3-18
 ijs 0.35-5
-imagemagick 7.1.1.11-2
+imagemagick 7.1.1.12-1
 imath 3.1.9-1
 imgcat 1.2.0-2
 imlib2 1.11.1-1
 incidenceeditor 23.04.2-1
 inetutils 2.4-1
 iniparser 4.1-4
-inkscape 1.2.2-8
+inkscape 1.2.2-9
 innoextract 1.9-8
 inotify-tools 3.22.6.0-2
-intel-compute-runtime 23.09.25812.14-1
+intel-compute-runtime 23.17.26241.22-1
 intel-gmmlib 22.3.3-1
-intel-graphics-compiler 1:1.0.13463.18-1
-intel-media-driver 23.1.0-1
-intel-media-sdk 23.2.2-1
+intel-graphics-compiler 1:1.0.13822.6-1
 intel-opencl-clang 15.0.0-1
 intel-ucode 20230613-1
 intellij-idea-ultimate-edition 2023.1.3-1
@@ -836,7 +834,7 @@ leptonica 1.83.1-1
 less 1:633-1
 lf 30-1
 lhasa 0.3.1-3
-lib2geom 1.2.2-2
+lib2geom 1.3-1
 lib32-acl 2.3.1-2
 lib32-alsa-lib 1.2.9-1
 lib32-alsa-plugins 1.2.7.1-2
@@ -913,7 +911,7 @@ lib32-libogg 1.3.5-1
 lib32-libpcap 1.10.4-1
 lib32-libpciaccess 0.17-1
 lib32-libpipewire 1:0.3.71-2
-lib32-libpng 1.6.39-1
+lib32-libpng 1.6.40-1
 lib32-libpng12 1.2.59-2
 lib32-libpsl 0.21.2-1
 lib32-libpulse 16.1-6
@@ -921,7 +919,7 @@ lib32-librsvg 2:2.56.1-1
 lib32-librtmp0 2.4-5
 lib32-libsm 1.2.4-1
 lib32-libsndfile 1.2.0-1
-lib32-libssh2 1.10.0-2
+lib32-libssh2 1.11.0-1
 lib32-libtasn1 4.19.0-1
 lib32-libthai 0.1.29-2
 lib32-libtheora 1.1.1-13
@@ -983,7 +981,7 @@ lib32-p11-kit 0.24.1-1
 lib32-pam 1.5.3-1
 lib32-pango 1:1.50.14-1
 lib32-pcre2 10.42-1
-lib32-pcsclite 1.9.9-3
+lib32-pcsclite 2.0.0-1
 lib32-pipewire 1:0.3.71-2
 lib32-pipewire-jack 1:0.3.71-2
 lib32-pipewire-v4l2 1:0.3.71-2
@@ -1243,7 +1241,7 @@ libodfgen 0.1.8-2
 libogg 1.3.5-1
 libolm 3.2.15-1
 libomxil-bellagio 0.9.3-4
-libopenmpt 0.7.1-1
+libopenmpt 0.7.2-1
 liborcus 0.17.2-5
 libosinfo 1.10.0-3
 libotr 4.1.1-3
@@ -1257,7 +1255,7 @@ libpipeline 1.5.7-1
 libpipewire 1:0.3.71-2
 libplacebo 5.229.2-2
 libplist 2.3.0-2
-libpng 1.6.39-1
+libpng 1.6.40-1
 libpng12 1.2.59-2
 libproxy 0.5.2-1
 libpsl 0.21.2-1
@@ -1276,7 +1274,7 @@ libreoffice-fresh-zh-cn 7.5.4-1
 librest 0.9.1-2
 libretro-pcsx2 11900-2
 librevenge 0.0.5-2
-librewolf 114.0.1-2
+librewolf 114.0.2-1
 librist 0.2.7-2
 librsvg 2:2.56.1-1
 librtmp0 2.4-5
@@ -1307,7 +1305,7 @@ libspeechd 0.11.4-2
 libspiro 1:20221101-2
 libsrtp 1:2.5.0-1
 libssh 0.10.5-1
-libssh2 1.10.0-3
+libssh2 1.11.0-1
 libstaroffice 0.0.7-2
 libstemmer 2.2.0-2
 libsynctex 2023.66984-10
@@ -1590,7 +1588,7 @@ octopi 0.14.0-2
 okular 23.04.2-1
 onedrive-abraunegg 2.4.25-1
 onedrivegui-git 1.0.2.r11.g2e5b259-2
-onefetch 2.18.0-1
+onefetch 2.18.1-1
 onetbb 2021.8.0-3
 onevpl 2023.3.0-1
 oniguruma 6.9.8-1
@@ -1618,7 +1616,7 @@ opusfile 0.12-3
 orc 0.4.34-1
 os-prober 1.81-1
 osinfo-db 20230518-1
-ostree 2023.3-1
+ostree 2023.4-1
 osu-lazer 2023.513.0-1
 otf-smiley-sans-bin 1.1.1-1
 oxygen 5.27.6-1
@@ -1652,7 +1650,7 @@ pcre 8.45-3
 pcre2 10.42-2
 pcsc-perl 1.4.14-13
 pcsc-tools 1.6.2-1
-pcsclite 1.9.9-3
+pcsclite 2.0.0-1
 perl 5.36.1-2
 perl-archive-zip 1.68-7
 perl-clone 0.46-1
@@ -1745,7 +1743,7 @@ postgresql 15.3-1
 postgresql-libs 15.3-1
 postgresql-old-upgrade 14.7-2
 potrace 1.16-2
-powerdevil 5.27.6-2
+powerdevil 5.27.6-3
 poxml 23.04.2-1
 ppp 2.4.9-3
 prismlauncher 7.1-2
@@ -1824,7 +1822,7 @@ python-contourpy 1.1.0-1
 python-coverage 6.5.0-5
 python-crashtest 0.4.1-2
 python-cryptg 0.4-1
-python-cryptography 40.0.2-1
+python-cryptography 41.0.1-2
 python-css-parser 1.0.9-1
 python-cssselect 1.2.0-3
 python-cycler 0.11.0-3
@@ -1971,9 +1969,9 @@ python-poetry 1.5.1-1
 python-poetry-core 1.6.1-1
 python-poetry-plugin-export 1.3.0-3
 python-polib 1.2.0-1.2
-python-pooch 1.7.0-2
+python-pooch 1.7.0-3
 python-prettytable 3.6.0-3
-python-prometheus_client 0.16.0-2
+python-prometheus_client 0.17.0-1
 python-prompt_toolkit 3.0.38-2
 python-protobuf 21.12-2
 python-psutil 5.9.5-1
@@ -2057,7 +2055,7 @@ python-scrypt 0.8.20-4
 python-secretstorage 3.3.3-2
 python-semantic-version 2.10.0-3
 python-send2trash 1.8.2-1
-python-setuptools 1:67.8.0-1
+python-setuptools 1:68.0.0-1
 python-setuptools-rust 1.6.0-1
 python-sgmllib3k 1.0.0-5
 python-shellingham 1.5.0.post1-4
@@ -2354,7 +2352,7 @@ run-parts 5.5-1
 runc 1.1.7-1
 rustdesk-bin 1.1.9-3
 rustup 1.26.0-3
-ryujinx-git r2910.bc392e55df-1
+ryujinx-git r2914.e3bacfa774-1
 samba 4.18.3-1
 sane 1.2.1-4
 sbc 2.0-1
@@ -2569,7 +2567,7 @@ usbutils 015-3
 util-linux 2.39-10
 util-linux-libs 2.39-10
 uudeck 2023.1.10.1600-3
-v2ray-domain-list-community 20230621141418-1
+v2ray-domain-list-community 20230624070846-1
 v2ray-geoip 202306220048-1
 v4l-utils 1.24.1-2
 v4l2loopback-dc-dkms 1:2.0.0-1
@@ -2630,7 +2628,7 @@ whois 5.5.17-1
 wildmidi 0.4.5-2
 wine-gecko 2.47.4-1
 wine-mono 8.0.0-1
-wine-staging 8.10-1
+wine-staging 8.11-1
 winetricks 20220411-1
 wireguard-tools 1.0.20210914-1
 wireless_tools 30.pre9-3
@@ -2641,7 +2639,7 @@ wireshark-qt 4.0.6-1
 wlroots 0.16.2-1
 wmctrl 1.07-6
 woff2 1.0.2-4
-wolfssl 5.6.2-1
+wolfssl 5.6.3-1
 wpa_supplicant 2:2.10-8
 wpebackend-fdo 1.14.2-1
 wxwidgets-common 3.2.2.1-1
