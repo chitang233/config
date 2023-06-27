@@ -548,10 +548,6 @@ iniparser
 inkscape
 innoextract
 inotify-tools
-intel-compute-runtime
-intel-gmmlib
-intel-graphics-compiler
-intel-opencl-clang
 intel-ucode
 intellij-idea-ultimate-edition
 iperf3
