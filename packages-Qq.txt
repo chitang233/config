@@ -100,10 +100,12 @@ black-hole-solver
 blas
 bleachbit
 blinken
+blueberry
 bluedevil
 bluez
 bluez-libs
 bluez-qt
+bluez-tools
 bolt
 bomber
 boost-libs
@@ -426,6 +428,7 @@ glu
 glusterfs
 gmp
 gnirehtet-bin
+gnome-bluetooth
 gnome-boxes
 gnome-calculator
 gnome-desktop
@@ -511,6 +514,7 @@ handbrake
 handbrake-cli
 harfbuzz
 harfbuzz-icu
+haveged
 hdf5
 hdparm
 heaptrack
@@ -522,6 +526,7 @@ highway
 hiredis
 hivex
 hmcl-bin
+hostapd
 htop
 http-parser
 hunspell
@@ -558,6 +563,7 @@ iptables-nft
 iputils
 ipython
 iso-codes
+iw
 jansson
 jasper
 java-environment-common
@@ -1416,6 +1422,7 @@ lineageos-devel
 linux-api-headers
 linux-firmware
 linux-firmware-whence
+linux-wifi-hotspot
 linux-zen
 linux-zen-headers
 lirc
@@ -2051,6 +2058,7 @@ python-scrypt
 python-secretstorage
 python-semantic-version
 python-send2trash
+python-setproctitle
 python-setuptools
 python-setuptools-rust
 python-sgmllib3k
@@ -2627,6 +2635,7 @@ wine-mono
 wine-staging
 winetricks
 wireguard-tools
+wireless-regdb
 wireless_tools
 wireplumber
 wireproxy
