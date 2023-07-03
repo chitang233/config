@@ -2388,6 +2388,7 @@ seatd
 sed
 semver
 serd
+serenity-git
 serf
 session-desktop-bin
 sfml
