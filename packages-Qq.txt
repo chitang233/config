@@ -694,6 +694,8 @@ khotkeys
 khtml
 ki18n
 kiconthemes
+kid3
+kid3-common
 kidentitymanagement
 kidletime
 kig
@@ -1211,6 +1213,7 @@ libmms
 libmng
 libmnl
 libmodplug
+libmp4v2
 libmpc
 libmpcdec
 libmpeg2
