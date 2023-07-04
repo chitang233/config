@@ -313,7 +313,7 @@ faad2 2.10.1-1
 fakeroot 1.31-2
 falkon 23.04.2-1
 farstream 0.2.9-3
-fastfetch 1.12.0-1
+fastfetch 1.12.1-1
 faudio 23.06-1
 fcitx5 5.0.23-2
 fcitx5-anthy 5.0.14-1
@@ -339,7 +339,7 @@ filesystem 2023.01.31-1
 findutils 4.9.0-3
 fio 3.34-1
 firefox-appmenu 112.0.1-12
-firefox-nightly 116.0a1+20230702.1+h8a50b880c83f-1
+firefox-nightly 116.0a1+20230703.1+ha998c42399a8-1
 firefox-pwa 2.6.2-1
 fish 3.6.1-1
 flac 1.4.3-1
@@ -397,7 +397,7 @@ gdk-pixbuf2 2.42.10-2
 gegl 0.4.46-1
 geoclue 2.7.0-1
 geoipupdate 5.1.1-1
-gettext 0.21.1-5
+gettext 0.22-1
 ghostscript 10.01.2-1
 ghostwriter 23.04.2-1
 giflib 5.2.1-2
@@ -530,7 +530,7 @@ hostapd 2.10-2
 htop 3.2.2-1
 http-parser 2.9.4-1
 hunspell 1.7.2-1
-hwdata 0.371-1
+hwdata 0.372-1
 hwloc 2.9.1-1
 hydra 9.5-1
 hyfetch 1.4.9_1-1
@@ -1175,7 +1175,7 @@ libkmahjongg 23.04.2-1
 libkolabxml 1.2.1-2
 libkomparediff2 23.04.2-1
 libksane 23.04.2-1
-libksba 1.6.3-1
+libksba 1.6.4-1
 libkscreen 5.27.6-1
 libksieve 23.04.2-1
 libksysguard 5.27.6-1
@@ -1267,7 +1267,7 @@ libpsl 0.21.2-1
 libpulse 16.1-6
 libpwquality 1.4.5-3
 libqaccessibilityclient 0.4.1-2
-libqalculate 4.6.1-2
+libqalculate 4.7.0-1
 libqmi 1.32.4-1
 libqrtr-glib 1.2.2-2
 libqxp 0.0.2-10
@@ -1886,7 +1886,7 @@ python-inflate64 0.3.1-2
 python-inflect 6.1.0-1
 python-iniconfig 2.0.0-4
 python-installer 0.7.0-3
-python-ipykernel 6.23.3-1
+python-ipykernel 6.24.0-1
 python-ipython-genutils 0.2.0-2
 python-ipywidgets 8.0.6-4
 python-isoduration 20.11.0-3
@@ -2043,7 +2043,7 @@ python-qtpy 2.3.1-2
 python-rapidfuzz 3.1.1-1
 python-rapidfuzz-capi 1.0.5-5
 python-rapidjson 1.10-2
-python-redis 4.5.5-1
+python-redis 4.6.0-1
 python-regex 2023.6.3-1
 python-rencode 1.0.6-8
 python-requests 2.28.2-4
@@ -2357,9 +2357,9 @@ ruby-uri 0.12.1-1
 rubygems 3.3.25-1
 run-parts 5.5-1
 runc 1.1.7-1
-rustdesk-bin 1.1.9-3
+rustdesk-bin 1.2.0-1
 rustup 1.26.0-3
-ryujinx-git r2954.3b46bb73f7-1
+ryujinx-git r2955.1c7a90ef35-1
 samba 4.18.3-2
 sane 1.2.1-4
 sbc 2.0-1
@@ -2626,7 +2626,7 @@ wayland-utils 1.2.0-1
 webkit2gtk 2.40.3-1
 webkit2gtk-4.1 2.40.3-1
 webrtc-audio-processing 0.3.1-3
-weechat 4.0.0-1
+weechat 4.0.1-1
 weechat-matrix 0.3.0-10
 weston 12.0.1-1
 wgcf-git 2.2.15.r0.140f983-1
@@ -2697,7 +2697,7 @@ xfsprogs 6.3.0-2
 xkeyboard-config 2.39-1
 xml2 0.5-1
 xmlsec 1.2.37-1
-xmrig 6.19.3-1
+xmrig 6.20.0-1
 xmrig-cuda 6.17.0-2
 xorg-bdftopcf 1.1.1-1
 xorg-font-util 1.4.0-1
@@ -2785,7 +2785,7 @@ yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.1-1
 yubioath-desktop 5.1.0-3
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3734-1
+yuzu-early-access 3737-1
 zarchive-git 0.1.2.r0.gd2c7177-2
 zbar 0.23.90-3
 zenity 3.44.1-1
