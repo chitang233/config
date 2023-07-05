@@ -20,7 +20,7 @@ akonadi-mime 23.04.2-1
 akonadi-notes 23.04.2-1
 akonadi-search 23.04.2-1
 akregator 23.04.2-1
-alist-bin 3.19.0-1
+alist-bin 3.20.0-1
 alligator 23.04.2-1
 alpm_octopi_utils 1.0.2-3.2
 alsa-card-profiles 1:0.3.72-1
@@ -338,8 +338,8 @@ filelight 23.04.2-1
 filesystem 2023.01.31-1
 findutils 4.9.0-3
 fio 3.34-1
-firefox-appmenu 112.0.1-12
-firefox-nightly 116.0a1+20230703.1+ha998c42399a8-1
+firefox-appmenu 112.0.1-13
+firefox-nightly 117.0a1+20230704.1+h6801350ec5da-1
 firefox-pwa 2.6.2-1
 fish 3.6.1-1
 flac 1.4.3-1
@@ -465,7 +465,7 @@ graphite 1:1.3.14-3
 graphviz 8.0.5-2
 grep 3.11-1
 groff 1.22.4-10
-grpc 1.53.0-3
+grpc 1.55.1-2
 grub 2:2.06.r566.g857af0e17-1
 grub-btrfs 4.13-1
 gsettings-desktop-schemas 44.0-1
@@ -575,13 +575,13 @@ jfsutils 1.1.15-8
 joyutils 1.8.1-1
 jp2a 1.1.1-1
 jq 1.6-4
-js102 102.12.0-1
+js102 102.13.0-1
 json-c 0.16-1
 json-glib 1.6.6-2
 jsoncpp 1.9.5-2
 juk 23.04.2-1
 jupyter-nbclient 0.8.0-1
-jupyter-nbconvert 7.6.0-1
+jupyter-nbconvert 7.6.0-2
 jupyter-nbformat 5.9.0-1
 jupyter-notebook-shim 0.2.3-2
 jupyter-server 2.7.0-1
@@ -590,7 +590,7 @@ jupyter-server-mathjax 0.2.6-2
 jupyter-server-ydoc 0.8.0-5
 jupyterlab 4.0.2-2
 jupyterlab-pygments 0.2.2-1
-jupyterlab-widgets 3.0.7-2
+jupyterlab-widgets 3.0.8-1
 jxrlib 0.2.4-2
 k3b 1:23.04.2-1
 kaccounts-integration 23.04.2-1
@@ -1426,8 +1426,8 @@ linux-api-headers 6.3-1
 linux-firmware 20230625.ee91452d-3
 linux-firmware-whence 20230625.ee91452d-3
 linux-wifi-hotspot 4.5.0.r1.g4d64e83-2
-linux-zen 6.4.1.zen1-1
-linux-zen-headers 6.4.1.zen1-1
+linux-zen 6.4.1.zen2-1
+linux-zen-headers 6.4.1.zen2-1
 lirc 1:0.10.2-3
 live-media 2023.01.19-1
 lld 15.0.7-2
@@ -1512,14 +1512,14 @@ mlt 7.16.0-1
 mobile-broadband-provider-info 20230416-1
 modemmanager 1.20.6-1
 modemmanager-qt 5.107.0-1
-monero 0.18.2.2-1
-monero-gui 0.18.2.2-1
+monero 0.18.2.2-2
+monero-gui 0.18.2.2-2
 mongo-c-driver 1.23.5-2
 mongodb-bin 6.0.7-1
 mongodb-tools-bin 100.7.3-1
 mongosh-bin 1.10.1-1
 mono 6.12.0.198-1
-mosh 1.4.0-2
+mosh 1.4.0-3
 mpdecimal 2.5.1-1
 mpfr 4.2.0.p9-1
 mpg123 1.31.3-1
@@ -1607,7 +1607,7 @@ opencl-headers 2:2023.04.17-2
 opencl-nvidia 535.54.03-1
 opencolorio 2.2.1-10
 opencore-amr 0.1.6-1
-opencv 4.7.0-12
+opencv 4.7.0-13
 openexr 3.1.9-1
 openfec 1.4.2.9-1
 openjpeg2 2.5.0-2
@@ -1728,7 +1728,7 @@ plasma-workspace 5.27.6-2
 plasma5-wallpapers-wallpaper-engine 0.5.4-4
 plasmatube 23.04.2-1
 pngcrush 1.8.13-3
-pnpm 8.6.5-2
+pnpm 8.6.6-1
 podman 4.5.1-1
 podman-compose 1.0.6-2
 podman-dnsname 1.3.1-2
@@ -1756,8 +1756,8 @@ prismlauncher 7.1-3
 prison 5.107.0-1
 procps-ng 4.0.3-1
 projectm 3.1.12-4
-protobuf 21.12-2
-protobuf-c 1.4.1-1
+protobuf 23.3-1
+protobuf-c 1.4.1-2
 proxychains-ng 4.16-2
 psmisc 23.6-1
 publicsuffix-list 20230222.1337.ab05301-1
@@ -1846,7 +1846,7 @@ python-dulwich 0.21.5-1
 python-emoji 2.2.0-2
 python-entrypoints 0.4-3
 python-evdev 1.6.1-2
-python-exceptiongroup 1.1.1-2
+python-exceptiongroup 1.1.2-1
 python-execnet 1.9.0-6
 python-executing 1.2.0-3
 python-fastimport 0.9.14-4
@@ -1888,7 +1888,7 @@ python-iniconfig 2.0.0-4
 python-installer 0.7.0-3
 python-ipykernel 6.24.0-1
 python-ipython-genutils 0.2.0-2
-python-ipywidgets 8.0.6-4
+python-ipywidgets 8.0.7-1
 python-isoduration 20.11.0-3
 python-isort 5.12.0-2
 python-itsdangerous 2.1.2-3
@@ -1950,7 +1950,7 @@ python-numpy 1.25.0-1
 python-objgraph 3.6.0-1
 python-olefile 0.46-6
 python-olm 3.2.15-1
-python-opencv 4.7.0-12
+python-opencv 4.7.0-13
 python-opengl 3.1.6-2
 python-ordered-set 4.1.0-4
 python-outcome 1.2.0-4
@@ -1979,7 +1979,7 @@ python-pooch 1.7.0-3
 python-prettytable 3.6.0-3
 python-prometheus_client 0.17.0-1
 python-prompt_toolkit 3.0.38-2
-python-protobuf 21.12-2
+python-protobuf 23.3-1
 python-psutil 5.9.5-1
 python-ptyprocess 0.7.0-5
 python-publicsuffix2 2.20191221-7
@@ -2118,7 +2118,7 @@ python-y-py 0.6.0-2
 python-yaml 6.0-3
 python-yarl 1.9.2-1
 python-ypy-websocket 0.12.1-1
-python-ytmusicapi 1.1.0-1
+python-ytmusicapi 1.1.1-1
 python-yubico 1.3.3-2.3
 python-zeroconf 0.63.0-1
 python-zipp 3.15.0-2
@@ -2126,7 +2126,7 @@ python-zope-interface 6.0-3
 python-zstandard 0.21.0-2
 python2 2.7.18-9
 qbittorrent-enhanced 4.5.4.10-1
-qbittorrent-vuetorrent-bin 1.5.12-1
+qbittorrent-vuetorrent-bin 1.6.0-1
 qca-qt5 2.3.6-2
 qemu-audio-alsa 8.0.2-1
 qemu-audio-dbus 8.0.2-1
@@ -2241,7 +2241,7 @@ qt6-charts 6.5.1-1
 qt6-connectivity 6.5.1-1
 qt6-datavis3d 6.5.1-1
 qt6-declarative 6.5.1-2
-qt6-grpc 6.5.1-1
+qt6-grpc 6.5.1-4
 qt6-httpserver 6.5.1-1
 qt6-imageformats 6.5.1-1
 qt6-languageserver 6.5.1-1
@@ -2465,7 +2465,7 @@ swaks 20201014.0-1
 sweeper 23.04.2-1
 swig 4.1.1-2
 swtpm 0.8.0-1
-syncthing 1.23.5-1
+syncthing 1.23.6-1
 syncthing-gtk 0.9.4.5-2
 syndication 5.107.0-1
 syntax-highlighting 5.107.0-1
@@ -2575,7 +2575,7 @@ usbutils 015-3
 util-linux 2.39.1-1
 util-linux-libs 2.39.1-1
 uudeck 2023.1.10.1600-3
-v2ray-domain-list-community 20230702010337-1
+v2ray-domain-list-community 20230703075153-1
 v2ray-geoip 202306301512-1
 v4l-utils 1.24.1-2
 v4l2loopback-dc-dkms 1:2.0.0-1
@@ -2602,8 +2602,8 @@ virtualbox 7.0.8-2
 virtualbox-ext-oracle 7.0.8-1
 virtualbox-guest-iso 7.0.8-1
 virtualbox-host-dkms 7.0.8-2
-visual-studio-code-insiders-bin 1688160866-1
-vkbasalt 0.3.2.9-1
+visual-studio-code-insiders-bin 1688469598-1
+vkbasalt 0.3.2.10-1
 vkd3d 1.7.1-1
 vlc-luajit 3.0.18-7
 vmaf 2.3.1-1
@@ -2785,7 +2785,7 @@ yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.1-1
 yubioath-desktop 5.1.0-3
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3737-1
+yuzu-early-access 3739-1
 zarchive-git 0.1.2.r0.gd2c7177-2
 zbar 0.23.90-3
 zenity 3.44.1-1
@@ -2796,7 +2796,7 @@ zimg 3.0.4-1
 zip 3.0-10
 zita-convolver 4.0.3-3
 zlib 1:1.2.13-3
-zsh 5.9-3
+zsh 5.9-4
 zsh-completions 0.34.0-4
 zsnes 2.0.12-1
 zstd 1.5.5-1
