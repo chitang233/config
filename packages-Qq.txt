@@ -1613,6 +1613,7 @@ openfec
 openjpeg2
 openmpi
 openpmix
+openrgb
 openssh
 openssl
 openssl-1.1
