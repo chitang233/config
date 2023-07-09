@@ -285,6 +285,7 @@ egl-wayland 2:1.1.12-1
 eglexternalplatform 1.1-2
 eigen 3.4.0-1
 electron 1:25-1
+electron22 22.3.15-1
 electron24 24.6.1-1
 electron25 25.2.1-1
 element-desktop 1.11.35-1
@@ -366,6 +367,7 @@ frei0r-plugins 2.3.0-1
 fribidi 1.0.13-2
 frpc 0.50.0-1
 fstrm 0.6.1-1
+ftba-electron 202306222252_df78a8cfe7-1
 ftgl 2.4.0-2
 ftl-sdk 0.10.1-3.1
 fuse-common 3.14.1-1
@@ -447,6 +449,7 @@ go 2:1.20.5-1
 gobject-introspection 1.76.1-3
 gobject-introspection-runtime 1.76.1-3
 google-chrome-dev 116.0.5845.14-1
+goverlay-git 0.9.1.r6.g9f80288-1
 gpart 0.3-4
 gparted 1.5.0-1
 gperf 3.1-4
@@ -529,6 +532,7 @@ hmcl-bin 3.5.4.234-1
 hostapd 2.10-2
 htop 3.2.2-1
 http-parser 2.9.4-1
+hugo 0.112.3-1
 hunspell 1.7.2-1
 hwdata 0.372-1
 hwloc 2.9.1-1
@@ -1530,6 +1534,7 @@ mtdev 1.1.6-2
 mtools 1:4.0.43-1
 mtr 0.95-3
 mujs 1.3.3-1
+multimc-bin 0.7.0.3772-1
 multipath-tools 0.9.5-1
 mypaint-brushes1 1.3.1-1
 nano 7.2-1
@@ -2235,6 +2240,7 @@ qt5-websockets 5.15.10+kde+r2-1
 qt5-webview 5.15.10-1
 qt5-x11extras 5.15.10-1
 qt5-xmlpatterns 5.15.10-1
+qt5pas 2.6.2.2.6-2
 qt6-3d 6.5.1-1
 qt6-5compat 6.5.1-2
 qt6-base 6.5.1-5
@@ -2294,6 +2300,7 @@ redis 7.0.11-1
 redland 1:1.0.17-8
 reiserfsprogs 3.6.27-4
 remmina 1:1.4.31-1
+replay-sorcery-git r282.d8d5921-2.2
 repo 2.34.1-1
 revda-git 5.3.0.r0.gb0d4443-1
 rhash 1.4.3-1

@@ -285,6 +285,7 @@ egl-wayland
 eglexternalplatform
 eigen
 electron
+electron22
 electron24
 electron25
 element-desktop
@@ -366,6 +367,7 @@ frei0r-plugins
 fribidi
 frpc
 fstrm
+ftba-electron
 ftgl
 ftl-sdk
 fuse-common
@@ -447,6 +449,7 @@ go
 gobject-introspection
 gobject-introspection-runtime
 google-chrome-dev
+goverlay-git
 gpart
 gparted
 gperf
@@ -529,6 +532,7 @@ hmcl-bin
 hostapd
 htop
 http-parser
+hugo
 hunspell
 hwdata
 hwloc
@@ -1530,6 +1534,7 @@ mtdev
 mtools
 mtr
 mujs
+multimc-bin
 multipath-tools
 mypaint-brushes1
 nano
@@ -2235,6 +2240,7 @@ qt5-websockets
 qt5-webview
 qt5-x11extras
 qt5-xmlpatterns
+qt5pas
 qt6-3d
 qt6-5compat
 qt6-base
@@ -2294,6 +2300,7 @@ redis
 redland
 reiserfsprogs
 remmina
+replay-sorcery-git
 repo
 revda-git
 rhash
