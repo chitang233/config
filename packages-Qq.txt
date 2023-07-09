@@ -1910,6 +1910,7 @@ python-json-logger
 python-json5
 python-jsonpointer
 python-jsonschema
+python-jsonschema-specifications
 python-jupyter-client
 python-jupyter-core
 python-jupyter-events
@@ -2050,6 +2051,7 @@ python-rapidfuzz
 python-rapidfuzz-capi
 python-rapidjson
 python-redis
+python-referencing
 python-regex
 python-rencode
 python-requests
@@ -2058,6 +2060,7 @@ python-requests-unixsocket
 python-rfc3339-validator
 python-rfc3986-validator
 python-rich
+python-rpds-py
 python-rsa
 python-ruamel-yaml
 python-ruamel.yaml.clib
@@ -2763,6 +2766,7 @@ xorg-xwd
 xorg-xwininfo
 xorg-xwud
 xorgproto
+xosd
 xournalpp
 xpra
 xsel
