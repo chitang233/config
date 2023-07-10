@@ -8,3 +8,5 @@ alias gp='git pull'
 alias tree='exa --tree --icons --color=always'
 alias cat='bat -pp'
 alias docker-compose='docker compose'
+alias copilot-cli='eval "$(github-copilot-cli alias -- "$0")"'
+alias dicker=podman
