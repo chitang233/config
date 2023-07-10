@@ -93,6 +93,7 @@ bat
 bc
 bcg729
 beep
+besttrace
 bind
 binutils
 bison
