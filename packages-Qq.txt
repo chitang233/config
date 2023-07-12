@@ -2814,6 +2814,7 @@ zsh-completions
 zsnes
 zstd
 zulu-11-bin
+zulu-19-bin
 zulu-20-bin
 zulu-jdk-fx-bin
 zvbi
