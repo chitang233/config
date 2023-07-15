@@ -33,7 +33,7 @@ analitza 23.04.3-1
 android-sdk-platform-tools 34.0.3-1
 android-udev 20230303-1
 anthy 9100h-6
-antimicrox 3.3.3-2
+antimicrox 3.3.4-1
 aom 3.6.1-1
 aosp-devel 0.9-1
 apparmor 3.1.6-1
@@ -156,16 +156,16 @@ checkra1n-gui 0.12.4-4
 cheese 44.0.1-1
 chmlib 0.40-7
 chromaprint 1.5.1-7
-chromium 114.0.5735.198-2
+chromium 115.0.5790.90-1
 chrpath 0.16-4
 cifs-utils 7.0-3
 ciphey 5.14.0-7
 cjson 1.7.15-1
 clang 15.0.7-9
 clash-geoip 20230712-1
-clash-meta-alpha-git 20230702.r0.g0b1aff57-1
+clash-meta-alpha-git 20230713.r0.gf796d852-1
 clinfo 3.0.21.02.21-1
-cloudflared 2023.6.1-1
+cloudflared 2023.7.0-1
 cloudflarespeedtest 2.2.4-2
 clucene 2.3.3.4-14
 clutter 1.26.4-2
@@ -286,9 +286,9 @@ egl-wayland 2:1.1.12-1
 eglexternalplatform 1.1-2
 eigen 3.4.0-1
 electron 1:25-1
-electron22 22.3.16-1
-electron24 24.6.2-1
-electron25 25.2.1-1
+electron22 22.3.17-1
+electron24 24.6.3-1
+electron25 25.3.0-1
 element-desktop 1.11.35-1
 element-web 1.11.35-1
 elfutils 0.189-1
@@ -341,7 +341,7 @@ filesystem 2023.01.31-1
 findutils 4.9.0-3
 fio 3.34-1
 firefox-appmenu 112.0.1-15
-firefox-nightly 117.0a1+20230712.1+h409794f954d9-1
+firefox-nightly 117.0a1+20230714.1+h196cda3a1052-1
 firefox-pwa 2.6.2-1
 fish 3.6.1-1
 flac 1.4.3-1
@@ -430,7 +430,7 @@ glslang 12.2.0-1
 glu 9.0.2-3
 glusterfs 1:11.0-1
 gmp 6.2.1-2
-gnirehtet-bin 2.5-2
+gnirehtet-bin 2.5.1-1
 gnome-bluetooth 3.34.5-4
 gnome-boxes 44.2-1
 gnome-calculator 44.0-1
@@ -449,7 +449,7 @@ gnutls 3.8.0-1
 go 2:1.20.5-1
 gobject-introspection 1.76.1-3
 gobject-introspection-runtime 1.76.1-3
-google-chrome-dev 116.0.5845.14-1
+google-chrome-dev 116.0.5845.32-1
 goverlay-git 0.9.1.r6.g9f80288-1
 gpart 0.3-4
 gparted 1.5.0-1
@@ -559,7 +559,7 @@ inkscape 1.2.2-9
 innoextract 1.9-8
 inotify-tools 3.22.6.0-2
 intel-ucode 20230613-1
-intellij-idea-ultimate-edition 2023.1.3-1
+intellij-idea-ultimate-edition 2023.1.4-2
 iperf3 3.14-1
 ipfs-desktop 0.28.0-1
 iproute2 6.4.0-1
@@ -593,7 +593,7 @@ jupyter-server 2.7.0-1
 jupyter-server-fileid 0.9.0-1
 jupyter-server-mathjax 0.2.6-2
 jupyter-server-ydoc 0.8.0-5
-jupyterlab 4.0.2-3
+jupyterlab 4.0.3-1
 jupyterlab-pygments 0.2.2-1
 jupyterlab-widgets 3.0.8-1
 jxrlib 0.2.4-2
@@ -838,7 +838,7 @@ lcms2 2.15-1
 ldb 2:2.7.2-2
 ldns 1.8.3-2
 lemmy 0.18.1-1
-lensfun 1:0.3.3-2
+lensfun 1:0.3.4-2
 leptonica 1.83.1-1
 less 1:633-1
 lf 30-1
@@ -1207,7 +1207,7 @@ libmatroska 1.7.1-1
 libmaxminddb 1.7.1-1
 libmbim 1.28.4-1
 libmd 1.1.0-1
-libmediainfo 23.06-1
+libmediainfo 23.07-1
 libmemcached-awesome 1.1.4-2
 libmfx 23.2.2-1
 libmgba 0.10.2-1
@@ -1237,7 +1237,7 @@ libnewt 0.52.23-2
 libnfnetlink 1.0.2-1
 libnfs 5.0.2-1
 libnftnl 1.2.5-1
-libnghttp2 1.54.0-1
+libnghttp2 1.55.0-1
 libnice 0.1.21-2
 libnih 1.0.3-4
 libnl 3.7.0-3
@@ -1496,7 +1496,7 @@ md4c 0.4.8-1
 mda.lv2 1.2.10-1
 mdadm 4.2-2
 media-player-info 24-2
-mediainfo 23.06-1
+mediainfo 23.07-1
 memstrack 0.2.2-1
 mesa 23.1.3-2
 mesa-demos 9.0.0-2
@@ -1544,7 +1544,7 @@ ncompress 5.0-2
 ncurses 6.4_20230520-1
 ncurses5-compat-libs 6.4-2
 ndctl 76.1-1
-nekoray-git 3.11.r0.g4001ded-1
+nekoray-git 3.11.r4.gd6351d8-1
 neofetch 7.1.0-2
 neon 0.32.5-2
 neovim 0.9.1-1
@@ -1638,7 +1638,7 @@ p11-kit 0.25.0-1
 p7zip 1:17.05-1
 p8-platform 2.1.0.1-4
 pacman 6.0.2-7
-pacman-contrib 1.9.0-1
+pacman-contrib 1.9.1-1
 pacman-mirrorlist 20230628-1
 pahole 1:1.25-4
 palapeli 23.04.3-1
@@ -1772,7 +1772,7 @@ pugixml 1.13-1
 pulseaudio-qt 1.3-1
 purpose 5.108.0-1
 putty 0.78-1
-pycharm-professional 2023.1.3-1
+pycharm-professional 2023.1.4-1
 pyinstaller 5.13.0-1
 pyinstaller-hooks-contrib 2023.5-1
 pyside2 5.15.10-1
@@ -1835,7 +1835,7 @@ python-contourpy 1.1.0-1
 python-coverage 6.5.0-5
 python-crashtest 0.4.1-2
 python-cryptg 0.4-1
-python-cryptography 41.0.1-2
+python-cryptography 41.0.2-1
 python-css-parser 1.0.9-1
 python-cssselect 1.2.0-3
 python-cycler 0.11.0-3
@@ -1865,7 +1865,7 @@ python-fido2 1.1.1-1
 python-filelock 3.12.0-2
 python-flaky 3.7.0-8
 python-flask 2.2.5-1
-python-fonttools 4.40.0-1
+python-fonttools 4.41.0-1
 python-fqdn 1.5.1-2
 python-frozenlist 1.3.3-2
 python-future 0.18.3-1
@@ -2214,7 +2214,7 @@ qemu-user-static 8.0.2-1
 qemu-vhost-user-gpu 8.0.2-1
 qgpgme-qt5 1.21.0-1
 qhull 2020.2-4
-qpdf 11.4.0-2
+qpdf 11.5.0-1
 qqc2-desktop-style 5.108.0-1
 qrencode 4.1.1-2
 qsstv 9.5.8-3
@@ -2239,7 +2239,7 @@ qt5-wayland 5.15.10+kde+r51-1
 qt5-webchannel 5.15.10+kde+r3-1
 qt5-webengine 5.15.14-4
 qt5-webglplugin 5.15.10-1
-qt5-webkit 5.212.0alpha4-20
+qt5-webkit 5.212.0alpha4-21
 qt5-websockets 5.15.10+kde+r2-1
 qt5-webview 5.15.10-1
 qt5-x11extras 5.15.10-1
@@ -2371,7 +2371,7 @@ run-parts 5.5-1
 runc 1.1.7-1
 rustdesk-bin 1.2.0-2
 rustup 1.26.0-3
-ryujinx-git r2963.ac2444f908-1
+ryujinx-git r2965.e5261228d7-1
 samba 4.18.4-1
 sane 1.2.1-4
 sbc 2.0-1
@@ -2398,7 +2398,7 @@ seabios 1.16.2-1
 seahorse 1:43.0-2
 seatd 0.7.0-3
 sed 4.9-3
-semver 7.4.0-1
+semver 7.5.0-1
 serd 0.30.16-1
 serenity-git r14.f594b70-1
 serf 1.3.9-8
@@ -2408,14 +2408,14 @@ shaderc 2023.3-1
 shadow 4.13-2
 shared-mime-info 2.2+13+ga2ffb28-1
 shiboken6 6.5.1.1-4
-signal-desktop-beta 6.25.0beta1-1
+signal-desktop-beta 6.26.0beta1-1
 signon-kwallet-extension 23.04.3-1
 signon-plugin-oauth2 0.25-1
 signon-ui 0.17+20171022-3
 signond 8.61-1
 simplescreenrecorder 0.4.4-3
 sing-box 1.3.0-2
-sing-geoip 20230612-2
+sing-geoip 20230712-2
 sing-geosite 20230707041058-1
 skanlite 23.04.3-1
 skanpage 23.04.3-1
@@ -2466,7 +2466,7 @@ step 23.04.3-1
 stk 4.6.2-2
 strace 6.3-1
 subversion 1.14.2-8
-sudo 1.9.13.p3-1
+sudo 1.9.14.p1-1
 suil 0.10.18-1
 suitesparse 7.1.0-2
 supermin 5.3.2-1
@@ -2587,8 +2587,8 @@ usbutils 015-3
 util-linux 2.39.1-1
 util-linux-libs 2.39.1-1
 uudeck 2023.1.10.1600-3
-v2ray-domain-list-community 20230707041058-1
-v2ray-geoip 202307060057-1
+v2ray-domain-list-community 20230713075615-1
+v2ray-geoip 202307130057-1
 v4l-utils 1.24.1-2
 v4l2loopback-dc-dkms 1:2.0.0-1
 v4l2loopback-dkms 0.12.7-2
@@ -2614,7 +2614,7 @@ virtualbox 7.0.8-2
 virtualbox-ext-oracle 7.0.8-1
 virtualbox-guest-iso 7.0.8-1
 virtualbox-host-dkms 7.0.8-2
-visual-studio-code-insiders-bin 1689140001-1
+visual-studio-code-insiders-bin 1689226541-1
 vkbasalt 0.3.2.10-1
 vkd3d 1.7.1-1
 vlc-luajit 3.0.18-8
@@ -2638,7 +2638,7 @@ wayland-utils 1.2.0-1
 webkit2gtk 2.40.3-1
 webkit2gtk-4.1 2.40.3-1
 webrtc-audio-processing 0.3.1-3
-weechat 4.0.1-1
+weechat 4.0.2-1
 weechat-matrix 0.3.0-10
 weston 12.0.1-1
 wgcf-git 2.2.15.r0.140f983-1
@@ -2655,8 +2655,8 @@ wireless-regdb 2023.05.03-1
 wireless_tools 30.pre9-3
 wireplumber 0.4.14-1
 wireproxy 1.0.6-1
-wireshark-cli 4.0.6-1
-wireshark-qt 4.0.6-1
+wireshark-cli 4.0.7-1
+wireshark-qt 4.0.7-1
 wlroots 0.16.2-1
 wmctrl 1.07-6
 woff2 1.0.2-4
