@@ -245,7 +245,9 @@ dnsmasq
 dnssec-anchors
 docbook-xml
 docbook-xsl
+docker
 docker-buildx
+docker-compose
 docker-credential-pass-bin
 docker-machine
 docker-scan
@@ -1739,7 +1741,6 @@ pnpm
 podman
 podman-compose
 podman-dnsname
-podman-docker
 podofo
 polkit
 polkit-kde-agent
