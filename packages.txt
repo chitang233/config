@@ -209,6 +209,8 @@ cups-pdf 3.0.1-7
 cups-pk-helper 0.2.7-1
 curl 8.1.2-1
 cython 3.0.0-1
+dae 0.2.1-1
+daed 0.2.0-1
 datagrip 2023.1.2-1
 dav1d 1.2.1-1
 db 6.2.32-1

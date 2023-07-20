@@ -209,6 +209,8 @@ cups-pdf
 cups-pk-helper
 curl
 cython
+dae
+daed
 datagrip
 dav1d
 db
