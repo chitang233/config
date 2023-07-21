@@ -2664,7 +2664,6 @@ virt-manager
 virtio-win
 virtiofsd
 virtualbox
-virtualbox-ext-oracle
 virtualbox-guest-iso
 virtualbox-host-dkms
 visual-studio-code-insiders-bin
