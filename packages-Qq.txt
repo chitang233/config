@@ -111,6 +111,7 @@ bluez-qt
 bluez-tools
 bolt
 bomber
+boost
 boost-libs
 bovo
 box2d
@@ -193,6 +194,7 @@ copyq
 coreutils
 cpio
 cpp-httplib
+cppdap
 cpu-g-git
 cpu-x
 cpupower-gui
