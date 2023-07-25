@@ -458,6 +458,7 @@ gnutls
 go
 gobject-introspection
 gobject-introspection-runtime
+goland
 google-chrome-dev
 goverlay-git
 gpart
@@ -527,6 +528,7 @@ handbrake
 handbrake-cli
 harfbuzz
 harfbuzz-icu
+harmonyos-sans-git
 haskell-aeson
 haskell-assoc
 haskell-attoparsec
@@ -1598,7 +1600,6 @@ ncompress
 ncurses
 ncurses5-compat-libs
 ndctl
-nekoray-git
 neofetch
 neon
 neovim
@@ -1971,7 +1972,7 @@ python-jupyter-core
 python-jupyter-events
 python-jupyter-packaging
 python-jupyter-ydoc
-python-jupyterlab_server
+python-jupyterlab-server
 python-kaitaistruct
 python-keyring
 python-kiwisolver
