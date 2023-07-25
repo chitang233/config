@@ -2672,7 +2672,7 @@ virtualbox-host-dkms 7.0.10-1
 visual-studio-code-insiders-bin 1690201767-1
 vkbasalt 0.3.2.10-1
 vkd3d 1.7.1-1
-vlc-luajit 3.0.18-8
+vlc 3.0.18-13
 vmaf 2.3.1-1
 vnstat 2.10-1
 volume_key 0.3.12-8

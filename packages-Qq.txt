@@ -2672,7 +2672,7 @@ virtualbox-host-dkms
 visual-studio-code-insiders-bin
 vkbasalt
 vkd3d
-vlc-luajit
+vlc
 vmaf
 vnstat
 volume_key
