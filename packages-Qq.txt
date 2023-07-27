@@ -29,6 +29,7 @@ alsa-lib
 alsa-plugins
 alsa-topology-conf
 alsa-ucm-conf
+amd-ucode
 amtk
 analitza
 android-sdk-platform-tools
@@ -615,7 +616,6 @@ iniparser
 inkscape
 innoextract
 inotify-tools
-intel-ucode
 intellij-idea-ultimate-edition
 iperf3
 ipfs-desktop
