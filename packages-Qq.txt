@@ -7,6 +7,7 @@ acl
 acme.sh
 acpi
 acpi_call-dkms
+activitywatch-bin
 adobe-source-code-pro-fonts
 adwaita-cursors
 adwaita-icon-theme
@@ -1937,6 +1938,7 @@ python-hpack
 python-html2text
 python-html5-parser
 python-html5lib
+python-huggingface-hub
 python-hyperframe
 python-hyperlink
 python-hypothesis
@@ -2435,6 +2437,7 @@ sbsigntools
 schedtool
 scour
 scrcpy
+screen
 screenkey
 scrub
 sddm

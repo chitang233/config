@@ -7,6 +7,7 @@ acl 2.3.1-3
 acme.sh 3.0.6-1
 acpi 1.7-3
 acpi_call-dkms 1.2.2-1
+activitywatch-bin 0.12.2-1
 adobe-source-code-pro-fonts 2.042u+1.062i+1.026vf-1
 adwaita-cursors 44.0-1
 adwaita-icon-theme 44.0-1
@@ -96,7 +97,7 @@ bc 1.07.1-4
 bcg729 1.1.1-1
 beep 1.4.12-1
 besttrace 1.3.2-1
-bind 9.18.16-1
+bind 9.18.17-1
 binutils 2.40-6
 bison 3.8.2-6
 black-hole-solver 1.12.0-1
@@ -150,7 +151,7 @@ cdparanoia 10.2-8
 cdrtools 3.02a09-5
 cemu-git 2.0.39.r2.gd903b2cf-1
 cervisia 23.04.3-1
-cfitsio 1:4.2.0-1
+cfitsio 1:4.3.0-1
 chafa 1.12.4-3
 chaotic-keyring 20230616-1
 chaotic-mirrorlist 20230710-2
@@ -159,7 +160,7 @@ checkra1n-gui 0.12.4-4
 cheese 44.1-1
 chmlib 0.40-7
 chromaprint 1.5.1-7
-chromium 115.0.5790.102-1
+chromium 115.0.5790.110-1
 chrpath 0.16-4
 cifs-utils 7.0-3
 ciphey 5.14.0-7
@@ -196,14 +197,14 @@ cpio 2.14-1
 cpp-httplib 0.13.1-1
 cppdap 1.58.0-1
 cpu-g-git 0.16.3.1ubuntu1.r64.a94ef88-1
-cpu-x 4.5.3-2
+cpu-x 4.5.3-3
 cpupower-gui 1.0.0-5.3
 cracklib 2.9.11-1
 criu 3.18-1
 cronie 1.6.1-1
 crun 1.8.5-1
 cryptsetup-nested-cryptkey 2.4.3-4
-cubeb-git 0.2.r1452.g48689ae-1
+cubeb-git 0.2.r1463.g41344b3-1
 cuda 12.2.0-1
 cups 1:2.4.6-1
 cups-filters 1.28.17-4
@@ -251,7 +252,7 @@ dnsmasq 2.89-1
 dnssec-anchors 20190629-3
 docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
-docker 1:24.0.2-1
+docker 1:24.0.5-1
 docker-buildx 0.11.0-1
 docker-compose 2.20.2-1
 docker-credential-pass-bin 0.7.0-1
@@ -324,7 +325,7 @@ fakeroot 1.32.1-1
 falkon 23.04.3-1
 farstream 0.2.9-3
 fastfetch 1.12.2-1
-faudio 23.06-1
+faudio 23.07-1
 fcitx5 5.0.23-2
 fcitx5-anthy 5.0.14-1
 fcitx5-chinese-addons 5.0.17-1
@@ -349,7 +350,7 @@ filesystem 2023.01.31-1
 findutils 4.9.0-3
 fio 3.35-1
 firefox-appmenu 112.0.1-15
-firefox-nightly 117.0a1+20230725.1+h12931a93e28c-1
+firefox-nightly 117.0a1+20230726.1+h87846ae3f12d-1
 firefox-pwa 2.7.2-1
 fish 3.6.1-1
 flac 1.4.3-1
@@ -414,7 +415,7 @@ ghostscript 10.01.2-1
 ghostwriter 23.04.3-1
 giflib 5.2.1-2
 gimp 2.10.34-2
-git 2.41.0-1
+git 2.41.0-2
 git-cola 4.2.1-3
 git-completion 2.0-1
 git-credential-manager-core-bin 2.1.2-1
@@ -435,7 +436,7 @@ glibmm 2.66.6-1
 glibmm-2.68 2.76.0-1
 glm 0.9.9.8-1
 glmark2 2023.01-1
-glslang 12.2.0-1
+glslang 12.3.1-1
 glu 9.0.2-3
 glusterfs 1:11.0-1
 gmp 6.2.1-2
@@ -615,7 +616,7 @@ inkscape 1.2.2-10
 innoextract 1.9-8
 inotify-tools 3.22.6.0-2
 intel-ucode 20230613-1
-intellij-idea-ultimate-edition 2023.1.4-2
+intellij-idea-ultimate-edition 2023.2-1
 iperf3 3.14-1
 ipfs-desktop 0.28.0-1
 iproute2 6.4.0-1
@@ -909,7 +910,7 @@ lib32-brotli 1.0.9-12
 lib32-bzip2 1.0.8-3
 lib32-cairo 1.17.8-2
 lib32-colord 1.4.6-1
-lib32-curl 8.2.0-1
+lib32-curl 8.2.1-1
 lib32-dbus 1.14.8-1
 lib32-dbus-glib 0.112-2
 lib32-e2fsprogs 1.47.0-1
@@ -947,8 +948,8 @@ lib32-libcaca 0.99.beta20-1
 lib32-libcanberra 1:0.30+r2+gc0620e4-2
 lib32-libcap 2.69-1
 lib32-libcups 2.4.6-1
-lib32-libcurl-compat 8.2.0-1
-lib32-libcurl-gnutls 8.2.0-1
+lib32-libcurl-compat 8.2.1-1
+lib32-libcurl-gnutls 8.2.1-1
 lib32-libdatrie 0.2.13-2
 lib32-libdbusmenu-glib 16.04.0-5
 lib32-libdbusmenu-gtk2 16.04.0-5
@@ -995,7 +996,7 @@ lib32-libudev0-shim 1-6
 lib32-libunistring 1.1-1
 lib32-libunwind 1.6.2-2
 lib32-libusb 1.0.26-2
-lib32-libva 2.18.0-1
+lib32-libva 2.19.0-1
 lib32-libva-mesa-driver 23.1.4-2
 lib32-libvdpau 1.5-1
 lib32-libvorbis 1.3.7-1
@@ -1319,7 +1320,7 @@ libpciaccess 0.17-1
 libpgm 5.3.128-3
 libpipeline 1.5.7-1
 libpipewire 1:0.3.75-2
-libplacebo 5.264.1-1
+libplacebo 5.264.1-2
 libplist 2.3.0-2
 libpng 1.6.40-2
 libpng12 1.2.59-2
@@ -1410,7 +1411,7 @@ libutf8proc 2.8.0-1
 libuv 1.46.0-1
 libva 2.19.0-1
 libva-mesa-driver 23.1.4-2
-libva-utils 2.18.2-1
+libva-utils 2.19.0-1
 libvdpau 1.5-1
 libverto 0.3.2-4
 libvips 8.14.2-1
@@ -1501,7 +1502,7 @@ lmms 1.2.2-16
 lokalize 23.04.3-1
 lpsolve 5.5.2.11-2
 lrzip 0.651-2
-lsb-release 2.0.r48.3cf5103-1
+lsb-release 2.0.r53.a86f885-1
 lskat 23.04.3-1
 lsof 4.98.0-1
 lsp-plugins 1.2.8-1
@@ -1814,7 +1815,7 @@ potrace 1.16-2
 powerdevil 5.27.6-3
 poxml 23.04.3-1
 ppp 2.4.9-3
-prismlauncher 7.1-3
+prismlauncher 7.2-1
 prison 5.108.0-1
 procps-ng 4.0.3-1
 projectm 3.1.12-4
@@ -1831,7 +1832,7 @@ pycharm-professional 2023.1.4-1
 pyinstaller 5.13.0-1
 pyinstaller-hooks-contrib 2023.6-1
 pyside2 5.15.10-1
-pyside6 6.5.1.1-4
+pyside6 6.5.2-1
 pystring 1.1.4-1
 python 3.11.3-2
 python-aiofiles 23.1.0-2
@@ -1881,7 +1882,7 @@ python-charset-normalizer 3.2.0-1
 python-cipheycore 0.3.2-2
 python-cipheydists 0.3.35-2
 python-cleo 2.0.1-4
-python-click 8.1.5-1
+python-click 8.1.6-1
 python-colorama 0.4.6-2
 python-comm 0.1.3-2
 python-configargparse 1.5.3-3
@@ -1937,6 +1938,7 @@ python-hpack 4.0.0-4
 python-html2text 2020.1.16-9
 python-html5-parser 0.4.11-1
 python-html5lib 1.1-12
+python-huggingface-hub 1:0.16.4-1
 python-hyperframe 6.0.1-4
 python-hyperlink 21.0.0-5
 python-hypothesis 6.75.3-1
@@ -2066,7 +2068,7 @@ python-pydantic 1.10.9-1
 python-pyflakes 3.0.1-3
 python-pygments 2.15.1-1
 python-pyinotify 0.9.6-12
-python-pylint 2.17.4-1
+python-pylint 2.17.5-1
 python-pynacl 1.4.0-6
 python-pynput 1.7.6-3
 python-pynvim 0.4.3-3
@@ -2176,7 +2178,7 @@ python-werkzeug 2.3.2-1
 python-wheel 0.40.0-3
 python-wrapt 1.14.1-2
 python-wsproto 1.2.0-2
-python-wxpython 1:4.2.0-4
+python-wxpython 1:4.2.1-1
 python-xcffib 1.2.0-2
 python-xlib 0.33-2
 python-y-py 0.6.0-2
@@ -2435,6 +2437,7 @@ sbsigntools 0.9.5-1
 schedtool 1.3.0-7
 scour 0.38.2-3
 scrcpy 2.1.1-1
+screen 4.9.0-1
 screenkey 1.5-3
 scrub 2.6.1-1
 sddm 0.20.0-1
@@ -2459,11 +2462,11 @@ serenity-git r15.9e75485-1
 serf 1.3.9-8
 session-desktop-bin 1.11.0-1
 sfml 2.6.0-3
-shaderc 2023.3-1
+shaderc 2023.4-1
 shadow 4.13-2
 shared-mime-info 2.2+13+ga2ffb28-1
 shellcheck 0.9.0-44
-shiboken6 6.5.1.1-4
+shiboken6 6.5.2-1
 signal-desktop-beta 6.27.0beta2-1
 signon-kwallet-extension 23.04.3-1
 signon-plugin-oauth2 0.25-1
@@ -2549,7 +2552,7 @@ t1lib 5.1.2-8
 taglib 1.13.1-1
 tailscale 1.46.0-1
 talloc 2.4.1-1
-tar 1.34-2
+tar 1.35-1
 tcl 8.6.13-1
 tcping 0.1.1rc1-1
 tdb 1.4.9-1
@@ -2669,7 +2672,7 @@ virtiofsd 1.7.0-1
 virtualbox 7.0.10-1
 virtualbox-guest-iso 7.0.10-1
 virtualbox-host-dkms 7.0.10-1
-visual-studio-code-insiders-bin 1690272763-1
+visual-studio-code-insiders-bin 1690349669-1
 vkbasalt 0.3.2.10-1
 vkd3d 1.7.1-1
 vlc 3.0.18-13
@@ -2853,7 +2856,7 @@ yubikey-personalization-gui 3.1.25-2
 yubikey-touch-detector 1.10.1-1
 yubioath-desktop 5.1.0-3
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3778-1
+yuzu-early-access 3779-1
 zarchive-git 0.1.2.r0.gd2c7177-2
 zbar 0.23.90-3
 zenity 3.44.1-1
