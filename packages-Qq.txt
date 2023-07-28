@@ -21,6 +21,8 @@ akonadi-mime
 akonadi-notes
 akonadi-search
 akregator
+alhp-keyring
+alhp-mirrorlist
 alist-bin
 alligator
 alpm_octopi_utils
@@ -133,6 +135,10 @@ ca-certificates
 ca-certificates-mozilla
 ca-certificates-utils
 cabextract
+cachyos-keyring
+cachyos-mirrorlist
+cachyos-v3-mirrorlist
+cachyos-v4-mirrorlist
 caddy
 cairo
 cairomm
@@ -582,6 +588,7 @@ hdf5
 hdparm
 heaptrack
 helvum
+heroic-games-launcher-bin
 hexo-cli
 hicolor-icon-theme
 hidapi
@@ -1860,7 +1867,6 @@ python-astroid
 python-asttokens
 python-async-lru
 python-async-timeout
-python-async_generator
 python-atomicwrites
 python-attrs
 python-autocommand
@@ -1915,7 +1921,6 @@ python-dulwich
 python-emoji
 python-entrypoints
 python-evdev
-python-exceptiongroup
 python-execnet
 python-executing
 python-fastimport
@@ -1947,7 +1952,6 @@ python-html5lib
 python-huggingface-hub
 python-hyperframe
 python-hyperlink
-python-hypothesis
 python-idna
 python-ifaddr
 python-importlib-metadata
@@ -2159,7 +2163,6 @@ python-tornado
 python-tox
 python-tqdm
 python-traitlets
-python-trio
 python-trove-classifiers
 python-twisted
 python-typing_extensions
