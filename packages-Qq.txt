@@ -441,6 +441,7 @@ glslang
 glu
 glusterfs
 gmp
+gn
 gnirehtet-bin
 gnome-bluetooth
 gnome-boxes
@@ -594,6 +595,7 @@ http-parser
 hugo
 hunspell
 hwdata
+hwinfo
 hwloc
 hydra
 hyfetch
@@ -1438,6 +1440,7 @@ libwpe
 libwpg
 libwps
 libx11
+libx86emu
 libxau
 libxaw
 libxcb
@@ -1601,6 +1604,7 @@ ncompress
 ncurses
 ncurses5-compat-libs
 ndctl
+nekoray-git
 neofetch
 neon
 neovim
@@ -1756,6 +1760,8 @@ perl-timedate
 perl-try-tiny
 perl-uri
 perl-www-robotrules
+perl-xml-parser
+perl-xml-writer
 phodav
 phonon-qt5
 phonon-qt5-gstreamer
