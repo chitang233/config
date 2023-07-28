@@ -736,6 +736,7 @@ kdf
 kdiagram
 kdialog
 kdiamond
+kdiff3
 kdiskmark
 kdnssd
 kdoctools
