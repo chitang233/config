@@ -905,6 +905,7 @@ layer-shell-qt
 lcms2
 ldb
 ldns
+legendary
 lemmy
 lensfun
 leptonica
@@ -924,6 +925,7 @@ lib32-colord
 lib32-curl
 lib32-dbus
 lib32-dbus-glib
+lib32-duktape
 lib32-e2fsprogs
 lib32-expat
 lib32-flac
@@ -937,6 +939,7 @@ lib32-gdk-pixbuf2
 lib32-gettext
 lib32-giflib
 lib32-glew1.10
+lib32-glib-networking
 lib32-glib2
 lib32-glibc
 lib32-glslang
@@ -972,6 +975,7 @@ lib32-libgcrypt
 lib32-libgcrypt15
 lib32-libglvnd
 lib32-libgpg-error
+lib32-libgudev
 lib32-libice
 lib32-libidn11
 lib32-libidn2
@@ -990,12 +994,14 @@ lib32-libpciaccess
 lib32-libpipewire
 lib32-libpng
 lib32-libpng12
+lib32-libproxy
 lib32-libpsl
 lib32-libpulse
 lib32-librsvg
 lib32-librtmp0
 lib32-libsm
 lib32-libsndfile
+lib32-libsoup
 lib32-libssh2
 lib32-libtasn1
 lib32-libthai
@@ -1011,6 +1017,7 @@ lib32-libva
 lib32-libva-mesa-driver
 lib32-libvdpau
 lib32-libvorbis
+lib32-libvpx
 lib32-libvpx1.3
 lib32-libwebp
 lib32-libx11
@@ -1039,6 +1046,8 @@ lib32-libxv
 lib32-libxxf86vm
 lib32-llvm-libs
 lib32-lm_sensors
+lib32-lzo
+lib32-mangohud
 lib32-mesa
 lib32-mesa-vdpau
 lib32-mpg123
@@ -1500,6 +1509,7 @@ lineageos-devel
 linux-api-headers
 linux-firmware
 linux-firmware-whence
+linux-steam-integration
 linux-wifi-hotspot
 linux-zen
 linux-zen-headers
@@ -1536,7 +1546,7 @@ lua53
 luajit
 luit
 lunar-client
-lutris
+lutris-git
 lv2
 lvm2
 lxc
@@ -1839,6 +1849,7 @@ procps-ng
 projectm
 protobuf
 protobuf-c
+proton
 proxychains-ng
 psmisc
 publicsuffix-list
@@ -2060,6 +2071,7 @@ python-prettytable
 python-prometheus_client
 python-prompt_toolkit
 python-protobuf
+python-proxy_tools
 python-psutil
 python-ptyprocess
 python-publicsuffix2
@@ -2097,6 +2109,7 @@ python-pyproject-hooks
 python-pypubsub
 python-pyqt5
 python-pyqt5-sip
+python-pyqt5-webengine
 python-pyqt6
 python-pyqt6-sip
 python-pyqt6-webengine
@@ -2115,6 +2128,7 @@ python-pytest-xdist
 python-python-socks
 python-pytz
 python-pyusb
+python-pywebview
 python-pywhat
 python-pyxdg
 python-pyzmq
@@ -2698,7 +2712,6 @@ vte3
 vtk
 vulkan-headers
 vulkan-icd-loader
-vulkan-intel
 vulkan-mesa-layers
 vulkan-tools
 vulkan-virtio
