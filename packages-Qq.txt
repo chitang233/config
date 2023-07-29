@@ -156,7 +156,7 @@ ccache
 ccid
 cdparanoia
 cdrtools
-cemu-git
+cemu
 cervisia
 cfitsio
 chafa
@@ -1150,6 +1150,7 @@ libdca
 libde265
 libdecor
 libdispatch
+libdisplay-info
 libdmtx
 libdrm
 libdv
@@ -1694,6 +1695,7 @@ openslide
 openssh
 openssl
 openssl-1.1
+openvr
 optipng
 opus
 opusfile
