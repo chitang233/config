@@ -176,6 +176,7 @@ clang 15.0.7-11
 clash-geoip 20230712-1
 clash-meta-alpha-git 20230720.r0.g76328271-1
 clinfo 3.0.21.02.21-1.1
+clion 1:2023.2-1
 cloudflared 2023.7.2-1.1
 cloudflarespeedtest 2.2.4-2
 clucene 2.3.3.4-14.1
@@ -1574,6 +1575,7 @@ messagelib 23.04.3-1.1
 mgba-qt 0.10.2-1.1
 mgba-sdl 0.10.2-1.1
 milou 5.27.6-1.1
+mindustry 1:7.0.145.1-1
 miniupnpc 2.2.4-2.1
 minizip 1:1.2.13-3.1
 minizip-ng 4.0.0-2.1

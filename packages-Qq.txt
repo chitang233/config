@@ -176,6 +176,7 @@ clang
 clash-geoip
 clash-meta-alpha-git
 clinfo
+clion
 cloudflared
 cloudflarespeedtest
 clucene
@@ -1574,6 +1575,7 @@ messagelib
 mgba-qt
 mgba-sdl
 milou
+mindustry
 miniupnpc
 minizip
 minizip-ng
