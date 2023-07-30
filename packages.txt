@@ -202,7 +202,7 @@ convertlit 1.8-11.1
 copyq 7.0.0-1.1
 coreutils 9.3-1.1
 cpio 2.14-1.1
-cpp-httplib 0.13.1-1
+cpp-httplib 0.13.2-1
 cppdap 1.58.0-1.1
 cpu-g-git 0.16.3.1ubuntu1.r64.a94ef88-1
 cpu-x 4.5.3-5
@@ -218,10 +218,10 @@ cups 1:2.4.6-1.1
 cups-filters 1.28.17-4.1
 cups-pdf 3.0.1-7.1
 cups-pk-helper 0.2.7-1.1
-curl 8.2.0-2.1
+curl 8.2.1-1.1
 cython 3.0.0-1.1
 dae 0.2.2-1
-daed 0.2.0-1
+daed 0.3.1-1
 datagrip 2023.2-1
 dav1d 1.2.1-1.1
 db 6.2.32-1.1
@@ -290,7 +290,7 @@ dust 0.8.6-1.1
 dvisvgm 3.1-2.1
 dynarmic 6.5.0-2
 e2fsprogs 1.47.0-1.1
-easyeffects 7.0.5-2
+easyeffects 7.0.6-1.1
 ebook-tools 0.2.2-7.1
 editorconfig-core-c 0.12.6-1.1
 edk2-aarch64 202305-1
@@ -358,7 +358,7 @@ filesystem 2023.01.31-1.1
 findutils 4.9.0-3.1
 fio 3.35-1.1
 firefox-appmenu 112.0.1-16
-firefox-nightly 117.0a1+20230728.1+hee10144bccbb-1
+firefox-nightly 117.0a1+20230729.1+h1c410aed1568-1
 firefox-pwa 2.7.2-1
 fish 3.6.1-1.1
 flac 1.4.3-1.1
@@ -385,7 +385,7 @@ frei0r-plugins 2.3.0-2.1
 fribidi 1.0.13-2.1
 frpc 0.51.2-1
 fstrm 0.6.1-1.1
-ftba-electron 202306291311_6ccb547d37-1
+ftba-electron 202307221435_df4347b682-1
 ftgl 2.4.0-2.1
 ftl-sdk 0.10.1-3.1
 fuse-common 3.15.1-1.1
@@ -444,7 +444,7 @@ glibmm 2.66.6-1.1
 glibmm-2.68 2.76.0-1.1
 glm 0.9.9.8-1
 glmark2 2023.01-1.1
-glslang 12.3.1-1.1
+glslang 12.3.1-2
 glu 9.0.2-3.1
 glusterfs 1:11.0-1.1
 gmp 6.2.1-2.1
@@ -906,7 +906,7 @@ lcms2 2.15-1.1
 ldb 2:2.7.2-2.1
 ldns 1.8.3-2.1
 legendary 0.20.33-2
-lemmy 0.18.2-1
+lemmy 0.18.3-1
 lensfun 1:0.3.4-2.1
 leptonica 1.83.1-1.1
 less 1:633-1.1
@@ -1146,8 +1146,8 @@ libcolord 1.4.6-1.1
 libconfig 1.7.3-2.1
 libcpuid 0.6.3-1.1
 libcups 1:2.4.6-1.1
-libcurl-compat 8.2.0-2.1
-libcurl-gnutls 8.2.0-2.1
+libcurl-compat 8.2.1-1.1
+libcurl-gnutls 8.2.1-1.1
 libdaemon 0.14-5.1
 libdatrie 0.2.13-4.1
 libdbusmenu-glib 16.04.0.r498-1.1
@@ -1332,7 +1332,7 @@ libomxil-bellagio 0.9.3-4.1
 libopenmpt 0.7.2-1.1
 liborcus 0.17.2-5
 libosinfo 1.10.0-3.1
-libotr 4.1.1-3.1
+libotr 4.1.1-4.1
 libp11-kit 0.25.0-1.1
 libpagemaker 0.0.4-3.1
 libpaper 2.1.1-1.1
@@ -1560,7 +1560,7 @@ mailcap 2.1.54-1
 mailcommon 23.04.3-1.1
 mailimporter 23.04.3-1.1
 make 4.4.1-2.1
-mangohud 0.6.9.1-8.1
+mangohud 0.6.9.1-9
 mariadb 11.0.2-2.1
 mariadb-clients 11.0.2-2.1
 mariadb-libs 11.0.2-2.1
@@ -1857,7 +1857,7 @@ pugixml 1.13-1.1
 pulseaudio-qt 1.3-1.1
 purpose 5.108.0-1.1
 putty 0.78-1.1
-pycharm-professional 2023.1.4-1
+pycharm-professional 2023.2-1
 pyinstaller 5.13.0-1
 pyinstaller-hooks-contrib 2023.6-1
 pyside2 5.15.10-1.1
