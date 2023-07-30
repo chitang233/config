@@ -113,6 +113,7 @@ bluez
 bluez-libs
 bluez-qt
 bluez-tools
+bluez-utils
 bolt
 bomber
 boost
@@ -310,6 +311,7 @@ element-desktop
 element-web
 elfutils
 elisa
+ell
 emby-theater
 emoji-keyboard
 enca
@@ -416,6 +418,8 @@ gdbm
 gdk-pixbuf2
 gegl
 geoclue
+geoip
+geoip-database
 geoipupdate
 gettext
 ghc-libs
@@ -1577,7 +1581,9 @@ mda.lv2
 mdadm
 media-player-info
 mediainfo
+memcached
 memstrack
+mercurial
 mesa
 mesa-demos
 mesa-utils
@@ -1749,13 +1755,16 @@ pcsc-tools
 pcsclite
 perl
 perl-archive-zip
+perl-cache-memcached
 perl-clone
 perl-digest-hmac
 perl-digest-sha1
 perl-encode-locale
 perl-error
+perl-fcgi
 perl-file-listing
 perl-file-which
+perl-gd
 perl-html-parser
 perl-html-tagset
 perl-http-cookies
@@ -1766,6 +1775,7 @@ perl-http-negotiate
 perl-image-exiftool
 perl-io-html
 perl-io-socket-inet6
+perl-io-socket-ssl
 perl-io-tty
 perl-libintl-perl
 perl-libwww
@@ -1777,6 +1787,7 @@ perl-net-ip
 perl-net-libidn2
 perl-net-ssleay
 perl-socket6
+perl-string-crc32
 perl-switch
 perl-timedate
 perl-try-tiny
