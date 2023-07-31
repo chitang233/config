@@ -23,7 +23,7 @@ akonadi-search 23.04.3-1.1
 akregator 23.04.3-1.1
 alhp-keyring 20230504-4
 alhp-mirrorlist 20230303-1
-alist-bin 3.23.0-1
+alist-bin 3.24.0-2
 alligator 23.04.3-1.1
 alpm_octopi_utils 1.0.2-3.2
 alsa-card-profiles 1:0.3.76-2.1
@@ -360,7 +360,7 @@ filesystem 2023.01.31-1.1
 findutils 4.9.0-3.1
 fio 3.35-1.1
 firefox-appmenu 112.0.1-16
-firefox-nightly 117.0a1+20230730.1+h5f1e1cd609f6-1
+firefox-nightly 117.0a1+20230730.1+hce5b2b0d4bc0-1
 firefox-pwa 2.7.2-1
 fish 3.6.1-1.1
 flac 1.4.3-1.1
@@ -490,7 +490,7 @@ grantleetheme 23.04.3-1.1
 graphene 1.10.8-1.1
 graphicsmagick 1.3.40-3.1
 graphite 1:1.3.14-3.1
-graphviz 8.0.5-2.1
+graphviz 8.1.0-1.1
 grep 3.11-1.1
 groff 1.23.0-3.1
 grpc 1.56.2-2.1
@@ -1507,7 +1507,7 @@ libyuv r2322+3aebf69d-1.1
 libzen 0.4.41-1.1
 libzip 1.10.0-1.1
 libzmf 0.0.2-14.1
-licenses 20220125-2
+licenses 20230729-1
 lilv 0.24.20-2.1
 lineageos-devel 0.2-1
 linux-api-headers 6.3-1
@@ -1550,7 +1550,7 @@ lua53 5.3.6-1.1
 luajit 2.1.0.beta3.r493.g8635cbab-1.1
 luit 20230201-1.1
 lunar-client 2.16.1-1
-lutris-git 0.5.13.r168.ga5d3a04ae-1
+lutris-git 0.5.13.r169.g320dd74ac-1
 lv2 1.18.10-1.1
 lvm2 2.03.21-1.1
 lxc 1:5.0.3-1.1
@@ -1831,7 +1831,7 @@ plasma-workspace 5.27.6-2.1
 plasma5-wallpapers-wallpaper-engine 0.5.4-4
 plasmatube 23.04.3-1.1
 pngcrush 1.8.13-3.1
-pnpm 8.6.10-1
+pnpm 8.6.11-1
 podman 4.6.0-1.1
 podman-compose 1.0.6-2
 podman-dnsname 1.3.1-2.1
@@ -2096,7 +2096,7 @@ python-pyaudio 0.2.13-3.1
 python-pybase62 1.0.0-1
 python-pybcj 1.0.1-2.1
 python-pychm 0.8.6-7.1
-python-pycodestyle 2.10.0-2
+python-pycodestyle 2.11.0-1
 python-pycparser 2.21-5
 python-pycryptodome 3.18.0-1.1
 python-pycryptodomex 3.12.0-2.1
@@ -2157,7 +2157,7 @@ python-requests-toolbelt 1.0.0-1
 python-requests-unixsocket 0.3.0-3
 python-rfc3339-validator 0.1.4-4
 python-rfc3986-validator 0.1.1-2
-python-rich 13.4.2-1
+python-rich 13.5.0-1
 python-rpds-py 0.8.8-1.1
 python-rsa 4.9-2
 python-ruamel-yaml 0.17.22-1
@@ -2391,7 +2391,7 @@ railwayapp-cli 3.4.0-1
 raptor 2.0.16-3.1
 rasqal 1:0.9.33-6.1
 rav1e 0.6.6-1.1
-rclone 1.63.0-1.1
+rclone 1.63.1-1.1
 rclone-browser 1.8.0-1
 re2 1:20230301-1.1
 readline 8.2.001-2.1
@@ -2685,7 +2685,7 @@ usbutils 015-3.1
 util-linux 2.39.1-1.1
 util-linux-libs 2.39.1-1.1
 uudeck 2023.1.10.1600-3
-v2ray-domain-list-community 20230725085751-1
+v2ray-domain-list-community 20230729123058-1
 v2ray-geoip 202307270042-1
 v4l-utils 1.24.1-2.1
 v4l2loopback-dc-dkms 1:2.0.0-1
@@ -2864,7 +2864,7 @@ xorg-xwininfo 1.1.6-1.1
 xorg-xwud 1.0.6-1.1
 xorgproto 2023.2-1
 xosd 2.2.14-11.1
-xournalpp 1.1.3-1.1
+xournalpp 1.2.0-1.1
 xpra 4.4.5-1.1
 xsel 1.2.1-1.1
 xterm 384-1.1
