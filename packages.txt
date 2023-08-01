@@ -213,7 +213,7 @@ criu 3.18-1.1
 cronie 1.6.1-1.1
 crun 1.8.5-1.1
 cryptsetup-nested-cryptkey 2.4.3-4
-cubeb-git 0.2.r1463.g41344b3-1
+cubeb-git 0.2.r1464.gb9af56c-1
 cuda 12.2.0-1
 cups 1:2.4.6-1.1
 cups-filters 1.28.17-4.1
@@ -222,7 +222,7 @@ cups-pk-helper 0.2.7-1.1
 curl 8.2.1-1.1
 cython 3.0.0-1.1
 dae 0.2.2-1
-daed 0.3.1-1
+daed 0.3.1-3
 datagrip 2023.2-1
 dav1d 1.2.1-1.1
 db 6.2.32-1.1
@@ -360,7 +360,7 @@ filesystem 2023.01.31-1.1
 findutils 4.9.0-3.1
 fio 3.35-1.1
 firefox-appmenu 112.0.1-16
-firefox-nightly 117.0a1+20230730.1+hce5b2b0d4bc0-1
+firefox-nightly 118.0a1+20230731.1+hbb8659c8d955-1
 firefox-pwa 2.7.2-1
 fish 3.6.1-1.1
 flac 1.4.3-1.1
@@ -620,7 +620,7 @@ icu 73.2-2.1
 icu69-bin 69.1-1
 id3lib 3.8.3-18.1
 ijs 0.35-5.1
-imagemagick 7.1.1.14-1.1
+imagemagick 7.1.1.15-1.1
 imath 3.1.9-1.1
 imgcat 1.2.0-2
 imlib2 1.11.1-1.1
@@ -631,6 +631,7 @@ inkscape 1.3-2.1
 innoextract 1.9-8.1
 inotify-tools 3.22.6.0-2.1
 intellij-idea-ultimate-edition 2023.2-1
+intltool 0.51.0-6
 iperf3 3.14-1.1
 ipfs-desktop 0.28.0-1
 iproute2 6.4.0-1.1
@@ -1181,7 +1182,7 @@ libepubgen 0.1.1-4.1
 libetonyek 0.1.10-3.1
 libev 4.33-2.1
 libevdev 1.13.1-1.1
-libevent 2.1.12-4
+libevent 2.1.12-4.1
 libewf 20140608-6.1
 libexif 0.6.24-2.1
 libexttextcat 3.4.6-1.1
@@ -1550,7 +1551,7 @@ lua53 5.3.6-1.1
 luajit 2.1.0.beta3.r493.g8635cbab-1.1
 luit 20230201-1.1
 lunar-client 2.16.1-1
-lutris-git 0.5.13.r169.g320dd74ac-1
+lutris-git 0.5.13.r172.g57bff0a2a-1
 lv2 1.18.10-1.1
 lvm2 2.03.21-1.1
 lxc 1:5.0.3-1.1
@@ -1609,7 +1610,7 @@ monero-gui 0.18.2.2-2.1
 mongo-c-driver 1.24.0-1.1
 mongodb-bin 6.0.8-1
 mongodb-tools-bin 100.7.4-1
-mongosh-bin 1.10.1-1
+mongosh-bin 1.10.2-1
 mono 6.12.0.198-1.1
 mosh 1.4.0-3.1
 mpdecimal 2.5.1-1.1
@@ -1634,7 +1635,7 @@ ndctl 76.1-1.1
 nekoray-git 3.14.r1.gbee71d9-1
 neofetch 7.1.0-2
 neon 0.32.5-2.1
-neovim 0.9.1-2.1
+neovim 0.9.1-3.1
 nerdfix 0.3.1-1
 nestopia 1.52.0-1
 net-snmp 5.9.1-6.1
@@ -1727,7 +1728,7 @@ p11-kit 0.25.0-1.1
 p7zip 1:17.05-1.1
 p8-platform 2.1.0.1-4.1
 pacman 6.0.2-10
-pacman-contrib 1.9.1-1
+pacman-contrib 1.9.1-1.1
 pacman-mirrorlist 20230628-1
 pahole 1:1.25-4.1
 palapeli 23.04.3-1.1
@@ -1832,6 +1833,7 @@ plasma5-wallpapers-wallpaper-engine 0.5.4-4
 plasmatube 23.04.3-1.1
 pngcrush 1.8.13-3.1
 pnpm 8.6.11-1
+pod2man 5.30.2-1
 podman 4.6.0-1.1
 podman-compose 1.0.6-2
 podman-dnsname 1.3.1-2.1
@@ -2157,7 +2159,7 @@ python-requests-toolbelt 1.0.0-1
 python-requests-unixsocket 0.3.0-3
 python-rfc3339-validator 0.1.4-4
 python-rfc3986-validator 0.1.1-2
-python-rich 13.5.0-1
+python-rich 13.5.1-1
 python-rpds-py 0.8.8-1.1
 python-rsa 4.9-2
 python-ruamel-yaml 0.17.22-1
@@ -2409,6 +2411,7 @@ rlwrap 0.46.1-1.1
 rnnoise 0.4.1-1.1
 roc-toolkit 0.2.5-1.1
 rpcbind 1.2.6-3.1
+rpcsvc-proto 1.4.4-1.1
 rsync 3.2.7-4.1
 rtkit 0.13-2.1
 rtl-sdr 1:0.8.0-4.1
@@ -2467,7 +2470,7 @@ run-parts 5.5-1.1
 runc 1.1.8-1.1
 rustdesk-bin 1.2.1-1
 rustup 1.26.0-3.1
-ryujinx-git r2976.f95b7c5877-1
+ryujinx-git r2978.86931cc3f1-1
 samba 4.18.5-2.1
 sane 1.2.1-4.1
 sbc 2.0-1.1
@@ -2506,7 +2509,7 @@ shadow 4.13-2.1
 shared-mime-info 2.2+13+ga2ffb28-1.1
 shellcheck 0.9.0-44
 shiboken6 6.5.2-1.1
-signal-desktop-beta 6.27.0beta4-1
+signal-desktop-beta 6.28.0beta1-1
 signon-kwallet-extension 23.04.3-1.1
 signon-plugin-oauth2 0.25-1
 signon-ui 0.17+20171022-3.1
@@ -2699,9 +2702,9 @@ vde2 2.3.3-3.1
 vdpauinfo 1.5-1.1
 ventoy-bin 1.0.94-1
 vid.stab 1.1.1-1.1
-vim 9.0.1676-1
+vim 9.0.1676-1.1
 vim-plug 0.11.0-1
-vim-runtime 9.0.1676-1
+vim-runtime 9.0.1676-1.1
 virglrenderer 0.10.4-1.1
 virt-bootstrap-git r154.7704260-1
 virt-install 4.1.0-2
@@ -2711,7 +2714,7 @@ virtiofsd 1.7.0-1.1
 virtualbox 7.0.10-1.1
 virtualbox-guest-iso 7.0.10-1
 virtualbox-host-dkms 7.0.10-1.1
-visual-studio-code-insiders-bin 1690546089-1
+visual-studio-code-insiders-bin 1690843401-1
 vkbasalt 0.3.2.10-1
 vkd3d 1.7.1-1.1
 vlc 3.0.18-13.1
@@ -2765,7 +2768,7 @@ x11-ssh-askpass 1.2.4.1-7.1
 x11docker 7.6.0-1
 x264 3:0.164.r3095.baee400-4.1
 x265 3.5-3.1
-xapian-core 1:1.4.22-1.1
+xapian-core 1:1.4.23-1.1
 xapp 2.6.1-1.1
 xbitmaps 1.1.3-1
 xcaddy-bin 0.3.4-1
@@ -2871,6 +2874,7 @@ xterm 384-1.1
 xvidcore 1.3.7-2.1
 xxhash 0.8.2-1
 xz 5.4.3-1.1
+xz-static 5.2.7-1
 yacd 0.3.8-1
 yajl 2.1.0-5.1
 yakuake 23.04.3-1.1
@@ -2894,7 +2898,7 @@ yubikey-personalization-gui 3.1.25-2.1
 yubikey-touch-detector 1.10.1-1.1
 yubioath-desktop 5.1.0-3.1
 yubioath-krunner 1.3.0-1
-yuzu-early-access 3782-1
+yuzu-early-access 3783-1
 zarchive-git 0.1.2.r0.gd2c7177-2
 zbar 0.23.90-3.1
 zenity 3.44.1-1.1

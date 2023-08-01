@@ -631,6 +631,7 @@ inkscape
 innoextract
 inotify-tools
 intellij-idea-ultimate-edition
+intltool
 iperf3
 ipfs-desktop
 iproute2
@@ -1832,6 +1833,7 @@ plasma5-wallpapers-wallpaper-engine
 plasmatube
 pngcrush
 pnpm
+pod2man
 podman
 podman-compose
 podman-dnsname
@@ -2409,6 +2411,7 @@ rlwrap
 rnnoise
 roc-toolkit
 rpcbind
+rpcsvc-proto
 rsync
 rtkit
 rtl-sdr
@@ -2871,6 +2874,7 @@ xterm
 xvidcore
 xxhash
 xz
+xz-static
 yacd
 yajl
 yakuake
