@@ -61,7 +61,6 @@ aribb25
 ark
 artikulate
 asciinema
-asio
 aspell
 assimp
 at-spi2-core
@@ -116,7 +115,6 @@ bluez-tools
 bluez-utils
 bolt
 bomber
-boost
 boost-libs
 bovo
 box2d
@@ -169,7 +167,6 @@ cheese
 chmlib
 chromaprint
 chromium
-chrpath
 cifs-utils
 ciphey
 cjson
@@ -186,8 +183,12 @@ clutter-gst
 clutter-gtk
 cmake
 cmark
-cmocka
 cni-plugins
+cockpit
+cockpit-machines
+cockpit-packagekit
+cockpit-pcp
+cockpit-storaged
 cogl
 colord
 colord-kde
@@ -220,6 +221,7 @@ cups-filters
 cups-pdf
 cups-pk-helper
 curl
+cyrus-sasl-gssapi
 cython
 dae
 daed
@@ -246,6 +248,7 @@ device-mapper
 dhcpcd
 dialog
 diffutils
+ding-libs
 discord
 discord-rpc-git
 discount
@@ -256,7 +259,6 @@ djvulibre
 dkms
 dmenu
 dmidecode
-dmraid
 dnsmasq
 dnssec-anchors
 docbook-xml
@@ -302,10 +304,8 @@ efitools
 efivar
 egl-wayland
 eglexternalplatform
-eigen
 electron
 electron22
-electron24
 electron25
 element-desktop
 element-web
@@ -335,7 +335,6 @@ fakeroot
 falkon
 farstream
 fastfetch
-faudio
 fcitx5
 fcitx5-anthy
 fcitx5-chinese-addons
@@ -422,7 +421,6 @@ geoip
 geoip-database
 geoipupdate
 gettext
-ghc-libs
 ghostscript
 ghostwriter
 giflib
@@ -452,7 +450,6 @@ glslang
 glu
 glusterfs
 gmp
-gn
 gnirehtet-bin
 gnome-bluetooth
 gnome-boxes
@@ -543,51 +540,6 @@ handbrake-cli
 harfbuzz
 harfbuzz-icu
 harmonyos-sans-git
-haskell-aeson
-haskell-assoc
-haskell-attoparsec
-haskell-base-compat
-haskell-base-compat-batteries
-haskell-base-orphans
-haskell-bifunctors
-haskell-comonad
-haskell-contravariant
-haskell-data-array-byte
-haskell-data-fix
-haskell-diff
-haskell-distributive
-haskell-dlist
-haskell-erf
-haskell-fgl
-haskell-generically
-haskell-ghc-bignum-orphans
-haskell-hashable
-haskell-indexed-traversable
-haskell-indexed-traversable-instances
-haskell-integer-logarithms
-haskell-onetuple
-haskell-primitive
-haskell-quickcheck
-haskell-random
-haskell-regex-base
-haskell-regex-tdfa
-haskell-scientific
-haskell-semialign
-haskell-semigroupoids
-haskell-splitmix
-haskell-statevar
-haskell-strict
-haskell-tagged
-haskell-text-short
-haskell-th-abstraction
-haskell-these
-haskell-time-compat
-haskell-transformers-compat
-haskell-unordered-containers
-haskell-uuid-types
-haskell-vector
-haskell-vector-stream
-haskell-witherable
 haveged
 hdf5
 hdparm
@@ -649,6 +601,7 @@ jbig2dec
 jdk8-graalvm-bin
 jemalloc
 jfsutils
+jose
 joyutils
 jp2a
 jq
@@ -662,9 +615,7 @@ jupyter-nbconvert
 jupyter-nbformat
 jupyter-notebook-shim
 jupyter-server
-jupyter-server-fileid
 jupyter-server-mathjax
-jupyter-server-ydoc
 jupyterlab
 jupyterlab-pygments
 jupyterlab-widgets
@@ -750,6 +701,7 @@ kdsoap
 kdsoap-ws-discovery-client
 keditbookmarks
 kemoticons
+kexec-tools
 keysmith
 keyutils
 kfilemetadata
@@ -764,7 +716,6 @@ kgoldrunner
 kgpg
 kguiaddons
 khangman
-khealthcertificate
 khefin
 khelpcenter
 kholidays
@@ -836,10 +787,8 @@ konsole
 kontactinterface
 kontrast
 konversation
-kopeninghours
 kopete
 korganizer
-kosmindoormap
 kpackage
 kparts
 kpat
@@ -853,7 +802,6 @@ kpty
 kpublictransport
 kqtquickcharts
 kquickcharts
-kquickimageeditor
 krb5
 krdc
 krecorder
@@ -1235,7 +1183,6 @@ libimobiledevice
 libimobiledevice-glue
 libindi
 libindicator-gtk2
-libindicator-gtk3
 libinih
 libinput
 libinstpatch
@@ -1284,7 +1231,6 @@ libltc
 libluv
 liblzf
 libmad
-libmalcontent
 libmanette
 libmatroska
 libmaxminddb
@@ -1328,7 +1274,6 @@ libnm
 libnotify
 libnova
 libnsl
-libnss_nis
 libnumbertext
 libodfgen
 libogg
@@ -1339,12 +1284,12 @@ liborcus
 libosinfo
 libotr
 libp11-kit
+libpackagekit-glib
 libpagemaker
 libpaper
 libpcap
 libpciaccess
 libpgm
-libpipeline
 libpipewire
 libplacebo
 libplist
@@ -1364,7 +1309,6 @@ libraw
 libraw1394
 libreoffice-fresh
 libreoffice-fresh-zh-cn
-librest
 libretro-pcsx2
 librevenge
 librewolf
@@ -1442,6 +1386,7 @@ libvdpau
 libverto
 libvips
 libvirt
+libvirt-dbus
 libvirt-glib
 libvirt-python
 libvirt-sandbox
@@ -1582,13 +1527,10 @@ mda.lv2
 mdadm
 media-player-info
 mediainfo
-memcached
 memstrack
-mercurial
 mesa
 mesa-demos
 mesa-utils
-meson
 messagelib
 mgba-qt
 mgba-sdl
@@ -1648,6 +1590,7 @@ nettle
 networkmanager
 networkmanager-qt
 nexttrace
+nfsidmap
 nftables
 nilfs-utils
 ninja
@@ -1681,7 +1624,6 @@ nvm
 nvtop
 nx-x11
 nxagent
-nyan-lang-git
 obs-studio-browser
 ocl-icd
 octopi
@@ -1719,7 +1661,6 @@ opusfile
 orc
 os-prober
 osinfo-db
-ostree
 osu-lazer
 otf-smiley-sans-bin
 oxygen
@@ -1727,6 +1668,7 @@ oxygen-sounds
 p11-kit
 p7zip
 p8-platform
+packagekit
 pacman
 pacman-contrib
 pacman-mirrorlist
@@ -1745,10 +1687,10 @@ partitionmanager
 paru
 pass
 patch
-patchelf
 pcaudiolib
 pcem
 pciutils
+pcp
 pcre
 pcre2
 pcsc-perl
@@ -1756,16 +1698,12 @@ pcsc-tools
 pcsclite
 perl
 perl-archive-zip
-perl-cache-memcached
 perl-clone
 perl-digest-hmac
 perl-digest-sha1
 perl-encode-locale
 perl-error
-perl-fcgi
 perl-file-listing
-perl-file-which
-perl-gd
 perl-html-parser
 perl-html-tagset
 perl-http-cookies
@@ -1788,7 +1726,6 @@ perl-net-ip
 perl-net-libidn2
 perl-net-ssleay
 perl-socket6
-perl-string-crc32
 perl-switch
 perl-timedate
 perl-try-tiny
@@ -1882,10 +1819,8 @@ python-aiogram
 python-aiohttp
 python-aiohttp-socks
 python-aiosignal
-python-aiosqlite
 python-altgraph
 python-anyio
-python-apipkg
 python-appdirs
 python-apsw
 python-argon2-cffi-bindings
@@ -1940,7 +1875,6 @@ python-dateutil
 python-debugpy
 python-decorator
 python-defusedxml
-python-deprecation
 python-dill
 python-distlib
 python-distro
@@ -1959,7 +1893,6 @@ python-faust-cchardet
 python-feedparser
 python-fido2
 python-filelock
-python-flaky
 python-flask
 python-fonttools
 python-fqdn
@@ -1990,7 +1923,6 @@ python-inflect
 python-iniconfig
 python-installer
 python-ipykernel
-python-ipython-genutils
 python-ipywidgets
 python-isoduration
 python-isort
@@ -1999,7 +1931,6 @@ python-jaraco.classes
 python-jaraco.context
 python-jaraco.functools
 python-jaraco.text
-python-jarowinkler
 python-jedi
 python-jeepney
 python-jinja
@@ -2011,8 +1942,6 @@ python-jsonschema-specifications
 python-jupyter-client
 python-jupyter-core
 python-jupyter-events
-python-jupyter-packaging
-python-jupyter-ydoc
 python-jupyterlab-server
 python-kaitaistruct
 python-keyring
@@ -2040,7 +1969,6 @@ python-mechanize
 python-mistune
 python-mitmproxy-wireguard
 python-mock
-python-moddb
 python-more-itertools
 python-msgpack
 python-multidict
@@ -2089,7 +2017,6 @@ python-psutil
 python-ptyprocess
 python-publicsuffix2
 python-pure-eval
-python-py
 python-py7zr
 python-pyaes
 python-pyaml
@@ -2110,7 +2037,6 @@ python-pygments
 python-pyinotify
 python-pylint
 python-pynacl
-python-pynput
 python-pynvim
 python-pyopenssl
 python-pyotherside
@@ -2126,7 +2052,6 @@ python-pyqt5-webengine
 python-pyqt6
 python-pyqt6-sip
 python-pyqt6-webengine
-python-pyrate-limiter
 python-pyrogram
 python-pyrsistent
 python-pyscard
@@ -2134,9 +2059,6 @@ python-pyserial
 python-pysmbc
 python-pysocks
 python-pytest
-python-pytest-drop-dup-tests
-python-pytest-rerunfailures
-python-pytest-timeout
 python-pytest-xdist
 python-python-socks
 python-pytz
@@ -2148,7 +2070,6 @@ python-pyzmq
 python-pyzstd
 python-qtpy
 python-rapidfuzz
-python-rapidfuzz-capi
 python-rapidjson
 python-redis
 python-referencing
@@ -2156,7 +2077,6 @@ python-regex
 python-rencode
 python-requests
 python-requests-toolbelt
-python-requests-unixsocket
 python-rfc3339-validator
 python-rfc3986-validator
 python-rich
@@ -2164,15 +2084,12 @@ python-rpds-py
 python-rsa
 python-ruamel-yaml
 python-ruamel.yaml.clib
-python-scikit-build
 python-scipy
 python-scrypt
 python-secretstorage
-python-semantic-version
 python-send2trash
 python-setproctitle
 python-setuptools
-python-setuptools-rust
 python-sgmllib3k
 python-shellingham
 python-shiboken2
@@ -2182,7 +2099,6 @@ python-sortedcontainers
 python-soupsieve
 python-stack-data
 python-telethon
-python-terminado
 python-testpath
 python-texttable
 python-tinyaes
@@ -2190,7 +2106,6 @@ python-tinycss2
 python-toml
 python-tomli
 python-tomlkit
-python-toolz
 python-tornado
 python-tox
 python-tqdm
@@ -2222,11 +2137,8 @@ python-wsproto
 python-wxpython
 python-xcffib
 python-xlib
-python-y-py
 python-yaml
 python-yarl
-python-ypy-websocket
-python-ytmusicapi
 python-yubico
 python-zeroconf
 python-zipp
@@ -2406,7 +2318,6 @@ replay-sorcery-git
 repo
 revda-git
 rhash
-ripgrep
 rlwrap
 rnnoise
 roc-toolkit
@@ -2507,7 +2418,6 @@ sfml
 shaderc
 shadow
 shared-mime-info
-shellcheck
 shiboken6
 signal-desktop-beta
 signon-kwallet-extension
@@ -2549,15 +2459,15 @@ speexdsp
 spice
 spice-gtk
 spice-protocol
-spirv-llvm-translator
 spirv-tools
-sqlcipher
 sqlite
 squashfs-tools
 squashfuse
 sratom
 srt
+sscg
 sshfs
+sssd
 starship
 startup-notification
 steam
@@ -2635,7 +2545,6 @@ thin-provisioning-tools
 threadweaver
 tigervnc
 timeshift
-tinycompress
 tinyxml
 tinyxml2
 tk
@@ -2866,7 +2775,6 @@ xorg-xwd
 xorg-xwininfo
 xorg-xwud
 xorgproto
-xosd
 xournalpp
 xpra
 xsel
@@ -2874,7 +2782,6 @@ xterm
 xvidcore
 xxhash
 xz
-xz-static
 yacd
 yajl
 yakuake
@@ -2899,7 +2806,6 @@ yubikey-touch-detector
 yubioath-desktop
 yubioath-krunner
 yuzu-early-access
-zarchive-git
 zbar
 zenity
 zeromq
