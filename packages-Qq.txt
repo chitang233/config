@@ -407,6 +407,7 @@ gcc
 gcc-libs
 gcc12
 gcc12-libs
+gconf
 gcr
 gcr-4
 gd
@@ -433,6 +434,7 @@ git-lfs
 github-cli
 github-copilot-cli
 gjs
+gksu
 glew
 glew1.10
 glfw-x11
@@ -531,6 +533,7 @@ gvfs-gphoto2
 gvfs-mtp
 gvfs-nfs
 gvfs-smb
+gwe
 gwenview
 gzip
 hamlib
@@ -1102,6 +1105,7 @@ libcurl-compat
 libcurl-gnutls
 libdaemon
 libdatrie
+libdazzle
 libdbusmenu-glib
 libdbusmenu-gtk2
 libdbusmenu-gtk3
@@ -1151,6 +1155,7 @@ libgexiv2
 libgig
 libgirepository
 libgit2
+libgksu
 libglvnd
 libgme
 libgnome-keyring
@@ -1161,6 +1166,7 @@ libgpg-error
 libgphoto2
 libgravatar
 libgsf
+libgtop
 libgudev
 libguestfs
 libgusb
@@ -1613,6 +1619,7 @@ nss
 nss-mdns
 ntfs-3g
 numactl
+nvclock
 nvidia-dkms
 nvidia-prime
 nvidia-settings
@@ -1919,6 +1926,7 @@ python-incremental
 python-inflate64
 python-inflect
 python-iniconfig
+python-injector
 python-installer
 python-ipykernel
 python-ipywidgets
@@ -2015,6 +2023,7 @@ python-psutil
 python-ptyprocess
 python-publicsuffix2
 python-pure-eval
+python-py3nvml
 python-py7zr
 python-pyaes
 python-pyaml
@@ -2082,6 +2091,7 @@ python-rpds-py
 python-rsa
 python-ruamel-yaml
 python-ruamel.yaml.clib
+python-rx
 python-scipy
 python-scrypt
 python-secretstorage

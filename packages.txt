@@ -358,8 +358,8 @@ filesystem 2023.01.31-1.1
 findutils 4.9.0-3.1
 fio 3.35-1.1
 firefox-appmenu 112.0.1-17
-firefox-nightly 118.0a1+20230803.1+h1eb2f6905e74-1
-firefox-pwa 2.7.2-1
+firefox-nightly 118.0a1+20230804.1+h94da8bb07bae-1
+firefox-pwa 2.7.3-1
 fish 3.6.1-1.1
 flac 1.4.3-1.1
 flake8 1:6.1.0-1
@@ -407,6 +407,7 @@ gcc 13.2.1-3
 gcc-libs 13.2.1-3
 gcc12 12.3.0-2.1
 gcc12-libs 12.3.0-2.1
+gconf 3.2.6+11+g07808097-11
 gcr 3.41.1-4.1
 gcr-4 4.1.0-1.1
 gd 2.3.3-6
@@ -433,6 +434,7 @@ git-lfs 3.3.0-1.1
 github-cli 2.32.1-1.1
 github-copilot-cli 0.1.33-1
 gjs 2:1.76.2-1.1
+gksu 2.0.2-6.2
 glew 2.2.0-6.1
 glew1.10 1.10.0-3.1
 glfw-x11 3.3.8-1.1
@@ -469,7 +471,7 @@ go 2:1.20.7-1.1
 gobject-introspection 1.76.1-3.1
 gobject-introspection-runtime 1.76.1-3.1
 goland 2023.2-1
-google-chrome-dev 117.0.5911.2-1
+google-chrome-dev 117.0.5927.0-1
 goverlay-git 0.9.1.r6.g9f80288-1
 gpart 0.3-4.1
 gparted 1.5.0-1.1
@@ -531,6 +533,7 @@ gvfs-gphoto2 1.50.5-1.1
 gvfs-mtp 1.50.5-1.1
 gvfs-nfs 1.50.5-1.1
 gvfs-smb 1.50.5-1.1
+gwe 0.15.5-3.5
 gwenview 23.04.3-1.1
 gzip 1.12-2.1
 hamlib 4.5.5-2.1
@@ -902,7 +905,7 @@ lib32-gst-plugins-base-libs 1.22.5-1
 lib32-gstreamer 1.22.5-1
 lib32-gtk2 2.24.33-2
 lib32-gtk3 1:3.24.38-1
-lib32-harfbuzz 8.0.1-1
+lib32-harfbuzz 8.1.1-1
 lib32-icu 73.2-1
 lib32-imlib2 1.11.1-1
 lib32-keyutils 1.6.3-1
@@ -996,7 +999,7 @@ lib32-libxt 1.3.0-1
 lib32-libxtst 1.2.4-1
 lib32-libxv 1.0.12-1
 lib32-libxxf86vm 1.1.5-1
-lib32-llvm-libs 15.0.7-1
+lib32-llvm-libs 15.0.7-3
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-2
 lib32-lzo 2.10-3
 lib32-mangohud 0.6.9.1-6
@@ -1024,7 +1027,7 @@ lib32-pipewire 1:0.3.76-1
 lib32-pipewire-jack 1:0.3.76-1
 lib32-pipewire-v4l2 1:0.3.76-1
 lib32-pixman 0.42.2-1
-lib32-polkit 122-1
+lib32-polkit 123-1
 lib32-readline 8.2.001-2
 lib32-sdl12-compat 1.2.64-1
 lib32-sdl2 2.28.1-1
@@ -1045,7 +1048,7 @@ lib32-vulkan-mesa-layers 23.1.5-2
 lib32-vulkan-virtio 23.1.5-2
 lib32-wayland 1.22.0-1
 lib32-webrtc-audio-processing 0.3.1-4
-lib32-xz 5.4.3-1
+lib32-xz 5.4.4-1
 lib32-zlib 1.2.13-2
 lib32-zstd 1.5.5-3
 libabw 0.1.3-3.1
@@ -1102,6 +1105,7 @@ libcurl-compat 8.2.1-1.1
 libcurl-gnutls 8.2.1-1.1
 libdaemon 0.14-5.1
 libdatrie 0.2.13-4.1
+libdazzle 3.44.0-1.1
 libdbusmenu-glib 16.04.0.r498-1.1
 libdbusmenu-gtk2 16.04.0.r498-1.1
 libdbusmenu-gtk3 16.04.0.r498-1.1
@@ -1151,6 +1155,7 @@ libgexiv2 0.14.1-1.1
 libgig 4.3.0-4.1
 libgirepository 1.76.1-3.1
 libgit2 1:1.7.0-3
+libgksu 2.0.12-9.3
 libglvnd 1.6.0-1.1
 libgme 0.6.3-4.1
 libgnome-keyring 3.12.0+13+g4f8ab73-3.1
@@ -1161,6 +1166,7 @@ libgpg-error 1.47-1.1
 libgphoto2 2.5.30-2.1
 libgravatar 23.04.3-1.1
 libgsf 1.14.50-1.1
+libgtop 2.41.1-1.1
 libgudev 238-1.1
 libguestfs 1.48.6-6
 libgusb 0.4.6-1.1
@@ -1237,7 +1243,7 @@ libmbim 1.28.4-1.1
 libmd 1.1.0-1.1
 libmediainfo 23.07-1.1
 libmemcached-awesome 1.1.4-2.1
-libmfx 23.2.2-1.1
+libmfx 23.2.2-2.1
 libmgba 0.10.2-1.1
 libmicrodns 0.2.0-1.1
 libmikmod 3.3.11.1-6.1
@@ -1459,8 +1465,8 @@ linux-firmware 20230625.ee91452d-5
 linux-firmware-whence 20230625.ee91452d-5
 linux-steam-integration 0.7.3-5.2
 linux-wifi-hotspot 4.5.0.r1.g4d64e83-2
-linux-zen 6.4.7.zen1-3.1
-linux-zen-headers 6.4.7.zen1-3.1
+linux-zen 6.4.8.zen1-1.1
+linux-zen-headers 6.4.8.zen1-1.1
 lirc 1:0.10.2-3.1
 live-media 2023.01.19-1.1
 lld 15.0.7-2.1
@@ -1494,7 +1500,7 @@ lua53 5.3.6-1.1
 luajit 2.1.0.beta3.r493.g8635cbab-1.1
 luit 20230201-1.1
 lunar-client 2.16.1-1
-lutris-git 0.5.13.r173.gfb8178db6-1
+lutris-git 0.5.13.r176.g55fbf6d35-1
 lv2 1.18.10-1.1
 lvm2 2.03.21-1.1
 lxc 1:5.0.3-1.1
@@ -1516,7 +1522,7 @@ marisa 0.2.6-10.1
 markdownpart 23.04.3-1.1
 mathjax 3.2.2-1
 mathjax2 2.7.9-1
-mbedtls 3.4.0-3.1
+mbedtls 3.4.1-1.1
 mbedtls2 2.28.3-3.1
 mbox-importer 23.04.3-1.1
 mcpelauncher-msa-ui-qt-git v0.6.0.r0.g41138a9-3
@@ -1613,6 +1619,7 @@ nss 3.92-1.1
 nss-mdns 0.15.1-1.1
 ntfs-3g 2022.10.3-1.1
 numactl 2.0.16-1.1
+nvclock 0.8b4-4
 nvidia-dkms 535.86.05-2
 nvidia-prime 1.0-4
 nvidia-settings 535.86.05-1
@@ -1889,7 +1896,7 @@ python-fastjsonschema 2.18.0-1
 python-fastpbkdf2 0.2-10.1
 python-faust-cchardet 2.1.18-1.1
 python-feedparser 6.0.10-3
-python-fido2 1.1.1-1
+python-fido2 1.1.2-1
 python-filelock 3.12.0-2
 python-flask 2.2.5-1
 python-fonttools 4.41.1-1.1
@@ -1919,6 +1926,7 @@ python-incremental 22.10.0-3
 python-inflate64 0.3.1-2.1
 python-inflect 7.0.0-1
 python-iniconfig 2.0.0-4
+python-injector 0.20.1-2.3
 python-installer 0.7.0-3
 python-ipykernel 6.25.0-1
 python-ipywidgets 8.1.0-1
@@ -2015,6 +2023,7 @@ python-psutil 5.9.5-1.1
 python-ptyprocess 0.7.0-5
 python-publicsuffix2 2.20191221-7
 python-pure-eval 0.2.2-3
+python-py3nvml 0.2.7-1.3
 python-py7zr 0.20.5-2
 python-pyaes 1.6.1-10
 python-pyaml 23.5.9-1
@@ -2082,6 +2091,7 @@ python-rpds-py 0.9.2-1.1
 python-rsa 4.9-2
 python-ruamel-yaml 0.17.22-1
 python-ruamel.yaml.clib 0.2.7-2.1
+python-rx 3.2.0-4
 python-scipy 1.11.1-1.1
 python-scrypt 0.8.20-4.1
 python-secretstorage 3.3.3-2
@@ -2378,7 +2388,7 @@ run-parts 5.5-1.1
 runc 1.1.8-1.1
 rustdesk-bin 1.2.1-1
 rustup 1.26.0-3.1
-ryujinx-git r2980.93aa40f1fb-1
+ryujinx-git r2981.5a0aa074b6-1
 samba 4.18.5-2.1
 sane 1.2.1-4.1
 sbc 2.0-1.1
@@ -2597,7 +2607,7 @@ virtiofsd 1.7.0-1.1
 virtualbox 7.0.10-1.1
 virtualbox-guest-iso 7.0.10-1
 virtualbox-host-dkms 7.0.10-1.1
-visual-studio-code-insiders-bin 1691082565-1
+visual-studio-code-insiders-bin 1691127301-1
 vkbasalt 0.3.2.10-1
 vkd3d 1.7.1-1.1
 vlc 3.0.18-13.1
