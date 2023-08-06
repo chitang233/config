@@ -35,6 +35,7 @@ amd-ucode
 amtk
 analitza
 android-sdk-platform-tools
+android-studio-canary
 android-udev
 anthy
 antimicrox
