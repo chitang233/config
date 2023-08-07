@@ -178,6 +178,7 @@ clinfo
 clion
 cloudflared
 cloudflarespeedtest
+clpeak
 clucene
 clutter
 clutter-gst
