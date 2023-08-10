@@ -1625,6 +1625,9 @@ openslide 3.4.1-4.1
 openssh 9.3p2-1.1
 openssl 3.1.2-1.1
 openssl-1.1 1.1.1.u-1.1
+openttd 13.4-1.1
+openttd-opengfx 7.1-1
+openttd-opensfx 1.0.3-1
 openvr 1.23.8-1.1
 optipng 0.7.7-2.1
 opus 1.4-1.1
@@ -2529,9 +2532,9 @@ vde2 2.3.3-3.1
 vdpauinfo 1.5-1.1
 ventoy-bin 1.0.94-1
 vid.stab 1.1.1-1.1
-vim 9.0.1676-2.1
+vim 9.0.1678-1
 vim-plug 0.11.0-1
-vim-runtime 9.0.1676-2.1
+vim-runtime 9.0.1678-1
 virglrenderer 0.10.4-1.1
 virt-bootstrap-git r154.7704260-1
 virt-install 4.1.0-2
