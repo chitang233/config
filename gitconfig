@@ -18,3 +18,22 @@
 	useHttpPath = true
 [push]
 	autoSetupRemote = true
+[protocol "file"]
+	allow = always
+[credential "https://notabug.org"]
+	provider = generic
+[safe]
+	directory = /tmp/runner/_work/nekoray-aur/nekoray-aur
+	directory = /tmp/runner/_work/nekoray-aur/nekoray-aur
+	directory = /tmp/runner/_work/nekoray-aur/nekoray-aur
+	directory = /tmp/runner/_work/nekoray-aur/nekoray-aur
+	directory = /tmp/runner/_work/nekoray-aur/nekoray-aur
+	directory = /tmp/runner/_work/nekoray-aur/nekoray-aur
+	directory = /tmp/runner/_work/nekoray-aur/nekoray-aur
+	directory = /tmp/runner/_work/nekoray-aur/nekoray-aur
+[color]
+	ui = auto
+[credential "https://huggingface.co"]
+	provider = generic
+[url "https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/"]
+	insteadof = https://android.googlesource.com
