@@ -1791,6 +1791,7 @@ python-aiofiles
 python-aiogram
 python-aiohttp
 python-aiohttp-socks
+python-aioquic
 python-aiosignal
 python-altgraph
 python-appdirs
@@ -1922,6 +1923,7 @@ python-matrix-nio
 python-mccabe
 python-mdurl
 python-mechanize
+python-mitmproxy-rs
 python-mitmproxy-wireguard
 python-mock
 python-more-itertools
@@ -1988,6 +1990,7 @@ python-pyflakes
 python-pygments
 python-pyinotify
 python-pylint
+python-pylsqpack
 python-pynacl
 python-pynvim
 python-pyopenssl
@@ -2093,6 +2096,7 @@ python-zipp
 python-zope-interface
 python-zstandard
 python2
+qalculate-qt
 qbittorrent-enhanced
 qbittorrent-vuetorrent-bin
 qca-qt5
