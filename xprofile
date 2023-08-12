@@ -2,12 +2,29 @@ export GTK_IM_MODULE=fcitx
 export QT_IM_MODULE=fcitx
 export XMODIFIERS=@im=fcitx
 export SDL_IM_MODULE=fcitx
-export LANG=zh_CN.UTF-8
-export LC_ALL=zh_CN.UTF-8
+
+export LANG=zh_TW.UTF-8
+export LC_ALL=zh_TW.UTF-8
+
 export EDITOR=vim
+
 export MOZ_DISABLE_RDD_SANDBOX=1
 export MOZ_X11_EGL=1
+
 export LIBVIRT_DEFAULT_URI="qemu:///system"
+
 export GPG_TTY=$(tty)
+
 export LIBVA_DRIVER_NAME=nvidia
+export NVD_BACKEND=direct
+export VK_ICD_FILENAMES="/usr/share/vulkan/icd.d/nvidia_icd.json:/usr/share/vulkan/icd.d/intel_icd.x86_64.json:/usr/share/vulkan/icd.d/intel_icd.i686.json"
+
+export PATH=$PATH:/home/chitang/.local/bin
+
+export GTK_USE_PORTAL=1
+
+export GOPATH="/home/chitang/.local/go"
+export RUSTUP_HOME="/home/chitang/.local/rustup"
+export CARGO_HOME="/home/chitang/.local/cargo"
+
 # x0vncserver -rfbauth ~/.vnc/passwd &

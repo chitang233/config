@@ -10,7 +10,6 @@ zmodule zsh-users/zsh-history-substring-search
 zmodule supercrabtree/k
 zmodule hlissner/zsh-autopair
 zmodule zsh-users/zsh-completions
-zmodule exa
 zmodule pacman
 zmodule zsh-users/zsh-autosuggestions
 zmodule zsh-users/zsh-completions
