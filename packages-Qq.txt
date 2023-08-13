@@ -94,6 +94,7 @@ bat
 bc
 bcg729
 beep
+bilibili-bin
 bind
 binutils
 bison
@@ -164,7 +165,6 @@ chromium
 cifs-utils
 ciphey
 cjson
-clang
 clash-geoip
 clash-meta-alpha-git
 clinfo
@@ -187,7 +187,6 @@ cockpit-storaged
 cogl
 colord
 colord-kde
-compiler-rt
 compsize
 confuse
 conky
@@ -233,6 +232,7 @@ debootstrap
 debugedit
 dee
 default-cursors
+dejagnu
 desktop-file-utils
 desmume
 detect-it-easy
@@ -296,6 +296,7 @@ efivar
 egl-wayland
 eglexternalplatform
 electron
+electron17-bin
 electron22
 electron25
 element-desktop
@@ -394,6 +395,8 @@ gawk
 gc
 gcab
 gcc
+gcc-ada
+gcc-d
 gcc-libs
 gcc12
 gcc12-libs
@@ -1442,8 +1445,6 @@ linux-zen-headers
 lirc
 live-media
 lld
-lldb
-llvm
 llvm-libs
 lm_sensors
 lmdb
@@ -1497,7 +1498,9 @@ mda.lv2
 mdadm
 media-player-info
 mediainfo
+memcached
 memstrack
+mercurial
 mesa
 mesa-demos
 mesa-utils
@@ -1600,7 +1603,6 @@ ocl-icd
 octopi
 okular
 onedrive-abraunegg
-onedrivegui-git
 onefetch
 onetbb
 onevpl
@@ -1646,6 +1648,7 @@ packagekit
 pacman
 pacman-contrib
 pacman-mirrorlist
+pacman-static
 pahole
 palapeli
 pam
@@ -1672,12 +1675,15 @@ pcsc-tools
 pcsclite
 perl
 perl-archive-zip
+perl-cache-memcached
 perl-clone
 perl-digest-hmac
 perl-digest-sha1
 perl-encode-locale
 perl-error
+perl-fcgi
 perl-file-listing
+perl-gd
 perl-html-parser
 perl-html-tagset
 perl-http-cookies
@@ -1700,6 +1706,7 @@ perl-net-ip
 perl-net-libidn2
 perl-net-ssleay
 perl-socket6
+perl-string-crc32
 perl-switch
 perl-timedate
 perl-try-tiny
@@ -1784,7 +1791,6 @@ pycharm-professional
 pyinstaller
 pyinstaller-hooks-contrib
 pyside2
-pyside6
 pystring
 python
 python-aiofiles
@@ -2014,6 +2020,8 @@ python-pyserial
 python-pysmbc
 python-pysocks
 python-pytest
+python-pytest-asyncio
+python-pytest-cov
 python-pytest-xdist
 python-python-socks
 python-pytz
@@ -2366,7 +2374,6 @@ sfml
 shaderc
 shadow
 shared-mime-info
-shiboken6
 signal-desktop-beta
 signon-kwallet-extension
 signon-plugin-oauth2
@@ -2385,6 +2392,7 @@ sleuthkit
 slirp4netns
 smartmontools
 smbclient
+snapd-xdg-open-git
 snapper
 snappy
 sndio
