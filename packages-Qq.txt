@@ -1209,7 +1209,6 @@ liblrdf
 liblsp-r3d-glx-lib
 libltc
 libluv
-liblzf
 libmad
 libmanette
 libmatroska
@@ -2553,9 +2552,7 @@ virt-install
 virt-manager
 virtio-win
 virtiofsd
-virtualbox
 virtualbox-guest-iso
-virtualbox-host-dkms
 visual-studio-code-insiders-bin
 vkbasalt
 vkd3d

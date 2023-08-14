@@ -96,7 +96,7 @@ bcg729 1.1.1-1.1
 beep 1.4.12-1.1
 bilibili-bin 1.10.1-4
 bind 9.18.17-1.1
-binutils 2.41-3
+binutils 2.41-4
 bison 3.8.2-6.1
 black-hole-solver 1.12.0-1.1
 blas 3.11.0-2.1
@@ -138,7 +138,7 @@ caddy 2.6.4-1.1
 cairo 1.17.8-2.1
 cairomm 1.14.4-1.1
 calf 0.90.3-6.1
-calibre 6.23.0-1.1
+calibre 6.24.0-1.1
 cantarell-fonts 1:0.303.1-1
 cantor 23.04.3-2.1
 capstone 4.0.2-7.1
@@ -214,8 +214,8 @@ cups-pk-helper 0.2.7-1.1
 curl 8.2.1-1.1
 cyrus-sasl-gssapi 2.1.28-3.1
 cython 3.0.0-1.1
-dae 0.2.3-1
-daed 0.3.2-1
+dae 0.2.4-1
+daed 0.3.3-1
 datagrip 2023.2-1
 dav1d 1.2.1-1.1
 db 6.2.32-1.1
@@ -298,7 +298,7 @@ eglexternalplatform 1.1-2
 electron 1:25-1
 electron17-bin 17.4.11-1
 electron22 22.3.18-2
-electron25 25.3.2-1.1
+electron25 25.3.2-2.1
 element-desktop 1.11.38-1.1
 element-web 1.11.38-1.1
 elfutils 0.189-3.1
@@ -349,7 +349,7 @@ filesystem 2023.01.31-1.1
 findutils 4.9.0-3.1
 fio 3.35-1.1
 firefox-appmenu 112.0.1-19
-firefox-nightly 118.0a1+20230812.1+h3328121ba1cc-1
+firefox-nightly 118.0a1+20230813.1+hdcf2ddfaffbf-1
 firefox-pwa 2.7.3-1
 fish 3.6.1-1.1
 flac 1.4.3-1.1
@@ -419,7 +419,7 @@ ghostwriter 23.04.3-1.1
 giflib 5.2.1-2.1
 gimp 2.10.34-2.1
 git 2.41.0-2.1
-git-cola 4.2.1-3
+git-cola 4.3.0-1
 git-completion 2.0-1
 git-credential-manager-core-bin 2.1.2-1
 git-crypt 0.7.0-2.1
@@ -543,7 +543,7 @@ heroic-games-launcher-bin 2:2.9.1-1
 hexo-cli 4.3.1-1
 hicolor-icon-theme 0.17-3
 hidapi 0.14.0-1.1
-highway 1.0.5-1.1
+highway 1.0.6-1.1
 hiredis 1.2.0-1
 hivex 1.3.23-2.1
 hmcl-bin 3.5.4.234-1
@@ -566,7 +566,7 @@ icu 73.2-2.1
 icu69-bin 69.1-1
 id3lib 3.8.3-18.1
 ijs 0.35-5.1
-imagemagick 7.1.1.15-2.1
+imagemagick 7.1.1.15-3
 imath 3.1.9-1.1
 imgcat 1.2.0-2
 imlib2 1.11.1-1.1
@@ -1209,7 +1209,6 @@ liblrdf 0.6.1-4.1
 liblsp-r3d-glx-lib 1.2.8-1.1
 libltc 1.3.2-1.1
 libluv 1.45.0_0-1.1
-liblzf 3.6-4.1
 libmad 0.15.1b-10.1
 libmanette 0.2.6-5.1
 libmatroska 1.7.1-1.1
@@ -1222,7 +1221,7 @@ libmfx 23.2.2-2.1
 libmgba 0.10.2-1.1
 libmicrodns 0.2.0-1.1
 libmikmod 3.3.11.1-6.1
-libmm-glib 1.20.6-1.1
+libmm-glib 1.20.6-2.1
 libmms 0.6.4-4.1
 libmng 2.0.3-3.1
 libmnl 1.0.5-1.1
@@ -1317,7 +1316,7 @@ libsoup3 3.4.2-1.1
 libsoxr 0.1.3-3.1
 libspectre 0.2.12-1.1
 libspectrum 1.5.0-1
-libspeechd 0.11.4-2.1
+libspeechd 0.11.5-1.1
 libspiro 1:20221101-2.1
 libsrtp 1:2.5.0-1.1
 libssh 0.10.5-1.1
@@ -1500,7 +1499,7 @@ media-player-info 24-2
 mediainfo 23.07-1.1
 memcached 1.6.19-1.1
 memstrack 0.2.2-1
-mercurial 6.5-1.1
+mercurial 6.5.1-1.1
 mesa 23.1.5-2
 mesa-demos 9.0.0-2.1
 mesa-utils 9.0.0-2.1
@@ -1518,7 +1517,7 @@ mkinitcpio 36-1
 mkinitcpio-busybox 1.36.1-1.1
 mlt 7.18.0-1.1
 mobile-broadband-provider-info 20230416-1
-modemmanager 1.20.6-1.1
+modemmanager 1.20.6-2.1
 modemmanager-qt 5.108.0-1.1
 monero 0.18.2.2-2.1
 monero-gui 0.18.2.2-2.1
@@ -1593,7 +1592,7 @@ nvidia-dkms 535.98-2
 nvidia-prime 1.0-4
 nvidia-settings 535.98-2
 nvidia-utils 535.98-2
-nvidia-vaapi-driver-git 0.0.10.r6.g0597283-1
+nvidia-vaapi-driver-git 0.0.10.r8.g59aecf1-1
 nvm 0.39.4-1
 nvtop 3.0.2-1.1
 nx-x11 3.5.99.26-1
@@ -1620,13 +1619,13 @@ opencv 4.8.0-3.1
 openexr 3.1.9-1.1
 openfec 1.4.2.9-1.1
 openjpeg2 2.5.0-2.1
-openmpi 4.1.5-2.1
-openpmix 4.2.3-2.1
+openmpi 4.1.5-3.1
+openpmix 4.2.5-1.1
 openrgb 0.9-1
 openslide 3.4.1-4.1
 openssh 9.4p1-2.1
 openssl 3.1.2-1.1
-openssl-1.1 1.1.1.u-1.1
+openssl-1.1 1.1.1.v-1.1
 openttd 13.4-1.1
 openttd-opengfx 7.1-1
 openttd-opensfx 1.0.3-1
@@ -1676,7 +1675,7 @@ pcsclite 2.0.0-1.1
 perl 5.38.0-1.1
 perl-archive-zip 1.68-8
 perl-cache-memcached 1.30-5
-perl-clone 0.46-2.1
+perl-clone 0.46-3
 perl-digest-hmac 1.04-4
 perl-digest-sha1 2.13-19.1
 perl-encode-locale 1.05-11
@@ -1866,7 +1865,7 @@ python-feedparser 6.0.10-3
 python-fido2 1.1.2-1
 python-filelock 3.12.2-1
 python-flask 2.2.5-1
-python-fonttools 4.41.1-1.1
+python-fonttools 4.42.0-1.1
 python-fqdn 1.5.1-2
 python-frozenlist 1.3.3-2.1
 python-future 0.18.3-1
@@ -1899,7 +1898,7 @@ python-isort 5.12.0-2
 python-itsdangerous 2.1.2-3
 python-jaraco.classes 3.3.0-1
 python-jaraco.context 4.3.0-3
-python-jaraco.functools 3.8.0-1
+python-jaraco.functools 3.8.1-1
 python-jaraco.text 3.11.1-3
 python-jedi 0.18.2-2
 python-jeepney 0.8.0-2
@@ -2408,7 +2407,7 @@ sox 14.4.2+r182+g42b3557e-3.1
 spandsp 0.0.6-5.1
 spdlog 1.11.0-3
 spectacle 23.04.3-1.1
-speech-dispatcher 0.11.4-2.1
+speech-dispatcher 0.11.5-1.1
 speedtest-cli 2.1.3-7
 speex 1.2.1-1.1
 speexdsp 1.2.1-1.1
@@ -2553,9 +2552,7 @@ virt-install 4.1.0-2
 virt-manager 4.1.0-2
 virtio-win 0.1.229.1-1
 virtiofsd 1.7.0-1.1
-virtualbox 7.0.10-1.1
 virtualbox-guest-iso 7.0.10-1
-virtualbox-host-dkms 7.0.10-1.1
 visual-studio-code-insiders-bin 1691773856-1
 vkbasalt 0.3.2.10-1
 vkd3d 1.7.1-1.1
@@ -2579,7 +2576,7 @@ wayland-utils 1.2.0-1.1
 webkit2gtk 2.40.5-1
 webkit2gtk-4.1 2.40.5-1
 webrtc-audio-processing 0.3.1-3.1
-weechat 4.0.2-2.1
+weechat 4.0.3-1.1
 weechat-matrix 0.3.0-10
 weston 12.0.1-1.1
 wgcf-git 2.2.15.r0.140f983-1
@@ -2735,7 +2732,7 @@ yubikey-manager-qt 1.2.5-1.1
 yubikey-personalization 1.20.0-3
 yubikey-personalization-gui 3.1.25-2.1
 yubioath-desktop 5.1.0-3.1
-yuzu-early-access 3803-1
+yuzu-early-access 3804-1
 zbar 0.23.90-3.1
 zenity 3.44.2-1.1
 zeromq 4.3.4-4
