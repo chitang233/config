@@ -70,7 +70,6 @@ audacity
 audiocd-kio
 audiofile
 audit
-augeas
 autoconf
 automake
 avahi
@@ -111,6 +110,7 @@ bluez-tools
 bluez-utils
 bolt
 bomber
+boost
 boost-libs
 bovo
 box2d
@@ -228,7 +228,6 @@ ddcutil
 ddgr
 debian-archive-keyring
 debian-ports-archive-keyring
-debootstrap
 debugedit
 dee
 default-cursors
@@ -257,7 +256,7 @@ docbook-xsl
 docker
 docker-buildx
 docker-compose
-docker-credential-pass-bin
+docker-credential-pass
 docker-machine
 docker-scan
 doctl
@@ -314,11 +313,11 @@ espeak-ng
 ethtool
 evince
 exa
-exfatprogs
 exiv2
 expac
 expat
 expect
+extra-cmake-modules
 f2fs-tools
 faac
 faad2
@@ -433,8 +432,8 @@ glew1.10
 glfw-x11
 glhack
 glib-networking
-glib-perl
 glib2
+glib2-docs
 glibc
 glibmm
 glibmm-2.68
@@ -479,7 +478,6 @@ grantlee
 grantlee-editor
 grantleetheme
 graphene
-graphicsmagick
 graphite
 graphviz
 grep
@@ -501,6 +499,7 @@ gst-plugins-base-libs
 gst-plugins-good
 gstreamer
 gtest
+gtk-doc
 gtk-update-icon-cache
 gtk-vnc
 gtk2
@@ -545,7 +544,6 @@ hicolor-icon-theme
 hidapi
 highway
 hiredis
-hivex
 hmcl-bin
 hostapd
 htop
@@ -553,7 +551,6 @@ http-parser
 hugo
 hunspell
 hwdata
-hwinfo
 hwloc
 hydra
 hyfetch
@@ -561,7 +558,6 @@ hyphen
 i2c-tools
 iana-etc
 icalingua++
-icoutils
 icu
 icu69-bin
 id3lib
@@ -572,11 +568,9 @@ imgcat
 imlib2
 inetutils
 iniparser
-inkscape
 innoextract
 inotify-tools
 intellij-idea-ultimate-edition
-intltool
 iperf3
 ipfs-desktop
 iproute2
@@ -757,7 +751,6 @@ knotifications
 knotifyconfig
 kolf
 kollision
-kolourpaint
 kompare
 kongress
 konqueror
@@ -788,7 +781,6 @@ krfb
 krita
 kruler
 krunner
-ksanecore
 kscreen
 kscreenlocker
 kservice
@@ -839,11 +831,9 @@ ldns
 legendary
 lemmy
 lensfun
-leptonica
 less
 lf
 lhasa
-lib2geom
 lib32-acl
 lib32-alsa-lib
 lib32-alsa-plugins
@@ -1074,7 +1064,6 @@ libcgif
 libcheese
 libcloudproviders
 libcolord
-libconfig
 libcpuid
 libcups
 libcurl-compat
@@ -1110,7 +1099,6 @@ libetonyek
 libev
 libevdev
 libevent
-libewf
 libexif
 libexttextcat
 libfakekey
@@ -1144,7 +1132,6 @@ libgravatar
 libgsf
 libgtop
 libgudev
-libguestfs
 libgusb
 libgxps
 libhandy
@@ -1157,7 +1144,6 @@ libidn
 libidn11
 libidn2
 libiec61883
-libieee1284
 libimagequant
 libime
 libimobiledevice
@@ -1189,7 +1175,6 @@ libkgapi
 libkleo
 libkmahjongg
 libkomparediff2
-libksane
 libksba
 libkscreen
 libksieve
@@ -1199,7 +1184,6 @@ liblangtag
 liblc3
 libldac
 libldap
-libldm
 libliftoff
 liblo
 liblouis
@@ -1299,11 +1283,10 @@ libsasl
 libsbsms
 libseccomp
 libsecret
-libselinux
-libsepol
 libshout
 libsigc++
 libsigc++-3.0
+libsigc++-docs
 libsigsegv
 libslirp
 libsm
@@ -1329,6 +1312,7 @@ libtar
 libtasn1
 libteam
 libtermkey
+libtg_owt
 libthai
 libtheora
 libtiff
@@ -1367,7 +1351,6 @@ libvirt
 libvirt-dbus
 libvirt-glib
 libvirt-python
-libvirt-sandbox
 libvirt-storage-gluster
 libvirt-storage-iscsi-direct
 libvisio
@@ -1387,7 +1370,6 @@ libwpe
 libwpg
 libwps
 libx11
-libx86emu
 libxau
 libxaw
 libxcb
@@ -1450,12 +1432,10 @@ lmdb
 lmms
 lokalize
 lpsolve
-lrzip
 lsb-release
 lskat
 lsof
 lsp-plugins-lv2
-lsscsi
 lttng-ust2.12
 lua
 lua-alt-getopt
@@ -1469,7 +1449,6 @@ luit
 lunar-client
 lutris-git
 lv2
-lvm2
 lxc
 lxcfs
 lynx
@@ -1503,9 +1482,11 @@ mercurial
 mesa
 mesa-demos
 mesa-utils
+meson
 messagelib
 mgba-qt
 mgba-sdl
+microsoft-gsl
 milou
 mindustry
 miniupnpc
@@ -1516,6 +1497,7 @@ mjpegtools
 mkinitcpio
 mkinitcpio-busybox
 mlt
+mm-common
 mobile-broadband-provider-info
 modemmanager
 modemmanager-qt
@@ -1552,7 +1534,6 @@ neon
 neovim
 nerdfix
 nestopia
-net-snmp
 net-tools
 netavark
 netease-cloud-music-gtk4
@@ -1669,20 +1650,14 @@ pciutils
 pcp
 pcre
 pcre2
-pcsc-perl
-pcsc-tools
 pcsclite
 perl
 perl-archive-zip
 perl-cache-memcached
 perl-clone
-perl-digest-hmac
-perl-digest-sha1
 perl-encode-locale
 perl-error
-perl-fcgi
 perl-file-listing
-perl-gd
 perl-html-parser
 perl-html-tagset
 perl-http-cookies
@@ -1692,19 +1667,11 @@ perl-http-message
 perl-http-negotiate
 perl-image-exiftool
 perl-io-html
-perl-io-socket-inet6
-perl-io-socket-ssl
 perl-io-tty
-perl-libintl-perl
 perl-libwww
 perl-lwp-mediatypes
 perl-mailtools
-perl-net-dns
 perl-net-http
-perl-net-ip
-perl-net-libidn2
-perl-net-ssleay
-perl-socket6
 perl-string-crc32
 perl-switch
 perl-timedate
@@ -1712,7 +1679,6 @@ perl-try-tiny
 perl-uri
 perl-www-robotrules
 perl-xml-parser
-perl-xml-writer
 phodav
 phonon-qt5
 phonon-qt5-gstreamer
@@ -1743,6 +1709,7 @@ plasma-sdk
 plasma-systemmonitor
 plasma-thunderbolt
 plasma-vault
+plasma-wayland-protocols
 plasma-wayland-session
 plasma-workspace
 plasma5-wallpapers-wallpaper-engine
@@ -2255,8 +2222,8 @@ quazip-qt5
 quazip-qt6
 quota-tools
 radvd
-ragel
 railwayapp-cli
+range-v3
 raptor
 rasqal
 rav1e
@@ -2338,7 +2305,6 @@ rustdesk-bin
 rustup
 ryujinx-git
 samba
-sane
 sbc
 sbkeys
 sbsigntools
@@ -2382,12 +2348,8 @@ simplescreenrecorder
 sing-box
 sing-geoip
 sing-geosite
-skanlite
-skanpage
 skim
-skopeo
 slang
-sleuthkit
 slirp4netns
 smartmontools
 smbclient
@@ -2435,11 +2397,9 @@ subversion
 sudo
 suil
 suitesparse
-supermin
 svgpart
 svt-av1
 svt-hevc
-swaks
 sweeper
 swig
 swtpm
@@ -2447,8 +2407,6 @@ syncthing
 syncthing-gtk
 syndication
 syntax-highlighting
-sysfsutils
-syslinux
 sysstat
 system-config-printer
 systemd
@@ -2466,9 +2424,6 @@ tdb
 telegram-desktop-megumifox
 telly-skout
 tepl
-tesseract
-tesseract-data-afr
-tesseract-data-osd
 tevent
 texinfo
 texlive-basic
@@ -2477,13 +2432,13 @@ texlive-latex
 texlive-latexextra
 texlive-latexrecommended
 texlive-pictures
-thin-provisioning-tools
 threadweaver
 tigervnc
 timeshift
 tinyxml
 tinyxml2
 tk
+tl-expected
 tmux
 toilet
 tokodon
@@ -2547,7 +2502,6 @@ vim
 vim-plug
 vim-runtime
 virglrenderer
-virt-bootstrap-git
 virt-install
 virt-manager
 virtio-win
@@ -2642,7 +2596,6 @@ xf86-video-fbdev
 xf86-video-nouveau
 xf86-video-openchrome
 xf86-video-vesa
-xfsprogs
 xkeyboard-config
 xml2
 xmlsec
@@ -2715,7 +2668,6 @@ yacd
 yajl
 yakuake
 yaml-cpp
-yara
 yarn
 yasm
 yelp

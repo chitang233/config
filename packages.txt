@@ -70,7 +70,6 @@ audacity 1:3.3.3-1.1
 audiocd-kio 23.04.3-1.1
 audiofile 0.3.6-8.1
 audit 3.1.2-1.1
-augeas 1.14.0-1.1
 autoconf 2.71-4
 automake 1.16.5-2
 avahi 1:0.8+r22+gfd482a7-1.1
@@ -96,7 +95,7 @@ bcg729 1.1.1-1.1
 beep 1.4.12-1.1
 bilibili-bin 1.10.1-4
 bind 9.18.17-1.1
-binutils 2.41-4
+binutils 2.41-5
 bison 3.8.2-6.1
 black-hole-solver 1.12.0-1.1
 blas 3.11.0-2.1
@@ -111,6 +110,7 @@ bluez-tools 0.2.0-5.1
 bluez-utils 5.68-1.1
 bolt 0.9.5-1.1
 bomber 23.04.3-1.1
+boost 1.81.0-7.1
 boost-libs 1.81.0-7.1
 bovo 23.04.3-1.1
 box2d 2.4.1-1.2
@@ -166,7 +166,7 @@ cifs-utils 7.0-3.1
 ciphey 5.14.0-7
 cjson 1.7.15-1.1
 clash-geoip 20230812-1
-clash-meta-alpha-git 20230809.r0.g3093fc4f-1
+clash-meta-alpha-git 20230814.r0.ged09df4e-1
 clinfo 3.0.21.02.21-1.1
 clion 1:2023.2-1
 cloudflared 2023.7.2-1.1
@@ -215,7 +215,7 @@ curl 8.2.1-1.1
 cyrus-sasl-gssapi 2.1.28-3.1
 cython 3.0.0-1.1
 dae 0.2.4-1
-daed 0.3.3-1
+daed 0.3.3.p1-1
 datagrip 2023.2-1
 dav1d 1.2.1-1.1
 db 6.2.32-1.1
@@ -228,7 +228,6 @@ ddcutil 1.4.1-1.1
 ddgr 2.1-4
 debian-archive-keyring 2023.3-1
 debian-ports-archive-keyring 2023.02.01-1
-debootstrap 1.0.128-1
 debugedit 5.0-5.1
 dee 1.2.7-14.3
 default-cursors 2-1
@@ -257,7 +256,7 @@ docbook-xsl 1.79.2-7
 docker 1:24.0.5-1.1
 docker-buildx 0.11.2-1.1
 docker-compose 2.20.3-1.1
-docker-credential-pass-bin 0.8.0-3
+docker-credential-pass 0.8.0-1
 docker-machine 0.16.2-5.1
 docker-scan 0.26.0-1.1
 doctl 1.97.1-1.1
@@ -314,11 +313,11 @@ espeak-ng 1.51.1-2.1
 ethtool 1:6.4-1.1
 evince 44.3-1.1
 exa 0.10.1-8
-exfatprogs 1.2.1-1.1
 exiv2 0.28.0-3.1
 expac 10-5.1
 expat 2.5.0-1.1
 expect 5.45.4-4.1
+extra-cmake-modules 5.108.0-1
 f2fs-tools 1.16.0-2.1
 faac 1.30-4.1
 faad2 2.10.1-1.1
@@ -349,7 +348,7 @@ filesystem 2023.01.31-1.1
 findutils 4.9.0-3.1
 fio 3.35-1.1
 firefox-appmenu 112.0.1-19
-firefox-nightly 118.0a1+20230813.1+hdcf2ddfaffbf-1
+firefox-nightly 118.0a1+20230814.1+h27c67d619752-1
 firefox-pwa 2.7.3-1
 fish 3.6.1-1.1
 flac 1.4.3-1.1
@@ -374,7 +373,7 @@ freerdp 2:2.10.0-4.1
 freetype2 2.13.1-1.1
 frei0r-plugins 2.3.0-2.1
 fribidi 1.0.13-2.1
-frpc 0.51.2-1
+frpc 0.51.3-1
 fstrm 0.6.1-1.1
 ftba-electron 202307221435_df4347b682-1
 ftgl 2.4.0-2.1
@@ -433,8 +432,8 @@ glew1.10 1.10.0-3.1
 glfw-x11 3.3.8-1.1
 glhack 1.2-10.1
 glib-networking 1:2.76.1-1.1
-glib-perl 1.329.3-4.1
 glib2 2.76.4-1.1
+glib2-docs 2.76.4-1.1
 glibc 2.38-3
 glibmm 2.66.6-1.1
 glibmm-2.68 2.76.0-1.1
@@ -479,7 +478,6 @@ grantlee 5.3.1-1.1
 grantlee-editor 23.04.3-1.1
 grantleetheme 23.04.3-1.1
 graphene 1.10.8-1.1
-graphicsmagick 1.3.40-3.1
 graphite 1:1.3.14-3.1
 graphviz 8.1.0-2.1
 grep 3.11-1.1
@@ -501,6 +499,7 @@ gst-plugins-base-libs 1.22.5-1.1
 gst-plugins-good 1.22.5-1.1
 gstreamer 1.22.5-1.1
 gtest 1.13.0-1.1
+gtk-doc 1.33.2-3
 gtk-update-icon-cache 1:4.10.5-1.1
 gtk-vnc 1.3.1-1.1
 gtk2 2.24.33-3.1
@@ -545,7 +544,6 @@ hicolor-icon-theme 0.17-3
 hidapi 0.14.0-1.1
 highway 1.0.6-1.1
 hiredis 1.2.0-1
-hivex 1.3.23-2.1
 hmcl-bin 3.5.4.234-1
 hostapd 2.10-3.1
 htop 3.2.2-1.1
@@ -553,7 +551,6 @@ http-parser 2.9.4-1.1
 hugo 0.116.1-1.1
 hunspell 1.7.2-1.1
 hwdata 0.372-1
-hwinfo 23.2-1.1
 hwloc 2.9.1-1.1
 hydra 9.5-1.1
 hyfetch 1.4.9_1-1
@@ -561,7 +558,6 @@ hyphen 2.8.8-5.1
 i2c-tools 4.3-4.1
 iana-etc 20230629-1
 icalingua++ 2.9.21-1
-icoutils 0.32.3-3.1
 icu 73.2-2.1
 icu69-bin 69.1-1
 id3lib 3.8.3-18.1
@@ -572,11 +568,9 @@ imgcat 1.2.0-2
 imlib2 1.11.1-1.1
 inetutils 2.4-1.1
 iniparser 4.1-4.1
-inkscape 1.3-2.1
 innoextract 1.9-8.1
 inotify-tools 3.22.6.0-2.1
 intellij-idea-ultimate-edition 2023.2-1
-intltool 0.51.0-6
 iperf3 3.14-1.1
 ipfs-desktop 0.28.0-1
 iproute2 6.4.0-1.1
@@ -757,7 +751,6 @@ knotifications 5.108.0-1.1
 knotifyconfig 5.108.0-1.1
 kolf 23.04.3-1.1
 kollision 23.04.3-1.1
-kolourpaint 23.04.3-1.1
 kompare 23.04.3-1.1
 kongress 23.04.3-1.1
 konqueror 23.04.3-1.1
@@ -788,7 +781,6 @@ krfb 23.04.3-1.1
 krita 5.1.5-10.1
 kruler 23.04.3-1.1
 krunner 5.108.0-1.1
-ksanecore 23.04.3-1.1
 kscreen 5.27.6-1.1
 kscreenlocker 5.27.7-1.1
 kservice 5.108.0-1.1
@@ -839,11 +831,9 @@ ldns 1.8.3-2.1
 legendary 0.20.33-5
 lemmy 0.18.4-1
 lensfun 1:0.3.4-3.1
-leptonica 1.83.1-1.1
 less 1:633-1.1
 lf 30-1.1
 lhasa 0.3.1-3.1
-lib2geom 1.3-1
 lib32-acl 2.3.1-2
 lib32-alsa-lib 1.2.9-1
 lib32-alsa-plugins 1.2.7.1-2
@@ -1074,7 +1064,6 @@ libcgif 0.3.2-1.1
 libcheese 44.1-1.1
 libcloudproviders 0.3.1+r8+g3a229ee-1.1
 libcolord 1.4.6-1.1
-libconfig 1.7.3-2.1
 libcpuid 0.6.3-1.1
 libcups 1:2.4.6-1.1
 libcurl-compat 8.2.1-1.1
@@ -1110,7 +1099,6 @@ libetonyek 0.1.10-3.1
 libev 4.33-2.1
 libevdev 1.13.1-1.1
 libevent 2.1.12-4.1
-libewf 20140608-6.1
 libexif 0.6.24-2.1
 libexttextcat 3.4.6-1.1
 libfakekey 0.3-2.1
@@ -1144,7 +1132,6 @@ libgravatar 23.04.3-1.1
 libgsf 1.14.50-1.1
 libgtop 2.41.1-1.1
 libgudev 238-1.1
-libguestfs 1.48.6-7
 libgusb 0.4.6-1.1
 libgxps 0.3.2-4.1
 libhandy 1.8.2-1.1
@@ -1157,7 +1144,6 @@ libidn 1.41-1.1
 libidn11 1.33-2
 libidn2 2.3.4-3.1
 libiec61883 1.2.0-7.1
-libieee1284 0.2.11-15.1
 libimagequant 4.2.0-1.1
 libime 1.0.17-1.1
 libimobiledevice 1.3.0-9.1
@@ -1189,7 +1175,6 @@ libkgapi 23.04.3-1.1
 libkleo 23.04.3-1.1
 libkmahjongg 23.04.3-1.1
 libkomparediff2 23.04.3-1.1
-libksane 23.04.3-1.1
 libksba 1.6.4-1.1
 libkscreen 5.27.7-1.1
 libksieve 23.04.3-1.1
@@ -1199,7 +1184,6 @@ liblangtag 0.6.4-1.1
 liblc3 1.0.4-1.1
 libldac 2.0.2.3-1.1
 libldap 2.6.6-1.1
-libldm 0.2.5-2.1
 libliftoff 0.4.1-1.1
 liblo 1:0.31-3.1
 liblouis 3.26.0-1.1
@@ -1299,11 +1283,10 @@ libsasl 2.1.28-4.1
 libsbsms 2.3.0-3.1
 libseccomp 2.5.4-2.1
 libsecret 0.20.5-2.1
-libselinux 3.5-2
-libsepol 3.5-1
 libshout 1:2.4.6-2.1
 libsigc++ 2.12.0-1.1
 libsigc++-3.0 3.4.0-1.1
+libsigc++-docs 2.12.0-1.1
 libsigsegv 2.14-2.1
 libslirp 4.7.0-1.1
 libsm 1.2.4-1.1
@@ -1329,6 +1312,7 @@ libtar 1.2.20-6.1
 libtasn1 4.19.0-1.1
 libteam 1.31-8.1
 libtermkey 0.22-2.1
+libtg_owt 0.git23.a45d8b8-1.1
 libthai 0.1.29-3.1
 libtheora 1.1.1-6.1
 libtiff 4.5.1-1
@@ -1367,7 +1351,6 @@ libvirt 1:9.6.0-1.1
 libvirt-dbus 1.4.1-2.1
 libvirt-glib 4.0.0-2.1
 libvirt-python 1:9.6.0-1.1
-libvirt-sandbox 0.8.0-6
 libvirt-storage-gluster 1:9.6.0-1.1
 libvirt-storage-iscsi-direct 1:9.6.0-1.1
 libvisio 0.1.7-9.1
@@ -1387,7 +1370,6 @@ libwpe 1.14.1-2.1
 libwpg 0.3.4-1.1
 libwps 0.4.14-1.1
 libx11 1.8.6-1.1
-libx86emu 3.5-3.1
 libxau 1.0.11-2.1
 libxaw 1.0.15-1.1
 libxcb 1.15-2.1
@@ -1450,12 +1432,10 @@ lmdb 0.9.30-3.1
 lmms 1.2.2-16.1
 lokalize 23.04.3-1.1
 lpsolve 5.5.2.11-2.1
-lrzip 0.651-2.1
 lsb-release 2.0.r53.a86f885-1
 lskat 23.04.3-1.1
 lsof 4.98.0-1.1
 lsp-plugins-lv2 1.2.8-1.1
-lsscsi 0.32-1.1
 lttng-ust2.12 2.12.8-1.1
 lua 5.4.6-1.1
 lua-alt-getopt 0.8.0-1
@@ -1469,7 +1449,6 @@ luit 20230201-1.1
 lunar-client 2.16.1-1
 lutris-git 0.5.13.r206.ga09756a88-1
 lv2 1.18.10-1.1
-lvm2 2.03.22-1.1
 lxc 1:5.0.3-1.1
 lxcfs 5.0.4-1.1
 lynx 2.8.9-6.1
@@ -1503,9 +1482,11 @@ mercurial 6.5.1-1.1
 mesa 23.1.5-2
 mesa-demos 9.0.0-2.1
 mesa-utils 9.0.0-2.1
+meson 1.2.1-1
 messagelib 23.04.3-1.1
 mgba-qt 0.10.2-1.1
 mgba-sdl 0.10.2-1.1
+microsoft-gsl 4.0.0-1
 milou 5.27.7-1.1
 mindustry 1:7.0.145.1-1
 miniupnpc 2.2.4-2.1
@@ -1516,6 +1497,7 @@ mjpegtools 2.2.1-2.1
 mkinitcpio 36-1
 mkinitcpio-busybox 1.36.1-1.1
 mlt 7.18.0-1.1
+mm-common 1.0.5-1
 mobile-broadband-provider-info 20230416-1
 modemmanager 1.20.6-2.1
 modemmanager-qt 5.108.0-1.1
@@ -1552,7 +1534,6 @@ neon 0.32.5-2.1
 neovim 0.9.1-3.1
 nerdfix 0.3.1-1
 nestopia 1.52.0-1
-net-snmp 5.9.1-7.1
 net-tools 2.10-2.1
 netavark 1.7.0-1.1
 netease-cloud-music-gtk4 2.2.0-1
@@ -1580,7 +1561,7 @@ noto-fonts-emoji 20220920-1
 noto-fonts-emoji-blob 1:15.0-1
 noto-fonts-extra 1:23.8.1-1
 npm 9.8.1-1
-npm-check-updates 16.10.18-1
+npm-check-updates 16.10.19-1
 npth 1.6-4.1
 nspr 4.35-1.1
 nss 3.92-1.1
@@ -1669,21 +1650,15 @@ pciutils 3.10.0-1.1
 pcp 6.0.5-2.1
 pcre 8.45-3.1
 pcre2 10.42-2.1
-pcsc-perl 1.4.14-14.1
-pcsc-tools 1.6.2-1.1
 pcsclite 2.0.0-1.1
 perl 5.38.0-1.1
 perl-archive-zip 1.68-8
 perl-cache-memcached 1.30-5
 perl-clone 0.46-3
-perl-digest-hmac 1.04-4
-perl-digest-sha1 2.13-19.1
 perl-encode-locale 1.05-11
 perl-error 0.17029-5
-perl-fcgi 0.82-3.1
 perl-file-listing 6.16-2
-perl-gd 2.77-2.1
-perl-html-parser 3.81-2.1
+perl-html-parser 3.81-2
 perl-html-tagset 3.20-14
 perl-http-cookies 6.10-4
 perl-http-daemon 6.16-2
@@ -1692,27 +1667,18 @@ perl-http-message 6.44-2
 perl-http-negotiate 6.01-12
 perl-image-exiftool 12.60-3
 perl-io-html 1.004-4
-perl-io-socket-inet6 2.73-3
-perl-io-socket-ssl 2.083-2
 perl-io-tty 1.17-2.1
-perl-libintl-perl 1.33-2.1
 perl-libwww 6.67-2
 perl-lwp-mediatypes 6.04-4
 perl-mailtools 2.21-7
-perl-net-dns 1.39-2
 perl-net-http 6.23-2
-perl-net-ip 1.26-12
-perl-net-libidn2 1.02-2.1
-perl-net-ssleay 1.92-3.1
-perl-socket6 0.29-8.1
 perl-string-crc32 2.100-2.1
 perl-switch 2.17-9
 perl-timedate 2.33-5
 perl-try-tiny 0.31-3
 perl-uri 5.19-2
 perl-www-robotrules 6.02-12
-perl-xml-parser 2.46-5.1
-perl-xml-writer 0.900-2
+perl-xml-parser 2.46-5
 phodav 3.0-2.1
 phonon-qt5 4.11.1-3.1
 phonon-qt5-gstreamer 4.10.0-4.1
@@ -1743,6 +1709,7 @@ plasma-sdk 5.27.7.1-1.1
 plasma-systemmonitor 5.27.6-1.1
 plasma-thunderbolt 5.27.7-1.1
 plasma-vault 5.27.7-1.1
+plasma-wayland-protocols 1.10.0-1
 plasma-wayland-session 5.27.7-2.1
 plasma-workspace 5.27.7-2.1
 plasma5-wallpapers-wallpaper-engine 0.5.4-4
@@ -2255,8 +2222,8 @@ quazip-qt5 1.4-1.1
 quazip-qt6 1.4-1.1
 quota-tools 1:4.09-1.1
 radvd 2.19-1.1
-ragel 6.10-3.1
 railwayapp-cli 3.4.0-1
+range-v3 0.12.0-1
 raptor 2.0.16-3.1
 rasqal 1:0.9.33-6.1
 rav1e 0.6.6-1.1
@@ -2327,7 +2294,7 @@ ruby-rexml 3.2.5-1
 ruby-ruby2_keywords 0.0.5-1
 ruby-stdlib 3.0.6-1.1
 ruby-stringio 3.0.2-4.1
-ruby-test-unit 3.6.0-1
+ruby-test-unit 3.6.1-1
 ruby-time 0.2.0-4
 ruby-tmpdir 0.1.2-3
 ruby-uri 0.12.1-1
@@ -2336,9 +2303,8 @@ run-parts 5.5-1.1
 runc 1.1.9-1.1
 rustdesk-bin 1.2.1-1
 rustup 1.26.0-3.1
-ryujinx-git r2990.2efd74b9cb-2
+ryujinx-git r2996.492a046335-1
 samba 4.18.5-2.1
-sane 1.2.1-4.1
 sbc 2.0-1.1
 sbkeys 1.1.0-2
 sbsigntools 0.9.5-1.1
@@ -2382,12 +2348,8 @@ simplescreenrecorder 0.4.4-3
 sing-box 1.3.6-1
 sing-geoip 20230712-2
 sing-geosite 20230707041058-1
-skanlite 23.04.3-1.1
-skanpage 23.04.3-1.1
 skim 0.10.4-1.1
-skopeo 1.13.2-1.1
 slang 2.3.3-2.1
-sleuthkit 4.12.0-1.1
 slirp4netns 1.2.0-1.1
 smartmontools 7.4-1.1
 smbclient 4.18.5-2.1
@@ -2435,11 +2397,9 @@ subversion 1.14.2-9.1
 sudo 1.9.14.p3-1.1
 suil 0.10.18-1.1
 suitesparse 7.1.0-2.1
-supermin 5.3.2-1.1
 svgpart 23.04.3-1.1
 svt-av1 1.6.0-1.1
 svt-hevc 1.5.1-2.1
-swaks 20201014.0-1
 sweeper 23.04.3-1.1
 swig 4.1.1-2.1
 swtpm 0.8.0-1.1
@@ -2447,8 +2407,6 @@ syncthing 1.23.6-1.1
 syncthing-gtk 0.9.4.5-2
 syndication 5.108.0-1.1
 syntax-highlighting 5.108.0-1.1
-sysfsutils 2.1.1-1.1
-syslinux 6.04.pre2.r11.gbf6db5b4-3
 sysstat 12.7.4-1.1
 system-config-printer 1.5.18-2.1
 systemd 254.1-1.1
@@ -2463,12 +2421,9 @@ tar 1.35-1.1
 tcl 8.6.13-1.1
 tcping 0.1.1rc1-1
 tdb 1.4.9-1.1
-telegram-desktop-megumifox 4.8.4-9
+telegram-desktop-megumifox 4.8.10-9
 telly-skout 23.04.3-1.1
 tepl 1:6.4.0-4.1
-tesseract 5.3.2-1.1
-tesseract-data-afr 2:4.1.0-4
-tesseract-data-osd 2:4.1.0-4
 tevent 1:0.15.0-1.1
 texinfo 7.0.3-1.1
 texlive-basic 2023.66594-19
@@ -2477,13 +2432,13 @@ texlive-latex 2023.66594-19
 texlive-latexextra 2023.66594-19
 texlive-latexrecommended 2023.66594-19
 texlive-pictures 2023.66594-19
-thin-provisioning-tools 1.0.6-1.1
 threadweaver 5.108.0-1.1
 tigervnc 1.13.1-2.1
 timeshift 23.07.1-2.1
 tinyxml 2.6.2-10.1
 tinyxml2 9.0.0-2.1
 tk 8.6.13-1.1
+tl-expected 1.1.0-1
 tmux 3.3_a-7.1
 toilet 0.3.r155.3eb9d58-2
 tokodon 23.04.3-1.1
@@ -2505,8 +2460,8 @@ ttf-jetbrains-mono-nerd 3.0.2-1
 ttf-liberation 2.1.5-1
 ttf-material-design-icons-git v7.0.96.r0.g6b7bfd3-1
 ttf-misans 2.000-1
-ttf-nerd-fonts-symbols 3.0.2-1
-ttf-nerd-fonts-symbols-common 3.0.2-1
+ttf-nerd-fonts-symbols 3.0.2-2
+ttf-nerd-fonts-symbols-common 3.0.2-2
 ttf-roboto 2.138-4
 ttf-ubuntu-font-family 1:0.83-1
 ttf-ubuntu-mono-nerd 3.0.2-1
@@ -2547,13 +2502,12 @@ vim 9.0.1678-1.1
 vim-plug 0.11.0-1
 vim-runtime 9.0.1678-1.1
 virglrenderer 0.10.4-1.1
-virt-bootstrap-git r154.7704260-1
 virt-install 4.1.0-2
 virt-manager 4.1.0-2
 virtio-win 0.1.229.1-1
 virtiofsd 1.7.0-1.1
 virtualbox-guest-iso 7.0.10-1
-visual-studio-code-insiders-bin 1691773856-1
+visual-studio-code-insiders-bin 1691991224-1
 vkbasalt 0.3.2.10-1
 vkd3d 1.7.1-1.1
 vlc 3.0.18-13.1
@@ -2610,7 +2564,7 @@ x265 3.5-3.1
 xapian-core 1:1.4.23-1.1
 xapp 2.6.1-1.1
 xbitmaps 1.1.3-1
-xcaddy-bin 0.3.4-1
+xcaddy-bin 0.3.5-1
 xcb-imdkit 1.0.5-1.1
 xcb-proto 1.15.2-3
 xcb-util 0.4.1-1.1
@@ -2642,7 +2596,6 @@ xf86-video-fbdev 0.5.0-3.1
 xf86-video-nouveau 1.0.17-2.1
 xf86-video-openchrome 0.6.0.r798.g0c75274-2.1
 xf86-video-vesa 2.6.0-1.1
-xfsprogs 6.4.0-1.1
 xkeyboard-config 2.39-1
 xml2 0.5-1
 xmlsec 1.2.37-1.1
@@ -2715,7 +2668,6 @@ yacd 0.3.8-1
 yajl 2.1.0-5.1
 yakuake 23.04.3-1.1
 yaml-cpp 0.7.0-2.1
-yara 4.3.1-1.1
 yarn 1.22.19-1
 yasm 1.3.0-6.1
 yelp 42.2-2.1
@@ -2732,7 +2684,7 @@ yubikey-manager-qt 1.2.5-1.1
 yubikey-personalization 1.20.0-3
 yubikey-personalization-gui 3.1.25-2.1
 yubioath-desktop 5.1.0-3.1
-yuzu-early-access 3804-1
+yuzu-early-access 3806-1
 zbar 0.23.90-3.1
 zenity 3.44.2-1.1
 zeromq 4.3.4-4
