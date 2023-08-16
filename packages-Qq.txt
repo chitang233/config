@@ -2466,6 +2466,7 @@ ttf-roboto
 ttf-ubuntu-font-family
 ttf-ubuntu-mono-nerd
 ttf-ubuntu-nerd
+ttyd
 twolame
 tzdata
 uchardet
@@ -2497,6 +2498,7 @@ vcdimager
 vde2
 vdpauinfo
 ventoy-bin
+vhs
 vid.stab
 vim
 vim-plug

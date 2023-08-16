@@ -2466,6 +2466,7 @@ ttf-roboto 2.138-4
 ttf-ubuntu-font-family 1:0.83-1
 ttf-ubuntu-mono-nerd 3.0.2-1
 ttf-ubuntu-nerd 3.0.2-1
+ttyd 1.7.3-1.1
 twolame 0.4.0-3.1
 tzdata 2023c-2.1
 uchardet 0.0.8-1.1
@@ -2497,6 +2498,7 @@ vcdimager 2.0.1-4.1
 vde2 2.3.3-3.1
 vdpauinfo 1.5-1.1
 ventoy-bin 1.0.94-1
+vhs 0.6.0-1.1
 vid.stab 1.1.1-1.1
 vim 9.0.1678-1.1
 vim-plug 0.11.0-1
