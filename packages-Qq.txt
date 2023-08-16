@@ -162,6 +162,7 @@ cheese
 chmlib
 chromaprint
 chromium
+chrpath
 cifs-utils
 ciphey
 cjson
@@ -360,6 +361,7 @@ fltk
 fluffychat-bin
 fluidsynth
 fmt
+fmt9
 fontconfig
 foomatic-db
 foomatic-db-nonfree
