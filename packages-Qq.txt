@@ -9,6 +9,8 @@ acpi
 acpi_call-dkms
 activitywatch-bin
 adobe-source-code-pro-fonts
+adwaita-cursors
+adwaita-icon-theme
 aegisub
 afpfs-ng
 aha
@@ -110,7 +112,6 @@ bluez-tools
 bluez-utils
 bolt
 bomber
-boost
 boost-libs
 bovo
 box2d
@@ -162,7 +163,6 @@ cheese
 chmlib
 chromaprint
 chromium
-chrpath
 cifs-utils
 ciphey
 cjson
@@ -232,7 +232,6 @@ debian-ports-archive-keyring
 debugedit
 dee
 default-cursors
-dejagnu
 desktop-file-utils
 desmume
 detect-it-easy
@@ -272,7 +271,6 @@ dotnet-host-bin
 dotnet-runtime-6.0-bin
 dotnet-runtime-bin
 double-conversion
-doxygen
 dpkg
 dragon
 drkonqi
@@ -318,7 +316,6 @@ exiv2
 expac
 expat
 expect
-extra-cmake-modules
 f2fs-tools
 faac
 faad2
@@ -396,8 +393,6 @@ gawk
 gc
 gcab
 gcc
-gcc-ada
-gcc-d
 gcc-libs
 gcc12
 gcc12-libs
@@ -435,10 +430,8 @@ glfw-x11
 glhack
 glib-networking
 glib2
-glib2-docs
 glibc
 glibmm
-glibmm-2.68
 glm
 glmark2
 glslang
@@ -501,7 +494,6 @@ gst-plugins-base-libs
 gst-plugins-good
 gstreamer
 gtest
-gtk-doc
 gtk-update-icon-cache
 gtk-vnc
 gtk2
@@ -1288,7 +1280,6 @@ libsecret
 libshout
 libsigc++
 libsigc++-3.0
-libsigc++-docs
 libsigsegv
 libslirp
 libsm
@@ -1314,7 +1305,6 @@ libtar
 libtasn1
 libteam
 libtermkey
-libtg_owt
 libthai
 libtheora
 libtiff
@@ -1478,17 +1468,13 @@ mda.lv2
 mdadm
 media-player-info
 mediainfo
-memcached
 memstrack
-mercurial
 mesa
 mesa-demos
 mesa-utils
-meson
 messagelib
 mgba-qt
 mgba-sdl
-microsoft-gsl
 milou
 mindustry
 miniupnpc
@@ -1499,7 +1485,6 @@ mjpegtools
 mkinitcpio
 mkinitcpio-busybox
 mlt
-mm-common
 mobile-broadband-provider-info
 modemmanager
 modemmanager-qt
@@ -1655,32 +1640,12 @@ pcre2
 pcsclite
 perl
 perl-archive-zip
-perl-cache-memcached
-perl-clone
-perl-encode-locale
 perl-error
-perl-file-listing
-perl-html-parser
-perl-html-tagset
-perl-http-cookies
-perl-http-daemon
-perl-http-date
-perl-http-message
-perl-http-negotiate
 perl-image-exiftool
-perl-io-html
 perl-io-tty
-perl-libwww
-perl-lwp-mediatypes
 perl-mailtools
-perl-net-http
-perl-string-crc32
 perl-switch
 perl-timedate
-perl-try-tiny
-perl-uri
-perl-www-robotrules
-perl-xml-parser
 phodav
 phonon-qt5
 phonon-qt5-gstreamer
@@ -1711,14 +1676,12 @@ plasma-sdk
 plasma-systemmonitor
 plasma-thunderbolt
 plasma-vault
-plasma-wayland-protocols
 plasma-wayland-session
 plasma-workspace
 plasma5-wallpapers-wallpaper-engine
 plasmatube
 pngcrush
 pnpm
-pod2man
 podman
 podman-compose
 podman-dnsname
@@ -1813,7 +1776,6 @@ python-css-parser
 python-cssselect
 python-cycler
 python-dateutil
-python-debugpy
 python-decorator
 python-dill
 python-distlib
@@ -1824,7 +1786,6 @@ python-dulwich
 python-emoji
 python-entrypoints
 python-evdev
-python-execnet
 python-executing
 python-fastimport
 python-fastjsonschema
@@ -1988,9 +1949,6 @@ python-pyserial
 python-pysmbc
 python-pysocks
 python-pytest
-python-pytest-asyncio
-python-pytest-cov
-python-pytest-xdist
 python-python-socks
 python-pytz
 python-pyusb
@@ -2008,7 +1966,6 @@ python-rencode
 python-requests
 python-requests-toolbelt
 python-rfc3339-validator
-python-rfc3986-validator
 python-rich
 python-rpds-py
 python-rsa
@@ -2225,7 +2182,6 @@ quazip-qt6
 quota-tools
 radvd
 railwayapp-cli
-range-v3
 raptor
 rasqal
 rav1e
@@ -2246,7 +2202,6 @@ rlwrap
 rnnoise
 roc-toolkit
 rpcbind
-rpcsvc-proto
 rsync
 rtkit
 rtl-sdr
@@ -2355,7 +2310,6 @@ slang
 slirp4netns
 smartmontools
 smbclient
-snapd-xdg-open-git
 snapper
 snappy
 sndio
@@ -2440,7 +2394,6 @@ timeshift
 tinyxml
 tinyxml2
 tk
-tl-expected
 tmux
 toilet
 tokodon
@@ -2462,6 +2415,7 @@ ttf-jetbrains-mono-nerd
 ttf-liberation
 ttf-material-design-icons-git
 ttf-misans
+ttf-ms-fonts
 ttf-nerd-fonts-symbols
 ttf-nerd-fonts-symbols-common
 ttf-roboto
