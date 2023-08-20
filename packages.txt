@@ -117,7 +117,7 @@ bovo 23.04.3-1.1
 box2d 2.4.1-1.2
 breeze 5.27.7-1.1
 breeze-gtk 5.27.7-1
-breeze-icons 5.108.0-1
+breeze-icons 5.109.0-1
 bridge-utils 1.7.1-1.1
 brltty 6.6-2.1
 brotli 1.0.9-12.1
@@ -345,8 +345,8 @@ filelight 23.04.3-1.1
 filesystem 2023.01.31-1.1
 findutils 4.9.0-3.1
 fio 3.35-1.1
-firefox-appmenu 112.0.1-20
-firefox-nightly 118.0a1+20230818.1+h87da0265a044-1
+firefox-appmenu 112.0.2-2
+firefox-nightly 118.0a1+20230820.1+h00ae001484c9-1
 firefox-pwa 2.7.3-1
 fish 3.6.1-1.1
 flac 1.4.3-1.1
@@ -518,7 +518,7 @@ gvfs-gphoto2 1.50.6-1.1
 gvfs-mtp 1.50.6-1.1
 gvfs-nfs 1.50.6-1.1
 gvfs-smb 1.50.6-1.1
-gwe 0.15.5-3.5
+gwe 0.15.5-3.6
 gwenview 23.04.3-1.1
 gzip 1.12-2.1
 hamlib 4.5.5-3.1
@@ -544,14 +544,14 @@ htop 3.2.2-1.1
 http-parser 2.9.4-1.1
 hugo 0.116.1-1.1
 hunspell 1.7.2-1.1
-hwdata 0.372-1
+hwdata 0.373-1
 hwloc 2.9.1-1.1
 hydra 9.5-1.1
 hyfetch 1.4.10-1
 hyphen 2.8.8-5.1
 i2c-tools 4.3-4.1
 iana-etc 20230629-1
-icalingua++ 2.9.21-1
+icalingua++ 2.10.0-1
 icu 73.2-2.1
 icu69-bin 69.1-1
 id3lib 3.8.3-18.1
@@ -1413,8 +1413,8 @@ linux-firmware 20230804.7be2766d-2
 linux-firmware-whence 20230804.7be2766d-2
 linux-steam-integration 0.7.3-5.2
 linux-wifi-hotspot 4.5.0.r1.g4d64e83-2
-linux-zen 6.4.11.zen1-1
-linux-zen-headers 6.4.11.zen1-1
+linux-zen 6.4.11.zen2-1.1
+linux-zen-headers 6.4.11.zen2-1.1
 lirc 1:0.10.2-3.1
 live-media 2023.01.19-1.1
 lld 15.0.7-2.1
@@ -1438,8 +1438,8 @@ lua52 5.2.4-5.1
 lua53 5.3.6-1.1
 luajit 2.1.0.beta3.r505.g72efc42e-1.1
 luit 20230201-1.1
-lunar-client 2.16.1-1
-lutris-git 0.5.13.r215.gca0be5272-1
+lunar-client 3.0.5-1
+lutris-git 0.5.13.r219.ge69425f8-1
 lv2 1.18.10-1.1
 lxc 1:5.0.3-1.1
 lxcfs 5.0.4-1.1
@@ -1492,8 +1492,8 @@ monero 0.18.2.2-2.1
 monero-gui 0.18.2.2-2.1
 mongo-c-driver 1.24.2-1.1
 mongodb-bin 6.0.9-1
-mongodb-tools-bin 100.7.5-1
-mongosh-bin 1.10.3-1
+mongodb-tools-bin 100.8.0-1
+mongosh-bin 1.10.5-1
 mono 6.12.0.198-1.1
 mosh 1.4.0-3.1
 mpdecimal 2.5.1-1.1
@@ -1615,7 +1615,7 @@ packagekit 1.2.6-2.1
 pacman 6.0.2-10
 pacman-contrib 1.9.1-1.1
 pacman-mirrorlist 20230628-1
-pacman-static 6.0.1-49
+pacman-static 6.0.2-3
 pahole 1:1.25-4.1
 palapeli 23.04.3-1.1
 pam 1.5.3-3.1
@@ -1707,7 +1707,7 @@ potrace 1.16-2.1
 powerdevil 5.27.6-3.1
 poxml 23.04.3-1.1
 ppp 2.4.9-3.1
-prismlauncher-git 7.0.r789.g3098aecf9-1
+prismlauncher-git 7.0.r801.gebbc8838a-1
 prison 5.108.0-1.1
 procps-ng 4.0.3-1.1
 projectm 3.1.12-4.1
@@ -1723,7 +1723,7 @@ purpose 5.108.0-1.1
 putty 0.78-1.1
 pycharm-professional 2023.2-1
 pyinstaller 5.13.0-1
-pyinstaller-hooks-contrib 2023.6-1
+pyinstaller-hooks-contrib 2023.7-1
 pyside2 5.15.10-1.1
 pystring 1.1.4-1.1
 python 3.11.4-1
@@ -1864,6 +1864,7 @@ python-mechanize 1:0.4.8-2
 python-mitmproxy-rs 0.2.2-1.1
 python-mitmproxy-wireguard 0.1.23-1.1
 python-mock 3.0.5-11
+python-moddb 0.8.1-1
 python-more-itertools 10.1.0-1
 python-msgpack 1.0.5-1.1
 python-multidict 6.0.4-2.1
@@ -1945,6 +1946,7 @@ python-pyqt5-webengine 5.15.6-2.1
 python-pyqt6 6.5.2-1.1
 python-pyqt6-sip 13.5.2-1.1
 python-pyqt6-webengine 6.5.0-2.1
+python-pyrate-limiter 2.10.0-1
 python-pyrogram 2.0.106-1
 python-pyrsistent 0.19.3-3.1
 python-pyscard 2.0.7-1.1
@@ -1993,9 +1995,10 @@ python-tinyaes 1.0.4-1
 python-toml 0.10.2-9
 python-tomli 2.0.1-3
 python-tomlkit 0.11.8-2
+python-toolz 0.12.0-3
 python-tornado 6.2.0-4.1
 python-tox 4.5.1-1
-python-tqdm 4.65.0-3
+python-tqdm 4.66.1-1
 python-traitlets 5.9.0-2
 python-trove-classifiers 2023.8.7-1
 python-twisted 22.10.0-3
@@ -2189,7 +2192,7 @@ raptor 2.0.16-3.1
 rasqal 1:0.9.33-6.1
 rav1e 0.6.6-1.1
 rclone 1.63.1-1.1
-rclone-browser 1.8.0-1
+rclone-browser 1.8.0-3.3
 re2 1:20230801-1.1
 readline 8.2.001-2.1
 recode 3.7.14-1.1
@@ -2263,7 +2266,7 @@ run-parts 5.5-1.1
 runc 1.1.9-1.1
 rustdesk-bin 1.2.1-1
 rustup 1.26.0-3.1
-ryujinx-git r3009.153b8bfc7c-2
+ryujinx-git r3011.7f96dbc024-1
 samba 4.18.6-1.1
 sbc 2.0-1.1
 sbkeys 1.1.0-2
@@ -2445,7 +2448,7 @@ util-linux 2.39.2-1.1
 util-linux-libs 2.39.2-1.1
 uudeck 2023.1.10.1600-3
 v2ray-domain-list-community 20230815132423-1
-v2ray-geoip 202308100046-1
+v2ray-geoip 202308170035-1
 v4l-utils 1.24.1-2.1
 v4l2loopback-dc-dkms 1:2.0.0-1
 v4l2loopback-dkms 0.12.7-2
@@ -2527,7 +2530,7 @@ xapp 2.6.1-1.1
 xbitmaps 1.1.3-1
 xcaddy-bin 0.3.5-1
 xcb-imdkit 1.0.5-1.1
-xcb-proto 1.15.2-3
+xcb-proto 1.16.0-1
 xcb-util 0.4.1-1.1
 xcb-util-cursor 0.1.4-1.1
 xcb-util-errors 1.0.1-1.1
@@ -2645,7 +2648,7 @@ yubikey-manager-qt 1.2.5-1.1
 yubikey-personalization 1.20.0-3
 yubikey-personalization-gui 3.1.25-2.1
 yubioath-desktop 5.1.0-3.1
-yuzu-early-access 3818-1
+yuzu-early-access 3824-1
 zbar 0.23.90-3.1
 zenity 3.44.2-1.1
 zeromq 4.3.4-4

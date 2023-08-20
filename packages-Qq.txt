@@ -1864,6 +1864,7 @@ python-mechanize
 python-mitmproxy-rs
 python-mitmproxy-wireguard
 python-mock
+python-moddb
 python-more-itertools
 python-msgpack
 python-multidict
@@ -1945,6 +1946,7 @@ python-pyqt5-webengine
 python-pyqt6
 python-pyqt6-sip
 python-pyqt6-webengine
+python-pyrate-limiter
 python-pyrogram
 python-pyrsistent
 python-pyscard
@@ -1993,6 +1995,7 @@ python-tinyaes
 python-toml
 python-tomli
 python-tomlkit
+python-toolz
 python-tornado
 python-tox
 python-tqdm
