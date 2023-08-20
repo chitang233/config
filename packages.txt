@@ -1468,9 +1468,7 @@ mda.lv2 1.2.10-1.1
 mdadm 4.2-2.1
 media-player-info 24-2
 mediainfo 23.07-1.1
-memcached 1.6.19-1.1
 memstrack 0.2.2-1
-mercurial 6.5.1-1.1
 mesa 1:23.1.6-1
 mesa-demos 9.0.0-2.1
 mesa-utils 9.0.0-2.1
@@ -1642,16 +1640,12 @@ pcre2 10.42-2.1
 pcsclite 2.0.0-1.1
 perl 5.38.0-1.1
 perl-archive-zip 1.68-8
-perl-cache-memcached 1.30-5
 perl-error 0.17029-5
-perl-fcgi 0.82-3.1
-perl-gd 2.77-2.1
 perl-image-exiftool 12.60-3
 perl-io-socket-ssl 2.083-2
 perl-io-tty 1.17-2.1
 perl-mailtools 2.21-7
 perl-net-ssleay 1.92-3
-perl-string-crc32 2.100-2.1
 perl-switch 2.17-9
 perl-timedate 2.33-5
 perl-uri 5.19-2
@@ -1713,7 +1707,7 @@ potrace 1.16-2.1
 powerdevil 5.27.6-3.1
 poxml 23.04.3-1.1
 ppp 2.4.9-3.1
-prismlauncher 7.2-1
+prismlauncher-git 7.0.r789.g3098aecf9-1
 prison 5.108.0-1.1
 procps-ng 4.0.3-1.1
 projectm 3.1.12-4.1

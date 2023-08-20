@@ -1468,9 +1468,7 @@ mda.lv2
 mdadm
 media-player-info
 mediainfo
-memcached
 memstrack
-mercurial
 mesa
 mesa-demos
 mesa-utils
@@ -1642,16 +1640,12 @@ pcre2
 pcsclite
 perl
 perl-archive-zip
-perl-cache-memcached
 perl-error
-perl-fcgi
-perl-gd
 perl-image-exiftool
 perl-io-socket-ssl
 perl-io-tty
 perl-mailtools
 perl-net-ssleay
-perl-string-crc32
 perl-switch
 perl-timedate
 perl-uri
@@ -1713,7 +1707,7 @@ potrace
 powerdevil
 poxml
 ppp
-prismlauncher
+prismlauncher-git
 prison
 procps-ng
 projectm
