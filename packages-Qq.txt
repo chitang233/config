@@ -383,6 +383,7 @@ fuse-overlayfs
 fuse2
 fuse3
 fuseiso
+futuresql-qt5
 fwupd
 fwupd-efi
 fzf
@@ -2046,6 +2047,7 @@ qemu-audio-oss
 qemu-audio-pa
 qemu-audio-sdl
 qemu-audio-spice
+qemu-base
 qemu-block-curl
 qemu-block-dmg
 qemu-block-gluster
