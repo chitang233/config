@@ -112,6 +112,7 @@ bluez-tools
 bluez-utils
 bolt
 bomber
+boost
 boost-libs
 bovo
 box2d
@@ -271,6 +272,7 @@ dotnet-host-bin
 dotnet-runtime-6.0-bin
 dotnet-runtime-bin
 double-conversion
+doxygen
 dpkg
 dragon
 drkonqi
@@ -316,6 +318,7 @@ exiv2
 expac
 expat
 expect
+extra-cmake-modules
 f2fs-tools
 faac
 faad2
@@ -431,6 +434,7 @@ glfw-x11
 glhack
 glib-networking
 glib2
+glib2-docs
 glibc
 glibmm
 glm
@@ -495,6 +499,7 @@ gst-plugins-base-libs
 gst-plugins-good
 gstreamer
 gtest
+gtk-doc
 gtk-update-icon-cache
 gtk-vnc
 gtk2
@@ -1281,6 +1286,7 @@ libsecret
 libshout
 libsigc++
 libsigc++-3.0
+libsigc++-docs
 libsigsegv
 libslirp
 libsm
@@ -1306,6 +1312,7 @@ libtar
 libtasn1
 libteam
 libtermkey
+libtg_owt
 libthai
 libtheora
 libtiff
@@ -1473,9 +1480,11 @@ memstrack
 mesa
 mesa-demos
 mesa-utils
+meson
 messagelib
 mgba-qt
 mgba-sdl
+microsoft-gsl
 milou
 mindustry
 miniupnpc
@@ -1486,6 +1495,7 @@ mjpegtools
 mkinitcpio
 mkinitcpio-busybox
 mlt
+mm-common
 mobile-broadband-provider-info
 modemmanager
 modemmanager-qt
@@ -1641,15 +1651,32 @@ pcre2
 pcsclite
 perl
 perl-archive-zip
+perl-clone
+perl-encode-locale
 perl-error
+perl-file-listing
+perl-html-parser
+perl-html-tagset
+perl-http-cookies
+perl-http-daemon
+perl-http-date
+perl-http-message
+perl-http-negotiate
 perl-image-exiftool
+perl-io-html
 perl-io-socket-ssl
 perl-io-tty
+perl-libwww
+perl-lwp-mediatypes
 perl-mailtools
+perl-net-http
 perl-net-ssleay
 perl-switch
 perl-timedate
+perl-try-tiny
 perl-uri
+perl-www-robotrules
+perl-xml-parser
 phodav
 phonon-qt5
 phonon-qt5-gstreamer
@@ -1680,6 +1707,7 @@ plasma-sdk
 plasma-systemmonitor
 plasma-thunderbolt
 plasma-vault
+plasma-wayland-protocols
 plasma-wayland-session
 plasma-workspace
 plasma5-wallpapers-wallpaper-engine
@@ -2202,6 +2230,7 @@ quazip-qt6
 quota-tools
 radvd
 railwayapp-cli
+range-v3
 raptor
 rasqal
 rav1e
@@ -2414,6 +2443,7 @@ timeshift
 tinyxml
 tinyxml2
 tk
+tl-expected
 tmux
 toilet
 tokodon
