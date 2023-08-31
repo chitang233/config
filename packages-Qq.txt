@@ -1785,6 +1785,7 @@ python-dill
 python-distlib
 python-distro
 python-dnspython
+python-docutils
 python-dotenv
 python-dulwich
 python-emoji
@@ -1820,6 +1821,7 @@ python-hyperframe
 python-hyperlink
 python-idna
 python-ifaddr
+python-imagesize
 python-importlib-metadata
 python-incremental
 python-inflate64
@@ -1987,8 +1989,17 @@ python-sgmllib3k
 python-shellingham
 python-shiboken2
 python-six
+python-snowballstemmer
 python-sortedcontainers
 python-soupsieve
+python-sphinx
+python-sphinx-alabaster-theme
+python-sphinxcontrib-applehelp
+python-sphinxcontrib-devhelp
+python-sphinxcontrib-htmlhelp
+python-sphinxcontrib-jsmath
+python-sphinxcontrib-qthelp
+python-sphinxcontrib-serializinghtml
 python-stack-data
 python-telethon
 python-texttable
@@ -2045,6 +2056,7 @@ qemu-audio-dbus
 qemu-audio-jack
 qemu-audio-oss
 qemu-audio-pa
+qemu-audio-pipewire
 qemu-audio-sdl
 qemu-audio-spice
 qemu-base
