@@ -248,6 +248,7 @@ discover-overlay
 distrobox
 djvulibre
 dkms
+dleyna
 dmenu
 dmidecode
 dnsmasq
@@ -314,6 +315,7 @@ espeak-ng
 ethtool
 evince
 exa
+exempi
 exiv2
 expac
 expat
@@ -452,6 +454,7 @@ gnome-desktop-4
 gnome-desktop-common
 gnome-keyring
 gnome-latex
+gnome-music
 gnome-terminal
 gnome-video-effects
 gnu-free-fonts
@@ -463,6 +466,7 @@ go
 gobject-introspection
 gobject-introspection-runtime
 goland
+gom
 google-chrome-dev
 goverlay-git
 gpart
@@ -481,6 +485,8 @@ graphene
 graphite
 graphviz
 grep
+grilo
+grilo-plugins
 groff
 grpc
 grub
@@ -497,6 +503,7 @@ gst-plugins-bad-libs
 gst-plugins-base
 gst-plugins-base-libs
 gst-plugins-good
+gst-plugins-ugly
 gstreamer
 gtest
 gtk-doc
@@ -515,6 +522,8 @@ gts
 guile
 gummi
 gupnp
+gupnp-av
+gupnp-dlna
 gupnp-igd
 gvfs
 gvfs-afc
@@ -1065,6 +1074,7 @@ libcheese
 libcloudproviders
 libcolord
 libcpuid
+libcue
 libcups
 libcurl-compat
 libcurl-gnutls
@@ -1081,6 +1091,7 @@ libde265
 libdecor
 libdispatch
 libdisplay-info
+libdmapsharing
 libdmtx
 libdrm
 libdv
@@ -1129,6 +1140,7 @@ libgoom2
 libgpg-error
 libgphoto2
 libgravatar
+libgrss
 libgsf
 libgtop
 libgudev
@@ -1153,6 +1165,7 @@ libindicator-gtk2
 libinih
 libinput
 libinstpatch
+libiptcdata
 libirecovery
 libiscsi
 libisl
@@ -1199,6 +1212,7 @@ libmatroska
 libmaxminddb
 libmbim
 libmd
+libmediaart
 libmediainfo
 libmemcached-awesome
 libmfx
@@ -1238,6 +1252,7 @@ libnotify
 libnova
 libnsl
 libnumbertext
+liboauth
 libodfgen
 libogg
 libolm
@@ -1423,6 +1438,7 @@ linux-steam-integration
 linux-wifi-hotspot
 linux-zen
 linux-zen-headers
+linuxqq-nt-bwrap
 lirc
 live-media
 lld
@@ -2359,6 +2375,7 @@ slang
 slirp4netns
 smartmontools
 smbclient
+snapd-xdg-open-git
 snapper
 snappy
 sndio
@@ -2449,9 +2466,11 @@ toilet
 tokodon
 tomlplusplus
 tor-browser
+totem-pl-parser
 tpm2-tss
 traceroute
 tracker3
+tracker3-miners
 translate-shell
 trash-cli
 trayscale

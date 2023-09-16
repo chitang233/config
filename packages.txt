@@ -248,6 +248,7 @@ discover-overlay 0.6.5-3
 distrobox 1.5.0.2-1
 djvulibre 3.5.28-5.1
 dkms 3.0.11-1
+dleyna 0.8.2-2.1
 dmenu 5.2-1.1
 dmidecode 3.5-1.1
 dnsmasq 2.89-1.1
@@ -314,6 +315,7 @@ espeak-ng 1.51.1-2.1
 ethtool 1:6.4-1.1
 evince 44.3-1.1
 exa 0.10.1-8
+exempi 2.6.4-1.1
 exiv2 0.28.0-3.1
 expac 10-5.1
 expat 2.5.0-1.1
@@ -452,6 +454,7 @@ gnome-desktop-4 1:44.0-1.1
 gnome-desktop-common 1:44.0-1.1
 gnome-keyring 1:42.1-3.1
 gnome-latex 3.44.0-1.1
+gnome-music 1:44.0-2
 gnome-terminal 3.48.2-1.1
 gnome-video-effects 1:0.6.0-1
 gnu-free-fonts 20120503-8
@@ -463,6 +466,7 @@ go 2:1.21.0-1.1
 gobject-introspection 1.76.1-3.1
 gobject-introspection-runtime 1.76.1-3.1
 goland 2023.2.1-1
+gom 0.4-7.1
 google-chrome-dev 118.0.5966.0-1
 goverlay-git 0.9.1.r6.g9f80288-1
 gpart 0.3-4.1
@@ -481,6 +485,8 @@ graphene 1.10.8-1.1
 graphite 1:1.3.14-3.1
 graphviz 8.1.0-2.1
 grep 3.11-1.1
+grilo 0.3.16-1.1
+grilo-plugins 1:0.3.16-1.1
 groff 1.23.0-3.1
 grpc 1.56.2-4.1
 grub 2:2.12rc1-1
@@ -497,6 +503,7 @@ gst-plugins-bad-libs 1.22.5-1.1
 gst-plugins-base 1.22.5-1.1
 gst-plugins-base-libs 1.22.5-1.1
 gst-plugins-good 1.22.5-1.1
+gst-plugins-ugly 1.22.5-1.1
 gstreamer 1.22.5-1.1
 gtest 1.13.0-1.1
 gtk-doc 1.33.2-3
@@ -515,6 +522,8 @@ gts 0.7.6.121130-2.1
 guile 3.0.9-1.1
 gummi 2:0.8.3-1.1
 gupnp 1:1.6.5-1.1
+gupnp-av 0.14.1-2.1
+gupnp-dlna 0.12.0-2.1
 gupnp-igd 1.6.0-1.1
 gvfs 1.50.6-1.1
 gvfs-afc 1.50.6-1.1
@@ -1065,6 +1074,7 @@ libcheese 44.1-1.1
 libcloudproviders 0.3.2-1.1
 libcolord 1.4.6-1.1
 libcpuid 0.6.3-1.1
+libcue 2.2.1-3.1
 libcups 1:2.4.6-1.1
 libcurl-compat 8.2.1-1.1
 libcurl-gnutls 8.2.1-1.1
@@ -1081,6 +1091,7 @@ libde265 1.0.12-1.1
 libdecor 0.1.1-2.1
 libdispatch 5.5.0-1.1
 libdisplay-info 0.1.1-3.1
+libdmapsharing 3.9.13-1.1
 libdmtx 0.7.7-1.1
 libdrm 2.4.116-1.1
 libdv 1.0.0-11.1
@@ -1129,6 +1140,7 @@ libgoom2 2k4-5.1
 libgpg-error 1.47-1.1
 libgphoto2 2.5.30-2.1
 libgravatar 23.08.0-1.1
+libgrss 0.7.0+16+g971c421-3.1
 libgsf 1.14.50-1.1
 libgtop 2.41.1-1.1
 libgudev 238-1.1
@@ -1153,6 +1165,7 @@ libindicator-gtk2 12.10.1-10.1
 libinih 57-1.1
 libinput 1.24.0-1.1
 libinstpatch 1.1.6-2.1
+libiptcdata 1.0.5-2.1
 libirecovery 1.1.0-1
 libiscsi 1.19.0-2.1
 libisl 0.26-1.1
@@ -1199,6 +1212,7 @@ libmatroska 1.7.1-1.1
 libmaxminddb 1.7.1-1.1
 libmbim 1.28.4-1.1
 libmd 1.1.0-1.1
+libmediaart 1.9.6-2.1
 libmediainfo 23.07-1.1
 libmemcached-awesome 1.1.4-2.1
 libmfx 23.2.2-2.1
@@ -1238,6 +1252,7 @@ libnotify 0.8.2-1.1
 libnova 0.15.0-3.1
 libnsl 2.0.0-3.1
 libnumbertext 1.0.11-1.1
+liboauth 1:1.0.3+r16+gc26f038-1.1
 libodfgen 0.1.8-2.1
 libogg 1.3.5-1.1
 libolm 3.2.15-1.1
@@ -1423,6 +1438,7 @@ linux-steam-integration 0.7.3-5.2
 linux-wifi-hotspot 4.5.0.r1.g4d64e83-2
 linux-zen 6.4.12.zen1-1.1
 linux-zen-headers 6.4.12.zen1-1.1
+linuxqq-nt-bwrap 3.2.0_16449-2
 lirc 1:0.10.2-3.1
 live-media 2023.01.19-1.1
 lld 16.0.6-1.1
@@ -2359,6 +2375,7 @@ slang 2.3.3-2.1
 slirp4netns 1.2.1-1.1
 smartmontools 7.4-1.1
 smbclient 4.18.6-1.1
+snapd-xdg-open-git r44.6fed357-2
 snapper 0.10.5-1.1
 snappy 1.1.9-2.1
 sndio 1.9.0-1.1
@@ -2449,9 +2466,11 @@ toilet 0.3.r155.3eb9d58-2
 tokodon 23.08.0-1.1
 tomlplusplus 3.3.0-1.1
 tor-browser 12.5.3-1
+totem-pl-parser 3.26.6-2
 tpm2-tss 4.0.1-1.1
 traceroute 2.1.2-1.1
 tracker3 3.5.3-2.1
+tracker3-miners 3.5.2-2.1
 translate-shell 0.9.7.1-1
 trash-cli 0.23.2.13.2-2
 trayscale 0.10.2-1
