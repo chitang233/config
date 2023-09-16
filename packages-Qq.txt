@@ -164,6 +164,7 @@ cheese
 chmlib
 chromaprint
 chromium
+chrpath
 cifs-utils
 ciphey
 cjson
@@ -314,13 +315,13 @@ erofs-utils
 espeak-ng
 ethtool
 evince
-exa
 exempi
 exiv2
 expac
 expat
 expect
 extra-cmake-modules
+eza
 f2fs-tools
 faac
 faad2
@@ -594,6 +595,7 @@ jasper
 java-environment-common
 java-runtime-common
 jbig2dec
+jbigkit
 jdk8-graalvm-bin
 jemalloc
 jfsutils
@@ -1089,6 +1091,7 @@ libdc1394
 libdca
 libde265
 libdecor
+libdeflate
 libdispatch
 libdisplay-info
 libdmapsharing
@@ -1441,8 +1444,10 @@ linux-zen-headers
 linuxqq-nt-bwrap
 lirc
 live-media
+lksctp-tools
 lld
 llvm-libs
+llvm15-libs
 lm_sensors
 lmdb
 lmms
@@ -1657,6 +1662,7 @@ parted
 partitionmanager
 paru
 pass
+passim
 patch
 pcaudiolib
 pcem
@@ -2324,6 +2330,7 @@ rubygems
 run-parts
 runc
 rustdesk-bin
+rustrover
 rustup
 ryujinx-git
 samba
@@ -2479,6 +2486,7 @@ tree-sitter
 triplea
 tslib
 ttf-firacode-nerd
+ttf-hack
 ttf-jetbrains-mono
 ttf-jetbrains-mono-nerd
 ttf-liberation
@@ -2537,7 +2545,7 @@ virtualbox-guest-iso
 visual-studio-code-insiders-bin
 vkbasalt
 vkd3d
-vlc
+vlc-luajit
 vmaf
 vnstat
 volume_key
@@ -2557,6 +2565,7 @@ wayland-utils
 webkit2gtk
 webkit2gtk-4.1
 webrtc-audio-processing
+webrtc-audio-processing-1
 weechat
 weechat-matrix
 weston
