@@ -440,6 +440,7 @@ glib2
 glib2-docs
 glibc
 glibmm
+glibmm-2.68
 glm
 glmark2
 glslang
