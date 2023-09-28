@@ -958,6 +958,7 @@ lib32-libxau
 lib32-libxcb
 lib32-libxcomposite
 lib32-libxcrypt
+lib32-libxcrypt-compat
 lib32-libxcursor
 lib32-libxdamage
 lib32-libxdmcp
@@ -1097,6 +1098,7 @@ libdispatch
 libdisplay-info
 libdmapsharing
 libdmtx
+libdovi
 libdrm
 libdv
 libdvbpsi
@@ -1256,6 +1258,7 @@ libnotify
 libnova
 libnsl
 libnumbertext
+libnvme
 liboauth
 libodfgen
 libogg
@@ -1680,6 +1683,7 @@ perl-error
 perl-file-listing
 perl-html-parser
 perl-html-tagset
+perl-http-cookiejar
 perl-http-cookies
 perl-http-daemon
 perl-http-date
@@ -1788,6 +1792,7 @@ python-aiosignal
 python-altgraph
 python-appdirs
 python-apsw
+python-argcomplete
 python-arrow
 python-asgiref
 python-astroid
