@@ -543,7 +543,6 @@ handbrake
 handbrake-cli
 harfbuzz
 harfbuzz-icu
-harmonyos-sans-git
 haveged
 hdf5
 hdparm
@@ -1474,6 +1473,7 @@ luit
 lunar-client
 lutris-git
 lv2
+lvm2
 lxc
 lxcfs
 lynx
@@ -2467,6 +2467,7 @@ texlive-latex
 texlive-latexextra
 texlive-latexrecommended
 texlive-pictures
+thin-provisioning-tools
 threadweaver
 tigervnc
 timeshift
@@ -2493,6 +2494,7 @@ triplea
 tslib
 ttf-firacode-nerd
 ttf-hack
+ttf-harmonyos-sans
 ttf-jetbrains-mono
 ttf-jetbrains-mono-nerd
 ttf-liberation
