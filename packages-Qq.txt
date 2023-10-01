@@ -2026,6 +2026,7 @@ python-pyzstd
 python-qtpy
 python-rapidfuzz
 python-rapidjson
+python-reactivex
 python-redis
 python-referencing
 python-regex
