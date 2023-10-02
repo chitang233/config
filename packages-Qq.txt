@@ -1581,6 +1581,7 @@ node-gyp
 nodejs
 nodejs-neovim
 nodejs-nopt
+nodejs-whistle
 noto-color-emoji-fontconfig
 noto-fonts
 noto-fonts-cjk
@@ -2484,7 +2485,7 @@ tmux
 toilet
 tokodon
 tomlplusplus
-tor-browser
+tor-browser-bin
 totem-pl-parser
 tpm2-tss
 traceroute
