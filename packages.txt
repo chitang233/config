@@ -204,7 +204,7 @@ convertlit 1.8-11.1
 copyq 7.1.0-1.1
 coreutils 9.3-1.1
 cpio 2.14-1.1
-cpp-httplib 0.14.0-1
+cpp-httplib 0.14.1-1
 cppdap 1.58.0-1.1
 cpu-g-git 0.16.3.1ubuntu1.r64.a94ef88-1
 cpu-x 4.5.3-6
@@ -330,7 +330,7 @@ faac 1.30-4.1
 faad2 2.10.1-1.1
 fakeroot 1.32.1-1.1
 falkon 23.08.1-1.1
-fastfetch 2.0.5-1
+fastfetch 2.1.0-1
 fcitx5 5.1.1-1.1
 fcitx5-anthy 5.1.1-1.1
 fcitx5-chinese-addons 5.1.0-2.1
@@ -355,7 +355,7 @@ filesystem 2023.09.18-1
 findutils 4.9.0-3.1
 fio 3.35-1.1
 firefox-appmenu 112.0.2-2
-firefox-nightly 120.0a1+20231001.1+h1abb269d873e-1
+firefox-nightly 120.0a1+20231002.1+h24f12f75ef9b-1
 firefox-pwa 2.8.0-1
 fish 3.6.1-1.1
 flac 1.4.3-1.1
@@ -650,11 +650,11 @@ kcalutils 23.08.1-1.1
 kcharselect 23.08.1-1.1
 kclock 23.08.1-1.1
 kcmutils5 5.110.0-1.1
-kcodecs5 5.110.0-1
+kcodecs5 5.110.0-1.1
 kcolorchooser 23.08.1-1.1
 kcolorpicker 0.2.0-1.1
-kcompletion5 5.110.0-1
-kconfig5 5.110.0-1
+kcompletion5 5.110.0-1.1
+kconfig5 5.110.0-1.1
 kconfigwidgets5 5.110.0-1.1
 kcontacts5 5.110.0-2.1
 kcoreaddons5 5.110.0-1.1
@@ -702,10 +702,10 @@ kfourinline 23.08.1-1.1
 kgamma5 5.27.8-1.1
 kgeography 23.08.1-1.1
 kget 23.08.1-1.1
-kglobalaccel5 5.110.0-1
+kglobalaccel5 5.110.0-1.1
 kgoldrunner 23.08.1-1.1
 kgpg 23.08.1-1.1
-kguiaddons5 5.110.0-1
+kguiaddons5 5.110.0-1.1
 khangman 23.08.1-1.1
 khefin 0.6.1-3
 khelpcenter 23.08.1-1.1
@@ -732,7 +732,7 @@ kio-extras 23.08.1-1.1
 kio-fuse 5.0.1-1.1
 kio-gdrive 23.08.1-1.1
 kio-zeroconf 23.08.1-1.1
-kio5 5.110.0-2
+kio5 5.110.0-2.1
 kirigami-addons 0.11.0-1.1
 kirigami2 5.110.0-1.1
 kiriki 23.08.1-1.1
@@ -764,7 +764,7 @@ knavalbattle 23.08.1-1.1
 knetwalk 23.08.1-1.1
 knewstuff5 5.110.0-1.1
 knights 23.08.1-1.1
-knotifications5 5.110.0-1
+knotifications5 5.110.0-1.1
 knotifyconfig5 5.110.0-1.1
 kolf 23.08.1-1.1
 kollision 23.08.1-1.1
@@ -1012,7 +1012,7 @@ lib32-pixman 0.42.2-1
 lib32-polkit 123-1
 lib32-readline 8.2.001-2
 lib32-sdl12-compat 1.2.68-1
-lib32-sdl2 2.28.3-1
+lib32-sdl2 2.28.4-1
 lib32-sdl2_image 2.6.3-1
 lib32-sdl2_mixer 2.6.3-1
 lib32-sdl2_ttf 2.20.2-1
@@ -1768,7 +1768,7 @@ potrace 1.16-2.1
 powerdevil 5.27.8-1.1
 poxml 23.08.1-1.1
 ppp 2.5.0-1.1
-prismlauncher-git 7.0.r967.geab1180f6-1
+prismlauncher-git 7.0.r973.g540fc7d2a-1
 prison5 5.110.0-1.1
 procps-ng 4.0.4-2.1
 projectm 3.1.12-4.1
@@ -1965,7 +1965,7 @@ python-poetry-core 1.7.0-1
 python-poetry-plugin-export 1.3.0-3
 python-polib 1.2.0-1.2
 python-pooch 1.7.0-4
-python-prettytable 3.7.0-1
+python-prettytable 3.8.0-1
 python-prompt_toolkit 3.0.39-1
 python-protobuf 24.3-1.1
 python-proxy_tools 0.1.0-4
@@ -1992,7 +1992,7 @@ python-pydantic 1.10.9-1.1
 python-pyflakes 3.1.0-1
 python-pygments 2.16.1-1
 python-pyinotify 0.9.6-12
-python-pylint 2.17.6-1
+python-pylint 2.17.7-1
 python-pylsqpack 0.3.17-1.1
 python-pynacl 1.4.0-6.1
 python-pynvim 0.4.3-3
@@ -2344,7 +2344,7 @@ runc 1.1.9-1.1
 rustdesk-bin 1.2.2-3
 rustrover 232.9921.62-1
 rustup 1.26.0-3.1
-ryujinx-git r3053.651e24fed9-1
+ryujinx-git r3054.8b2625b0b-1
 samba 4.19.0-1.1
 sbc 2.0-1.1
 sbkeys 1.1.0-2
@@ -2380,7 +2380,7 @@ sfml 2.6.0-3.1
 shaderc 2023.4-2.1
 shadow 4.14.0-4
 shared-mime-info 2.2+13+ga2ffb28-1.1
-signal-desktop-beta 6.32.0beta1-1
+signal-desktop-beta 6.33.0beta1-1
 signon-kwallet-extension 23.08.1-1.1
 signon-plugin-oauth2 0.25-1
 signon-ui 0.17+20171022-3.1
@@ -2462,7 +2462,7 @@ tar 1.35-1.1
 tcl 8.6.13-1.1
 tcping 0.1.1rc1-1
 tdb 1.4.9-1.1
-telegram-desktop-megumifox 4.10.2-1
+telegram-desktop-megumifox 4.10.3-1
 telly-skout 23.08.1-1.1
 tepl 1:6.4.0-4.1
 tevent 1:0.15.0-1.1
@@ -2734,7 +2734,7 @@ yubikey-manager-qt 1.2.5-1.1
 yubikey-personalization 1.20.0-3
 yubikey-personalization-gui 3.1.25-2.1
 yubioath-desktop 5.1.0-3.1
-yuzu-early-access 3907-1
+yuzu-early-access 3909-1
 zbar 0.23.90-3.1
 zenity 3.44.2-1.1
 zeromq 4.3.4-4
