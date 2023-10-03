@@ -126,7 +126,9 @@ bridge-utils
 brltty
 brotli
 btop
+btrfs-assistant
 btrfs-progs
+btrfsmaintenance
 bubblewrap
 busybox
 bzip2
