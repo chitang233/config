@@ -82,8 +82,8 @@ axel
 ayatana-ido
 azure-cli
 babl
-baloo
 baloo-widgets
+baloo5
 bandwhich
 base
 base-devel
@@ -789,7 +789,7 @@ kpmcore
 kpty5
 kpublictransport
 kqtquickcharts
-kquickcharts
+kquickcharts5
 krb5
 krdc
 krecorder
