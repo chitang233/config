@@ -18,6 +18,27 @@ Name=pinyin
 # Layout
 Layout=
 
+[Groups/1]
+# Group Name
+Name=Japanese
+# Layout
+Default Layout=us
+# Default Input Method
+DefaultIM=anthy
+
+[Groups/1/Items/0]
+# Name
+Name=keyboard-us
+# Layout
+Layout=
+
+[Groups/1/Items/1]
+# Name
+Name=anthy
+# Layout
+Layout=
+
 [GroupOrder]
 0=默认
+1=Japanese
 
