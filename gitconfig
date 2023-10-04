@@ -22,15 +22,6 @@
 	allow = always
 [credential "https://notabug.org"]
 	provider = generic
-[safe]
-	directory = /tmp/runner/_work/nekoray-aur/nekoray-aur
-	directory = /tmp/runner/_work/nekoray-aur/nekoray-aur
-	directory = /tmp/runner/_work/nekoray-aur/nekoray-aur
-	directory = /tmp/runner/_work/nekoray-aur/nekoray-aur
-	directory = /tmp/runner/_work/nekoray-aur/nekoray-aur
-	directory = /tmp/runner/_work/nekoray-aur/nekoray-aur
-	directory = /tmp/runner/_work/nekoray-aur/nekoray-aur
-	directory = /tmp/runner/_work/nekoray-aur/nekoray-aur
 [color]
 	ui = auto
 [credential "https://huggingface.co"]
