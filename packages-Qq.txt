@@ -2487,7 +2487,9 @@ tmux
 toilet
 tokodon
 tomlplusplus
+tor
 tor-browser-bin
+torbrowser-launcher
 totem-pl-parser
 tpm2-tss
 traceroute
