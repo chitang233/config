@@ -31,7 +31,6 @@ alsa-plugins
 alsa-topology-conf
 alsa-ucm-conf
 amd-ucode
-amtk
 analitza
 android-sdk-platform-tools
 android-studio-canary
@@ -615,6 +614,7 @@ joyutils
 jp2a
 jq
 js102
+js115
 json-c
 json-glib
 jsoncpp
@@ -737,7 +737,7 @@ kio-fuse
 kio-gdrive
 kio-zeroconf
 kio5
-kirigami-addons
+kirigami-addons5
 kirigami2
 kiriki
 kitemmodels5
@@ -1139,6 +1139,8 @@ libgcrypt
 libgcrypt15
 libgdata
 libgdiplus
+libgedit-amtk
+libgedit-gtksourceview
 libgee
 libgexiv2
 libgig
@@ -1251,6 +1253,7 @@ libmwaw
 libmypaint
 libmysofa
 libnatpmp
+libnbd
 libndp
 libnet
 libnetfilter_conntrack
@@ -1358,6 +1361,7 @@ libtracefs
 libtvcontrol
 libudev0-shim
 libuhd
+libunibreak
 libunistring
 libunity
 libunrar
@@ -1736,7 +1740,7 @@ pkgfile
 plasma-browser-integration
 plasma-desktop
 plasma-disks
-plasma-framework
+plasma-framework5
 plasma-integration
 plasma-nm
 plasma-pa
@@ -1800,6 +1804,7 @@ python-aiohttp-socks
 python-aioquic
 python-aiosignal
 python-altgraph
+python-annotated-types
 python-appdirs
 python-apsw
 python-argcomplete
@@ -1994,6 +1999,7 @@ python-pycryptodomex
 python-pycups
 python-pycurl
 python-pydantic
+python-pydantic-core
 python-pyflakes
 python-pygments
 python-pyinotify
