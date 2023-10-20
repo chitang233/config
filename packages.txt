@@ -98,7 +98,7 @@ bat 0.24.0-1.1
 bc 1.07.1-4.1
 bcg729 1.1.1-1.1
 beep 1.4.12-1.1
-bilibili-bin 4:1.12.1_2-1
+bilibili-bin 4:1.12.1_3-1
 bind 9.18.19-1.1
 binutils 2.41-5
 bison 3.8.2-6.1
@@ -385,7 +385,7 @@ frei0r-plugins 2.3.1-1.1
 fribidi 1.0.13-2.1
 frpc 0.51.3-1
 fstrm 0.6.1-1.1
-ftba-electron 202308291248_1903496f17-1
+ftba-electron 202310071959_918caed003-1
 ftgl 2.4.0-2.1
 ftl-sdk 0.10.1-3.2
 fuse-common 3.16.1-1.1
@@ -1457,7 +1457,7 @@ linux-steam-integration 0.7.3-7
 linux-wifi-hotspot 4.5.0.r1.g4d64e83-2
 linux-zen 6.5.7.zen2-1.1
 linux-zen-headers 6.5.7.zen2-1.1
-linuxqq-nt-bwrap 3.2.1_17260-1
+linuxqq-nt-bwrap 3.2.1_17654-1
 lirc 1:0.10.2-3.1
 live-media 2023.01.19-1.1
 lksctp-tools 1.0.19-1.1
@@ -1508,7 +1508,7 @@ mathjax 3.2.2-1
 mbedtls 3.4.1-1.1
 mbedtls2 2.28.5-1.1
 mbox-importer 23.08.2-1.1
-mcpelauncher-msa-ui-qt-git v0.6.0.r0.g41138a9-3
+mcpelauncher-msa-ui-qt-git 0.9.0.r0.ge335369-1
 md4c 0.4.8-1.1
 mda.lv2 1.2.10-1.1
 mdadm 4.2-2.1
@@ -1540,9 +1540,9 @@ modemmanager-qt5 5.110.0-1.1
 monero 0.18.3.1-3
 monero-gui 0.18.3.1-3.1
 mongo-c-driver 1.24.4-1.1
-mongodb-bin 7.0.2-1
+mongodb-bin 7.0.2-2
 mongodb-tools-bin 100.8.0-1
-mongosh-bin 2.0.1-2
+mongosh-bin 2.0.2-1
 mono 6.12.0.205-1.1
 mosh 1.4.0-5.1
 mpdecimal 2.5.1-1.1
@@ -2353,7 +2353,7 @@ rubygems 3.3.25-1
 run-parts 5.5-1.1
 runc 1.1.9-1.1
 rustdesk-bin 1.2.3-1
-rustrover 232.9921.62-1
+rustrover 233.8264.22-1
 rustup 1.26.0-3.1
 ryujinx-git r3069.28dd7d80af-1
 samba 4.19.2-1.1
@@ -2397,7 +2397,7 @@ signon-plugin-oauth2 0.25-1
 signon-ui 0.17+20171022-3.1
 signond 8.61-1.1
 simplescreenrecorder 0.4.4-3
-sing-box 1.5.1-1
+sing-box 1.5.3-2
 sing-geoip 20230712-2
 sing-geosite 20230707041058-1
 skim 0.10.4-2.1
@@ -2762,7 +2762,7 @@ zsh 5.9-4.1
 zsh-completions 0.35.0-1
 zsnes 2.0.12-1
 zstd 1.5.5-3
-zulu-11-bin 11.0.20.1-1
+zulu-11-bin 11.0.21-1
 zulu-19-bin 19.0.2-1
 zulu-20-bin 20.0.2-1
 zulu-jdk-fx-bin 17.0.8-1
