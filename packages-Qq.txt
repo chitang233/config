@@ -7,6 +7,7 @@ acl
 acme.sh
 acpi
 acpi_call-dkms
+acpid
 activitywatch-bin
 adobe-source-code-pro-fonts
 adwaita-cursors
@@ -438,6 +439,7 @@ github-cli
 github-copilot-cli
 gjs
 gksu
+glade
 glew
 glew1.10
 glfw-x11
@@ -1143,6 +1145,7 @@ libgig
 libgirepository
 libgit2
 libgksu
+libglade
 libglvnd
 libgme
 libgnome-keyring
@@ -2490,6 +2493,7 @@ tomlplusplus
 tor
 tor-browser-bin
 torbrowser-launcher
+torsocks
 totem-pl-parser
 tpm2-tss
 traceroute
