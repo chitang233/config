@@ -827,7 +827,7 @@ ktuberling
 kturtle
 kubrick
 kunitconversion5
-kuserfeedback
+kuserfeedback5
 kwallet-pam
 kwallet5
 kwalletmanager
@@ -1298,7 +1298,7 @@ libproxy
 libpsl
 libpulse
 libpwquality
-libqaccessibilityclient
+libqaccessibilityclient-qt5
 libqalculate
 libqmi
 libqrtr-glib
@@ -1308,7 +1308,6 @@ libraw
 libraw1394
 libreoffice-fresh
 libreoffice-fresh-zh-cn
-libretro-pcsx2
 librevenge
 librewolf
 librist
