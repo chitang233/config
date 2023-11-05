@@ -2816,6 +2816,7 @@ yt-dlp
 yubico-c
 yubico-c-client
 yubico-pam
+yubico-piv-tool
 yubikey-agent
 yubikey-full-disk-encryption
 yubikey-manager
