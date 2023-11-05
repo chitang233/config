@@ -58,6 +58,7 @@ aria2-fast
 aribb24
 aribb25
 ark
+arpack
 artikulate
 asciicaesar
 asciinema
@@ -123,6 +124,7 @@ box2d
 breeze
 breeze-gtk
 breeze-icons
+brial
 bridge-utils
 brltty
 brotli
@@ -156,6 +158,7 @@ cblas
 cbonsai
 ccache
 ccid
+cddlib
 cdparanoia
 cdrtools
 cemu
@@ -178,6 +181,7 @@ clash-geoip
 clash-meta-alpha-git
 clinfo
 clion
+cliquer
 cloudflared
 cloudflarespeedtest
 clpeak
@@ -294,6 +298,8 @@ dynarmic
 e2fsprogs
 easyeffects
 ebook-tools
+ecl
+eclib
 editorconfig-core-c
 edk2-aarch64
 edk2-arm
@@ -348,6 +354,7 @@ fcitx5-qt
 fd
 feh
 ffcall
+fflas-ffpack
 ffmpeg-obs
 ffmpeg4.4
 ffmpegthumbs
@@ -367,6 +374,7 @@ flake8
 flashrom
 flatpak-xdg-utils
 flex
+flint
 fltk
 fluffychat-bin
 fluidsynth
@@ -377,6 +385,7 @@ foomatic-db
 foomatic-db-nonfree
 foomatic-db-nonfree-ppds
 foomatic-db-ppds
+fplll
 frameworkintegration5
 freecell-solver
 freeciv
@@ -402,6 +411,7 @@ fwupd-efi
 fzf
 gamemode
 gamescope
+gap
 gavl
 gawk
 gc
@@ -424,10 +434,13 @@ geoip
 geoip-database
 geoipupdate
 gettext
+gf2x
+gfan
 ghex
 ghidra
 ghostscript
 ghostwriter
+giac
 giflib
 gimp
 git
@@ -438,6 +451,7 @@ git-crypt
 git-lfs
 github-cli
 github-copilot-cli
+givaro
 gjs
 gksu
 glade
@@ -453,10 +467,12 @@ glibmm
 glibmm-2.68
 glm
 glmark2
+glpk
 glslang
 glu
 glusterfs
 gmp
+gmp-ecm
 gnirehtet-bin
 gnome-bluetooth
 gnome-boxes
@@ -495,6 +511,7 @@ grantlee
 grantlee-editor
 grantleetheme
 graphene
+graphicsmagick
 graphite
 graphviz
 grep
@@ -583,13 +600,16 @@ icalingua++
 icu
 icu69-bin
 id3lib
+igraph
 ijs
 imagemagick
 imath
 imgcat
+iml
 imlib2
 inetutils
 iniparser
+inkscape
 innoextract
 inotify-tools
 intellij-idea-ultimate-edition
@@ -846,6 +866,7 @@ lame
 lapack
 latte-dock
 layer-shell-qt
+lcalc
 lcms2
 ldb
 ldns
@@ -855,6 +876,7 @@ lensfun
 less
 lf
 lhasa
+lib2geom
 lib32-acl
 lib32-alsa-lib
 lib32-alsa-plugins
@@ -1066,6 +1088,7 @@ libb2
 libblockdev
 libbluray
 libbpf
+libbraiding
 libbs2b
 libbsd
 libburn
@@ -1167,6 +1190,7 @@ libgusb
 libgxps
 libhandy
 libheif
+libhomfly
 libibus
 libical
 libice
@@ -1451,6 +1475,7 @@ libzip
 libzmf
 licenses
 lilv
+linbox
 lineageos-devel
 linux-api-headers
 linux-firmware
@@ -1471,6 +1496,7 @@ lmdb
 lmms
 lokalize
 lpsolve
+lrcalc
 lsb-release
 lskat
 lsof
@@ -1496,6 +1522,8 @@ lz4
 lzo
 lzop
 m4
+m4ri
+m4rie
 mailcap
 mailcommon
 mailimporter
@@ -1507,6 +1535,9 @@ mariadb-libs
 marisa
 markdownpart
 mathjax
+maxima
+maxima-ecl
+maxima-fas
 mbedtls
 mbedtls2
 mbox-importer
@@ -1548,6 +1579,7 @@ mongosh-bin
 mono
 mosh
 mpdecimal
+mpfi
 mpfr
 mpg123
 mplayer
@@ -1561,6 +1593,7 @@ multimc-bin
 multipath-tools
 mypaint-brushes1
 nano
+nauty
 navi
 ncompress
 ncurses
@@ -1606,6 +1639,7 @@ nspr
 nss
 nss-mdns
 ntfs-3g
+ntl
 numactl
 nvclock
 nvidia-dkms
@@ -1669,12 +1703,16 @@ pacman-mirrorlist
 pacman-static
 pahole
 palapeli
+palp
 pam
 pam-u2f
 pambase
 pango
 pangomm
 papirus-icon-theme
+pari
+pari-galdata
+pari-seadata-small
 parley
 parsec-bin
 parted
@@ -1739,6 +1777,7 @@ pipewire-v4l2
 pixman
 pkgconf
 pkgfile
+planarity
 plasma-browser-integration
 plasma-desktop
 plasma-disks
@@ -1755,6 +1794,7 @@ plasma-wayland-session
 plasma-workspace
 plasma5-wallpapers-wallpaper-engine
 plasmatube
+plfit
 pngcrush
 pnpm
 podman
@@ -1778,7 +1818,10 @@ postgresql-old-upgrade
 potrace
 powerdevil
 poxml
+ppl
 ppp
+primecount
+primesieve
 prismlauncher-git
 prison5
 procps-ng
@@ -1843,6 +1886,7 @@ python-cipheydists
 python-cleo
 python-click
 python-colorama
+python-comm
 python-constantly
 python-contourpy
 python-coverage
@@ -1851,7 +1895,10 @@ python-cryptg
 python-cryptography
 python-css-parser
 python-cssselect
+python-cvxopt
 python-cycler
+python-cypari2
+python-cysignals
 python-dateutil
 python-decorator
 python-dill
@@ -1874,10 +1921,12 @@ python-fido2
 python-filelock
 python-flask
 python-fonttools
+python-fpylll
 python-fqdn
 python-frozenlist
 python-future
 python-glfw
+python-gmpy2
 python-gobject
 python-gpgme
 python-graphviz
@@ -1902,6 +1951,7 @@ python-inflect
 python-iniconfig
 python-injector
 python-installer
+python-ipywidgets
 python-isoduration
 python-isort
 python-itsdangerous
@@ -1937,17 +1987,20 @@ python-matrix-nio
 python-mccabe
 python-mdurl
 python-mechanize
+python-memory-allocator
 python-mitmproxy-rs
 python-mitmproxy-wireguard
 python-mock
 python-moddb
 python-more-itertools
+python-mpmath
 python-msgpack
 python-multidict
 python-multivolumefile
 python-mutagen
 python-mypy_extensions
 python-netifaces
+python-networkx
 python-notify2
 python-numpy
 python-objgraph
@@ -1958,6 +2011,7 @@ python-opengl
 python-ordered-set
 python-outcome
 python-packaging
+python-pandas
 python-paramiko
 python-parso
 python-passlib
@@ -1977,7 +2031,9 @@ python-poetry-core
 python-poetry-plugin-export
 python-polib
 python-pooch
+python-pplpy
 python-prettytable
+python-primecountpy
 python-prompt_toolkit
 python-protobuf
 python-proxy_tools
@@ -2051,6 +2107,7 @@ python-requests-toolbelt
 python-rfc3339-validator
 python-rich
 python-rpds-py
+python-rpy2
 python-rsa
 python-ruamel-yaml
 python-ruamel.yaml.clib
@@ -2076,6 +2133,7 @@ python-sphinxcontrib-jsmath
 python-sphinxcontrib-qthelp
 python-sphinxcontrib-serializinghtml
 python-stack-data
+python-sympy
 python-telethon
 python-texttable
 python-tinyaes
@@ -2091,6 +2149,7 @@ python-trove-classifiers
 python-twisted
 python-typing_extensions
 python-typing_inspect
+python-tzlocal
 python-uc-micro-py
 python-ujson
 python-unidecode
@@ -2126,6 +2185,7 @@ qalculate-qt
 qbittorrent-enhanced
 qbittorrent-vuetorrent-bin
 qca-qt5
+qd
 qemu-audio-alsa
 qemu-audio-dbus
 qemu-audio-jack
@@ -2275,9 +2335,12 @@ qtscrcpy
 quazip-qt5
 quazip-qt6
 quota-tools
+r
 radvd
+ragel
 railwayapp-cli
 range-v3
+rankwidth
 raptor
 rasqal
 rav1e
@@ -2358,6 +2421,12 @@ rustdesk-bin
 rustrover
 rustup
 ryujinx-git
+sage-data-combinatorial_designs
+sage-data-conway_polynomials
+sage-data-elliptic_curves
+sage-data-graphs
+sage-data-polytopes_db
+sagemath
 samba
 sbc
 sbkeys
@@ -2402,6 +2471,7 @@ simplescreenrecorder
 sing-box
 sing-geoip
 sing-geosite
+singular
 skim
 slang
 slirp4netns
@@ -2457,6 +2527,7 @@ svt-hevc
 sweeper
 swig
 swtpm
+symmetrica
 syncthing
 syncthing-gtk
 syndication5
@@ -2468,6 +2539,7 @@ systemd-libs
 systemd-sysvcompat
 systemsettings
 t1lib
+tachyon
 taglib
 tailscale
 talloc
@@ -2488,6 +2560,7 @@ texlive-latexrecommended
 texlive-pictures
 thin-provisioning-tools
 threadweaver5
+threejs-sage
 tigervnc
 timeshift
 tinyxml
