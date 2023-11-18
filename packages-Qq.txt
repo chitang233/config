@@ -31,7 +31,7 @@ alsa-plugins
 alsa-topology-conf
 alsa-ucm-conf
 amd-ucode
-analitza
+analitza5
 android-sdk-platform-tools
 android-studio-canary
 android-udev
@@ -62,6 +62,7 @@ arpack
 artikulate
 asciicaesar
 asciinema
+asio
 aspell
 assimp
 at-spi2-core
@@ -76,6 +77,7 @@ audiocd-kio
 audiofile
 audit
 autoconf
+autoconf-archive
 automake
 avahi
 avisynthplus
@@ -161,6 +163,7 @@ ccid
 cddlib
 cdparanoia
 cdrtools
+cef-minimal-obs-bin
 cemu
 cervisia
 cfitsio
@@ -716,7 +719,8 @@ kdiff3
 kdiskmark
 kdnssd5
 kdoctools5
-kdsoap
+kdsoap-qt5
+kdsoap-qt6
 kdsoap-ws-discovery-client
 keditbookmarks
 kemoticons
@@ -1117,6 +1121,7 @@ libcups
 libcurl-compat
 libcurl-gnutls
 libdaemon
+libdatachannel-nice
 libdatrie
 libdazzle
 libdbusmenu-glib
@@ -1221,7 +1226,7 @@ libjpeg-turbo
 libjpeg6-turbo
 libjxl
 libkate
-libkcddb
+libkcddb5
 libkcompactdisc
 libkdcraw
 libkdegames
@@ -1399,6 +1404,7 @@ liburing
 libusb
 libusb-compat
 libusbmuxd
+libusrsctp
 libutempter
 libutf8proc
 libuv
@@ -1620,6 +1626,7 @@ nftables
 nilfs-utils
 ninja
 nitrogen
+nlohmann-json
 nmap
 nnn
 node-gyp
@@ -2047,6 +2054,7 @@ python-py7zr
 python-pyaes
 python-pyaml
 python-pyasn1
+python-pyasn1-modules
 python-pyaudio
 python-pybase62
 python-pybcj
@@ -2116,6 +2124,7 @@ python-rx
 python-scipy
 python-scrypt
 python-secretstorage
+python-service-identity
 python-setproctitle
 python-setuptools
 python-sgmllib3k
@@ -2266,6 +2275,7 @@ qemu-vhost-user-gpu
 qgpgme-qt5
 qhull
 qqc2-desktop-style5
+qrcodegencpp-cmake
 qrencode
 qsstv
 qt-virt-manager
@@ -2342,6 +2352,7 @@ ragel
 railwayapp-cli
 range-v3
 rankwidth
+rapidjson
 raptor
 rasqal
 rav1e
@@ -2529,6 +2540,7 @@ sweeper
 swig
 swtpm
 symmetrica
+sympow
 syncthing
 syncthing-gtk
 syndication5
@@ -2619,6 +2631,7 @@ upower
 usbmuxd
 usbredir
 usbutils
+uthash
 util-linux
 util-linux-libs
 uudeck
@@ -2670,6 +2683,7 @@ webkit2gtk
 webkit2gtk-4.1
 webrtc-audio-processing
 webrtc-audio-processing-1
+websocketpp
 weechat
 weechat-matrix
 weston
