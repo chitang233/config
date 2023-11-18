@@ -519,6 +519,7 @@ grilo
 grilo-plugins
 groff
 grpc
+grsync
 grub
 grub-btrfs
 gsettings-desktop-schemas
