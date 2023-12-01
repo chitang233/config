@@ -709,7 +709,7 @@ kdesdk-kio
 kdesdk-thumbnailers
 kdesu5
 kdf
-kdiagram
+kdiagram5
 kdialog
 kdiamond
 kdiff3
@@ -1102,6 +1102,7 @@ libcerf
 libcgif
 libcheese
 libcloudproviders
+libcmis
 libcolord
 libcpuid
 libcue
@@ -1215,7 +1216,7 @@ libjxl
 libkate
 libkcddb5
 libkcompactdisc
-libkdcraw
+libkdcraw5
 libkdegames
 libkeduvocdocument
 libkexiv2
@@ -1350,6 +1351,7 @@ libspectre
 libspectrum
 libspeechd
 libspiro
+libspng
 libsrtp
 libssh
 libssh2
@@ -2834,6 +2836,7 @@ zerotier-one
 zimg
 zip
 zita-convolver
+zix
 zlib
 zoxide
 zsh
