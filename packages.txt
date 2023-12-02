@@ -45,12 +45,12 @@ apr-util 1.6.3-1.1
 arch-install-scripts 28-1
 archiso-persistent-git v67.r8.gf439e5f-1
 archiso-profiles 0.1-1
-archlinux-keyring 20231113-1
+archlinux-keyring 20231130-1
 archlinuxcn-keyring 20230923-1
 ardour 8.1-1.1
 ares-decrypt 0.10.0-1
 argon2 20190702-5.1
-aria2-fast 1.36.0-4
+aria2-fast 1.37.0-1
 aribb24 1.0.3-3.2
 aribb25 0.2.7-2.2
 ark 23.08.3-1.1
@@ -177,7 +177,7 @@ cifs-utils 7.0-3.1
 ciphey 5.14.0-7
 cjson 1.7.16-1.1
 clash-geoip 20231112-1
-clash-meta-alpha-git 20231130.r1.g78ae8815-1
+clash-meta-alpha-git 20231201.r0.gcc642972-1
 clinfo 3.0.21.02.21-1.1
 clion 1:2023.2.2-2
 cliquer 1.22-1.1
@@ -488,7 +488,7 @@ gnome-terminal 3.50.1-1.1
 gnome-video-effects 1:0.6.0-1
 gnu-free-fonts 20120503-8
 gnugo 3.8-7.1
-gnupg 2.2.41-2.1
+gnupg 2.4.3-2.1
 gnuplot 5.4.10-1.1
 gnustep-base 1.29.0-2.1
 gnutls 3.8.2-1.1
@@ -1322,7 +1322,7 @@ libraqm 0.10.1-1.1
 libraw 0.21.1-2.1
 libraw1394 2.1.2-3.1
 libreoffice-fresh 7.6.3-2.1
-libreoffice-fresh-zh-cn 7.6.2-1
+libreoffice-fresh-zh-cn 7.6.3-2
 librevenge 0.0.5-2.1
 librewolf 120.0-2
 librist 0.2.10-1.1
@@ -1447,7 +1447,7 @@ libxklavier 5.4-5.1
 libxml2 2.12.1-1.1
 libxmlb 0.3.14-1.1
 libxmu 1.1.4-1.1
-libxnvctrl 545.29.02-1.1
+libxnvctrl 545.29.06-1.1
 libxpm 3.5.17-1.1
 libxpresent 1.0.1-1.1
 libxrandr 1.5.4-1.1
@@ -1477,7 +1477,7 @@ linux-steam-integration 0.7.3-7
 linux-wifi-hotspot 4.6.0-1
 linux-zen 6.6.3.zen1-1.1
 linux-zen-headers 6.6.3.zen1-1.1
-linuxqq-nt-bwrap 3.2.3_18968-1
+linuxqq-nt-bwrap 3.2.3_19189-1
 lirc 1:0.10.2-3.1
 live-media 2023.01.19-1.1
 lksctp-tools 1.0.19-1.1
@@ -1505,7 +1505,7 @@ lua53 5.3.6-2.1
 luajit 2.1.1700008891-1.1
 luit 20230201-1.1
 lunar-client 3.1.1-1
-lutris-git 0.5.14.r183.g544e17d6-1
+lutris-git 0.5.14.r216.g8b8e45f2a-1
 lv2 1.18.10-1.1
 lvm2 2.03.22-2.1
 lxc 1:5.0.3-1.1
@@ -1542,6 +1542,7 @@ mesa-utils 9.0.0-3.1
 meson 1.3.0-1
 mgba-qt 0.10.2-2.1
 mgba-sdl 0.10.2-2.1
+microsoft-edge-beta-bin 120.0.2210.42-1
 microsoft-gsl 4.0.0-1
 milou 5.27.9-1.1
 mindustry 1:7.0.146-1
@@ -1601,7 +1602,7 @@ netpbm 10.73.43-2.1
 nettle 3.9.1-1.1
 networkmanager 1.44.2-3
 networkmanager-qt5 5.112.0-1.1
-nexttrace 1.2.6-1
+nexttrace 1.2.7-1
 nfsidmap 2.6.4-1.1
 nftables 1:1.0.9-1.1
 nilfs-utils 2.2.9-2.1
@@ -1616,11 +1617,11 @@ nodejs-neovim 4.10.1-1
 nodejs-nopt 7.2.0-1
 nodejs-whistle 2.9.59-1
 noto-color-emoji-fontconfig 1.0.0-1
-noto-fonts 1:23.11.1-1
+noto-fonts 1:23.12.1-1
 noto-fonts-cjk 20230817-1
 noto-fonts-emoji 1:2.042-1
 noto-fonts-emoji-blob 1:15.0-1
-noto-fonts-extra 1:23.11.1-1
+noto-fonts-extra 1:23.12.1-1
 npm 10.2.4-1
 npm-check-updates 16.14.11-1
 npth 1.6-4.1
@@ -1634,7 +1635,7 @@ nushell 0.87.1-1
 nvclock 0.8b4-4
 nvidia-dkms 545.29.06-1.1
 nvidia-prime 1.0-4
-nvidia-settings 545.29.02-1.1
+nvidia-settings 545.29.06-1.1
 nvidia-utils 545.29.06-1.1
 nvidia-vaapi-driver-git 0.0.11.r1.gea6d862-1
 nvtop 3.0.2-1.1
@@ -1708,7 +1709,7 @@ parley 23.08.3-1.1
 parsec-bin 150_86e-4
 parted 3.6-1.1
 partitionmanager 23.08.3-1.1
-paru 2.0.0-1
+paru 2.0.1-1
 pass 1.7.4-4
 passim 0.1.4-1.1
 patch 2.7.6-10.2
@@ -1871,7 +1872,7 @@ python-chardet 5.2.0-1
 python-charset-normalizer 3.3.2-1
 python-cipheycore 0.3.2-2
 python-cipheydists 0.3.35-2
-python-cleo 2.0.1-4
+python-cleo 2.1.0-1
 python-click 8.1.7-1
 python-colorama 0.4.6-2
 python-comm 0.2.0-1
@@ -2015,7 +2016,7 @@ python-pkginfo 1.9.6-2
 python-platformdirs 4.0.0-1
 python-pluggy 1.3.0-1
 python-ply 3.11-12
-python-poetry 1.7.0-1
+python-poetry 1.7.1-1
 python-poetry-core 1.8.1-2
 python-poetry-plugin-export 1.5.0-1
 python-polib 1.2.0-1.3
@@ -2125,7 +2126,7 @@ python-sphinxcontrib-qthelp 1.0.6-1
 python-sphinxcontrib-serializinghtml 1.1.9-1
 python-stack-data 0.6.3-1
 python-sympy 1.12-1
-python-telethon 1.32.1-1
+python-telethon 1.33.0-1
 python-texttable 1.7.0-1
 python-tinyaes 1.0.4-1
 python-toml 0.10.2-9
@@ -2136,7 +2137,7 @@ python-tornado 6.3.2-1.1
 python-tox 4.11.1-1
 python-tqdm 4.66.1-2
 python-traitlets 5.14.0-1
-python-trove-classifiers 2023.11.22-1
+python-trove-classifiers 2023.11.29-1
 python-twisted 22.10.0-3
 python-typing_extensions 4.8.0-1
 python-typing_inspect 0.9.0-1
@@ -2335,7 +2336,7 @@ qt6-translations 6.6.1-1
 qt6-virtualkeyboard 6.6.1-1.1
 qt6-wayland 6.6.1-1.1
 qt6-webchannel 6.6.1-1.1
-qt6-webengine 6.6.0-1.1
+qt6-webengine 6.6.1-1.1
 qt6-websockets 6.6.1-1.1
 qt6-webview 6.6.1-1.1
 qtermwidget 1.4.0-1.1
@@ -2561,7 +2562,7 @@ tar 1.35-2.1
 tcl 8.6.13-1.2
 tcping 0.1.1rc1-1
 tdb 1.4.9-1.1
-telegram-desktop-lily 4.11.8-6
+telegram-desktop-lily 4.12.1-1
 telly-skout 23.08.3-1.1
 tepl 1:6.8.0-1.1
 tevent 1:0.15.0-1.1
@@ -2665,7 +2666,7 @@ virt-manager 4.1.0-2
 virtio-win 0.1.240.1-1
 virtiofsd 1.8.0-1.1
 virtualbox-guest-iso 7.0.12-1
-visual-studio-code-insiders-bin 1701394705-1
+visual-studio-code-insiders-bin 1701457212-1
 vkbasalt 0.3.2.10-1
 vkd3d 1.9-1.1
 vlc-luajit 3.0.20-2
@@ -2674,7 +2675,7 @@ vnstat 2.11-1.1
 volume_key 0.3.12-8.1
 vte-common 0.74.1-1.1
 vte3 0.74.1-1.1
-vtk 9.3.0-5.1
+vtk 9.3.0-6.1
 vulkan-headers 1:1.3.269-1
 vulkan-icd-loader 1.3.269-1.1
 vulkan-mesa-layers 1:23.3.0-1
@@ -2846,7 +2847,7 @@ yubikey-manager-qt 1.2.5-1.1
 yubikey-personalization 1.20.0-3
 yubikey-personalization-gui 3.1.25-2.1
 yubioath-desktop 5.1.0-3.1
-yuzu-early-access 4000-1
+yuzu-early-access 4001-1
 zbar 0.23.90-3.1
 zenity 3.44.2-1.1
 zeromq 4.3.5-2.1

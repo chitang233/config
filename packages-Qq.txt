@@ -1542,6 +1542,7 @@ mesa-utils
 meson
 mgba-qt
 mgba-sdl
+microsoft-edge-beta-bin
 microsoft-gsl
 milou
 mindustry
