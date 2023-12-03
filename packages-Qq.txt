@@ -16,6 +16,7 @@ aegisub
 afpfs-ng
 aha
 akonadi-contacts
+akonadi-mime
 alhp-keyring
 alhp-mirrorlist
 alist-bin
@@ -744,6 +745,7 @@ ki18n5
 kiconthemes5
 kid3
 kid3-common
+kidentitymanagement
 kidletime5
 kig
 kigo
@@ -769,11 +771,13 @@ kjobwidgets5
 kjournald
 kjs
 kjumpingcube
+kleopatra
 klettres
 klickety
 klines
 kmag
 kmahjongg
+kmailtransport
 kmenuedit
 kmime
 kmines
@@ -801,6 +805,7 @@ kparts5
 kpat
 kpeople5
 kpeoplevcard
+kpimtextedit
 kpipewire
 kplotting5
 kpmcore
@@ -821,6 +826,7 @@ kscreenlocker
 kservice5
 kshisen
 ksirk
+ksmtp
 ksnakeduel
 kspaceduel
 ksquares
@@ -829,6 +835,7 @@ ksudoku
 ksystemlog
 ksystemstats
 kteatime
+ktextaddons
 ktexteditor5
 ktextwidgets5
 ktimer
@@ -1221,6 +1228,7 @@ libkdegames
 libkeduvocdocument
 libkexiv2
 libkgapi
+libkleo
 libkmahjongg
 libkomparediff2
 libksba
@@ -1440,6 +1448,7 @@ libxfont2
 libxft
 libxi
 libxinerama
+libxisf
 libxkbcommon
 libxkbcommon-x11
 libxkbfile
@@ -2165,6 +2174,7 @@ python-wsproto
 python-wxpython
 python-xcffib
 python-xlib
+python-xxhash
 python-yaml
 python-yarl
 python-yubico

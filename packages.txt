@@ -16,6 +16,7 @@ aegisub 3.3.3-6.1
 afpfs-ng 0.8.2-3.1
 aha 0.5.1-2.3
 akonadi-contacts 23.08.3-2.1
+akonadi-mime 23.08.3-1.1
 alhp-keyring 20230504-4
 alhp-mirrorlist 20230831-1
 alist-bin 3.29.1-1
@@ -146,7 +147,7 @@ caddy 2.7.5-1.1
 cairo 1.18.0-1.1
 cairomm 1.14.5-1.1
 calf 0.90.3-6.1
-calibre 6.29.0-1.1
+calibre 7.1.0-2.1
 cantarell-fonts 1:0.303.1-1
 cantor 23.08.3-2.1
 capstone 4.0.2-7.1
@@ -177,7 +178,7 @@ cifs-utils 7.0-3.1
 ciphey 5.14.0-7
 cjson 1.7.16-1.1
 clash-geoip 20231112-1
-clash-meta-alpha-git 20231201.r0.gcc642972-1
+clash-meta-alpha-git 20231202.r0.g4949136c-1
 clinfo 3.0.21.02.21-1.1
 clion 1:2023.2.2-2
 cliquer 1.22-1.1
@@ -203,7 +204,7 @@ compsize 1.5-1.1
 confuse 3.3-3.1
 conky 1.18.1-2.1
 conmon 1:2.1.8-1.1
-containerd 1.7.9-1.1
+containerd 1.7.10-1.1
 containers-common 1:0.56.0-1
 convertall 0.8.0-1
 convertlit 1.8-11.1
@@ -322,7 +323,7 @@ ell 0.61-1.1
 emby-theater 3.0.19-3.1
 emoji-keyboard 4.0.0-4
 enca 1.19-5.1
-enchant 2.6.2-1.1
+enchant 2.6.3-1.1
 enet 1.3.17-1.1
 erofs-utils 1.7.1-1.1
 espeak-ng 1.51.1-2.1
@@ -450,10 +451,10 @@ git-completion 2.0-1
 git-credential-manager-core-bin 2.1.2-1
 git-crypt 0.7.0-2.2
 git-lfs 3.4.0-1.1
-github-cli 2.39.1-1.1
+github-cli 2.39.2-1.1
 github-copilot-cli 0.1.33-1
 givaro 4.2.0-1.1
-gjs 2:1.78.0-4.1
+gjs 2:1.78.1-1.1
 gksu 2.0.2-6.2
 glade 3.40.0+r14+g1fbca367-2.1
 glew 2.2.0-6.1
@@ -504,7 +505,7 @@ gpart 0.3-4.1
 gparted 1.5.0-1.1
 gperf 3.1-5.1
 gperftools 2.13-2.1
-gpgme 1.23.1-1.1
+gpgme 1.23.2-1.1
 gpm 1.20.7.r38.ge82d1a6-5.1
 gptfdisk 1.0.9-2.1
 gradle 8.5-1
@@ -595,7 +596,7 @@ hunspell 1.7.2-1.1
 hwdata 0.376-1
 hwloc 2.9.1-1.1
 hydra 9.5-1.1
-hyfetch 1.4.10-1
+hyfetch 1.4.11-1
 hyphen 2.8.8-5.1
 i2c-tools 4.3-4.1
 iana-etc 20231117-1
@@ -622,7 +623,7 @@ iproute2 6.6.0-2.1
 ipscan 3.9.1-3
 iptables-nft 1:1.8.10-1.1
 iputils 20221126-2.1
-ipython 8.17.2-1
+ipython 8.18.1-1
 iso-codes 4.15.0-1
 iw 5.19-2.1
 jansson 2.14-2.1
@@ -744,6 +745,7 @@ ki18n5 5.112.0-1.1
 kiconthemes5 5.112.0-1.1
 kid3 3.9.4-2.1
 kid3-common 3.9.4-2.1
+kidentitymanagement 23.08.3-2.1
 kidletime5 5.112.0-1.1
 kig 23.08.3-1.1
 kigo 23.08.3-1.1
@@ -769,11 +771,13 @@ kjobwidgets5 5.112.0-1.1
 kjournald 23.08.3-1.1
 kjs 5.112.0-1.1
 kjumpingcube 23.08.3-1.1
+kleopatra 23.08.3-1.1
 klettres 23.08.3-1.1
 klickety 23.08.3-1.1
 klines 23.08.3-1.1
 kmag 23.08.3-1.1
 kmahjongg 23.08.3-1.1
+kmailtransport 23.08.3-1.1
 kmenuedit 5.27.9-1.1
 kmime 23.08.3-2.1
 kmines 23.08.3-1.1
@@ -801,6 +805,7 @@ kparts5 5.112.0-1.1
 kpat 23.08.3-1.1
 kpeople5 5.112.0-1.1
 kpeoplevcard 0.1-2.1
+kpimtextedit 23.08.3-2.1
 kpipewire 5.27.9-1.1
 kplotting5 5.112.0-1.1
 kpmcore 23.08.3-1.1
@@ -821,6 +826,7 @@ kscreenlocker 5.27.9-1.1
 kservice5 5.112.0-1.1
 kshisen 23.08.3-1.1
 ksirk 23.08.3-1.1
+ksmtp 23.08.3-1.1
 ksnakeduel 23.08.3-1.1
 kspaceduel 23.08.3-1.1
 ksquares 23.08.3-1.1
@@ -829,6 +835,7 @@ ksudoku 23.08.3-1.1
 ksystemlog 23.08.3-1.1
 ksystemstats 5.27.9-1.1
 kteatime 23.08.3-1.1
+ktextaddons 1.5.2-4.1
 ktexteditor5 5.112.0-1.1
 ktextwidgets5 5.112.0-1.1
 ktimer 23.08.3-1.1
@@ -1057,7 +1064,7 @@ lib32-zstd 1.5.5-3
 libabw 0.1.3-3.1
 libaccounts-glib 1.26-2.1
 libaccounts-qt 1.16-3.2
-libadwaita 1:1.4.1-1.1
+libadwaita 1:1.4.2-1.1
 libaec 1.0.6-1.1
 libaio 0.3.113-2.1
 libajantv2 1:16.2_bugfix5-3
@@ -1120,7 +1127,7 @@ libdbusmenu-qt5 0.9.3+16.04.20160218-6.1
 libdc1394 2.2.7-1.1
 libdca 0.0.7-2.1
 libde265 1.0.14-1.1
-libdecor 0.2.0-1.1
+libdecor 0.2.1-1.1
 libdeflate 1.19-1.1
 libdispatch 5.5.0-1.1
 libdisplay-info 0.1.1-3.1
@@ -1185,7 +1192,7 @@ libgxps 0.3.2-4.1
 libhandy 1.8.2-1.2
 libheif 1.17.5-2.1
 libhomfly 1.02r6-2.1
-libibus 1.5.28-5.1
+libibus 1.5.29-2.1
 libical 3.0.17-1.1
 libice 1.1.1-2.1
 libid3tag 0.15.1b-12.1
@@ -1197,7 +1204,7 @@ libimagequant 4.2.2-2.1
 libime 1.1.3-1.1
 libimobiledevice 1.3.0-9.1
 libimobiledevice-glue 1.0.0-1
-libindi 2.0.4-2.1
+libindi 2.0.5-1.1
 libindicator-gtk2 12.10.1-10.1
 libinih 57-1.1
 libinput 1.24.0-1.1
@@ -1221,6 +1228,7 @@ libkdegames 23.08.3-1.1
 libkeduvocdocument 23.08.3-1.1
 libkexiv2 23.08.3-1.1
 libkgapi 23.08.3-1.1
+libkleo 23.08.3-1.1
 libkmahjongg 23.08.3-1.1
 libkomparediff2 23.08.3-1.1
 libksba 1.6.5-1.1
@@ -1247,7 +1255,7 @@ libmaxminddb 1.8.0-1.1
 libmbim 1.30.0-1.1
 libmd 1.1.0-1.1
 libmediaart 1.9.6-2.1
-libmediainfo 23.10-1.1
+libmediainfo 23.11-1.1
 libmemcached-awesome 1.1.4-2.1
 libmfx 23.2.2-2.1
 libmgba 0.10.2-2.1
@@ -1324,7 +1332,7 @@ libraw1394 2.1.2-3.1
 libreoffice-fresh 7.6.3-2.1
 libreoffice-fresh-zh-cn 7.6.3-2
 librevenge 0.0.5-2.1
-librewolf 120.0-2
+librewolf 120.0.1-1
 librist 0.2.10-1.1
 librsvg 2:2.57.0-1.1
 librtmp0 2.4-5.1
@@ -1440,6 +1448,7 @@ libxfont2 2.0.6-2.1
 libxft 2.3.8-1.1
 libxi 1.8.1-1.1
 libxinerama 1.1.5-1.1
+libxisf 0.2.10-1.1
 libxkbcommon 1.6.0-1.1
 libxkbcommon-x11 1.6.0-1.1
 libxkbfile 1.1.2-1.1
@@ -1505,7 +1514,7 @@ lua53 5.3.6-2.1
 luajit 2.1.1700008891-1.1
 luit 20230201-1.1
 lunar-client 3.1.1-1
-lutris-git 0.5.14.r217.g9d0130713-1
+lutris-git 0.5.14.r220.gad82efb0e-1
 lv2 1.18.10-1.1
 lvm2 2.03.22-2.1
 lxc 1:5.0.3-1.1
@@ -1534,7 +1543,7 @@ md4c 0.4.8-1.1
 mda.lv2 1.2.10-1.2
 mdadm 4.2-2.1
 media-player-info 24-2
-mediainfo 23.10-1.1
+mediainfo 23.11-1.1
 memstrack 0.2.2-1
 mesa 1:23.3.0-1
 mesa-demos 9.0.0-3.1
@@ -1649,7 +1658,7 @@ okular 23.08.3-1.1
 onedrive-abraunegg 2.4.25-1
 onefetch 2.19.0-1.1
 onetbb 2021.10.0-1.1
-onevpl 2023.3.1-1.1
+onevpl 2023.4.0-1.1
 oniguruma 6.9.9-1.1
 open-iscsi 2.1.9-2.1
 open-isns 0.102-3.1
@@ -1701,7 +1710,7 @@ pam-u2f 1.3.0-1.1
 pambase 20230918-1
 pango 1:1.51.1-1.1
 pangomm 2.46.3-1.1
-papirus-icon-theme 20231101-1
+papirus-icon-theme 20231201-1
 pari 2.15.4-1.1
 pari-galdata 20080411-3
 pari-seadata-small 20090618-3
@@ -1918,7 +1927,7 @@ python-future 0.18.3-2
 python-glfw 2.5.9-2
 python-gmpy2 2.1.5-2.1
 python-gobject 3.46.0-1.1
-python-gpgme 1.23.1-1.1
+python-gpgme 1.23.2-1.1
 python-graphviz 0.20.1-3
 python-greenlet 3.0.1-1.1
 python-h11 0.14.0-2
@@ -1953,8 +1962,8 @@ python-jedi 0.19.1-1
 python-jeepney 0.8.0-2
 python-jinja 1:3.1.2-4
 python-jsonpointer 2.4-1
-python-jsonschema 4.19.2-1
-python-jsonschema-specifications 2023.7.1-1
+python-jsonschema 4.20.0-1
+python-jsonschema-specifications 2023.11.2-1
 python-kaitaistruct 0.10-2
 python-keyring 24.2.0-1
 python-kiwisolver 1.4.5-1.1
@@ -2024,7 +2033,7 @@ python-pooch 1.8.0-1
 python-pplpy 0.8.9-1.1
 python-prettytable 3.9.0-1
 python-primecountpy 0.1.0-2.1
-python-prompt_toolkit 3.0.39-1
+python-prompt_toolkit 3.0.41-1
 python-protobuf 25.1-1.1
 python-proxy_tools 0.1.0-4
 python-psutil 5.9.6-1.1
@@ -2090,7 +2099,7 @@ python-rapidfuzz 3.4.0-1.1
 python-rapidjson 1.12-1.1
 python-reactivex 4.0.4-3
 python-redis 5.0.1-1
-python-referencing 0.30.2-1
+python-referencing 0.31.1-1
 python-regex 2023.10.3-1.1
 python-rencode 1.0.6-8.1
 python-requests 2.31.0-1
@@ -2165,6 +2174,7 @@ python-wsproto 1.2.0-2
 python-wxpython 1:4.2.1-1.1
 python-xcffib 1.4.0-1
 python-xlib 0.33-2
+python-xxhash 3.2.0-2.1
 python-yaml 6.0.1-2.1
 python-yarl 1.9.2-1.1
 python-yubico 1.3.3-3
@@ -2254,7 +2264,7 @@ qemu-ui-spice-core 8.1.3-1.1
 qemu-user 8.1.3-1.1
 qemu-user-static 8.1.3-1.1
 qemu-vhost-user-gpu 8.1.3-1.1
-qgpgme-qt5 1.23.1-1.1
+qgpgme-qt5 1.23.2-1.1
 qhull 2020.2-4.1
 qqc2-desktop-style5 5.112.0-1.1
 qrcodegencpp-cmake 1:1.8.0-3
@@ -2657,9 +2667,9 @@ ventoy-bin 1.0.96-1
 verdict 1.4.2-1.1
 vhs 0.6.0-1.1
 vid.stab 1.1.1-1.1
-vim 9.0.2121-1.1
+vim 9.0.2143-1.1
 vim-plug 0.11.0-1
-vim-runtime 9.0.2121-1.1
+vim-runtime 9.0.2143-1.1
 virglrenderer 0.10.4-1.1
 virt-install 4.1.0-2
 virt-manager 4.1.0-2
@@ -2722,7 +2732,7 @@ x11-ssh-askpass 1.2.4.1-7.1
 x11docker 7.6.0-1
 x264 3:0.164.r3108.31e19f9-1.1
 x265 3.5-3.1
-xapian-core 1:1.4.23-1.1
+xapian-core 1:1.4.24-1.1
 xapp 2.8.0-1.1
 xbitmaps 1.1.3-1
 xcaddy-bin 0.3.5-1
