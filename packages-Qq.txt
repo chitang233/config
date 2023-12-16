@@ -378,7 +378,6 @@ flatpak-xdg-utils
 flex
 flint
 fltk
-fluffychat-bin
 fluidsynth
 fmt
 fmt9
@@ -728,7 +727,7 @@ keyutils
 kfilemetadata5
 kfind
 kfourinline
-kgamma5
+kgamma
 kgeography
 kget
 kglobalaccel5
@@ -2481,7 +2480,6 @@ semver
 serd
 serenity-git
 serf
-session-desktop-bin
 sfml
 shaderc
 shadow
