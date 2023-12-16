@@ -2835,7 +2835,6 @@ xterm
 xvidcore
 xxhash
 xz
-yacd
 yajl
 yakuake
 yaml-cpp
