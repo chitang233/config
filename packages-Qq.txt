@@ -368,7 +368,7 @@ filesystem
 findutils
 fio
 firefox-appmenu
-firefox-nightly
+firefox-nightly-zh-tw
 firefox-pwa
 fish
 flac
