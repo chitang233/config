@@ -1,4 +1,5 @@
-# from https://github.com/NanamiNakano/configs/blob/main/zsh/.zshrc
+# author: NanamiNakano
+# source: https://github.com/NanamiNakano/configs/blob/34ef7bb74040f70db4f1dc3345fd0366bf624e74/zsh/.zshrc
 
 zstyle ':completion:*' list-colors "${(@s.:.)LS_COLORS}"
 zstyle ':completion:*:matches' group 'yes'

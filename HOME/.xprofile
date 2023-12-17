@@ -17,9 +17,9 @@ export GPG_TTY=$(tty)
 
 export LIBVA_DRIVER_NAME=nvidia
 export NVD_BACKEND=direct
-export VK_ICD_FILENAMES="/usr/share/vulkan/icd.d/nvidia_icd.json:/usr/share/vulkan/icd.d/intel_icd.x86_64.json:/usr/share/vulkan/icd.d/intel_icd.i686.json"
+export VK_ICD_FILENAMES="/usr/share/vulkan/icd.d/nvidia_icd.json"
 
-export PATH=$PATH:/home/chitang/.local/bin
+export PATH=$PATH:/home/chitang/.local/bin:/home/chitang/.local/go/bin
 
 export GTK_USE_PORTAL=1
 
