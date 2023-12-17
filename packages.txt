@@ -129,7 +129,7 @@ brltty 6.6-3.1
 brotli 1.1.0-1.1
 btop 1.2.13-1.1
 btrfs-assistant 1.8-2
-btrfs-progs 6.6.2-1.1
+btrfs-progs 6.6.3-1.1
 btrfsmaintenance 0.5-2
 bubblewrap 0.8.0-1
 busybox 1.36.1-1.1
@@ -178,7 +178,7 @@ cifs-utils 7.0-3.1
 ciphey 5.14.0-7
 cjson 1.7.16-1.1
 clash-geoip 20231112-1
-clash-meta-alpha-git 20231214.r0.ga06711dd-1
+clash-meta-alpha-git 20231216.r0.g78e5d322-1
 clinfo 3.0.21.02.21-1.1
 clion 1:2023.3.1-1
 cliquer 1.22-1.1
@@ -323,7 +323,7 @@ ell 0.61-1.1
 emby-theater 3.0.19-3.1
 emoji-keyboard 4.0.0-4
 enca 1.19-5.1
-enchant 2.6.3-1.1
+enchant 2.6.4-1.1
 enet 1.3.17-1.1
 erofs-utils 1.7.1-1.1
 espeak-ng 1.51.1-2.1
@@ -368,7 +368,7 @@ filesystem 2023.09.18-1
 findutils 4.9.0-3.1
 fio 3.36-1.1
 firefox-appmenu 112.0.2-2
-firefox-nightly-zh-tw 122.0a1.20231216.00-1
+firefox-nightly-zh-tw 122.0a1.20231216.12-1
 firefox-pwa 2.9.1-1
 fish 3.6.4-1.1
 flac 1.4.3-1.1
@@ -417,8 +417,8 @@ gavl 1.4.0-7.1
 gawk 5.3.0-1.1
 gc 8.2.4-1.1
 gcab 1.6-1.1
-gcc 13.2.1-6
-gcc-libs 13.2.1-6
+gcc 13.2.1-7
+gcc-libs 13.2.1-7
 gcc12 12.3.0-3.1
 gcc12-libs 12.3.0-3.1
 gconf 3.2.6+11+g07808097-11
@@ -799,6 +799,7 @@ konqueror 23.08.4-1.1
 konquest 23.08.4-1.1
 konsole 23.08.4-1.1
 kontrast 23.08.4-1.1
+kotlin 1.9.21-1
 kpackage5 5.113.0-1.1
 kparts5 5.113.0-1.1
 kpat 23.08.4-1.1
@@ -896,7 +897,7 @@ lib32-freeglut 3.4.0-1
 lib32-freetype2 2.13.2-1
 lib32-fribidi 1.0.13-2
 lib32-gamemode 1.7-1
-lib32-gcc-libs 13.2.1-6
+lib32-gcc-libs 13.2.1-7
 lib32-gdk-pixbuf2 2.42.10-2
 lib32-gettext 0.22.4-1
 lib32-giflib 5.2.1-1
@@ -1240,7 +1241,7 @@ libldac 2.0.2.3-1.1
 libldap 2.6.6-2.1
 libliftoff 0.4.1-1.1
 liblo 1:0.31-3.1
-liblouis 3.27.0-1.1
+liblouis 3.28.0-1.1
 liblphobos 3:1.35.0-1
 liblqr 0.4.2-3.1
 liblrdf 0.6.1-4.1
@@ -1513,7 +1514,7 @@ lua53 5.3.6-2.1
 luajit 2.1.1702233742-1.1
 luit 20230201-1.1
 lunar-client 3.1.3-1
-lutris-git 0.5.14.r331.gf287dfa07-1
+lutris-git 0.5.14.r341.g32841b9ab-1
 lv2 1.18.10-1.1
 lvm2 2.03.22-2.1
 lxc 1:5.0.3-1.1
@@ -1819,12 +1820,12 @@ ppl 1.2-5.1
 ppp 2.5.0-1.1
 primecount 7.9-1.1
 primesieve 11.1-1.1
-prismlauncher-git 8.0.r144.g32a9c37ec-1
+prismlauncher-git 8.0.r154.ge227826a9-1
 prison5 5.113.0-1.1
 procps-ng 4.0.4-2.1
 projectm 3.1.12-4.1
 protobuf 25.1-1.1
-protobuf-c 1.4.1-5.1
+protobuf-c 1.5.0-1.1
 proton 1:8.0.4.3-3
 proxychains-ng 4.16-2.1
 psmisc 23.6-1.1
@@ -2031,7 +2032,7 @@ python-polib 1.2.0-1.3
 python-pooch 1.8.0-1
 python-pplpy 0.8.9-1.1
 python-prettytable 3.9.0-1
-python-primecountpy 0.1.0-2.1
+python-primecountpy 0.1.0-4.1
 python-prompt_toolkit 3.0.42-1
 python-protobuf 25.1-1.1
 python-proxy_tools 0.1.0-4
@@ -2045,7 +2046,7 @@ python-pyaes 1.6.1-10
 python-pyaml 23.9.0-1
 python-pyasn1 0.4.8-8
 python-pyasn1-modules 0.2.8-7
-python-pyaudio 0.2.14-1.1
+python-pyaudio 0.2.14-2.1
 python-pybase62 1.0.0-1
 python-pybcj 1.0.1-2.1
 python-pychm 0.8.6-7.1
@@ -2107,7 +2108,7 @@ python-rfc3339-validator 0.1.4-4
 python-rich 13.7.0-1
 python-rpds-py 0.10.6-1.1
 python-rpy2 3.5.14-1.1
-python-rsa 4.9-2
+python-rsa 4.9-3
 python-ruamel-yaml 0.17.40-1
 python-ruamel.yaml.clib 0.2.7-2.1
 python-rx 3.2.0-4
@@ -2133,7 +2134,7 @@ python-sphinxcontrib-jsmath 1.0.1-15
 python-sphinxcontrib-qthelp 1.0.6-1
 python-sphinxcontrib-serializinghtml 1.1.9-1
 python-stack-data 0.6.3-1
-python-sympy 1.12-1
+python-sympy 1.12-2
 python-telethon 1.33.1-1
 python-texttable 1.7.0-1
 python-tinyaes 1.0.4-1
@@ -2165,7 +2166,7 @@ python-wcwidth 0.2.9-1
 python-webcolors 1.13-2
 python-webencodings 0.5.1-10
 python-websocket-client 1.7.0-1
-python-websockets 11.0-1.1
+python-websockets 12.0-1.1
 python-werkzeug 2.3.8-1
 python-wheel 0.40.0-3
 python-wrapt 1.14.1-2.1
@@ -2540,7 +2541,7 @@ step 23.08.4-1.1
 stk 4.6.2-2.1
 strace 6.6-1.1
 subversion 1.14.2-12.1
-sudo 1.9.15.p2-1.1
+sudo 1.9.15.p3-1.1
 suil 0.10.20-1.1
 suitesparse 7.3.1-1.1
 svgpart 23.08.4-1.1
@@ -2604,7 +2605,7 @@ traceroute 2.1.3-1.1
 tracker3 3.6.0-1.1
 tracker3-miners 3.6.2-1.1
 translate-shell 0.9.7.1-1
-transmission-cli 4.0.4-1.1
+transmission-cli 4.0.5-1.1
 trash-cli 0.23.2.13.2-2
 trayscale 0.10.4-1
 tre 0.8.0-6.1

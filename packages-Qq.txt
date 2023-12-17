@@ -799,6 +799,7 @@ konqueror
 konquest
 konsole
 kontrast
+kotlin
 kpackage5
 kparts5
 kpat
