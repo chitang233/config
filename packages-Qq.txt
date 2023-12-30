@@ -57,6 +57,7 @@ aribb25
 ark
 arpack
 artikulate
+asar
 asciicaesar
 asciinema
 asio
