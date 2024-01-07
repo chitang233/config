@@ -374,7 +374,6 @@ firefox-pwa
 fish
 flac
 flake8
-flashrom
 flatpak-xdg-utils
 flex
 flint
@@ -408,8 +407,6 @@ fuse2
 fuse3
 fuseiso
 futuresql-qt5
-fwupd
-fwupd-efi
 fzf
 gamemode
 gamescope
@@ -417,7 +414,6 @@ gap
 gavl
 gawk
 gc
-gcab
 gcc
 gcc-libs
 gcc12
@@ -1220,7 +1216,6 @@ libisl
 libisoburn
 libisofs
 libixion
-libjcat
 libjpeg-turbo
 libjpeg6-turbo
 libjxl
@@ -1353,7 +1348,6 @@ libsigc++-docs
 libsigsegv
 libslirp
 libsm
-libsmbios
 libsndfile
 libsodium
 libsonic
@@ -1740,7 +1734,6 @@ parted
 partitionmanager
 paru
 pass
-passim
 patch
 patchelf
 pcaudiolib

@@ -374,7 +374,6 @@ firefox-pwa 2.9.1-1
 fish 3.6.4-1.1
 flac 1.4.3-1.1
 flake8 1:6.1.0-1
-flashrom 1.2-4.2
 flatpak-xdg-utils 1.0.5-1.1
 flex 2.6.4-5.1
 flint 3.0.1-2.1
@@ -408,8 +407,6 @@ fuse2 2.9.9-4.1
 fuse3 3.16.2-1.1
 fuseiso 20070708-8.1
 futuresql-qt5 0.1.1-2.1
-fwupd 1.9.10-1.1
-fwupd-efi 1.4-1.1
 fzf 0.44.1-1.1
 gamemode 1.8.1-1.1
 gamescope 3.13.19-1.1
@@ -417,7 +414,6 @@ gap 4.12.2-3.1
 gavl 1.4.0-7.1
 gawk 5.3.0-1.1
 gc 8.2.4-1.1
-gcab 1.6-1.1
 gcc 13.2.1-7
 gcc-libs 13.2.1-7
 gcc12 12.3.0-3.1
@@ -1220,7 +1216,6 @@ libisl 0.26-1.1
 libisoburn 1.5.6-1.1
 libisofs 1.5.6-1.1
 libixion 0.19.0-1.1
-libjcat 0.1.14-1.1
 libjpeg-turbo 3.0.1-1.1
 libjpeg6-turbo 1.5.3-2.1
 libjxl 0.8.2-2.1
@@ -1353,7 +1348,6 @@ libsigc++-docs 2.12.1-1.1
 libsigsegv 2.14-2.1
 libslirp 4.7.0-1.1
 libsm 1.2.4-1.1
-libsmbios 2.4.3-6.1
 libsndfile 1.2.2-2.1
 libsodium 1.0.19-2.1
 libsonic 0.2.0-1
@@ -1740,7 +1734,6 @@ parted 3.6-1.1
 partitionmanager 23.08.4-1.1
 paru 2.0.1-1
 pass 1.7.4-4
-passim 0.1.4-1.1
 patch 2.7.6-10.2
 patchelf 0.18.0-1.1
 pcaudiolib 1.2-2.1
