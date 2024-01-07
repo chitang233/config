@@ -178,6 +178,7 @@ chrpath
 cifs-utils
 ciphey
 cjson
+clang
 clash-geoip
 clash-meta-alpha-git
 clinfo
@@ -201,6 +202,7 @@ cockpit-storaged
 cogl
 colord
 colord-kde
+compiler-rt
 compsize
 confuse
 conky
@@ -312,9 +314,11 @@ egl-wayland
 eglexternalplatform
 electron
 electron17-bin
+electron21-bin
 electron22
 electron24
 electron25
+electron28
 element-desktop
 element-web
 elfutils
