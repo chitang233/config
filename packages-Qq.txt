@@ -194,11 +194,6 @@ clutter-gtk
 cmake
 cmark
 cni-plugins
-cockpit
-cockpit-machines
-cockpit-packagekit
-cockpit-pcp
-cockpit-storaged
 cogl
 colord
 colord-kde
@@ -1309,7 +1304,6 @@ libopenmpt
 liborcus
 libosinfo
 libp11-kit
-libpackagekit-glib
 libpagemaker
 libpaper
 libparserutils
@@ -1350,6 +1344,7 @@ libsigc++
 libsigc++-3.0
 libsigc++-docs
 libsigsegv
+libsixel
 libslirp
 libsm
 libsndfile
@@ -1715,7 +1710,6 @@ oxygen-sounds
 p11-kit
 p7zip
 p8-platform
-packagekit
 pacman
 pacman-contrib
 pacman-mirrorlist
@@ -1743,7 +1737,6 @@ patchelf
 pcaudiolib
 pcem
 pciutils
-pcp
 pcre
 pcre2
 pcsclite
