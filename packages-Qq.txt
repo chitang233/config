@@ -122,6 +122,7 @@ boost-libs
 bovo
 box2d
 breeze
+breeze-grub
 breeze-gtk
 breeze-icons
 brial
@@ -356,7 +357,7 @@ fd
 feh
 ffcall
 fflas-ffpack
-ffmpeg-obs
+ffmpeg
 ffmpeg4.4
 ffmpegthumbnailer
 ffmpegthumbs
@@ -611,6 +612,8 @@ iniparser
 inkscape
 innoextract
 inotify-tools
+intel-gmmlib
+intel-media-driver
 intellij-idea-ultimate-edition
 iperf3
 ipfs-desktop
@@ -1650,7 +1653,7 @@ nvidia-vaapi-driver-git
 nvtop
 nx-x11
 nxagent
-obs-studio-browser
+obs-studio
 ocl-icd
 octopi
 odt2txt
@@ -1659,6 +1662,7 @@ onedrive-abraunegg
 onefetch
 onetbb
 onevpl
+onevpl-intel-gpu
 oniguruma
 open-iscsi
 open-isns
@@ -2582,7 +2586,7 @@ tar
 tcl
 tcping
 tdb
-telegram-desktop-lily
+telegram-desktop-megumifox
 telly-skout
 tepl
 tevent
