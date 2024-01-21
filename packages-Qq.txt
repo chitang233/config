@@ -233,6 +233,8 @@ dav1d
 db
 db5.3
 dbus
+dbus-broker
+dbus-broker-units
 dbus-glib
 dbus-python
 dconf
@@ -314,6 +316,7 @@ electron21-bin
 electron22
 electron24
 electron25
+electron27
 electron28
 element-desktop
 element-web
@@ -678,7 +681,7 @@ kclock
 kcmutils5
 kcodecs5
 kcolorchooser
-kcolorpicker
+kcolorpicker-qt5
 kcompletion5
 kconfig5
 kconfigwidgets5
@@ -748,7 +751,7 @@ kidletime5
 kig
 kigo
 killbots
-kimageannotator
+kimageannotator-qt5
 kimageformats5
 kimagemapeditor
 kinfocenter
@@ -1288,6 +1291,8 @@ libnfnetlink
 libnfs
 libnftnl
 libnghttp2
+libnghttp3
+libngtcp2
 libnice
 libnih
 libnl
@@ -1418,6 +1423,7 @@ libvirt-storage-iscsi-direct
 libvisio
 libvncserver
 libvorbis
+libvpl
 libvpx
 libvpx1.3
 libvterm
@@ -1444,6 +1450,7 @@ libxcursor
 libxcvt
 libxdamage
 libxdmcp
+libxdp
 libxext
 libxfixes
 libxfont2
@@ -1661,7 +1668,6 @@ okular
 onedrive-abraunegg
 onefetch
 onetbb
-onevpl
 onevpl-intel-gpu
 oniguruma
 open-iscsi
@@ -1862,6 +1868,7 @@ python-aioquic
 python-aiosignal
 python-altgraph
 python-annotated-types
+python-anyio
 python-appdirs
 python-apsw
 python-argcomplete
@@ -1914,6 +1921,7 @@ python-cysignals
 python-dateutil
 python-decorator
 python-dill
+python-dirty-equals
 python-distlib
 python-distro
 python-dnspython
@@ -1925,6 +1933,7 @@ python-emoji
 python-entrypoints
 python-evdev
 python-executing
+python-fastapi
 python-fastimport
 python-fastjsonschema
 python-fastpbkdf2
@@ -1937,6 +1946,7 @@ python-fonttools
 python-fpylll
 python-fqdn
 python-frozenlist
+python-fsspec
 python-future
 python-glfw
 python-gmpy2
@@ -2072,6 +2082,8 @@ python-pycups
 python-pycurl
 python-pydantic
 python-pydantic-core
+python-pydantic-extra-types
+python-pydantic-settings
 python-pyflakes
 python-pygments
 python-pyinotify
@@ -2136,6 +2148,7 @@ python-sgmllib3k
 python-shellingham
 python-shiboken2
 python-six
+python-sniffio
 python-snowballstemmer
 python-sortedcontainers
 python-soupsieve
@@ -2148,6 +2161,7 @@ python-sphinxcontrib-jsmath
 python-sphinxcontrib-qthelp
 python-sphinxcontrib-serializinghtml
 python-stack-data
+python-starlette
 python-sympy
 python-telethon
 python-texttable
