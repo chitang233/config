@@ -951,6 +951,7 @@ lib32-libldap
 lib32-libltdl
 lib32-libmikmod
 lib32-libmodplug
+lib32-libnghttp2
 lib32-libnl
 lib32-libnm
 lib32-libogg
@@ -1813,6 +1814,7 @@ plasma-workspace
 plasma5-wallpapers-wallpaper-engine
 plasmatube
 plfit
+plog
 pngcrush
 pnpm
 podman
@@ -2521,8 +2523,10 @@ signon-ui
 signond
 simplescreenrecorder
 sing-box
-sing-geoip
-sing-geosite
+sing-geoip-common
+sing-geoip-db
+sing-geosite-common
+sing-geosite-db
 singular
 skim
 slang
