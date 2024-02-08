@@ -9,7 +9,6 @@ acpi
 acpi_call-dkms
 acpid
 activitywatch-bin
-adobe-source-code-pro-fonts
 adwaita-cursors
 adwaita-icon-theme
 aegisub
@@ -44,8 +43,6 @@ appstream-qt5
 apr
 apr-util
 arch-install-scripts
-archiso-persistent-git
-archiso-profiles
 archlinux-keyring
 archlinuxcn-keyring
 ardour
@@ -99,15 +96,12 @@ bat
 bc
 bcg729
 beep
-bilibili-bin
 bind
 binutils
 bison
-bitwarden
 black-hole-solver
 blas
 bleachbit
-blinken
 blueberry
 bluedevil
 bluez
@@ -162,7 +156,6 @@ ccid
 cddlib
 cdparanoia
 cdrtools
-cef-minimal-obs-bin
 cemu
 cervisia
 cfitsio
@@ -219,7 +212,7 @@ cracklib
 criu
 cronie
 crun
-cryptsetup-nested-cryptkey
+cryptsetup
 cubeb-git
 cuda
 cups-pk-helper
@@ -310,21 +303,10 @@ efitools
 efivar
 egl-wayland
 eglexternalplatform
-electron
-electron17-bin
-electron21-bin
-electron22
-electron24
-electron25
-electron27
-electron28
-element-desktop
-element-web
 elfutils
 elinks
 elisa
 ell
-emby-theater
 emoji-keyboard
 enca
 enchant
@@ -400,7 +382,6 @@ frei0r-plugins
 fribidi
 frpc
 fstrm
-ftba-electron
 ftgl
 ftl-sdk
 fuse-common
@@ -498,7 +479,6 @@ gobject-introspection
 gobject-introspection-runtime
 goland
 gom
-google-chrome-dev
 goverlay-git
 gpart
 gparted
@@ -508,6 +488,7 @@ gpgme
 gpm
 gptfdisk
 gradle
+gradle-zsh-completion
 granatier
 grantlee
 grantleetheme
@@ -578,7 +559,6 @@ hdf5
 hdparm
 heaptrack
 helvum
-heroic-games-launcher-bin
 hexer
 hexo-cli
 hicolor-icon-theme
@@ -586,7 +566,7 @@ hidapi
 highlight
 highway
 hiredis
-hmcl-new
+hmcl-bin
 hostapd
 htop
 http-parser
@@ -599,7 +579,6 @@ hyfetch
 hyphen
 i2c-tools
 iana-etc
-icalingua++
 icu
 icu69-bin
 id3lib
@@ -619,7 +598,6 @@ intel-gmmlib
 intel-media-driver
 intellij-idea-ultimate-edition
 iperf3
-ipfs-desktop
 iproute2
 ipscan
 iptables-nft
@@ -952,6 +930,7 @@ lib32-libltdl
 lib32-libmikmod
 lib32-libmodplug
 lib32-libnghttp2
+lib32-libnghttp3
 lib32-libnl
 lib32-libnm
 lib32-libogg
@@ -1109,7 +1088,6 @@ libcdio-paranoia
 libcdr
 libcec
 libcerf
-libcgif
 libcheese
 libcloudproviders
 libcmis
@@ -1301,7 +1279,6 @@ libnm
 libnotify
 libnova
 libnsl
-libnss_nis
 libnumbertext
 libnvme
 liboauth
@@ -1414,7 +1391,6 @@ libva-mesa-driver
 libva-utils
 libvdpau
 libverto
-libvips
 libvirt
 libvirt-dbus
 libvirt-glib
@@ -1496,7 +1472,6 @@ linux-steam-integration
 linux-wifi-hotspot
 linux-zen
 linux-zen-headers
-linuxqq-nt-bwrap
 lirc
 live-media
 lksctp-tools
@@ -1572,6 +1547,10 @@ misans
 misans-fontconfig
 mitmproxy
 mjpegtools
+mkdocs
+mkdocs-material
+mkdocs-material-extensions
+mkdocs-minify-plugin
 mkinitcpio
 mkinitcpio-busybox
 mlt
@@ -1816,6 +1795,7 @@ plasmatube
 plfit
 plog
 pngcrush
+pngquant
 pnpm
 podman
 podman-compose
@@ -1850,6 +1830,7 @@ protobuf
 protobuf-c
 proton
 proxychains-ng
+prrte
 psmisc
 publicsuffix-list
 pugixml
@@ -1859,6 +1840,7 @@ putty
 pycharm-professional
 pyinstaller
 pyinstaller-hooks-contrib
+pymdown-extensions
 pyside2
 pystring
 python
@@ -1884,7 +1866,6 @@ python-attrs
 python-autocommand
 python-automat
 python-babel
-python-backcall
 python-base58
 python-base91
 python-bcrypt
@@ -1898,6 +1879,7 @@ python-cachetools
 python-cachy
 python-cairo
 python-cairocffi
+python-cairosvg
 python-certifi
 python-cffi
 python-chardet
@@ -1915,13 +1897,16 @@ python-crashtest
 python-cryptg
 python-cryptography
 python-css-parser
+python-csscompressor
 python-cssselect
+python-cssselect2
 python-cvxopt
 python-cycler
 python-cypari2
 python-cysignals
 python-dateutil
 python-decorator
+python-defusedxml
 python-dill
 python-dirty-equals
 python-distlib
@@ -1931,6 +1916,7 @@ python-docopt
 python-docutils
 python-dotenv
 python-dulwich
+python-editables
 python-emoji
 python-entrypoints
 python-evdev
@@ -1950,6 +1936,7 @@ python-fqdn
 python-frozenlist
 python-fsspec
 python-future
+python-ghp-import
 python-glfw
 python-gmpy2
 python-gobject
@@ -1958,11 +1945,15 @@ python-graphviz
 python-greenlet
 python-h11
 python-h2
+python-hatch-nodejs-version
+python-hatch-requirements-txt
+python-hatchling
 python-hiredis
 python-hpack
 python-html2text
 python-html5-parser
 python-html5lib
+python-htmlmin2
 python-huggingface-hub
 python-hyperframe
 python-hyperlink
@@ -1986,7 +1977,9 @@ python-jaraco.functools
 python-jaraco.text
 python-jedi
 python-jeepney
+python-jieba
 python-jinja
+python-jsmin
 python-jsonpointer
 python-jsonschema
 python-jsonschema-specifications
@@ -1996,6 +1989,7 @@ python-kiwisolver
 python-lark-parser
 python-lazy-object-proxy
 python-ldap3
+python-livereload
 python-lockfile
 python-logbook
 python-loguru
@@ -2011,8 +2005,10 @@ python-matplotlib-inline
 python-matrix-nio
 python-mccabe
 python-mdurl
+python-mdx-gh-links
 python-mechanize
 python-memory-allocator
+python-mergedeep
 python-mitmproxy-rs
 python-mitmproxy-wireguard
 python-mock
@@ -2036,10 +2032,12 @@ python-opengl
 python-ordered-set
 python-outcome
 python-packaging
+python-paginate
 python-pandas
 python-paramiko
 python-parso
 python-passlib
+python-pathspec
 python-pbr
 python-pdftotext
 python-peewee
@@ -2115,12 +2113,14 @@ python-pyserial
 python-pysmbc
 python-pysocks
 python-pytest
+python-pytest-cov
 python-python-socks
 python-pytz
 python-pyusb
 python-pywebview
 python-pywhat
 python-pyxdg
+python-pyyaml-env-tag
 python-pyzstd
 python-qtpy
 python-rapidfuzz
@@ -2168,6 +2168,7 @@ python-sympy
 python-telethon
 python-texttable
 python-tinyaes
+python-tinycss2
 python-toml
 python-tomli
 python-tomlkit
@@ -2192,6 +2193,7 @@ python-urwid
 python-uvloop
 python-validate-pyproject
 python-virtualenv
+python-watchdog
 python-wcwidth
 python-webcolors
 python-webencodings
@@ -2516,7 +2518,6 @@ sfml
 shaderc
 shadow
 shared-mime-info
-signal-desktop-beta
 signon-kwallet-extension
 signon-plugin-oauth2
 signon-ui
@@ -2533,7 +2534,6 @@ slang
 slirp4netns
 smartmontools
 smbclient
-snapd-xdg-open-git
 snapper
 snappy
 sndio
@@ -2647,7 +2647,6 @@ tree-sitter
 triplea
 tslib
 ttf-firacode-nerd
-ttf-hack
 ttf-harmonyos-sans
 ttf-jetbrains-mono
 ttf-jetbrains-mono-nerd
@@ -2913,7 +2912,6 @@ yasm
 yazi
 yelp
 yelp-xsl
-youtube-dl-gui
 yt-dlp
 yubico-c
 yubico-c-client
