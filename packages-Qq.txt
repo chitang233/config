@@ -303,6 +303,7 @@ efitools
 efivar
 egl-wayland
 eglexternalplatform
+electron22
 elfutils
 elinks
 elisa
@@ -644,6 +645,7 @@ katomic
 kauth5
 kbackup
 kbd
+kbfs
 kblackbox
 kblocks
 kbookmarks5
@@ -702,6 +704,8 @@ kdsoap-ws-discovery-client
 keditbookmarks
 kemoticons
 kexec-tools
+keybase
+keybase-gui
 keysmith
 keyutils
 kfilemetadata5
@@ -881,6 +885,7 @@ lib32-gcc-libs
 lib32-gdk-pixbuf2
 lib32-gettext
 lib32-giflib
+lib32-glew
 lib32-glew1.10
 lib32-glib-networking
 lib32-glib2
@@ -1545,6 +1550,7 @@ minizip
 minizip-ng
 misans
 misans-fontconfig
+mission-center
 mitmproxy
 mjpegtools
 mkdocs
