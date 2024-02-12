@@ -121,9 +121,9 @@ breeze-gtk 5.27.10-1
 breeze-icons 5.115.0-1
 brial 1.2.12-2.1
 bridge-utils 1.7.1-1.2
-brltty 6.6-4.1
+brltty 6.6-5.1
 brotli 1.1.0-1.1
-btop 1.3.0-4.1
+btop 1.3.1-1.1
 btrfs-assistant 1.9-1
 btrfs-progs 6.7-1.1
 btrfsmaintenance 0.5-2
@@ -173,7 +173,7 @@ cifs-utils 7.0-3.1
 ciphey 5.14.0-7
 cjson 1.7.17-1.1
 clang 16.0.6-2.1
-clash-geoip 20240112-1
+clash-geoip 20240212-1
 clash-meta-alpha-git 20240207.r0.g0c384b1e-2
 clinfo 3.0.21.02.21-1.1
 clion 1:2023.3.3-1
@@ -307,7 +307,7 @@ electron22 22.3.27-3
 elfutils 0.190-2.2
 elinks 0.17.0-1.1
 elisa 23.08.4-1.1
-ell 0.61-1.1
+ell 0.62-1.1
 emoji-keyboard 4.0.0-4
 enca 1.19-5.1
 enchant 2.6.5-1.2
@@ -355,7 +355,7 @@ filesystem 2024.01.19-1
 findutils 4.9.0-3.1
 fio 3.36-1.1
 firefox-appmenu 112.0.2-2
-firefox-nightly-zh-tw 124.0a1.20240211.11-1
+firefox-nightly-zh-tw 124.0a1.20240212.00-1
 firefox-pwa 2.10.1-1
 fish 3.7.0-1.1
 flac 1.4.3-1.1
@@ -411,7 +411,7 @@ gdb 14.1-1.1
 gdb-common 14.1-1.1
 gdbm 1.23-2.1
 gdk-pixbuf2 2.42.10-2.1
-gegl 0.4.46-2.1
+gegl 0.4.48-1.1
 geoclue 2.7.1-2.1
 geoip 1.6.12-2.1
 geoip-database 20240127-1
@@ -465,7 +465,7 @@ gnome-desktop-4 1:44.0-1.1
 gnome-desktop-common 1:44.0-1.1
 gnome-keyring 1:42.1-3.1
 gnome-latex 3.46.0-2.1
-gnome-music 1:45.0-1
+gnome-music 1:45.1-1
 gnome-terminal 3.50.1-1.1
 gnome-video-effects 1:0.6.0-1
 gnu-free-fonts 20120503-8
@@ -567,7 +567,7 @@ hidapi 0.14.0-2.1
 highlight 4.10-1.1
 highway 1.0.7-1.1
 hiredis 1.2.0-2.1
-hmcl-bin 3.5.4.234-2
+hmcl-bin 3.5.5.235-1
 hostapd 2.10-4.1
 htop 3.3.0-1.1
 http-parser 2.9.4-1.1
@@ -1396,12 +1396,12 @@ libva-mesa-driver 1:23.3.5-1.1
 libva-utils 2.20.1-1.1
 libvdpau 1.5-2.1
 libverto 0.3.2-4.1
-libvirt 1:10.0.0-2.1
-libvirt-dbus 1.4.1-2.1
+libvirt 1:10.0.0-3.1
+libvirt-dbus 1.4.1-3.1
 libvirt-glib 5.0.0-1.1
 libvirt-python 1:10.0.0-1.1
-libvirt-storage-gluster 1:10.0.0-2.1
-libvirt-storage-iscsi-direct 1:10.0.0-2.1
+libvirt-storage-gluster 1:10.0.0-3.1
+libvirt-storage-iscsi-direct 1:10.0.0-3.1
 libvisio 0.1.7-10.1
 libvncserver 0.9.14-2.1
 libvorbis 1.3.7-3.1
@@ -1504,7 +1504,7 @@ lua53 5.3.6-2.1
 luajit 2.1.1702233742-1.1
 luit 20240102-1.1
 lunar-client 3.2.2-1
-lutris-git 0.5.16.r85.gef45670f0-1
+lutris-git 0.5.16.r86.g2a2e0c4f4-1
 lv2 1.18.10-1.1
 lvm2 2.03.23-1.1
 lxc 1:5.0.3-1.1
@@ -1538,7 +1538,7 @@ memstrack 0.2.2-1
 mesa 1:23.3.5-1.1
 mesa-demos 9.0.0-3.1
 mesa-utils 9.0.0-3.1
-meson 1.3.1-1
+meson 1.3.1-2
 mgba-qt 0.10.3-1.1
 mgba-sdl 0.10.3-1.1
 microsoft-edge-beta-bin 122.0.2365.16-1
@@ -1642,7 +1642,7 @@ nvidia-dkms 545.29.06-3.1
 nvidia-prime 1.0-4
 nvidia-settings 545.29.06-1.1
 nvidia-utils 545.29.06-3.1
-nvidia-vaapi-driver-git 0.0.11.r27.ga28ffbb-1
+nvidia-vaapi-driver-git 0.0.11.r29.g746d551-1
 nvtop 3.0.2-1.1
 nx-x11 3.5.99.27-3
 nxagent 3.5.99.27-3
@@ -1736,7 +1736,7 @@ pciutils 3.10.0-1.1
 pcre 8.45-4.1
 pcre2 10.42-2.1
 pcsclite 2.0.1-1.1
-perl 5.38.1-1.1
+perl 5.38.2-1.1
 perl-archive-zip 1.68-8
 perl-clone 0.46-3
 perl-encode-locale 1.05-11
@@ -2482,7 +2482,7 @@ runc 1.1.12-1.1
 rustdesk-bin 1.2.3-3
 rustrover 233.14015.147-1
 rustup 1.26.0-5.1
-ryujinx-git 1.1.1189.r0.gcf6201a4a-1
+ryujinx-git 1.1.1192.r0.g904a5ffcb-1
 sage-data-combinatorial_designs 20140630-4
 sage-data-conway_polynomials 0.5-5
 sage-data-elliptic_curves 0.8.1-2
@@ -2725,7 +2725,7 @@ virt-manager 4.1.0-2
 virtio-win 0.1.240.1-1
 virtiofsd 1.10.1-1.1
 virtualbox-guest-iso 7.0.14-1
-visual-studio-code-insiders-bin 1707457610-1
+visual-studio-code-insiders-bin 1707716823-1
 vkbasalt 0.3.2.10-1
 vkd3d 1.10-1.1
 vlc-luajit 3.0.20-7
@@ -2766,7 +2766,7 @@ wireguard-tools 1.0.20210914-1.1
 wireless-regdb 2024.01.23-1
 wireless_tools 30.pre9-3.1
 wireplumber 0.4.17-1.1
-wireproxy 1.0.6-1.1
+wireproxy 1.0.7-1.1
 wireshark-cli 4.2.2-1.1
 wireshark-qt 4.2.2-1.1
 wlroots 0.17.1-1.1
