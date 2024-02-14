@@ -78,7 +78,6 @@ avahi
 avisynthplus
 axel
 ayatana-ido
-azure-cli
 babl
 baloo-widgets
 baloo5
@@ -111,7 +110,6 @@ bluez-tools
 bluez-utils
 bolt
 bomber
-boost
 boost-libs
 bovo
 box2d
@@ -872,7 +870,6 @@ lib32-colord
 lib32-curl
 lib32-dbus
 lib32-dbus-glib
-lib32-duktape
 lib32-e2fsprogs
 lib32-expat
 lib32-flac
@@ -887,7 +884,6 @@ lib32-gettext
 lib32-giflib
 lib32-glew
 lib32-glew1.10
-lib32-glib-networking
 lib32-glib2
 lib32-glibc
 lib32-glslang
@@ -944,14 +940,12 @@ lib32-libpciaccess
 lib32-libpipewire
 lib32-libpng
 lib32-libpng12
-lib32-libproxy
 lib32-libpsl
 lib32-libpulse
 lib32-librsvg
 lib32-librtmp0
 lib32-libsm
 lib32-libsndfile
-lib32-libsoup
 lib32-libssh2
 lib32-libtasn1
 lib32-libthai
@@ -997,7 +991,6 @@ lib32-libxv
 lib32-libxxf86vm
 lib32-llvm-libs
 lib32-lm_sensors
-lib32-lzo
 lib32-mangohud
 lib32-mesa
 lib32-mesa-vdpau
@@ -1141,6 +1134,7 @@ libevdev
 libevent
 libexif
 libexttextcat
+libfabric
 libfakekey
 libfbclient
 libfdk-aac
@@ -1503,7 +1497,6 @@ lua52
 lua53
 luajit
 luit
-lunar-client
 lutris-git
 lv2
 lvm2
@@ -1567,9 +1560,6 @@ modemmanager-qt5
 monero
 monero-gui
 mongo-c-driver
-mongodb-bin
-mongodb-tools-bin
-mongosh-bin
 mono
 mosh
 mpdecimal
@@ -1818,9 +1808,7 @@ popt
 portaudio
 portmidi
 portsmf
-postgresql
 postgresql-libs
-postgresql-old-upgrade
 potrace
 powerdevil
 poxml
@@ -1834,7 +1822,6 @@ procps-ng
 projectm
 protobuf
 protobuf-c
-proton
 proxychains-ng
 prrte
 psmisc
@@ -2315,7 +2302,6 @@ qt5-charts
 qt5-connectivity
 qt5-datavis3d
 qt5-declarative
-qt5-doc
 qt5-gamepad
 qt5-graphicaleffects
 qt5-imageformats
