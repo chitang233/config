@@ -361,6 +361,7 @@ flake8
 flatpak-xdg-utils
 flex
 flint
+flite
 fltk
 fluidsynth
 fmt
