@@ -110,6 +110,7 @@ bluez-tools
 bluez-utils
 bolt
 bomber
+boost
 boost-libs
 bovo
 box2d
@@ -301,7 +302,6 @@ efitools
 efivar
 egl-wayland
 eglexternalplatform
-electron22
 elfutils
 elinks
 elisa
@@ -644,7 +644,6 @@ katomic
 kauth5
 kbackup
 kbd
-kbfs
 kblackbox
 kblocks
 kbookmarks5
@@ -703,8 +702,6 @@ kdsoap-ws-discovery-client
 keditbookmarks
 kemoticons
 kexec-tools
-keybase
-keybase-gui
 keysmith
 keyutils
 kfilemetadata5
