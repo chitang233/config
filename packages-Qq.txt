@@ -288,6 +288,7 @@ duktape
 dust
 dvisvgm
 dynarmic
+e-antic
 e2fsprogs
 easyeffects
 ebook-tools
@@ -1609,6 +1610,7 @@ nodejs
 nodejs-neovim
 nodejs-nopt
 nodejs-whistle
+normaliz
 noto-color-emoji-fontconfig
 noto-fonts
 noto-fonts-cjk
