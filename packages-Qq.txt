@@ -433,7 +433,6 @@ git-credential-manager-core-bin
 git-crypt
 git-lfs
 github-cli
-github-copilot-cli
 givaro
 gjs
 gksu
