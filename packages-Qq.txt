@@ -146,7 +146,6 @@ calibre
 cantarell-fonts
 cantor
 capstone
-catatonit
 catimg
 cblas
 cbonsai
@@ -194,9 +193,7 @@ compiler-rt
 compsize
 confuse
 conky
-conmon
 containerd
-containers-common
 convertall
 convertlit
 copyq
@@ -208,9 +205,7 @@ cpu-g-git
 cpu-x
 cpupower-gui
 cracklib
-criu
 cronie
-crun
 cryptsetup
 cubeb-git
 cuda
@@ -220,6 +215,7 @@ cyrus-sasl-gssapi
 cython
 dae
 daed
+darling-bin
 datagrip
 dav1d
 db
@@ -276,6 +272,8 @@ dotconf
 dotnet-host-bin
 dotnet-runtime-6.0-bin
 dotnet-runtime-bin
+dotnet-sdk-6.0-bin
+dotnet-targeting-pack-6.0-bin
 double-conversion
 doxygen
 dpkg
@@ -433,6 +431,7 @@ git-credential-manager-core-bin
 git-crypt
 git-lfs
 github-cli
+gitoxide
 givaro
 gjs
 gksu
@@ -1260,7 +1259,6 @@ libmysofa
 libnatpmp
 libnbd
 libndp
-libnet
 libnetfilter_conntrack
 libnewt
 libnfnetlink
@@ -1588,10 +1586,10 @@ neovim
 nerdfix
 nestopia
 net-tools
-netavark
 netease-cloud-music-gtk4
 nethack
 netpbm
+netstandard-targeting-pack
 nettle
 networkmanager
 networkmanager-qt5
@@ -1792,8 +1790,6 @@ plog
 pngcrush
 pngquant
 pnpm
-podman
-podman-compose
 podman-dnsname
 podofo
 polkit
@@ -2522,7 +2518,6 @@ sing-geosite-db
 singular
 skim
 slang
-slirp4netns
 smartmontools
 smbclient
 snapper
@@ -2589,6 +2584,7 @@ systemsettings
 t1lib
 tachyon
 taglib
+taglib1
 tailscale
 talloc
 tar
