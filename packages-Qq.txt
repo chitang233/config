@@ -263,11 +263,6 @@ dolphin-plugins
 dosbox
 dosfstools
 dotconf
-dotnet-host-bin
-dotnet-runtime-6.0-bin
-dotnet-runtime-bin
-dotnet-sdk-6.0-bin
-dotnet-targeting-pack-6.0-bin
 double-conversion
 dpkg
 dragon
@@ -539,7 +534,7 @@ hidapi
 highlight
 highway
 hiredis
-hmcl-bin
+hmcl
 hostapd
 htop
 http-parser
@@ -1543,7 +1538,6 @@ net-tools
 netease-cloud-music-gtk4
 nethack
 netpbm
-netstandard-targeting-pack
 nettle
 networkmanager
 networkmanager-qt5
@@ -1625,7 +1619,6 @@ opusfile
 orc
 os-prober
 osinfo-db
-osu-lazer
 otf-misans
 otf-misans-arabic
 otf-misans-devanagari

@@ -169,7 +169,7 @@ ciphey 5.14.0-7
 cjson 1.7.17-1.1
 clang 16.0.6-2.1
 clash-geoip 20240212-1
-clash-meta-alpha-git 20240216.r0.g23e3f12e-1
+clash-meta-alpha-git 20240220.r0.g6399347a-1
 clinfo 3.0.21.02.21-1.1
 clion 1:2023.3.4-1
 cloudflared 2024.1.5-1.1
@@ -213,7 +213,7 @@ dae 0.5.1-1
 daed 0.4.0rc1-1
 darling-bin 0.1.20230310-0
 datagrip 2023.3.4-1
-dav1d 1.3.0-1.1
+dav1d 1.4.0-1
 db 6.2.32-2.1
 db5.3 5.3.28-4.1
 dbus 1.14.10-2.1
@@ -263,11 +263,6 @@ dolphin-plugins 23.08.5-1.1
 dosbox 0.74.3-2.1
 dosfstools 4.2-3.1
 dotconf 1.3-7.1
-dotnet-host-bin 8.0.1.sdk101-1
-dotnet-runtime-6.0-bin 6.0.26.sdk418-1
-dotnet-runtime-bin 8.0.1.sdk101-1
-dotnet-sdk-6.0-bin 6.0.26.sdk418-1
-dotnet-targeting-pack-6.0-bin 6.0.26.sdk418-1
 double-conversion 3.3.0-1.1
 dpkg 1.22.0-1.1
 dragon 23.08.5-1.1
@@ -339,7 +334,7 @@ filesystem 2024.01.19-1
 findutils 4.9.0-3.1
 fio 3.36-1.1
 firefox-appmenu 112.0.2-2
-firefox-nightly-zh-tw 125.0a1.20240219.23-1
+firefox-nightly-zh-tw 125.0a1.20240220.12-1
 firefox-pwa 2.10.1-1
 fish 3.7.0-1.1
 flac 1.4.3-1.1
@@ -352,10 +347,10 @@ fluidsynth 2.3.4-1.1
 fmt 10.2.0-1.1
 fmt9 9.1.0-6
 fontconfig 2:2.15.0-2.1
-foomatic-db 3:20230903-1
-foomatic-db-nonfree 3:20230903-1
-foomatic-db-nonfree-ppds 3:20230903-1
-foomatic-db-ppds 3:20230903-1
+foomatic-db 3:20240209-1
+foomatic-db-nonfree 3:20240209-1
+foomatic-db-nonfree-ppds 3:20240209-1
+foomatic-db-ppds 3:20240209-1
 frameworkintegration5 5.115.0-1.1
 freecell-solver 6.8.0-1.1
 freeciv 3.0.10-1.1
@@ -403,7 +398,7 @@ ghex 45.1-1.1
 ghidra 11.0.1-1.1
 ghostscript 10.02.1-1.1
 ghostwriter 23.08.5-1.1
-giflib 5.2.1-2.1
+giflib 5.2.2-1.1
 gimp 2.10.36-4.1
 git 2.43.2-1.1
 git-cola 4.5.0-1
@@ -460,7 +455,7 @@ gperf 3.1-5.1
 gperftools 2.15-1.1
 gpgme 1.23.2-1.1
 gpm 1.20.7.r38.ge82d1a6-5.1
-gptfdisk 1.0.9-2.1
+gptfdisk 1.0.10-1.1
 gradle 8.6-1
 gradle-zsh-completion master_fa72b79-2
 granatier 23.08.5-1.1
@@ -539,7 +534,7 @@ hidapi 0.14.0-2.1
 highlight 4.10-1.1
 highway 1.0.7-1.1
 hiredis 1.2.0-2.1
-hmcl-bin 3.5.5.235-1
+hmcl 3.5.5-2
 hostapd 2.10-4.1
 htop 3.3.0-1.1
 http-parser 2.9.4-1.1
@@ -576,7 +571,7 @@ ipython 8.21.0-1
 iso-codes 4.16.0-1
 iw 6.7-1.1
 jansson 2.14-2.1
-jasper 4.2.0-1.1
+jasper 4.2.1-1.1
 java-environment-common 3-5
 java-runtime-common 3-5
 jbig2dec 0.20-1.1
@@ -878,7 +873,7 @@ lib32-libdbusmenu-gtk2 16.04.0-5
 lib32-libdrm 2.4.119-1
 lib32-libelf 0.190-1
 lib32-libepoxy 1.5.10-1
-lib32-libffi 3.4.5-1
+lib32-libffi 3.4.6-1
 lib32-libgcrypt 1.10.3-1
 lib32-libgcrypt15 1.5.6-7
 lib32-libglvnd 1.7.0-1
@@ -1101,7 +1096,7 @@ libfabric 1.20.0-1.1
 libfakekey 0.3-2.1
 libfbclient 4.0.0.2496-1.1
 libfdk-aac 2.0.3-1.1
-libffi 3.4.5-1.1
+libffi 3.4.6-1.1
 libfido2 1.14.0-2.1
 libfontenc 1.1.7-1.1
 libfreeaptx 0.1.1-1.1
@@ -1115,7 +1110,7 @@ libgedit-amtk 5.8.0-2.1
 libgedit-gtksourceview 299.0.5-1.1
 libgee 0.20.6-1.1
 libgexiv2 0.14.2-1.1
-libgig 4.4.0-1.1
+libgig 4.4.1-1.1
 libgirepository 1.78.1-1.1
 libgit2 1:1.7.2-1
 libgksu 2.0.12-9.3
@@ -1455,7 +1450,7 @@ lua52 5.2.4-6.1
 lua53 5.3.6-2.1
 luajit 2.1.1702233742-1.1
 luit 20240102-1.1
-lutris-git 0.5.16.r145.g3f2f360a5-1
+lutris-git 0.5.16.r163.g85bfd70a9-1
 lv2 1.18.10-1.1
 lvm2 2.03.23-1.1
 lxc 1:5.0.3-1.1
@@ -1543,7 +1538,6 @@ net-tools 2.10-2.1
 netease-cloud-music-gtk4 2.3.0-2
 nethack 3.6.7-5.1
 netpbm 10.86.40-1.1
-netstandard-targeting-pack 8.0.1.sdk101-1
 nettle 3.9.1-1.1
 networkmanager 1.44.2-3
 networkmanager-qt5 5.115.0-1.1
@@ -1611,7 +1605,7 @@ openmpi 5.0.2-3.1
 openpmix 4.2.9-1.1
 openrgb 0.9-2.1
 openslide 4.0.0-4.1
-openssh 9.6p1-1.1
+openssh 9.6p1-3.1
 openssl 3.2.1-1.1
 openssl-1.1 1.1.1.w-1.1
 openttd 13.4-2.1
@@ -1625,7 +1619,6 @@ opusfile 0.12-3.1
 orc 0.4.37-1.1
 os-prober 1.81-1.1
 osinfo-db 20231215-1
-osu-lazer 2024.131.0-4
 otf-misans 4.003-2
 otf-misans-arabic 4.003-2
 otf-misans-devanagari 4.003-2
@@ -1902,7 +1895,7 @@ python-lxml 4.9.2-3
 python-lz4 4.3.3-1.1
 python-magic 1:0.4.27-3
 python-mako 1.3.2-1
-python-markdown 3.5.1-1
+python-markdown 3.5.2-1
 python-markdown-it-py 3.0.0-1
 python-markupsafe 2.1.4-1.1
 python-matplotlib 3.8.2-1
@@ -1956,7 +1949,7 @@ python-poetry 1.7.1-1
 python-poetry-core 1.9.0-1
 python-poetry-plugin-export 1.5.0-1
 python-polib 1.2.0-1.3
-python-prettytable 3.9.0-1
+python-prettytable 3.10.0-1
 python-prompt_toolkit 3.0.43-1
 python-protobuf 25.2-1.1
 python-proxy_tools 0.1.0-4
@@ -1965,14 +1958,14 @@ python-ptyprocess 0.7.0-5
 python-publicsuffix2 2.20191221-7
 python-pure-eval 0.2.2-3
 python-py3nvml 0.2.7-1.3
-python-py7zr 0.20.6-1
+python-py7zr 0.20.8-1
 python-pyaes 1.6.1-10
 python-pyaml 23.9.0-1
 python-pyasn1 0.5.0-1
 python-pyasn1-modules 0.3.0-1
 python-pyaudio 0.2.14-2.1
 python-pybase62 1.0.0-1
-python-pybcj 1.0.1-2.1
+python-pybcj 1.0.2-1.1
 python-pychm 0.8.6-7.1
 python-pycodestyle 2.11.1-1
 python-pycparser 2.21-5
@@ -1983,7 +1976,7 @@ python-pycurl 7.45.2-3.1
 python-pydantic 2.6.1-1
 python-pydantic-core 1:2.16.2-1.1
 python-pydantic-extra-types 2.5.0-1
-python-pydantic-settings 2.2.0-1
+python-pydantic-settings 2.2.1-1
 python-pyflakes 3.2.0-1
 python-pygments 2.17.2-1
 python-pyinotify 0.9.6-12
@@ -1995,7 +1988,7 @@ python-pyopenssl 24.0.0-1
 python-pyotherside 1.6.0-2.1
 python-pyparsing 3.1.1-1
 python-pyperclip 1.8.2-6
-python-pyppmd 1.0.0-2.1
+python-pyppmd 1.1.0-1.1
 python-pyproject-api 1.6.1-1
 python-pyproject-hooks 1.0.0-5
 python-pypubsub 4.0.3-5
@@ -2046,7 +2039,7 @@ python-service-identity 23.1.0-1
 python-setproctitle 1.3.3-1.1
 python-setuptools 1:69.0.3-3
 python-sgmllib3k 1.0.0-5
-python-shellingham 1.5.0.post1-4
+python-shellingham 1.5.4-1
 python-shiboken2 5.15.12-1.2
 python-six 1.16.0-8
 python-sniffio 1.3.0-4
@@ -2102,7 +2095,7 @@ python-yarl 1.9.4-1.1
 python-yubico 1.3.3-3
 python-zeroconf 0.63.0-1
 python-zipp 3.17.0-1
-python-zope-interface 6.1-1.1
+python-zope-interface 6.2-1.1
 python-zstandard 0.22.0-1.1
 python2 2.7.18-10
 qalculate-qt 4.9.0-1.1
@@ -2310,7 +2303,7 @@ rubberband 3.3.0-1.1
 run-parts 5.5-1.1
 runc 1.1.12-1.1
 rustdesk-bin 1.2.3-3
-rustrover 233.14015.147-1
+rustrover 233.14015.152-1
 rustup 1.26.0-5.1
 samba 4.19.5-1.1
 sbc 2.0-1.1
@@ -2470,7 +2463,7 @@ tre 0.8.0-6.1
 tree 2.1.1-1.1
 tree-sitter 0.20.10-2.1
 triplea 2.6.586-1
-tslib 1.22-1.1
+tslib 1.23-1.1
 ttf-firacode-nerd 3.1.1-1
 ttf-harmonyos-sans 2022.7.4-4
 ttf-jetbrains-mono 2.304-1
@@ -2540,7 +2533,7 @@ virt-manager 4.1.0-2
 virtio-win 0.1.240.1-1
 virtiofsd 1.10.1-1.1
 virtualbox-guest-iso 7.0.14-1
-visual-studio-code-insiders-bin 1708321659-1
+visual-studio-code-insiders-bin 1708393990-1
 vkbasalt 0.3.2.10-1
 vkd3d 1.10-1.1
 vlc-luajit 3.0.20-7
@@ -2721,7 +2714,7 @@ xorgproto 2023.2-3
 xournalpp 1.2.2-1.1
 xpra 4.4.5-2.1
 xsel 1.2.1-1.1
-xterm 389-1.1
+xterm 390-1.1
 xvidcore 1.3.7-2.1
 xxhash 0.8.2-1
 xz 5.4.6-1.1
