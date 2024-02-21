@@ -140,7 +140,6 @@ caddy
 cairo
 cairomm
 calf
-calibre
 cantarell-fonts
 cantor
 capstone
@@ -160,7 +159,6 @@ chaotic-mirrorlist
 checkra1n-cli
 checkra1n-gui
 cheese
-chmlib
 chromaprint
 chromium
 chrpath
@@ -587,7 +585,6 @@ json-c
 json-glib
 jsoncpp
 juk
-jxrlib
 k3b
 kaccounts-integration
 kaccounts-providers
@@ -1114,7 +1111,6 @@ libgig
 libgirepository
 libgit2
 libgksu
-libglade
 libglvnd
 libgme
 libgnome-keyring
@@ -1328,7 +1324,6 @@ libuhd
 libunibreak
 libunistring
 libunity
-libunrar
 libunwind
 libupnp
 liburcu
@@ -1466,7 +1461,6 @@ mangohud
 mariadb-libs
 marisa
 markdownpart
-mathjax
 mbedtls
 mbedtls2
 mcpelauncher-msa-ui-qt-git
@@ -1613,7 +1607,6 @@ openttd-opengfx
 openttd-opensfx
 openucx
 openvr
-optipng
 opus
 opusfile
 orc
@@ -1711,8 +1704,6 @@ plog
 pngcrush
 pngquant
 pnpm
-podman-dnsname
-podofo
 polkit
 polkit-kde-agent
 polkit-qt5
@@ -1742,7 +1733,6 @@ publicsuffix-list
 pugixml
 pulseaudio-qt
 purpose5
-putty
 pycharm-professional
 pyinstaller
 pyinstaller-hooks-contrib
@@ -1760,7 +1750,6 @@ python-altgraph
 python-annotated-types
 python-anyio
 python-appdirs
-python-apsw
 python-argcomplete
 python-arrow
 python-asgiref
@@ -1778,7 +1767,6 @@ python-bcrypt
 python-beautifulsoup4
 python-blinker
 python-brotli
-python-brotlicffi
 python-build
 python-cachecontrol
 python-cachetools
@@ -1801,7 +1789,6 @@ python-coverage
 python-crashtest
 python-cryptg
 python-cryptography
-python-css-parser
 python-csscompressor
 python-cssselect
 python-cssselect2
@@ -1813,7 +1800,6 @@ python-dill
 python-dirty-equals
 python-distlib
 python-distro
-python-dnspython
 python-docopt
 python-dotenv
 python-dulwich
@@ -1827,8 +1813,6 @@ python-fastapi
 python-fastimport
 python-fastjsonschema
 python-fastpbkdf2
-python-faust-cchardet
-python-feedparser
 python-fido2
 python-filelock
 python-flask
@@ -1850,18 +1834,14 @@ python-hatch-requirements-txt
 python-hatchling
 python-hiredis
 python-hpack
-python-html2text
-python-html5-parser
 python-html5lib
 python-htmlmin2
 python-huggingface-hub
 python-hyperframe
 python-hyperlink
 python-idna
-python-ifaddr
 python-importlib-metadata
 python-incremental
-python-inflate64
 python-inflect
 python-iniconfig
 python-injector
@@ -1904,7 +1884,6 @@ python-matrix-nio
 python-mccabe
 python-mdurl
 python-mdx-gh-links
-python-mechanize
 python-mergedeep
 python-mitmproxy-rs
 python-mitmproxy-wireguard
@@ -1913,7 +1892,6 @@ python-moddb
 python-more-itertools
 python-msgpack
 python-multidict
-python-multivolumefile
 python-mutagen
 python-mypy_extensions
 python-netifaces
@@ -1935,7 +1913,6 @@ python-parso
 python-passlib
 python-pathspec
 python-pbr
-python-pdftotext
 python-peewee
 python-pexpect
 python-pickleshare
@@ -1958,15 +1935,12 @@ python-ptyprocess
 python-publicsuffix2
 python-pure-eval
 python-py3nvml
-python-py7zr
 python-pyaes
 python-pyaml
 python-pyasn1
 python-pyasn1-modules
 python-pyaudio
 python-pybase62
-python-pybcj
-python-pychm
 python-pycodestyle
 python-pycparser
 python-pycryptodome
@@ -1988,16 +1962,12 @@ python-pyopenssl
 python-pyotherside
 python-pyparsing
 python-pyperclip
-python-pyppmd
 python-pyproject-api
 python-pyproject-hooks
 python-pypubsub
 python-pyqt5
 python-pyqt5-sip
 python-pyqt5-webengine
-python-pyqt6
-python-pyqt6-sip
-python-pyqt6-webengine
 python-pyrate-limiter
 python-pyrogram
 python-pyrsistent
@@ -2014,7 +1984,6 @@ python-pywebview
 python-pywhat
 python-pyxdg
 python-pyyaml-env-tag
-python-pyzstd
 python-qtpy
 python-rapidfuzz
 python-rapidjson
@@ -2038,7 +2007,6 @@ python-secretstorage
 python-service-identity
 python-setproctitle
 python-setuptools
-python-sgmllib3k
 python-shellingham
 python-shiboken2
 python-six
@@ -2049,7 +2017,6 @@ python-stack-data
 python-starlette
 python-stem
 python-telethon
-python-texttable
 python-tinyaes
 python-tinycss2
 python-toml
@@ -2069,7 +2036,6 @@ python-uc-micro-py
 python-ujson
 python-unidecode
 python-unpaddedbase64
-python-unrardll
 python-uri-template
 python-urllib3
 python-urwid
@@ -2089,15 +2055,12 @@ python-wsproto
 python-wxpython
 python-xcffib
 python-xlib
-python-xxhash
 python-yaml
 python-yarl
 python-yubico
-python-zeroconf
 python-zipp
 python-zope-interface
 python-zstandard
-python2
 qalculate-qt
 qbittorrent-enhanced
 qbittorrent-vuetorrent-bin
