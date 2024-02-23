@@ -12,7 +12,6 @@ activitywatch-bin 0.12.3b15-1
 adwaita-cursors 45.0-1
 adwaita-icon-theme 45.0-1
 aegisub 3.3.3-7.1
-afpfs-ng 0.8.2-3.1
 aha 0.5.1-2.3
 akonadi-contacts 23.08.5-1.1
 akonadi-mime 23.08.5-1.1
@@ -40,8 +39,6 @@ appimagelauncher 2.2.0-6.5
 appmenu-gtk-module 0.7.6-1.2
 appstream 1.0.1-2.1
 appstream-qt5 1.0.1-2.1
-apr 1.7.4-1
-apr-util 1.6.3-1.1
 arch-install-scripts 28-1
 archlinux-keyring 20240208-1
 archlinuxcn-keyring 20230923-1
@@ -66,7 +63,7 @@ atool 0.39.0-8
 attica5 5.115.0-1.1
 attr 2.5.2-1.1
 aubio 0.4.9-16.1
-audacity 1:3.4.2-2.1
+audacity 1:3.4.2-3
 audiocd-kio 23.08.5-1.1
 audiofile 0.3.6-8.1
 audit 4.0-1.1
@@ -300,7 +297,7 @@ expac 10-5.1
 expat 2.6.0-1.1
 expect 5.45.4-4.1
 extra-cmake-modules 5.115.0-1
-eza 0.18.3-1.1
+eza 0.18.4-1.1
 f2fs-tools 1.16.0-2.2
 faac 1.30-4.1
 faad2 2.11.1-1.1
@@ -332,7 +329,7 @@ filesystem 2024.01.19-1
 findutils 4.9.0-3.1
 fio 3.36-1.1
 firefox-appmenu 112.0.2-2
-firefox-nightly-zh-tw 125.0a1.20240221.11-1
+firefox-nightly-zh-tw 125.0a1.20240222.12-1
 firefox-pwa 2.10.1-1
 fish 3.7.0-1.1
 flac 1.4.3-1.1
@@ -409,7 +406,7 @@ gitoxide 0.33.0-1.1
 gksu 2.0.2-6.2
 glew 2.2.0-6.1
 glew1.10 1.10.0-3.1
-glfw-x11 3.3.9-1.1
+glfw-x11 3.3.10-1.1
 glhack 1.2-10.1
 glib-networking 1:2.78.0-1.1
 glib2 2.78.4-1.1
@@ -539,7 +536,6 @@ http-parser 2.9.4-1.1
 hunspell 1.7.2-1.1
 hwdata 0.379-1
 hwloc 2.10.0-1.1
-hydra 9.5-1.1
 hyfetch 1.4.11-1
 hyphen 2.8.8-5.1
 i2c-tools 4.3-4.1
@@ -565,7 +561,7 @@ iproute2 6.7.0-1.1
 ipscan 3.9.1-3
 iptables-nft 1:1.8.10-1.1
 iputils 20240117-1.1
-ipython 8.21.0-1
+ipython 8.22.1-1
 iso-codes 4.16.0-1
 iw 6.7-1.1
 jansson 2.14-2.1
@@ -1002,7 +998,7 @@ libaccounts-glib 1.26-2.1
 libaccounts-qt 1.16-3.2
 libadwaita 1:1.4.3-1.1
 libaec 1.1.2-1.1
-libaio 0.3.113-2.1
+libaio 0.3.113-3.1
 libajantv2 1:16.2_bugfix5-3
 libakonadi 23.08.5-1.1
 libao 1.2.2-6.1
@@ -1091,7 +1087,6 @@ libexif 0.6.24-2.1
 libexttextcat 3.4.7-1.1
 libfabric 1.20.0-1.1
 libfakekey 0.3-2.1
-libfbclient 4.0.0.2496-1.1
 libfdk-aac 2.0.3-1.1
 libffi 3.4.6-1.1
 libfido2 1.14.0-2.1
@@ -1182,7 +1177,7 @@ liblqr 0.4.2-3.1
 liblrdf 0.6.1-4.1
 liblsp-r3d-glx-lib 1.2.14-1.1
 libltc 1.3.2-1.1
-libluv 1.47.0_0-1.1
+libluv 1.48.0_0-1.1
 libmad 0.15.1b-10.1
 libmanette 0.2.7-1.1
 libmatroska 1.7.1-1.1
@@ -1191,7 +1186,6 @@ libmbim 1.30.0-1.1
 libmd 1.1.0-1.1
 libmediaart 1.9.6-2.1
 libmediainfo 24.01-1.1
-libmemcached-awesome 1.1.4-2.1
 libmfx 23.2.2-2.1
 libmgba 0.10.3-1.1
 libmicrodns 0.2.0-1.1
@@ -1222,7 +1216,7 @@ libnfs 5.0.3-1.1
 libnftnl 1.2.6-1.1
 libnghttp2 1.59.0-2.1
 libnghttp3 1.2.0-1.1
-libngtcp2 1.2.0-1.1
+libngtcp2 1.3.0-1.1
 libnice 0.1.21-2.1
 libnih 1.0.3-4.1
 libnl 3.9.0-1.1
@@ -1333,7 +1327,6 @@ libusb-compat 0.1.8-1.1
 libusbmuxd 2.0.2-3.1
 libusrsctp 0.9.5.0-4
 libutempter 1.2.1-4.1
-libutf8proc 2.9.0-1.1
 libuv 1.48.0-1.1
 libva 2.20.0-1.1
 libva-mesa-driver 1:24.0.1-1.1
@@ -1445,7 +1438,7 @@ lua52 5.2.4-6.1
 lua53 5.3.6-2.1
 luajit 2.1.1702233742-1.1
 luit 20240102-1.1
-lutris-git 0.5.16.r169.g3a5236f04-1
+lutris-git 0.5.16.r173.g63c3e34d5-1
 lv2 1.18.10-1.1
 lvm2 2.03.23-1.1
 lxc 1:5.0.3-1.1
@@ -1458,7 +1451,6 @@ m4 1.4.19-3.1
 mailcap 2.1.54-1
 make 4.4.1-2.1
 mangohud 0.7.1-1.1
-mariadb-libs 11.3.2-1.1
 marisa 0.2.6-11.1
 markdownpart 23.08.5-1.1
 mbedtls 3.5.1-1.1
@@ -1468,7 +1460,7 @@ md4c 0.5.2-1.1
 mda.lv2 1.2.10-1.2
 mdadm 4.2-2.1
 media-player-info 24-2
-mediainfo 24.01-1.1
+mediainfo 24.01-2.1
 memstrack 0.2.2-1
 mesa 1:24.0.1-1.1
 mesa-demos 9.0.0-3.1
@@ -1500,7 +1492,6 @@ modemmanager 1.22.0-1.1
 modemmanager-qt5 5.115.0-1.1
 monero 0.18.3.1-4.1
 monero-gui 0.18.3.1-4.1
-mongo-c-driver 1.25.4-1.1
 mono 6.12.0.205-1.1
 mosh 1.4.0-6.1
 mpdecimal 2.5.1-1.1
@@ -1717,12 +1708,11 @@ popt 1.19-1.1
 portaudio 1:19.7.0-2.1
 portmidi 1:2.0.4-1.1
 portsmf 234-2.1
-postgresql-libs 16.1-5
 potrace 1.16-2.1
 powerdevil 5.27.10-2.1
 poxml 23.08.5-1.1
 ppp 2.5.0-3.1
-prismlauncher-git 8.0.r265.g01c4e6a65-1
+prismlauncher-git 8.0.r271.g1cdb9bd5a-1
 prison5 5.115.0-1.1
 procps-ng 4.0.4-2.1
 projectm 3.1.12-4.1
@@ -2064,7 +2054,7 @@ python-zipp 3.17.0-1
 python-zope-interface 6.2-1.1
 python-zstandard 0.22.0-1.1
 qalculate-qt 4.9.0-1.1
-qbittorrent-enhanced 4.6.3.10-1
+qbittorrent-enhanced 4.6.3.10-1.1
 qbittorrent-vuetorrent-bin 2.7.0-1
 qca-qt5 2.3.8-2.1
 qemu-audio-alsa 8.2.1-2.1
@@ -2229,7 +2219,7 @@ qt6-websockets 6.6.2-1.1
 qt6-webview 6.6.2-1.1
 qtermwidget 1.4.0-1.1
 qtkeychain-qt5 0.14.2-1.1
-qtractor 0.9.39-2.1
+qtractor 0.9.39-3.1
 quazip-qt5 1.4-1.1
 quazip-qt6 1.4-1.1
 quota-tools 1:4.09-1.1
@@ -2299,8 +2289,7 @@ seatd 0.8.0-1.1
 sed 4.9-3.1
 semver 7.6.0-1
 serd 0.32.2-1.1
-serenity-git 1.0.0.beta.1.r2.geebd790-1
-serf 1.3.10-1.1
+serenity-git 1.0.0.beta.2.r2.ga196af8-1
 sfml 2.6.1-1.1
 shaderc 2023.7-2.1
 shadow 4.14.5-1.1
@@ -2345,7 +2334,7 @@ spice-protocol 0.14.4-1
 spirv-tools 2023.5-1
 sqlite 3.45.1-1.1
 squashfs-tools 4.6.1-1.1
-squashfuse 0.5.0-1.1
+squashfuse 0.5.2-1.1
 sratom 0.6.16-1.1
 srt 1.5.3-1.1
 sscg 3.0.5-1.1
@@ -2360,7 +2349,6 @@ step 23.08.5-1.1
 stk 5.0.1-3.1
 stoken 0.92-4.1
 strace 6.6-1.1
-subversion 1.14.2-13.1
 sudo 1.9.15.p5-1.1
 suil 0.10.20-1.1
 suitesparse 7.6.0-1.1
@@ -2478,7 +2466,7 @@ util-linux 2.39.3-1.1
 util-linux-libs 2.39.3-1.1
 uudeck 2023.1.10.1600-3
 v2ray-domain-list-community 20240221053250-1
-v2ray-geoip 202402150038-1
+v2ray-geoip 202402220038-1
 v4l-utils 1.26.1-1.1
 v4l2loopback-dkms 0.12.7-2
 v4l2loopback-utils 0.12.7-2
@@ -2499,7 +2487,7 @@ virt-manager 4.1.0-2
 virtio-win 0.1.240.1-1
 virtiofsd 1.10.1-1.1
 virtualbox-guest-iso 7.0.14-1
-visual-studio-code-insiders-bin 1708494456-1
+visual-studio-code-insiders-bin 1708642297-1
 vkbasalt 0.3.2.10-1
 vkd3d 1.10-1.1
 vlc-luajit 3.0.20-7
@@ -2716,7 +2704,7 @@ zip 3.0-11.1
 zita-convolver 4.0.3-3.1
 zix 0.4.2-2.1
 zlib 1:1.3.1-1.1
-zoxide 0.9.2-1.1
+zoxide 0.9.4-1.1
 zsh 5.9-4.1
 zsh-completions 0.35.0-1
 zsnes 2.0.12-1
