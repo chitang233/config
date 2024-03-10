@@ -51,7 +51,6 @@ aribb24
 aribb25
 ark
 artikulate
-asar
 asciicaesar
 asciinema
 asio
@@ -70,7 +69,6 @@ audiocd-kio
 audiofile
 audit
 autoconf
-autoconf-archive
 automake
 avahi
 avisynthplus
@@ -104,7 +102,6 @@ bluedevil
 bluez
 bluez-libs
 bluez-qt
-bluez-qt5
 bluez-tools
 bluez-utils
 bolt
@@ -163,10 +160,8 @@ checkra1n-gui
 cheese
 chromaprint
 chromium
-chrpath
 cifs-utils
 ciphey
-cjson
 clang
 clash-geoip
 clash-meta-alpha-git
@@ -215,7 +210,6 @@ daed
 darling-bin
 datagrip
 dav1d
-db
 db5.3
 dbus
 dbus-broker
@@ -302,7 +296,6 @@ exiv2
 expac
 expat
 expect
-extra-cmake-modules
 eza
 f2fs-tools
 faac
@@ -364,14 +357,12 @@ fribidi
 frpc
 fstrm
 ftgl
-ftl-sdk
 fuse-common
 fuse-emulator
 fuse-overlayfs
 fuse2
 fuse3
 fuseiso
-futuresql-qt5
 futuresql-qt6
 fzf
 gamemode
@@ -381,8 +372,6 @@ gawk
 gc
 gcc
 gcc-libs
-gcc12
-gcc12-libs
 gconf
 gcr
 gcr-4
@@ -393,8 +382,6 @@ gdbm
 gdk-pixbuf2
 gegl
 geoclue
-geoip
-geoip-database
 geoipupdate
 gettext
 ghex
@@ -457,11 +444,9 @@ gperf
 gperftools
 gpgme
 gpm
-gptfdisk
 gradle
 gradle-zsh-completion
 granatier
-grantlee
 grantleetheme
 graphene
 graphicsmagick
@@ -620,7 +605,6 @@ kcachegrind
 kcachegrind-common
 kcalc
 kcalendarcore
-kcalendarcore5
 kcharselect
 kclock
 kcmutils
@@ -629,7 +613,6 @@ kcodecs
 kcodecs5
 kcolorchooser
 kcolorpicker
-kcolorpicker-qt5
 kcolorscheme
 kcompletion
 kcompletion5
@@ -638,7 +621,6 @@ kconfig5
 kconfigwidgets
 kconfigwidgets5
 kcontacts
-kcontacts5
 kcoreaddons
 kcoreaddons5
 kcrash
@@ -705,9 +687,7 @@ khangman
 khefin
 khelpcenter
 kholidays
-kholidays5
 khotkeys
-khtml
 ki18n
 ki18n5
 kiconthemes
@@ -716,12 +696,10 @@ kid3
 kid3-common
 kidentitymanagement
 kidletime
-kidletime5
 kig
 kigo
 killbots
 kimageannotator
-kimageannotator-qt5
 kimageformats
 kimageformats5
 kimagemapeditor
@@ -748,7 +726,6 @@ kiten
 kjobwidgets
 kjobwidgets5
 kjournald
-kjs
 kjumpingcube
 kleopatra
 klettres
@@ -790,8 +767,6 @@ kparts
 kparts5
 kpat
 kpeople
-kpeople5
-kpeoplevcard
 kpimtextedit
 kpipewire
 kplotting
@@ -802,7 +777,6 @@ kpty5
 kpublictransport
 kqtquickcharts
 kquickcharts
-kquickcharts5
 krb5
 krdc
 krecorder
@@ -811,7 +785,6 @@ krfb
 krita
 kruler
 krunner
-krunner5
 kscreen
 kscreenlocker
 kservice
@@ -1327,7 +1300,6 @@ libproxy
 libpsl
 libpulse
 libpwquality
-libqaccessibilityclient-qt5
 libqaccessibilityclient-qt6
 libqalculate
 libqmi
@@ -1340,7 +1312,6 @@ libreoffice-fresh
 libreoffice-fresh-zh-cn
 librevenge
 librewolf
-librist
 librsvg
 librtmp0
 libsamplerate
@@ -1377,7 +1348,6 @@ libtar
 libtasn1
 libteam
 libtermkey
-libtg_owt
 libthai
 libtheora
 libtiff
@@ -1497,7 +1467,6 @@ lksctp-tools
 lld
 llvm
 llvm-libs
-llvm15-libs
 lm_sensors
 lmdb
 lmms
@@ -1544,11 +1513,9 @@ memstrack
 mesa
 mesa-demos
 mesa-utils
-meson
 mgba-qt
 mgba-sdl
 microsoft-edge-beta-bin
-microsoft-gsl
 milou
 mimetreeparser
 mindustry
@@ -1570,7 +1537,6 @@ mlt
 mobile-broadband-provider-info
 modemmanager
 modemmanager-qt
-modemmanager-qt5
 monero
 monero-gui
 mono
@@ -1608,14 +1574,12 @@ netpbm
 nettle
 networkmanager
 networkmanager-qt
-networkmanager-qt5
 nexttrace
 nfsidmap
 nftables
 nilfs-utils
 ninja
 nitrogen
-nlohmann-json
 nmap
 nnn
 node-gyp
@@ -1727,7 +1691,6 @@ partitionmanager
 paru
 pass
 patch
-patchelf
 pcaudiolib
 pcem
 pciutils
@@ -1794,13 +1757,11 @@ plasma-sdk
 plasma-systemmonitor
 plasma-thunderbolt
 plasma-vault
-plasma-wayland-protocols
 plasma-workspace
 plasma5-integration
 plasma5-wallpapers-wallpaper-engine
 plasma5support
 plasmatube
-plog
 pngcrush
 pngquant
 pnpm
@@ -1968,7 +1929,6 @@ python-kaitaistruct
 python-keyring
 python-kiwisolver
 python-lark-parser
-python-lazy-object-proxy
 python-ldap3
 python-livereload
 python-lockfile
@@ -1988,7 +1948,6 @@ python-mdurl
 python-mdx-gh-links
 python-mergedeep
 python-mitmproxy-rs
-python-mitmproxy-wireguard
 python-mock
 python-moddb
 python-more-itertools
@@ -2078,8 +2037,6 @@ python-pyserial
 python-pysmbc
 python-pysocks
 python-pytest
-python-pytest-asyncio
-python-pytest-cov
 python-python-socks
 python-pytz
 python-pyusb
@@ -2103,7 +2060,6 @@ python-rpds-py
 python-rsa
 python-ruamel-yaml
 python-ruamel.yaml.clib
-python-rx
 python-scrypt
 python-secretstorage
 python-sentry_sdk
@@ -2120,7 +2076,6 @@ python-stack-data
 python-starlette
 python-stem
 python-telethon
-python-tinyaes
 python-tinycss2
 python-toml
 python-tomli
@@ -2153,7 +2108,6 @@ python-websocket-client
 python-websockets
 python-werkzeug
 python-wheel
-python-wrapt
 python-wsproto
 python-wxpython
 python-xcffib
@@ -2246,13 +2200,10 @@ qemu-ui-spice-core
 qemu-user
 qemu-user-static
 qemu-vhost-user-gpu
-qgpgme-qt5
 qgpgme-qt6
 qhull
 qqc2-breeze-style
 qqc2-desktop-style
-qqc2-desktop-style5
-qrcodegencpp-cmake
 qrencode
 qsstv
 qt-virt-manager
@@ -2268,7 +2219,6 @@ qt5-imageformats
 qt5-location
 qt5-lottie
 qt5-multimedia
-qt5-networkauth
 qt5-purchasing
 qt5-quick3d
 qt5-quickcontrols
@@ -2334,7 +2284,6 @@ qt6-webengine
 qt6-websockets
 qt6-webview
 qtermwidget
-qtkeychain-qt5
 qtkeychain-qt6
 qtractor
 quazip-qt5
@@ -2343,7 +2292,6 @@ quota-tools
 radvd
 ragel
 railwayapp-cli
-range-v3
 ranger
 rapidjson
 raptor
@@ -2442,7 +2390,6 @@ soundtouch
 source-highlight
 sox
 spandsp
-spdlog
 spectacle
 speech-dispatcher
 speedtest-cli
@@ -2476,7 +2423,6 @@ svgpart
 svt-av1
 svt-hevc
 sweeper
-swig
 swtpm
 syncthing
 syncthing-gtk
@@ -2492,7 +2438,6 @@ systemd-sysvcompat
 systemsettings
 t1lib
 taglib
-taglib1
 tailscale
 talloc
 tar
@@ -2518,14 +2463,11 @@ timeshift
 tinyxml
 tinyxml2
 tk
-tl-expected
 tmux
 toilet
 tokodon
 tomlplusplus
 tor
-tor-browser-bin
-torbrowser-launcher
 torsocks
 totem-pl-parser
 tpm2-tss
@@ -2586,7 +2528,6 @@ upower
 usbmuxd
 usbredir
 usbutils
-uthash
 util-linux
 util-linux-libs
 uudeck
@@ -2637,7 +2578,6 @@ webkit2gtk
 webkit2gtk-4.1
 webrtc-audio-processing
 webrtc-audio-processing-1
-websocketpp
 weechat
 weechat-matrix
 weston

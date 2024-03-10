@@ -51,7 +51,6 @@ aribb24 1.0.3-3.2
 aribb25 0.2.7-2.2
 ark 24.02.0-1.1
 artikulate 24.02.0-1.1
-asar 3.2.8-1
 asciicaesar 2.2.1-1
 asciinema 2.4.0-1
 asio 1.28.0-1
@@ -70,7 +69,6 @@ audiocd-kio 24.02.0-1.1
 audiofile 0.3.6-8.1
 audit 4.0-1.1
 autoconf 2.72-1
-autoconf-archive 1:2023.02.20-1
 automake 1.16.5-2
 avahi 1:0.8+r194+g3f79789-1.1
 avisynthplus 3.7.3-1.1
@@ -101,12 +99,11 @@ blas 3.12.0-3.1
 bleachbit 4.6.0-1
 blueberry 1.4.8-1
 bluedevil 1:6.0.1-1.1
-bluez 5.72-2.1
-bluez-libs 5.72-2.1
+bluez 5.73-3.1
+bluez-libs 5.73-3.1
 bluez-qt 6.0.0-1.1
-bluez-qt5 5.115.0-1.1
 bluez-tools 0.2.0-5.1
-bluez-utils 5.72-2.1
+bluez-utils 5.73-3.1
 bolt 0.9.7-1.1
 bomber 24.02.0-1.1
 boost 1.83.0-5.1
@@ -163,13 +160,11 @@ checkra1n-gui 0.12.4-4
 cheese 44.1-2.1
 chromaprint 1.5.1-7.1
 chromium 122.0.6261.111-1.1
-chrpath 0.17-1.1
 cifs-utils 7.0-3.1
 ciphey 5.14.0-7
-cjson 1.7.17-1.1
 clang 17.0.6-1.1
 clash-geoip 20240212-1
-clash-meta-alpha-git 20240309.r0.g63aa35b6-1
+clash-meta-alpha-git 20240309.r0.g77c10d90-1
 classicube-git 1.3.6.r289.g0b82f4f3d-1
 clinfo 3.0.21.02.21-1.1
 clion 1:2023.3.4-1
@@ -215,7 +210,6 @@ daed 0.4.0rc1-1
 darling-bin 0.1.20230310-0
 datagrip 2023.3.4-1
 dav1d 1.4.0-1
-db 6.2.32-2.1
 db5.3 5.3.28-4.1
 dbus 1.14.10-2.1
 dbus-broker 35-2.1
@@ -302,7 +296,6 @@ exiv2 0.28.2-1.1
 expac 10-5.1
 expat 2.6.1-1.1
 expect 5.45.4-4.1
-extra-cmake-modules 6.0.0-1
 eza 0.18.6-1.1
 f2fs-tools 1.16.0-2.2
 faac 1.30-4.1
@@ -364,14 +357,12 @@ fribidi 1.0.13-2.1
 frpc 0.54.0-1
 fstrm 0.6.1-1.1
 ftgl 2.4.0-2.1
-ftl-sdk 0.10.1-3.2
 fuse-common 3.16.2-1.1
 fuse-emulator 1.6.0-3.2
 fuse-overlayfs 1.13-1.1
 fuse2 2.9.9-4.1
 fuse3 3.16.2-1.1
 fuseiso 20070708-8.1
-futuresql-qt5 0.1.1-2.1
 futuresql-qt6 0.1.1-2
 fzf 0.46.1-1.1
 gamemode 1.8.1-2.1
@@ -381,8 +372,6 @@ gawk 5.3.0-1.1
 gc 8.2.6-1.1
 gcc 13.2.1-13
 gcc-libs 13.2.1-13
-gcc12 12.3.0-3.1
-gcc12-libs 12.3.0-3.1
 gconf 3.2.6+11+g07808097-11
 gcr 3.41.2-1.1
 gcr-4 4.2.1-1.1
@@ -393,8 +382,6 @@ gdbm 1.23-2.1
 gdk-pixbuf2 2.42.10-2.1
 gegl 0.4.48-1.1
 geoclue 2.7.1-2.1
-geoip 1.6.12-2.1
-geoip-database 20240127-1
 geoipupdate 6.1.0-1.1
 gettext 0.22.4-1.1
 ghex 45.1-1.1
@@ -457,11 +444,9 @@ gperf 3.1-5.1
 gperftools 2.15-1.1
 gpgme 1.23.2-1.1
 gpm 1.20.7.r38.ge82d1a6-5.1
-gptfdisk 1.0.10-1.1
 gradle 8.6-1
 gradle-zsh-completion master_fa72b79-2
 granatier 24.02.0-1.1
-grantlee 5.3.1-1.1
 grantleetheme 24.02.0-1.1
 graphene 1.10.8-1.1
 graphicsmagick 1.3.42-3.1
@@ -481,14 +466,14 @@ gsl 2.7.1-3
 gsm 1.0.22-1.1
 gspell 1.12.2-2.1
 gssdp 1.6.3-1.1
-gst-libav 1.22.10-1.1
-gst-plugins-bad 1.22.10-1.1
-gst-plugins-bad-libs 1.22.10-1.1
-gst-plugins-base 1.22.10-1.1
-gst-plugins-base-libs 1.22.10-1.1
-gst-plugins-good 1.22.10-1.1
-gst-plugins-ugly 1.22.10-1.1
-gstreamer 1.22.10-1.1
+gst-libav 1.24.0-1
+gst-plugins-bad 1.24.0-1
+gst-plugins-bad-libs 1.24.0-1
+gst-plugins-base 1.24.0-1
+gst-plugins-base-libs 1.24.0-1
+gst-plugins-good 1.24.0-1
+gst-plugins-ugly 1.24.0-1
+gstreamer 1.24.0-1
 gtest 1.14.0-1.1
 gtk-update-icon-cache 1:4.12.5-1.1
 gtk-vnc 1.3.1-1.1
@@ -620,7 +605,6 @@ kcachegrind 24.02.0-1.1
 kcachegrind-common 24.02.0-1.1
 kcalc 24.02.0-1.1
 kcalendarcore 6.0.0-1.1
-kcalendarcore5 5.115.0-1.1
 kcharselect 24.02.0-1.1
 kclock 24.02.0-1.1
 kcmutils 6.0.0-2.1
@@ -629,7 +613,6 @@ kcodecs 6.0.0-1.1
 kcodecs5 5.115.0-1.1
 kcolorchooser 24.02.0-1.1
 kcolorpicker 0.3.1-4.1
-kcolorpicker-qt5 0.3.1-4.1
 kcolorscheme 6.0.0-1.1
 kcompletion 6.0.0-1.1
 kcompletion5 5.115.0-1.1
@@ -638,7 +621,6 @@ kconfig5 5.115.0-1.1
 kconfigwidgets 6.0.0-1.1
 kconfigwidgets5 5.115.0-1.1
 kcontacts 1:6.0.0-1.1
-kcontacts5 5.115.0-1.1
 kcoreaddons 6.0.0-1.1
 kcoreaddons5 5.115.0-1.1
 kcrash 6.0.0-1.1
@@ -705,9 +687,7 @@ khangman 24.02.0-1.1
 khefin 0.6.1-3
 khelpcenter 24.02.0-1.1
 kholidays 1:6.0.0-1.1
-kholidays5 1:5.115.0-1.1
 khotkeys 5.27.10-1.1
-khtml 5.115.0-1.1
 ki18n 6.0.0-1.1
 ki18n5 5.115.1-1.1
 kiconthemes 6.0.0-1.1
@@ -716,12 +696,10 @@ kid3 3.9.5-1.1
 kid3-common 3.9.5-1.1
 kidentitymanagement 24.02.0-1.1
 kidletime 6.0.0-1.1
-kidletime5 5.115.0-1.1
 kig 24.02.0-1.1
 kigo 24.02.0-1.1
 killbots 24.02.0-1.1
 kimageannotator 0.7.1-2
-kimageannotator-qt5 0.7.1-2
 kimageformats 6.0.0-2.1
 kimageformats5 5.115.0-2.1
 kimagemapeditor 24.02.0-1.1
@@ -748,7 +726,6 @@ kiten 24.02.0-1.1
 kjobwidgets 6.0.0-1.1
 kjobwidgets5 5.115.0-1.1
 kjournald 24.02.0-1.1
-kjs 5.115.0-1.1
 kjumpingcube 24.02.0-1.1
 kleopatra 24.02.0-1.1
 klettres 24.02.0-1.1
@@ -783,15 +760,13 @@ konqueror 24.02.0-2.1
 konquest 24.02.0-1.1
 konsole 24.02.0-1.1
 kontrast 24.02.0-1.1
-kotlin 1.9.22-2
+kotlin 1.9.23-1
 kpackage 6.0.0-1.1
 kpackage5 5.115.0-1.1
 kparts 6.0.0-1.1
 kparts5 5.115.0-1.1
 kpat 24.02.0-1.1
 kpeople 6.0.0-1.1
-kpeople5 5.115.0-1.1
-kpeoplevcard 0.1-2.1
 kpimtextedit 24.02.0-1.1
 kpipewire 6.0.1.1-1.1
 kplotting 6.0.0-1.1
@@ -802,7 +777,6 @@ kpty5 5.115.0-1.1
 kpublictransport 24.02.0-1.1
 kqtquickcharts 24.02.0-1.1
 kquickcharts 6.0.0-1.1
-kquickcharts5 5.115.0-1.1
 krb5 1.21.2-2.1
 krdc 24.02.0-1.1
 krecorder 24.02.0-1.1
@@ -811,7 +785,6 @@ krfb 24.02.0-1.1
 krita 5.2.2-7.1
 kruler 24.02.0-1.1
 krunner 6.0.0-1.1
-krunner5 5.115.0-1.1
 kscreen 6.0.1-1.1
 kscreenlocker 6.0.1-1.1
 kservice 6.0.0-1.1
@@ -960,7 +933,7 @@ lib32-libpng 1.6.43-1
 lib32-libpng12 1.2.59-2
 lib32-libpsl 0.21.2-1
 lib32-libpulse 17.0-1
-lib32-librsvg 2:2.57.1-1
+lib32-librsvg 2:2.57.2-1
 lib32-librtmp0 2.4-5
 lib32-libsm 1.2.4-1
 lib32-libsndfile 1.2.2-1
@@ -1065,7 +1038,7 @@ libaccounts-qt 1.16-5.1
 libadwaita 1:1.4.4-1.1
 libaec 1.1.2-1.1
 libaio 0.3.113-3.1
-libajantv2 1:16.2_bugfix5-3
+libajantv2 1:17.0.1-1
 libakonadi 24.02.0-1.1
 libao 1.2.2-6.1
 libappimage 1.0.4.5-5.1
@@ -1327,7 +1300,6 @@ libproxy 0.5.4-1.1
 libpsl 0.21.2-1.1
 libpulse 17.0-3.1
 libpwquality 1.4.5-3.1
-libqaccessibilityclient-qt5 0.6.0-1.1
 libqaccessibilityclient-qt6 0.6.0-1.1
 libqalculate 4.9.0-2.1
 libqmi 1.34.0-1.1
@@ -1340,7 +1312,6 @@ libreoffice-fresh 24.2.1-1.1
 libreoffice-fresh-zh-cn 24.2.1-1
 librevenge 0.0.5-2.1
 librewolf 123.0-1.2
-librist 0.2.10-2.1
 librsvg 2:2.57.1-1.1
 librtmp0 2.4-5.1
 libsamplerate 0.2.2-2.1
@@ -1377,7 +1348,6 @@ libtar 1.2.20-7.1
 libtasn1 4.19.0-1.1
 libteam 1.32-1.1
 libtermkey 0.22-2.1
-libtg_owt 0.git24.592b14d-1.1
 libthai 0.1.29-3.1
 libtheora 1.1.1-6.1
 libtiff 4.6.0-2.1
@@ -1497,7 +1467,6 @@ lksctp-tools 1.0.19-1.1
 lld 17.0.6-1.1
 llvm 17.0.6-2.1
 llvm-libs 17.0.6-2.1
-llvm15-libs 15.0.7-1.1
 lm_sensors 1:3.6.0.r41.g31d1f125-2.2
 lmdb 0.9.32-1.1
 lmms 1.2.2-21.1
@@ -1544,11 +1513,9 @@ memstrack 0.2.2-1
 mesa 1:24.0.2-2.1
 mesa-demos 9.0.0-3.1
 mesa-utils 9.0.0-3.1
-meson 1.3.2-1
 mgba-qt 0.10.3-1.1
 mgba-sdl 0.10.3-1.1
 microsoft-edge-beta-bin 123.0.2420.20-1
-microsoft-gsl 4.0.0-1
 milou 6.0.1-1.1
 mimetreeparser 24.02.0-1.1
 mindustry 1:7.0.146-1
@@ -1570,10 +1537,9 @@ mlt 7.22.0-3.2
 mobile-broadband-provider-info 20230416-1
 modemmanager 1.22.0-1.1
 modemmanager-qt 6.0.0-1.1
-modemmanager-qt5 5.115.0-1.1
 monero 0.18.3.1-4.1
 monero-gui 0.18.3.1-4.1
-mono 6.12.0.205-1.1
+mono 6.12.0.206-1.1
 mosh 1.4.0-6.1
 mpdecimal 4.0.0-2.1
 mpfr 4.2.1-2.2
@@ -1608,14 +1574,12 @@ netpbm 10.86.40-1.1
 nettle 3.9.1-1.1
 networkmanager 1.46.0-2.1
 networkmanager-qt 6.0.0-1.1
-networkmanager-qt5 5.115.0-1.1
 nexttrace 1.2.9-1
 nfsidmap 2.6.4-1.1
 nftables 1:1.0.9-1.1
 nilfs-utils 2.2.9-2.1
 ninja 1.11.1-3.1
 nitrogen 1.6.1-5.1
-nlohmann-json 3.11.2-2
 nmap 7.94-2.1
 nnn 4.9-1.1
 node-gyp 10.0.1-1
@@ -1727,7 +1691,6 @@ partitionmanager 24.02.0-1.1
 paru 2.0.1-1
 pass 1.7.4-5
 patch 2.7.6-10.2
-patchelf 0.18.0-1.1
 pcaudiolib 1.2-2.1
 pcem 17-6
 pciutils 3.11.1-1.1
@@ -1794,13 +1757,11 @@ plasma-sdk 6.0.1-1.1
 plasma-systemmonitor 6.0.1-1.1
 plasma-thunderbolt 6.0.1-1.1
 plasma-vault 6.0.1-1.1
-plasma-wayland-protocols 1.12.0-1
 plasma-workspace 6.0.1-1.1
 plasma5-integration 6.0.1-2.1
 plasma5-wallpapers-wallpaper-engine 0.5.4-5.1
 plasma5support 6.0.1-1.1
 plasmatube 24.02.0-2.1
-plog 1.1.9-1
 pngcrush 1.8.13-3.1
 pngquant 3.0.3-2.1
 pnpm 8.15.2-2
@@ -1821,7 +1782,7 @@ potrace 1.16-2.1
 powerdevil 6.0.1-1.1
 poxml 24.02.0-1.1
 ppp 2.5.0-3.1
-prismlauncher-git 8.0.r301.g51443fce8-1
+prismlauncher-git 8.0.r303.g3b0564f09-1
 prison 6.0.0-1.1
 prison5 5.115.0-1.1
 procps-ng 4.0.4-2.1
@@ -1837,8 +1798,8 @@ pulseaudio-qt 1.4.0-3.1
 purpose 6.0.0-1.1
 purpose5 5.115.0-3.1
 pycharm-professional 2023.3.4-1
-pyinstaller 6.4.0-1
-pyinstaller-hooks-contrib 2024.2-1
+pyinstaller 6.5.0-1
+pyinstaller-hooks-contrib 2024.3-1
 pymdown-extensions 10.7.1-1
 pyside2 5.15.12-2.1
 pyside6 6.6.2-2.1
@@ -1968,7 +1929,6 @@ python-kaitaistruct 0.10-2
 python-keyring 24.3.0-1
 python-kiwisolver 1.4.5-2.1
 python-lark-parser 1.1.9-1
-python-lazy-object-proxy 1.10.0-1.1
 python-ldap3 2.9.1-4
 python-livereload 2.6.3-5
 python-lockfile 0.12.2-12
@@ -1988,7 +1948,6 @@ python-mdurl 0.1.2-4
 python-mdx-gh-links 0.3-1
 python-mergedeep 1.3.4-2
 python-mitmproxy-rs 0.5.1-1.1
-python-mitmproxy-wireguard 0.1.23-1.1
 python-mock 3.0.5-11
 python-moddb 0.10.0-1
 python-more-itertools 10.1.0-1
@@ -2078,8 +2037,6 @@ python-pyserial 3.5-5
 python-pysmbc 1.0.25.1-1.1
 python-pysocks 1.7.1-8
 python-pytest 1:7.4.4-1
-python-pytest-asyncio 0.23.4-1
-python-pytest-cov 4.1.0-1
 python-python-socks 2.4.4-1
 python-pytz 2024.1-1
 python-pyusb 1.2.1-4
@@ -2103,7 +2060,6 @@ python-rpds-py 0.17.1-1.1
 python-rsa 4.9-3
 python-ruamel-yaml 0.17.40-1
 python-ruamel.yaml.clib 0.2.8-1.1
-python-rx 3.2.0-4
 python-scrypt 0.8.20-4.1
 python-secretstorage 3.3.3-2
 python-sentry_sdk 1.40.6-1
@@ -2120,7 +2076,6 @@ python-stack-data 0.6.3-1
 python-starlette 0.37.2-1
 python-stem 1.8.3-1
 python-telethon 1.34.0-1
-python-tinyaes 1.0.4-1
 python-tinycss2 1.2.1-2
 python-toml 0.10.2-9
 python-tomli 2.0.1-3
@@ -2153,7 +2108,6 @@ python-websocket-client 1.7.0-1
 python-websockets 12.0-1.1
 python-werkzeug 2.3.8-1
 python-wheel 0.42.0-2
-python-wrapt 1.16.0-1.1
 python-wsproto 1.2.0-3
 python-wxpython 1:4.2.1-1.1
 python-xcffib 1.4.0-1
@@ -2246,13 +2200,10 @@ qemu-ui-spice-core 8.2.2-1.1
 qemu-user 8.2.2-1.1
 qemu-user-static 8.2.2-1.1
 qemu-vhost-user-gpu 8.2.2-1.1
-qgpgme-qt5 1.23.2-1.1
 qgpgme-qt6 1.23.2-1.1
 qhull 2020.2-4.1
 qqc2-breeze-style 6.0.1-1.1
 qqc2-desktop-style 6.0.0-1.1
-qqc2-desktop-style5 5.115.0-1.1
-qrcodegencpp-cmake 1:1.8.0-3
 qrencode 4.1.1-2.1
 qsstv 9.5.8-3
 qt-virt-manager 0.72.99-4.5
@@ -2268,7 +2219,6 @@ qt5-imageformats 5.15.12+kde+r10-1.1
 qt5-location 5.15.12+kde+r6-1.1
 qt5-lottie 5.15.12-1.1
 qt5-multimedia 5.15.12+kde+r2-1.1
-qt5-networkauth 5.15.12-1.1
 qt5-purchasing 5.15.12-1.1
 qt5-quick3d 5.15.12+kde+r1-1.1
 qt5-quickcontrols 5.15.12-1.1
@@ -2334,7 +2284,6 @@ qt6-webengine 6.6.2-1.1
 qt6-websockets 6.6.2-1.1
 qt6-webview 6.6.2-1.1
 qtermwidget 1.4.0-1.1
-qtkeychain-qt5 0.14.2-1.1
 qtkeychain-qt6 0.14.2-1.1
 qtractor 0.9.39-3.1
 quazip-qt5 1.4-1.1
@@ -2343,7 +2292,6 @@ quota-tools 1:4.09-1.1
 radvd 2.19-1.1
 ragel 6.10-3.1
 railwayapp-cli 3.4.0-1
-range-v3 0.12.0-1
 ranger 1.9.3-9
 rapidjson 1.1.0-5
 raptor 2.0.16-4.1
@@ -2442,7 +2390,6 @@ soundtouch 2.3.2-1.1
 source-highlight 3.1.9-11.1
 sox 14.4.2+r182+g42b3557e-4.1
 spandsp 0.0.6-5.1
-spdlog 1.13.0-1.1
 spectacle 24.02.0-2.1
 speech-dispatcher 0.11.5-1.1
 speedtest-cli 2.1.3-7
@@ -2476,7 +2423,6 @@ svgpart 24.02.0-1.1
 svt-av1 1.8.0-1.1
 svt-hevc 1.5.1-2.1
 sweeper 24.02.0-1.1
-swig 4.1.1-2.1
 swtpm 0.8.1-1.1
 syncthing 1.27.4-1.1
 syncthing-gtk 0.9.4.5-2
@@ -2492,7 +2438,6 @@ systemd-sysvcompat 255.4-2.1
 systemsettings 6.0.1-1.1
 t1lib 5.1.2-8.1
 taglib 2.0-1.1
-taglib1 1.13.1-2.1
 tailscale 1.60.1-1.1
 talloc 2.4.1-1.1
 tar 1.35-2.1
@@ -2518,14 +2463,11 @@ timeshift 24.01.1-1.1
 tinyxml 2.6.2-10.1
 tinyxml2 10.0.0-1.1
 tk 8.6.14-1.1
-tl-expected 1.1.0-1
 tmux 3.4-4.1
 toilet 0.3.r155.3eb9d58-2.1
 tokodon 24.02.0-2.1
 tomlplusplus 3.4.0-1.1
 tor 0.4.8.10-2.1
-tor-browser-bin 1:0.0.1-1
-torbrowser-launcher 0.3.7-1
 torsocks 2.4.0-1.1
 totem-pl-parser 3.26.6-2.1
 tpm2-tss 4.0.1-1.1
@@ -2586,7 +2528,6 @@ upower 1.90.2-1.1
 usbmuxd 1.1.1-3.1
 usbredir 0.13.0-1.1
 usbutils 017-1.1
-uthash 2.3.0-2
 util-linux 2.39.3-2.1
 util-linux-libs 2.39.3-2.1
 uudeck 2023.1.10.1600-3
@@ -2622,7 +2563,7 @@ volume_key 0.3.12-8.1
 vpnc 1:0.5.3.r526.r213-1.1
 vte-common 0.74.2-1.1
 vte3 0.74.2-1.1
-vtk 9.3.0-9.1
+vtk 9.3.0-10.1
 vulkan-headers 1:1.3.279-1
 vulkan-icd-loader 1.3.279-1
 vulkan-mesa-layers 1:24.0.2-2.1
@@ -2637,7 +2578,6 @@ webkit2gtk 2.42.5-2
 webkit2gtk-4.1 2.42.5-2
 webrtc-audio-processing 0.3.1-4.1
 webrtc-audio-processing-1 1.3-2.1
-websocketpp 0.8.2-1
 weechat 4.2.1-1.1
 weechat-matrix 0.3.0-11
 weston 13.0.0-1.1
