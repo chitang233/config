@@ -338,6 +338,7 @@ flex
 flite
 fltk
 fluidsynth
+flutter-engine
 fmt
 fmt9
 fontconfig
@@ -414,6 +415,7 @@ glslang
 glu
 glusterfs
 gmp
+gn
 gnirehtet-bin
 gnome-bluetooth
 gnome-boxes
@@ -1513,6 +1515,7 @@ memstrack
 mesa
 mesa-demos
 mesa-utils
+mesa-vdpau
 mgba-qt
 mgba-sdl
 microsoft-edge-beta-bin
@@ -1667,8 +1670,6 @@ otf-misans-tc
 otf-misans-thai
 otf-misans-tibetan
 otf-smiley-sans-bin
-oxygen
-oxygen-sounds
 p11-kit
 p7zip
 p8-platform
@@ -1762,6 +1763,7 @@ plasma5-integration
 plasma5-wallpapers-wallpaper-engine
 plasma5support
 plasmatube
+plog
 pngcrush
 pngquant
 pnpm
@@ -1805,6 +1807,7 @@ pyside2
 pyside6
 pystring
 python
+python-absl
 python-aiofiles
 python-aiogram
 python-aiohttp
@@ -1901,6 +1904,7 @@ python-hiredis
 python-hpack
 python-html5lib
 python-htmlmin2
+python-httplib2
 python-huggingface-hub
 python-hyperframe
 python-hyperlink
@@ -2112,6 +2116,7 @@ python-wsproto
 python-wxpython
 python-xcffib
 python-xlib
+python-xmltodict
 python-yaml
 python-yarl
 python-yubico
@@ -2746,6 +2751,7 @@ yasm
 yazi
 yelp
 yelp-xsl
+yq
 yt-dlp
 yubico-c
 yubico-c-client
