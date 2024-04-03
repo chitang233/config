@@ -9,6 +9,7 @@ acpi
 acpi_call-dkms
 acpid
 activitywatch-bin
+adobe-source-code-pro-fonts
 adwaita-cursors
 adwaita-icon-theme
 aegisub
@@ -90,6 +91,8 @@ bashtop
 bat
 bc
 bcg729
+bdf-unifont
+bdf-unifont-extra
 beep
 bind
 binutils
@@ -162,6 +165,7 @@ chromaprint
 chromium
 cifs-utils
 ciphey
+cjson
 clang
 clash-geoip
 clash-meta-alpha-git
@@ -186,7 +190,6 @@ compsize
 confuse
 conky
 containerd
-convertall
 convertlit
 copyq
 coreutils
@@ -669,7 +672,6 @@ kdsoap-ws-discovery-client
 keditbookmarks
 kemoticons
 kexec-tools
-keysmith
 keyutils
 kfilemetadata
 kfilemetadata5
@@ -1124,6 +1126,7 @@ libe-book
 libebml
 libebur128
 libedit
+libei
 libelf
 libepoxy
 libepubgen
@@ -1298,6 +1301,8 @@ libplasma
 libplist
 libpng
 libpng12
+libportal
+libportal-gtk3
 libproxy
 libpsl
 libpulse
@@ -1762,6 +1767,7 @@ plasma-workspace
 plasma5-integration
 plasma5-wallpapers-wallpaper-engine
 plasma5support
+plasma6-applets-window-title
 plasmatube
 plog
 pngcrush
@@ -2092,6 +2098,7 @@ python-tqdm
 python-traitlets
 python-trove-classifiers
 python-twisted
+python-typeguard
 python-typing_extensions
 python-typing_inspect
 python-uc-micro-py
@@ -2288,6 +2295,7 @@ qt6-webchannel
 qt6-webengine
 qt6-websockets
 qt6-webview
+qt6pas
 qtermwidget
 qtkeychain-qt6
 qtractor
@@ -2486,6 +2494,13 @@ trayscale
 tre
 tree
 tree-sitter
+tree-sitter-bash
+tree-sitter-c
+tree-sitter-lua
+tree-sitter-markdown
+tree-sitter-python
+tree-sitter-query
+tree-sitter-vimdoc
 triplea
 tslib
 ttf-firacode-nerd
