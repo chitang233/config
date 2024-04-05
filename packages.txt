@@ -169,9 +169,9 @@ cifs-utils 7.0-3.1
 ciphey 5.14.0-7
 cjson 1.7.17-1
 clang 17.0.6-1.1
-clash-geoip 20240404-1
-clash-meta-alpha-git 2024040501.90bf158e-1
-classicube-git 1.3.6.r453.g02b068c7d-1
+clash-geoip 20240405-1
+clash-meta-alpha-git 2024040519.58624ca1-1
+classicube-git 1.3.6.r463.g90a20b207-1
 clinfo 3.0.23.01.25-1.1
 clion 1:2023.3.4-1
 cloudflared 2024.1.5-1.1
@@ -205,7 +205,7 @@ cracklib 2.9.11-1.1
 cronie 1.7.1-1.1
 cryptsetup 2.7.1-1.1
 cubeb-git 0.2.r1515.g67db4cb-1
-cuda 12.4.0-2
+cuda 12.4.1-1
 cups-pk-helper 0.2.7-1.1
 curl 8.7.1-5
 cyrus-sasl-gssapi 2.1.28-3.1
@@ -333,7 +333,7 @@ filesystem 2024.01.19-1
 findutils 4.9.0-3.1
 fio 3.37-1
 firefox-appmenu 112.0.2-2
-firefox-nightly-zh-tw 126.0a1.20240404.11-1
+firefox-nightly-zh-tw 126.0a1.20240405.00-1
 firefox-pwa 2.11.1-1
 fish 3.7.1-1
 flac 1.4.3-1.1
@@ -441,7 +441,7 @@ gnugo 3.8-7.1
 gnupg 2.4.5-1.1
 gnuplot 6.0.0-1.1
 gnustep-base 1.29.0-3.1
-gnutls 3.8.4-1.1
+gnutls 3.8.5-1
 go 2:1.22.2-1
 go-musicfox 4.3.3-1
 gobject-introspection 1.80.1-1
@@ -1119,7 +1119,7 @@ libdca 0.0.7-2.1
 libde265 1.0.15-1.1
 libdecor 0.2.2-1.1
 libdeflate 1.20-1
-libdispatch 5.5.0-1.1
+libdispatch 5.10-1
 libdisplay-info 0.1.1-3.1
 libdmapsharing 3.9.13-1.1
 libdmtx 0.7.7-1.1
@@ -1373,7 +1373,7 @@ libtiger 0.3.4-7.1
 libtirpc 1.3.4-1.1
 libtommath 1.3.0-1
 libtool 2.4.7+4+g1ec8fa28-7.2
-libtorrent-rasterbar 1:2.0.9-3.1
+libtorrent-rasterbar 1:2.0.10-1
 libtpms 0.9.6-1
 libtraceevent 1:1.8.2-1.1
 libtracefs 1.8.0-1.1
@@ -1503,7 +1503,7 @@ lua52 5.2.4-6.1
 lua53 5.3.6-2.1
 luajit 2.1.1702233742-1.1
 luit 20240102-1.1
-lutris-git 0.5.16.r497.gb8d651fed-1
+lutris-git 0.5.16.r525.g50ee3af16-1
 lv2 1.18.10-1.1
 lvm2 2.03.23-3.1
 lxc 1:5.0.3-1.1
@@ -1528,8 +1528,8 @@ media-player-info 24-2
 mediainfo 24.03-1
 memstrack 0.2.2-1
 mesa 1:24.0.4-2
-mesa-demos 9.0.0-3.1
-mesa-utils 9.0.0-3.1
+mesa-demos 9.0.0-4
+mesa-utils 9.0.0-4
 mesa-vdpau 1:24.0.4-2
 mgba-qt 0.10.3-1.1
 mgba-sdl 0.10.3-1.1
@@ -1557,7 +1557,7 @@ mobile-broadband-provider-info 20230416-1
 modemmanager 1.22.0-1.1
 modemmanager-qt 6.0.0-1.1
 monero 0.18.3.3-1
-monero-gui 0.18.3.2-1.1
+monero-gui 0.18.3.3-1
 mono 6.12.0.206-1.1
 mosh 1.4.0-8.1
 mpdecimal 4.0.0-2.1
@@ -1630,7 +1630,7 @@ nvtop 3.1.0-1.1
 nx-x11 3.5.99.27-3
 nxagent 3.5.99.27-3
 oath-toolkit 2.6.11-2.1
-obs-studio 30.1.0-1.1
+obs-studio 30.1.1-1
 ocean-sound-theme 6.0.3-1
 ocl-icd 2.3.2-1.1
 octopi 0.15.0-4
@@ -2364,7 +2364,7 @@ sbsigntools 0.9.5-1.1
 schedtool 1.3.0-7.1
 scour 0.38.2-3
 scrcpy 2.4-1.1
-screen 4.9.1-1.1
+screen 4.9.1-2
 screenkey 1.5-3
 scrub 2.6.1-1
 sddm 0.21.0-4.1
@@ -2402,7 +2402,7 @@ sing-box 1.8.10-1
 sing-geoip-common 20240112-1
 sing-geoip-db 20240312-3
 sing-geosite-common 20240105034708-3
-sing-geosite-db 20240324094850-7
+sing-geosite-db 20240404120755-1
 skim 0.10.4-2.1
 slang 2.3.3-2.1
 smartmontools 7.4-1.1
