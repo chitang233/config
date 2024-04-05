@@ -42,6 +42,7 @@ appstream
 appstream-qt
 appstream-qt5
 arch-install-scripts
+archlinux-java-run
 archlinux-keyring
 archlinuxcn-keyring
 ardour
@@ -70,6 +71,7 @@ audiocd-kio
 audiofile
 audit
 autoconf
+autoconf-archive
 automake
 avahi
 avisynthplus
@@ -349,6 +351,8 @@ foomatic-db
 foomatic-db-nonfree
 foomatic-db-nonfree-ppds
 foomatic-db-ppds
+fpc
+fpc-src
 frameworkintegration
 frameworkintegration5
 freecell-solver
@@ -409,6 +413,7 @@ glfw
 glhack
 glib-networking
 glib2
+glib2-docs
 glibc
 glibmm
 glibmm-2.68
@@ -439,6 +444,7 @@ gnustep-base
 gnutls
 go
 go-musicfox
+gobject-introspection
 gobject-introspection-runtime
 goland
 gom
@@ -480,6 +486,7 @@ gst-plugins-good
 gst-plugins-ugly
 gstreamer
 gtest
+gtk-doc
 gtk-update-icon-cache
 gtk-vnc
 gtk2
@@ -844,6 +851,8 @@ ladspa
 lame
 lapack
 layer-shell-qt
+lazarus
+lazarus-qt6
 lcms2
 ldb
 ldns
@@ -1177,6 +1186,7 @@ libhubbub
 libibus
 libical
 libice
+libicns
 libid3tag
 libidn
 libidn11
@@ -1535,6 +1545,7 @@ misans-fontconfig
 mission-center
 mitmproxy
 mjpegtools
+mkbold-mkitalic
 mkdocs
 mkdocs-material
 mkdocs-material-extensions
@@ -1641,13 +1652,16 @@ opencolorio
 openconnect
 opencore-amr
 opencv
+opendoas
 openexr
 openfec
+openjade
 openjpeg2
 openmpi
 openpmix
 openrgb
 openslide
+opensp
 openssh
 openssl
 openssl-1.1
@@ -1882,6 +1896,7 @@ python-emoji
 python-entrypoints
 python-et-xmlfile
 python-evdev
+python-execnet
 python-executing
 python-fastapi
 python-fastimport
@@ -1947,6 +1962,7 @@ python-loguru
 python-lxml
 python-lz4
 python-magic
+python-mako
 python-markdown
 python-markdown-it-py
 python-markupsafe
@@ -2004,6 +2020,8 @@ python-proxy_tools
 python-psutil
 python-ptyprocess
 python-publicsuffix2
+python-pulsectl
+python-pulsectl-asyncio
 python-pure-eval
 python-pyaes
 python-pyaml
@@ -2047,6 +2065,7 @@ python-pyserial
 python-pysmbc
 python-pysocks
 python-pytest
+python-pytest-xdist
 python-python-socks
 python-pytz
 python-pyusb
@@ -2319,7 +2338,6 @@ redis
 redland
 reiserfsprogs
 remmina
-replay-sorcery-git
 repo
 revda-git
 rhash
@@ -2369,6 +2387,7 @@ semver
 serd
 serenity-git
 sfml
+sgml-common
 shaderc
 shadow
 shared-mime-info
@@ -2556,6 +2575,7 @@ v2ray-geoip
 v4l-utils
 v4l2loopback-dkms
 v4l2loopback-utils
+vala
 vamp-plugin-sdk
 vapoursynth
 vcdimager
@@ -2692,6 +2712,7 @@ xf86-video-openchrome
 xf86-video-vesa
 xkeyboard-config
 xml2
+xmldiff
 xmlsec
 xorg-bdftopcf
 xorg-font-util
