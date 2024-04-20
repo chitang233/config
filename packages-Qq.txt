@@ -1960,7 +1960,6 @@ python-lockfile
 python-logbook
 python-loguru
 python-lxml
-python-lz4
 python-magic
 python-mako
 python-markdown
@@ -1981,7 +1980,6 @@ python-msgpack
 python-multidict
 python-mutagen
 python-mypy_extensions
-python-netifaces
 python-notify2
 python-numpy
 python-objgraph
@@ -2079,7 +2077,6 @@ python-rapidjson
 python-redis
 python-referencing
 python-regex
-python-rencode
 python-requests
 python-requests-futures
 python-requests-toolbelt
@@ -2672,7 +2669,6 @@ wpebackend-fdo
 wxwidgets-common
 wxwidgets-gtk3
 x11-ssh-askpass
-x11docker
 x264
 x265
 xapian-core
@@ -2703,13 +2699,6 @@ xf86-input-evdev
 xf86-input-libinput
 xf86-input-synaptics
 xf86-input-void
-xf86-video-amdgpu
-xf86-video-ati
-xf86-video-dummy
-xf86-video-fbdev
-xf86-video-nouveau
-xf86-video-openchrome
-xf86-video-vesa
 xkeyboard-config
 xml2
 xmldiff
@@ -2772,7 +2761,6 @@ xorg-xwininfo
 xorg-xwud
 xorgproto
 xournalpp
-xpra
 xsel
 xsettingsd
 xterm
@@ -2801,6 +2789,7 @@ yubikey-personalization
 yubikey-personalization-gui
 yubioath-desktop
 yuzu-early-access
+yyjson
 zbar
 zenity
 zeromq
