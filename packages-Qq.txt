@@ -2390,6 +2390,7 @@ shadow
 shared-mime-info
 sherlock-git
 shiboken6
+shim-signed
 signon-kwallet-extension
 signon-plugin-oauth2
 signon-ui
