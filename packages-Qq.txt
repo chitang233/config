@@ -856,7 +856,6 @@ lazarus-qt6
 lcms2
 ldb
 ldns
-legendary
 lensfun
 less
 lf
@@ -1620,6 +1619,7 @@ nss
 nss-mdns
 ntfs-3g
 numactl
+nushell
 nvclock
 nvidia-dkms
 nvidia-prime
@@ -1639,7 +1639,6 @@ okular
 onedrive-abraunegg
 onefetch
 onetbb
-onevpl-intel-gpu
 oniguruma
 open-iscsi
 open-isns
@@ -1894,7 +1893,6 @@ python-dulwich
 python-editables
 python-emoji
 python-entrypoints
-python-et-xmlfile
 python-evdev
 python-execnet
 python-executing
@@ -1987,12 +1985,10 @@ python-olefile
 python-olm
 python-opencv
 python-opengl
-python-openpyxl
 python-ordered-set
 python-outcome
 python-packaging
 python-paginate
-python-pandas
 python-paramiko
 python-parso
 python-passlib
@@ -2078,7 +2074,6 @@ python-redis
 python-referencing
 python-regex
 python-requests
-python-requests-futures
 python-requests-toolbelt
 python-rfc3339-validator
 python-rich
@@ -2100,7 +2095,6 @@ python-sortedcontainers
 python-soupsieve
 python-stack-data
 python-starlette
-python-stem
 python-telethon
 python-tinycss2
 python-toml
@@ -2108,7 +2102,6 @@ python-tomli
 python-tomlkit
 python-toolz
 python-tornado
-python-torrequest
 python-tox
 python-tqdm
 python-traitlets
@@ -2388,7 +2381,6 @@ sgml-common
 shaderc
 shadow
 shared-mime-info
-sherlock-git
 shiboken6
 shim-signed
 signon-kwallet-extension
@@ -2598,6 +2590,7 @@ vlc-luajit
 vmaf
 vnstat
 volume_key
+vpl-gpu-rt
 vpnc
 vte-common
 vte3
