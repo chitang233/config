@@ -16,8 +16,6 @@ aegisub
 aha
 akonadi-contacts
 akonadi-mime
-alhp-keyring
-alhp-mirrorlist
 alist-bin
 alligator
 alpm_octopi_utils
@@ -158,8 +156,6 @@ cemu
 cervisia
 cfitsio
 chafa
-chaotic-keyring
-chaotic-mirrorlist
 checkra1n-cli
 checkra1n-gui
 cheese
@@ -399,7 +395,6 @@ ghostwriter
 giflib
 gimp
 git
-git-cola
 git-completion
 git-credential-manager-core-bin
 git-crypt
@@ -1107,7 +1102,6 @@ libcups
 libcurl-compat
 libcurl-gnutls
 libdaemon
-libdatachannel-nice
 libdatrie
 libdbusmenu-glib
 libdbusmenu-gtk2
@@ -1389,7 +1383,6 @@ liburing
 libusb
 libusb-compat
 libusbmuxd
-libusrsctp
 libutempter
 libuv
 libva
@@ -1517,7 +1510,6 @@ make
 mangohud
 marisa
 markdownpart
-mbedtls
 mbedtls2
 mcpelauncher-msa-ui-qt-git
 md4c
@@ -1630,7 +1622,6 @@ nvtop
 nx-x11
 nxagent
 oath-toolkit
-obs-studio
 ocean-sound-theme
 ocl-icd
 octopi
@@ -1832,6 +1823,7 @@ python-aiogram
 python-aiohttp
 python-aiohttp-socks
 python-aioquic
+python-aioresponses
 python-aiosignal
 python-altgraph
 python-annotated-types
@@ -1896,6 +1888,7 @@ python-entrypoints
 python-evdev
 python-execnet
 python-executing
+python-faker
 python-fastapi
 python-fastimport
 python-fastjsonschema
@@ -1927,8 +1920,8 @@ python-httplib2
 python-huggingface-hub
 python-hyperframe
 python-hyperlink
+python-hypothesis
 python-idna
-python-importlib-metadata
 python-incremental
 python-inflect
 python-iniconfig
@@ -2006,7 +1999,6 @@ python-ply
 python-poetry
 python-poetry-core
 python-poetry-plugin-export
-python-polib
 python-prettytable
 python-prompt_toolkit
 python-protobuf
@@ -2017,6 +2009,7 @@ python-publicsuffix2
 python-pulsectl
 python-pulsectl-asyncio
 python-pure-eval
+python-py-cpuinfo
 python-pyaes
 python-pyaml
 python-pyasn1
@@ -2059,6 +2052,10 @@ python-pyserial
 python-pysmbc
 python-pysocks
 python-pytest
+python-pytest-aiohttp
+python-pytest-asyncio
+python-pytest-benchmark
+python-pytest-cov
 python-pytest-xdist
 python-python-socks
 python-pytz
@@ -2136,7 +2133,6 @@ python-xmltodict
 python-yaml
 python-yarl
 python-yubico
-python-zipp
 python-zope-interface
 python-zstandard
 qalculate-qt
@@ -2375,7 +2371,6 @@ seatd
 sed
 semver
 serd
-serenity-git
 sfml
 sgml-common
 shaderc
