@@ -64,7 +64,7 @@ attica 6.1.0-1
 attica5 5.115.0-1
 attr 2.5.2-1
 aubio 0.4.9-17
-audacity 1:3.5.1-1
+audacity 1:3.5.1-2
 audiocd-kio 24.02.2-1
 audiofile 0.3.6-8
 audit 4.0.1-3
@@ -281,7 +281,7 @@ efitools 1.9.2-5
 efivar 39-1
 egl-wayland 2:1.1.13-1
 eglexternalplatform 1.1-2
-elfutils 0.191-1
+elfutils 0.191-2
 elinks 0.17.0-1
 elisa 24.02.2-1
 ell 0.64-2
@@ -329,7 +329,7 @@ filesystem 2024.04.07-1
 findutils 4.9.0-3
 fio 3.37-1
 firefox-appmenu 112.0.2-2
-firefox-nightly-zh-tw 127.0a1.20240502.11-1
+firefox-nightly-zh-tw 127.0a1.20240503.10-1
 firefox-pwa 2.11.1-1
 fish 3.7.1-2
 flac 1.4.3-1
@@ -483,11 +483,11 @@ gst-plugins-ugly 1.24.3-1
 gstreamer 1.24.3-1
 gtest 1.14.0-1
 gtk-doc 1.34.0-1
-gtk-update-icon-cache 1:4.14.3-1
+gtk-update-icon-cache 1:4.14.4-1
 gtk-vnc 1.3.1-1
 gtk2 2.24.33-3
 gtk3 1:3.24.41-1
-gtk4 1:4.14.3-1
+gtk4 1:4.14.4-1
 gtkmm 1:2.24.5-4
 gtkmm3 3.24.9-1
 gtksourceview3 1:3.24.11+r28+g73e57b57-1
@@ -1131,7 +1131,7 @@ libebml 1.4.5-1
 libebur128 1.2.6-1
 libedit 20230828_3.1-1
 libei 1.2.1-1
-libelf 0.191-1
+libelf 0.191-2
 libepoxy 1.5.10-2
 libepubgen 0.1.1-4
 libetonyek 0.1.10-3
@@ -1180,7 +1180,7 @@ libgxps 0.3.2-4
 libhandy 1.8.3-1
 libheif 1.17.6-5
 libhubbub 0.3.8-1
-libibus 1.5.29-5
+libibus 1.5.30-1
 libical 3.0.18-1
 libice 1.1.1-2
 libicns 0.8.1-10
@@ -1535,7 +1535,7 @@ milou 6.0.4-1
 mimetreeparser 24.02.2-1
 mindustry 1:7.0.146-1
 miniupnpc 2.2.7-2
-minizip 1:1.3.1-1
+minizip 1:1.3.1-2
 minizip-ng 4.0.5-1
 misans 4.003-2
 misans-fontconfig 4.003-2
@@ -1574,7 +1574,7 @@ mypaint-brushes1 1.3.1-1
 nano 7.2-1
 navi 2.23.0-1
 ncompress 5.0-2
-ncurses 6.4_20230520-2
+ncurses 6.4_20230520-3
 ncurses5-compat-libs 6.4-2
 ndctl 78-1
 nekoray-git 3.26.r4.g4f45617-2
@@ -1712,7 +1712,7 @@ pcaudiolib 1.2-2
 pcem 17-6
 pciutils 3.12.0-1
 pcre 8.45-4
-pcre2 10.43-3
+pcre2 10.43-4
 pcsclite 2.1.0-2
 perl 5.38.2-1
 perl-archive-zip 1.68-8
@@ -2310,7 +2310,7 @@ qt6-webview 6.7.0-1
 qt6pas 6.2.7-2
 qtermwidget 1.4.0-2
 qtkeychain-qt6 0.14.2-1
-qtractor 0.9.39-3
+qtractor 0.9.39-4
 quazip-qt5 1.4-1
 quazip-qt6 1.4-1
 quota-tools 1:4.09-1
@@ -2390,7 +2390,7 @@ signon-plugin-oauth2 0.25-3
 signon-ui 0.17+20231016-2
 signond 8.61-3
 simplescreenrecorder 0.4.4-4
-sing-box 1.8.12-1
+sing-box 1.8.13-1
 sing-geoip-common 20240112-1
 sing-geoip-db 20240412-1
 sing-geosite-common 20240105034708-3
@@ -2794,7 +2794,7 @@ zimg 3.0.5-1
 zip 3.0-11
 zita-convolver 4.0.3-3
 zix 0.4.2-2
-zlib 1:1.3.1-1
+zlib 1:1.3.1-2
 zoxide 0.9.4-2
 zsh 5.9-5
 zsh-completions 0.35.0-1
