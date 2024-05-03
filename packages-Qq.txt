@@ -355,6 +355,7 @@ freecell-solver
 freeciv
 freeglut
 freerdp
+freerdp2
 freetype2
 frei0r-plugins
 fribidi
@@ -1102,6 +1103,7 @@ libcups
 libcurl-compat
 libcurl-gnutls
 libdaemon
+libdatachannel
 libdatrie
 libdbusmenu-glib
 libdbusmenu-gtk2
@@ -1152,7 +1154,9 @@ libgcrypt15
 libgdata
 libgdiplus
 libgedit-amtk
+libgedit-gfls
 libgedit-gtksourceview
+libgedit-tepl
 libgee
 libgexiv2
 libgig
@@ -1203,6 +1207,7 @@ libisofs
 libixion
 libjpeg-turbo
 libjpeg6-turbo
+libjuice
 libjxl
 libkate
 libkcddb
@@ -1510,6 +1515,7 @@ make
 mangohud
 marisa
 markdownpart
+mbedtls
 mbedtls2
 mcpelauncher-msa-ui-qt-git
 md4c
@@ -1622,6 +1628,7 @@ nvtop
 nx-x11
 nxagent
 oath-toolkit
+obs-studio
 ocean-sound-theme
 ocl-icd
 octopi
@@ -2463,7 +2470,6 @@ tcping
 tdb
 telegram-desktop-megumifox
 telly-skout
-tepl
 tevent
 texinfo
 texlive-basic
