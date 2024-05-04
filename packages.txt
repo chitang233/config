@@ -1,6 +1,6 @@
 a52dec 0.8.0-2
 aalib 1.4rc5-18
-abseil-cpp 20240116.1-1
+abseil-cpp 20240116.2-1
 accounts-qml-module 0.7-6
 accountsservice 23.13.9-2
 acl 2.3.2-1
@@ -88,7 +88,7 @@ bash 5.2.026-2
 bash-completion 2.11-3
 bash2048 1.0-1
 bashtop 0.9.25-1
-bat 0.24.0-1
+bat 0.24.0-2
 bc 1.07.1-4
 bcg729 1.1.1-1
 bdf-unifont 15.1.04-1
@@ -201,7 +201,7 @@ cracklib 2.9.11-1
 cronie 1.7.2-1
 cryptsetup 2.7.2-1
 cubeb-git 0.2.r1520.g19fcbef-1
-cuda 12.4.1-2
+cuda 12.4.1-3
 cups-pk-helper 0.2.7-1
 curl 8.7.1-6
 cyrus-sasl-gssapi 2.1.28-3
@@ -235,7 +235,7 @@ discord 0.0.52-1
 discord-rpc-git 3.4.0.r10.g963aa9f-5
 discount 3.0.0.d-1
 discover-overlay 0.7.3-1
-distrobox 1.7.1.0-2
+distrobox 1.7.2.0-1
 djvulibre 3.5.28-6
 dkms 3.0.12-1
 dleyna 0.8.3-1
@@ -284,7 +284,7 @@ eglexternalplatform 1.1-2
 elfutils 0.191-2
 elinks 0.17.0-1
 elisa 24.02.2-1
-ell 0.64-2
+ell 0.65-1
 enca 1.19-5
 enchant 2.6.5-1
 enet 1.3.17-1
@@ -297,13 +297,13 @@ exiv2 0.28.2-4
 expac 10-10
 expat 2.6.2-1
 expect 5.45.4-4
-eza 0.18.14-1
+eza 0.18.14-6
 f2fs-tools 1.16.0-2
 faac 1.30-4
 faad2 2.11.1-1
 fakeroot 1.34-1
 falkon 24.02.2-4
-fastfetch 2.11.1-1
+fastfetch 2.11.2-1
 fcitx5 5.1.9-1
 fcitx5-anthy 5.1.4-1
 fcitx5-chinese-addons 5.1.4-1
@@ -329,7 +329,7 @@ filesystem 2024.04.07-1
 findutils 4.9.0-3
 fio 3.37-1
 firefox-appmenu 112.0.2-2
-firefox-nightly-zh-tw 127.0a1.20240503.10-1
+firefox-nightly-zh-tw 127.0a1.20240504.00-1
 firefox-pwa 2.11.1-1
 fish 3.7.1-2
 flac 1.4.3-1
@@ -394,7 +394,7 @@ ghidra 11.0.3-1
 ghostscript 10.03.0-2
 ghostwriter 24.02.2-1
 giflib 5.2.2-1
-gimp 2.10.36-6
+gimp 2.10.38-1
 git 2.45.0-1
 git-completion 2.0-1
 git-credential-manager-core-bin 2.4.1-3
@@ -410,12 +410,12 @@ glhack 1.2-10
 glib-networking 1:2.80.0-1
 glib2 2.80.0-4
 glib2-docs 2.80.0-4
-glibc 2.39-3
+glibc 2.39-4
 glibmm 2.66.7-1
 glibmm-2.68 2.80.0-1
 glm 1.0.0-3
 glmark2 2023.01-1
-glslang 14.0.0-2
+glslang 14.1.0-1
 glu 9.0.3-1
 glusterfs 1:11.1-2
 gmp 6.3.0-2
@@ -514,8 +514,8 @@ gzip 1.13-2
 hamlib 4.5.5-4
 handbrake 1.7.3-1
 handbrake-cli 1.7.3-1
-harfbuzz 8.4.0-1
-harfbuzz-icu 8.4.0-1
+harfbuzz 8.4.0-2
+harfbuzz-icu 8.4.0-2
 haveged 1.9.18-2
 hdf5 1.14.3-1
 hdparm 9.65-1
@@ -559,7 +559,7 @@ intellij-idea-ultimate-edition 2024.1.1-1
 iperf3 3.16-1
 iproute2 6.8.0-2
 ipscan 3.9.1-3
-iptables-nft 1:1.8.10-1
+iptables 1:1.8.10-1
 iputils 20240117-1
 ipython 8.24.0-1
 iso-codes 4.16.0-1
@@ -884,7 +884,7 @@ lib32-giflib 5.2.2-1
 lib32-glew 2.2.0-4
 lib32-glew1.10 1.10.0-5
 lib32-glib2 2.80.0-4
-lib32-glibc 2.39-3
+lib32-glibc 2.39-4
 lib32-glslang 13.0.0-1
 lib32-glu 9.0.3-1
 lib32-gmp 6.3.0-1
@@ -893,7 +893,7 @@ lib32-gst-plugins-base-libs 1.24.3-1
 lib32-gstreamer 1.24.3-1
 lib32-gtk2 2.24.33-2
 lib32-gtk3 1:3.24.41-1
-lib32-harfbuzz 8.4.0-1
+lib32-harfbuzz 8.4.0-2
 lib32-icu 74.2-1
 lib32-imlib2 1.12.2-1
 lib32-keyutils 1.6.3-2
@@ -999,9 +999,9 @@ lib32-ncurses5-compat-libs 6.4-1
 lib32-nettle 3.9.1-1
 lib32-nspr 4.35-2
 lib32-nss 3.99-1
-lib32-nvidia-utils 550.76-1
+lib32-nvidia-utils 550.78-1
 lib32-openal 1.23.1-1
-lib32-opencl-nvidia 550.76-1
+lib32-opencl-nvidia 550.78-1
 lib32-openssl 1:3.3.0-1
 lib32-openssl-1.1 1.1.1.w-1
 lib32-opus 1.5.2-1
@@ -1010,7 +1010,7 @@ lib32-p11-kit 0.25.3-1
 lib32-pam 1.6.0-1
 lib32-pango 1:1.52.2-1
 lib32-pcre2 10.43-1
-lib32-pcsclite 2.0.3-1
+lib32-pcsclite 2.1.0-1
 lib32-pipewire 1:1.0.5-1
 lib32-pipewire-jack 1:1.0.5-1
 lib32-pipewire-v4l2 1:1.0.5-1
@@ -1149,6 +1149,7 @@ libfontenc 1.1.8-1
 libfreeaptx 0.1.1-1
 libfreehand 0.1.2-4
 libftdi 1.5-6
+libgbinder 1.1.38-1
 libgcrypt 1.10.3-1
 libgcrypt15 1.5.6-6
 libgdata 0.18.1-3
@@ -1161,8 +1162,9 @@ libgee 0.20.6-1
 libgexiv2 0.14.2-2
 libgig 4.4.1-1
 libgirepository 1.80.1-3
-libgit2 1:1.7.2-1
+libgit2 1:1.8.0-2
 libgksu 2.0.12-9.3
+libglibutil 1.0.79-1
 libglvnd 1.7.0-1
 libgme 0.6.3-4
 libgnome-keyring 1:3.12.0+r14+g23438cc-1
@@ -1312,7 +1314,7 @@ libpng12 1.2.59-2
 libportal 0.7.1-2
 libportal-gtk3 0.7.1-2
 libproxy 0.5.6-1
-libpsl 0.21.2-1
+libpsl 0.21.5-1
 libpulse 17.0-3
 libpwquality 1.4.5-5
 libqaccessibilityclient-qt6 0.6.0-1
@@ -1446,7 +1448,7 @@ libxklavier 5.4-5
 libxml2 2.12.6-2
 libxmlb 0.3.19-1
 libxmu 1.2.1-1
-libxnvctrl 550.67-1
+libxnvctrl 550.78-1
 libxpm 3.5.17-1
 libxpresent 1.0.1-1
 libxrandr 1.5.4-1
@@ -1473,8 +1475,8 @@ linux-firmware 20240409.1addd7dc-1
 linux-firmware-whence 20240409.1addd7dc-1
 linux-steam-integration 0.7.3-8
 linux-wifi-hotspot 1:4.7.1-2
-linux-zen 6.8.8.zen1-1
-linux-zen-headers 6.8.8.zen1-1
+linux-zen 6.8.9.zen1-1
+linux-zen-headers 6.8.9.zen1-1
 lirc 1:0.10.2-4
 live-media 2023.01.19-1
 lksctp-tools 1.0.19-1
@@ -1547,7 +1549,7 @@ mkdocs 1.6.0-1
 mkdocs-material 9.5.17-1
 mkdocs-material-extensions 1.3.1-1
 mkdocs-minify-plugin 0.8.0-1
-mkinitcpio 38.1-1
+mkinitcpio 39-1
 mkinitcpio-busybox 1.36.1-1
 mlt 7.24.0-1
 mobile-broadband-provider-info 20240407-1
@@ -1571,13 +1573,13 @@ mujs 1.3.4-1
 multimc-bin 0.7.0.3809-1
 multipath-tools 0.9.8-1
 mypaint-brushes1 1.3.1-1
-nano 7.2-1
+nano 8.0-1
 navi 2.23.0-1
 ncompress 5.0-2
 ncurses 6.4_20230520-3
 ncurses5-compat-libs 6.4-2
 ndctl 78-1
-nekoray-git 3.26.r4.g4f45617-2
+nekoray-git 3.26.r4.g4f45617-3
 neofetch 7.1.0-2
 neon 0.33.0-1
 neovim 0.9.5-5
@@ -1619,10 +1621,10 @@ ntfs-3g 2022.10.3-1
 numactl 2.0.18-1
 nushell 0.92.2-1
 nvclock 0.8b4-4
-nvidia-dkms 550.76-3
+nvidia-dkms 550.78-1
 nvidia-prime 1.0-4
-nvidia-settings 550.67-1
-nvidia-utils 550.76-3
+nvidia-settings 550.78-1
+nvidia-utils 550.78-1
 nvidia-vaapi-driver-git 0.0.11.r29.g746d551-1
 nvtop 3.1.0-1
 nx-x11 3.5.99.27-3
@@ -1644,7 +1646,7 @@ openal 1.23.1-1
 openbsd-netcat 1.226_1-2
 opencc 1.1.7-2
 opencl-headers 2:2023.04.17-2
-opencl-nvidia 550.76-3
+opencl-nvidia 550.78-1
 opencolorio 2.3.2-2
 openconnect 1:9.12-1
 opencore-amr 0.1.6-1
@@ -1713,7 +1715,7 @@ pcem 17-6
 pciutils 3.12.0-1
 pcre 8.45-4
 pcre2 10.43-4
-pcsclite 2.1.0-2
+pcsclite 2.2.0-1
 perl 5.38.2-1
 perl-archive-zip 1.68-8
 perl-clone 0.46-2
@@ -1801,7 +1803,7 @@ potrace 1.16-3
 powerdevil 6.0.4-1
 poxml 24.02.2-1
 ppp 2.5.0-3
-prismlauncher-git 8.0.r407.gbfac12604e-2
+prismlauncher-git 8.0.r407.gbfac12604e-3
 prison 6.1.0-1
 prison5 5.115.0-1
 procps-ng 4.0.4-3
@@ -1896,7 +1898,7 @@ python-evdev 1.7.0-3
 python-execnet 2.0.2-2
 python-executing 2.0.0-3
 python-faker 24.11.0-1
-python-fastapi 0.110.3-2
+python-fastapi 0.111.0-1
 python-fastimport 0.9.14-5
 python-fastjsonschema 2.19.1-3
 python-fastpbkdf2 0.2-12
@@ -1908,6 +1910,7 @@ python-fqdn 1.5.1-3
 python-frozenlist 1.4.1-2
 python-fsspec 2024.3.1-3
 python-future 1.0.0-1
+python-gbinder 1.1.2-4
 python-ghp-import 2.1.0-2
 python-glfw 2.7.0-2
 python-gobject 3.48.2-1
@@ -2023,6 +2026,7 @@ python-pyasn1 0.5.1-1
 python-pyasn1-modules 0.3.0-2
 python-pyaudio 0.2.14-3
 python-pybase62 1.0.0-1
+python-pyclip 0.7.0-7
 python-pycodestyle 2.11.1-2
 python-pycparser 2.22-2
 python-pycryptodome 3.20.0-2
@@ -2107,7 +2111,7 @@ python-tomlkit 0.12.4-2
 python-toolz 0.12.1-2
 python-tornado 6.4.0-1
 python-tox 4.12.1-2
-python-tqdm 4.66.2-2
+python-tqdm 4.66.4-1
 python-traitlets 5.14.3-2
 python-trove-classifiers 2024.4.10-1
 python-twisted 24.3.0-2
@@ -2120,7 +2124,7 @@ python-unidecode 1.3.8-2
 python-unpaddedbase64 2.1.0-6
 python-uri-template 1.3.0-2
 python-urllib3 1.26.18-3
-python-urwid 2.6.10-2
+python-urwid 2.6.10-3
 python-uvloop 0.19.0-3
 python-validate-pyproject 0.16-1
 python-virtualenv 20.25.0-3
@@ -2271,7 +2275,7 @@ qt5-xmlpatterns 5.15.13-1
 qt5pas 1:1.2.15-1
 qt6-3d 6.7.0-1
 qt6-5compat 6.7.0-1
-qt6-base 6.7.0-4
+qt6-base 6.7.0-5
 qt6-charts 6.7.0-1
 qt6-connectivity 6.7.0-1
 qt6-datavis3d 6.7.0-1
@@ -2380,7 +2384,7 @@ semver 7.6.0-1
 serd 0.32.2-1
 sfml 2.6.1-1
 sgml-common 0.6.3-8
-shaderc 2023.8-1
+shaderc 2024.0-1
 shadow 4.15.1-2
 shared-mime-info 2.4-1
 shiboken6 6.7.0-5
@@ -2422,7 +2426,7 @@ speexdsp 1.2.1-1
 spice 0.15.2-1
 spice-gtk 0.42-3
 spice-protocol 0.14.4-1
-spirv-tools 2023.6-1
+spirv-tools 2024.1-1
 sqlite 3.45.3-1
 squashfs-tools 4.6.1-1
 squashfuse 0.5.2-1
@@ -2455,7 +2459,7 @@ syndication5 5.115.0-1
 syntax-highlighting 6.1.0-1
 syntax-highlighting5 5.115.0-2
 sysstat 12.7.5-1
-system-config-printer 1.5.18-3
+system-config-printer 1.5.18-4
 systemd 255.5-4
 systemd-libs 255.5-4
 systemd-sysvcompat 255.5-4
@@ -2541,7 +2545,7 @@ ttf-ubuntu-font-family 1:0.83-1
 ttf-ubuntu-mono-nerd 3.2.1-1
 ttf-ubuntu-nerd 3.2.1-1
 twolame 0.4.0-3
-tzdata 2024a-1
+tzdata 2024a-2
 uchardet 0.0.8-2
 udftools 2.3-2
 udisks2 2.10.1-4
@@ -2583,7 +2587,7 @@ virt-install 4.1.0-3
 virt-manager 4.1.0-3
 virtio-win 0.1.248.1-1
 virtiofsd 1.10.1-1
-virtualbox-guest-iso 7.0.16-1
+virtualbox-guest-iso 7.0.18-1
 visual-studio-code-insiders-bin 1714529034-1
 vkbasalt 0.3.2.10-1
 vkd3d 1.10-1
@@ -2603,6 +2607,8 @@ vulkan-tools 1.3.269-1
 vulkan-virtio 1:24.0.6-2
 w3m 0.5.3.git20230713_1-1
 wavpack 5.7.0-1
+waydroid 1.4.2-4
+waydroid-image-gapps 18.1_20240427-2
 wayland 1.22.0-1
 wayland-protocols 1.35-1
 wayland-utils 1.2.0-1
@@ -2629,6 +2635,7 @@ wireplumber 0.5.2-1
 wireproxy 1.0.9-1
 wireshark-cli 4.2.4-2
 wireshark-qt 4.2.4-2
+wl-clipboard 1:2.2.1-1
 wlroots 0.17.3-1
 wmctrl 1.07-6
 woff-misans 4.003-2

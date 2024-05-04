@@ -559,7 +559,7 @@ intellij-idea-ultimate-edition
 iperf3
 iproute2
 ipscan
-iptables-nft
+iptables
 iputils
 ipython
 iso-codes
@@ -1149,6 +1149,7 @@ libfontenc
 libfreeaptx
 libfreehand
 libftdi
+libgbinder
 libgcrypt
 libgcrypt15
 libgdata
@@ -1163,6 +1164,7 @@ libgig
 libgirepository
 libgit2
 libgksu
+libglibutil
 libglvnd
 libgme
 libgnome-keyring
@@ -1908,6 +1910,7 @@ python-fqdn
 python-frozenlist
 python-fsspec
 python-future
+python-gbinder
 python-ghp-import
 python-glfw
 python-gobject
@@ -2023,6 +2026,7 @@ python-pyasn1
 python-pyasn1-modules
 python-pyaudio
 python-pybase62
+python-pyclip
 python-pycodestyle
 python-pycparser
 python-pycryptodome
@@ -2603,6 +2607,8 @@ vulkan-tools
 vulkan-virtio
 w3m
 wavpack
+waydroid
+waydroid-image-gapps
 wayland
 wayland-protocols
 wayland-utils
@@ -2629,6 +2635,7 @@ wireplumber
 wireproxy
 wireshark-cli
 wireshark-qt
+wl-clipboard
 wlroots
 wmctrl
 woff-misans
