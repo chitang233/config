@@ -216,7 +216,6 @@ dbus
 dbus-broker
 dbus-broker-units
 dbus-glib
-dbus-python
 dconf
 ddcutil
 ddgr
@@ -377,6 +376,8 @@ gawk
 gc
 gcc
 gcc-libs
+gcc13
+gcc13-libs
 gconf
 gcr
 gcr-4
@@ -1294,7 +1295,6 @@ libnvme
 liboauth
 libodfgen
 libogg
-libolm
 libomxil-bellagio
 libopenmpt
 liborcus
@@ -1620,7 +1620,6 @@ nss
 nss-mdns
 ntfs-3g
 numactl
-nushell
 nvclock
 nvidia-dkms
 nvidia-prime
@@ -1828,10 +1827,8 @@ pyside6
 pystring
 python
 python-absl
-python-aiofiles
 python-aiogram
 python-aiohttp
-python-aiohttp-socks
 python-aioquic
 python-aioresponses
 python-aiosignal
@@ -1845,7 +1842,6 @@ python-asgiref
 python-astroid
 python-asttokens
 python-async-timeout
-python-atomicwrites
 python-attrs
 python-autocommand
 python-automat
@@ -1883,6 +1879,7 @@ python-cssselect
 python-cssselect2
 python-cycler
 python-dateutil
+python-dbus
 python-decorator
 python-defusedxml
 python-dill
@@ -1910,7 +1907,6 @@ python-fonttools
 python-fqdn
 python-frozenlist
 python-fsspec
-python-future
 python-gbinder
 python-ghp-import
 python-glfw
@@ -1959,7 +1955,6 @@ python-lark-parser
 python-ldap3
 python-livereload
 python-lockfile
-python-logbook
 python-loguru
 python-lxml
 python-magic
@@ -1969,7 +1964,6 @@ python-markdown-it-py
 python-markupsafe
 python-matplotlib
 python-matplotlib-inline
-python-matrix-nio
 python-mccabe
 python-mdurl
 python-mdx-gh-links
@@ -1986,7 +1980,6 @@ python-notify2
 python-numpy
 python-objgraph
 python-olefile
-python-olm
 python-opencv
 python-opengl
 python-ordered-set
@@ -1998,7 +1991,6 @@ python-parso
 python-passlib
 python-pathspec
 python-pbr
-python-peewee
 python-pexpect
 python-pickleshare
 python-pillow
@@ -2030,7 +2022,6 @@ python-pybase62
 python-pyclip
 python-pycodestyle
 python-pycparser
-python-pycryptodome
 python-pycryptodomex
 python-pycups
 python-pycurl
@@ -2069,7 +2060,6 @@ python-pytest-asyncio
 python-pytest-benchmark
 python-pytest-cov
 python-pytest-xdist
-python-python-socks
 python-pytz
 python-pyusb
 python-pywebview
@@ -2122,7 +2112,6 @@ python-typing_inspect
 python-uc-micro-py
 python-ujson
 python-unidecode
-python-unpaddedbase64
 python-uri-template
 python-urllib3
 python-urwid
@@ -2131,7 +2120,6 @@ python-validate-pyproject
 python-virtualenv
 python-watchdog
 python-wcwidth
-python-webcolors
 python-webencodings
 python-websocket-client
 python-websockets
@@ -2618,8 +2606,6 @@ webkit2gtk
 webkit2gtk-4.1
 webrtc-audio-processing
 webrtc-audio-processing-1
-weechat
-weechat-matrix
 weston
 wgcf-git
 wget
@@ -2764,6 +2750,7 @@ xorg-xwd
 xorg-xwininfo
 xorg-xwud
 xorgproto
+xosd
 xournalpp
 xsel
 xsettingsd
