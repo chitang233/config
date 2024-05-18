@@ -1520,6 +1520,7 @@ marisa
 markdownpart
 mbedtls
 mbedtls2
+mcpelauncher-linux-git
 mcpelauncher-msa-ui-qt-git
 md4c
 mda.lv2
