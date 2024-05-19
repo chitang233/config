@@ -102,11 +102,11 @@ blas 3.12.0-5
 bleachbit 4.6.0-2
 blueberry 1.4.8-1
 bluedevil 1:6.0.4-1
-bluez 5.75-1
-bluez-libs 5.75-1
+bluez 5.76-1
+bluez-libs 5.76-1
 bluez-qt 6.2.0-1
 bluez-tools 0.2.0-5
-bluez-utils 5.75-1
+bluez-utils 5.76-1
 bolt 0.9.7-2
 bomber 24.02.2-1
 boost 1.83.0-7
@@ -133,10 +133,6 @@ ca-certificates 20220905-1
 ca-certificates-mozilla 3.100-1
 ca-certificates-utils 20220905-1
 cabextract 1.11-1
-cachyos-keyring 3-1
-cachyos-mirrorlist 18-1
-cachyos-v3-mirrorlist 18-1
-cachyos-v4-mirrorlist 6-1
 caddy 2.7.6-1
 cairo 1.18.0-2
 cairomm 1.14.5-1
@@ -146,6 +142,7 @@ cantor 24.02.2-2
 capstone 5.0.1-3
 catdoc 0.95-5
 catimg 2.7.0-1
+cbindgen 0.26.0-1
 cblas 3.12.0-5
 cbonsai 1.3.1-3
 ccache 4.9.1-1
@@ -163,10 +160,10 @@ chromaprint 1.5.1-7
 chromium 125.0.6422.60-1
 cifs-utils 7.0-3
 ciphey 5.14.0-7
-cjson 1.7.17-1
+cjson 1.7.18-1
 clang 17.0.6-2
 clash-geoip 202405160100-1
-clash-meta-alpha-git 2024051711.5c3a9b1d-1
+clash-meta-alpha-git 2024051823.b7c02a59-1
 classicube-git 1.3.6.r463.g90a20b207-1
 clinfo 3.0.23.01.25-1
 clion 1:2024.1.1-1
@@ -186,7 +183,7 @@ colord-kde 24.02.2-1
 compiler-rt 17.0.6-2
 compsize 1.5-1
 confuse 3.3-4
-conky 1.20.2-1
+conky 1.20.2-2
 containerd 1.7.17-1
 convertlit 1.8-11
 copyq 8.0.0-1
@@ -224,7 +221,6 @@ dee 1.2.7-14.4
 default-cursors 2-1
 desktop-file-utils 0.27-1
 desmume 0.9.13-1
-detect-it-easy 3.07-1
 device-mapper 2.03.23-3
 dhcpcd 10.0.6-1
 dialog 1:1.3_20240307-2
@@ -265,6 +261,7 @@ drkonqi 6.0.4-1
 dtc 1.7.0-5
 duf 0.8.1-2
 duktape 2.7.0-6
+dump_syms 2.3.1-2
 dust 1.0.0-3
 dvisvgm 3.3-1
 dynarmic 6.7.0-1
@@ -328,7 +325,7 @@ filesystem 2024.04.07-1
 findutils 4.9.0-3
 fio 3.37-2
 firefox-appmenu 112.0.2-2
-firefox-nightly-zh-tw 128.0a1.20240517.11-1
+firefox-nightly-zh-cn 128.0a1.20240518.11-1
 firefox-pwa 2.12.0-2
 fish 3.7.1-2
 flac 1.4.3-1
@@ -376,6 +373,7 @@ gawk 5.3.0-1
 gc 8.2.6-1
 gcc 14.1.1+r1+g43b730b9134-1
 gcc-libs 14.1.1+r1+g43b730b9134-1
+gcc-objc 14.1.1+r1+g43b730b9134-1
 gcc13 13.2.1-1
 gcc13-libs 13.2.1-1
 gconf 3.2.6+11+g07808097-11
@@ -440,7 +438,7 @@ gnuplot 6.0.0-1
 gnustep-base 1.29.0-3
 gnutls 3.8.5-1
 go 2:1.22.3-1
-go-musicfox 4.3.3-1
+go-musicfox-git 4.4.1.r5.gb1f69a4-1
 gobject-introspection 1.80.1-3
 gobject-introspection-runtime 1.80.1-3
 goland 2024.1.1-1
@@ -464,7 +462,7 @@ grep 3.11-1
 grilo 0.3.16-1
 grilo-plugins 1:0.3.16-1
 groff 1.23.0-5
-grpc 1.62.1-5
+grpc 1.64.0-1
 grsync 1.3.1-1
 grub 2:2.12-2
 grub-btrfs 4.13-1
@@ -474,7 +472,6 @@ gsl 2.7.1-3
 gsm 1.0.22-1
 gspell 1.12.2-2
 gssdp 1.6.3-1
-gst-libav 1.24.3-1
 gst-plugins-bad 1.24.3-1
 gst-plugins-bad-libs 1.24.3-1
 gst-plugins-base 1.24.3-1
@@ -529,7 +526,7 @@ hidapi 0.14.0-2
 highlight 4.11-2
 highway 1.1.0-1
 hiredis 1.2.0-2
-hmcl 3.5.7-1
+hmcl 3.5.8-1
 hostapd 2.10-4
 htop 3.3.0-3
 http-parser 2.9.4-2
@@ -546,6 +543,7 @@ icu69-bin 69.1-1
 id3lib 3.8.3-18
 ijs 0.35-6
 imagemagick 7.1.1.32-1
+imake 1.0.10-1
 imath 3.1.11-2
 imgcat 1.2.0-2
 imlib2 1.12.2-2
@@ -652,7 +650,6 @@ kded5 5.115.0-1
 kdeedu-data 24.02.2-1
 kdegraphics-mobipocket 24.02.2-1
 kdegraphics-thumbnailers 24.02.2-1
-kdelibs4support 5.115.0-1
 kdenetwork-filesharing 24.02.2-1
 kdenlive 24.02.2-1
 kdeplasma-addons 6.0.4-1
@@ -674,7 +671,6 @@ kdsoap-qt5 2.2.0-1
 kdsoap-qt6 2.2.0-1
 kdsoap-ws-discovery-client 0.4.0-1
 keditbookmarks 24.02.2-1
-kemoticons 5.115.0-1
 kexec-tools 2.0.28-2
 keyutils 1.6.3-2
 kfilemetadata 6.2.0-1
@@ -695,7 +691,6 @@ khangman 24.02.2-1
 khefin 0.6.1-3
 khelpcenter 24.02.2-1
 kholidays 1:6.2.0-1
-khotkeys 5.27.10-1.1
 ki18n 6.2.0-1
 ki18n5 5.115.1-1
 kiconthemes 6.2.0-1
@@ -824,7 +819,6 @@ ktuberling 24.02.2-1
 kturtle 24.02.2-1
 kubrick 24.02.2-1
 kunitconversion 6.2.0-1
-kunitconversion5 5.115.0-1
 kuserfeedback 6.2.0-1
 kwallet 6.2.0-1
 kwallet-pam 6.0.4-1
@@ -1164,7 +1158,7 @@ libgee 0.20.6-1
 libgexiv2 0.14.2-2
 libgig 4.4.1-1
 libgirepository 1.80.1-3
-libgit2 1:1.8.0-2
+libgit2 1:1.8.1-1
 libgksu 2.0.12-9.3
 libglibutil 1.0.79-1
 libglvnd 1.7.0-1
@@ -1193,7 +1187,7 @@ libidn 1.42-1
 libidn11 1.33-2
 libidn2 2.3.7-1
 libiec61883 1.2.0-7
-libimagequant 4.3.0-1
+libimagequant 4.3.1-1
 libime 1.1.7-1
 libimobiledevice 1.3.0-13
 libimobiledevice-glue 1.2.0-1
@@ -1528,13 +1522,14 @@ mdadm 4.3-2
 media-player-info 24-2
 mediainfo 24.04-1
 memstrack 0.2.2-1
+mercurial 6.7.3-1
 mesa 1:24.0.7-3
 mesa-demos 9.0.0-4
 mesa-utils 9.0.0-4
 mesa-vdpau 1:24.0.7-3
 mgba-qt 0.10.3-1
 mgba-sdl 0.10.3-1
-microsoft-edge-beta-bin 124.0.2478.67-1
+microsoft-edge-beta-bin 125.0.2535.37-1
 milou 6.0.4-1
 mimetreeparser 24.02.2-1
 mindustry 1:7.0.146-1
@@ -1576,6 +1571,7 @@ multimc-bin 0.7.0.3853-1
 multipath-tools 0.9.8-1
 mypaint-brushes1 1.3.1-1
 nano 8.0-1
+nasm 2.16.03-1
 navi 2.23.0-1
 ncompress 5.0-2
 ncurses 6.4_20230520-3
@@ -1596,7 +1592,7 @@ networkmanager 1.46.0-2
 networkmanager-qt 6.2.0-1
 nexttrace 1.3.0-1
 nfsidmap 2.6.4-1
-nftables 1:1.0.9-2
+nftables 1:1.0.9-3
 nilfs-utils 2.2.11-1
 ninja 1.12.1-1
 nitrogen 1.6.1-5
@@ -1769,7 +1765,6 @@ plasma-activities-stats 6.0.4-1
 plasma-browser-integration 6.0.4-1
 plasma-desktop 6.0.4-1
 plasma-disks 6.0.4-1
-plasma-framework5 5.115.0-3
 plasma-integration 6.0.4-1
 plasma-nm 6.0.4-1
 plasma-pa 6.0.4-1
@@ -1779,7 +1774,6 @@ plasma-thunderbolt 6.0.4-1
 plasma-vault 6.0.4-1
 plasma-workspace 6.0.4-1
 plasma5-integration 6.0.4-1
-plasma5-wallpapers-wallpaper-engine 0.5.4-5.1
 plasma5support 6.0.4-1
 plasma6-applets-window-title 1:0.5-2
 plasmatube 24.02.2-1
@@ -1928,7 +1922,7 @@ python-httplib2 0.22.0-5
 python-huggingface-hub 1:0.23.0-1
 python-hyperframe 6.0.1-5
 python-hyperlink 21.0.0-6
-python-hypothesis 6.100.5-1
+python-hypothesis 6.102.4-1
 python-idna 3.6-2
 python-incremental 22.10.0-5
 python-inflect 7.2.1-2
@@ -1985,7 +1979,7 @@ python-opencv 4.9.0-6
 python-opengl 3.1.7-1
 python-ordered-set 4.1.0-5
 python-outcome 1.3.0.post0-4
-python-packaging 23.2-3
+python-packaging 24.0-1
 python-paginate 0.5.6-2
 python-paramiko 3.4.0-2
 python-parso 1:0.8.4-2
@@ -2302,7 +2296,7 @@ qt6-webengine 6.7.0-1
 qt6-websockets 6.7.0-1
 qt6-webview 6.7.0-1
 qt6pas 6.2.7-2
-qtermwidget 1.4.0-2
+qtermwidget 2.0.0-1
 qtkeychain-qt6 0.14.3-1
 qtractor 0.9.39-4
 quazip-qt5 1.4-1
@@ -2340,8 +2334,8 @@ rtmpdump 1:2.4.r105.6f6bb13-1
 rubberband 3.3.0-1
 run-parts 5.17-1
 runc 1.1.12-1
-rustdesk-bin 1.2.3-3
-rustrover 241.15989.101-1
+rustdesk-bin 1.2.3_2-1
+rustrover 241.15989.180-1
 rustup 1.27.1-1
 samba 4.20.1-1
 sbc 2.0-1
@@ -2385,9 +2379,7 @@ signon-ui 0.17+20231016-2
 signond 8.61-3
 simplescreenrecorder 0.4.4-4
 sing-box 1.8.13-1
-sing-geoip-common 20240112-1
 sing-geoip-db 20240512-1
-sing-geosite-common 20240105034708-3
 sing-geosite-db 20240508170917-1
 skim 0.10.4-2
 slang 2.3.3-2
@@ -2494,7 +2486,7 @@ tracker3-miners 3.7.3-1
 translate-shell 0.9.7.1-1
 transmission-cli 4.0.5-1
 trash-cli 0.24.4.17-2
-trayscale 0.11.2-1
+trayscale 0.12.3-1
 tre 0.8.0-6
 tree 2.1.1-1
 tree-sitter 0.22.6-1
@@ -2597,6 +2589,10 @@ vulkan-mesa-layers 1:24.0.7-3
 vulkan-tools 1.3.269-1
 vulkan-virtio 1:24.0.7-3
 w3m 0.5.3.git20230713_1-1
+wasi-compiler-rt 17.0.6-2
+wasi-libc 1:0+374+9e8c5423-1
+wasi-libc++ 17.0.6-1
+wasi-libc++abi 17.0.6-1
 wavpack 5.7.0-1
 waydroid 1.4.2-4
 waydroid-image-gapps 18.1_20240504-1
@@ -2746,7 +2742,7 @@ xorg-xrefresh 1.1.0-1
 xorg-xset 1.2.5-1
 xorg-xsetroot 1.1.3-1
 xorg-xvinfo 1.1.5-1
-xorg-xwayland 23.2.7-1
+xorg-xwayland 24.1.0-1
 xorg-xwd 1.0.9-1
 xorg-xwininfo 1.1.6-1
 xorg-xwud 1.0.6-1

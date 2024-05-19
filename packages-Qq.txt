@@ -133,10 +133,6 @@ ca-certificates
 ca-certificates-mozilla
 ca-certificates-utils
 cabextract
-cachyos-keyring
-cachyos-mirrorlist
-cachyos-v3-mirrorlist
-cachyos-v4-mirrorlist
 caddy
 cairo
 cairomm
@@ -146,6 +142,7 @@ cantor
 capstone
 catdoc
 catimg
+cbindgen
 cblas
 cbonsai
 ccache
@@ -224,7 +221,6 @@ dee
 default-cursors
 desktop-file-utils
 desmume
-detect-it-easy
 device-mapper
 dhcpcd
 dialog
@@ -265,6 +261,7 @@ drkonqi
 dtc
 duf
 duktape
+dump_syms
 dust
 dvisvgm
 dynarmic
@@ -328,7 +325,7 @@ filesystem
 findutils
 fio
 firefox-appmenu
-firefox-nightly-zh-tw
+firefox-nightly-zh-cn
 firefox-pwa
 fish
 flac
@@ -376,6 +373,7 @@ gawk
 gc
 gcc
 gcc-libs
+gcc-objc
 gcc13
 gcc13-libs
 gconf
@@ -440,7 +438,7 @@ gnuplot
 gnustep-base
 gnutls
 go
-go-musicfox
+go-musicfox-git
 gobject-introspection
 gobject-introspection-runtime
 goland
@@ -474,7 +472,6 @@ gsl
 gsm
 gspell
 gssdp
-gst-libav
 gst-plugins-bad
 gst-plugins-bad-libs
 gst-plugins-base
@@ -546,6 +543,7 @@ icu69-bin
 id3lib
 ijs
 imagemagick
+imake
 imath
 imgcat
 imlib2
@@ -652,7 +650,6 @@ kded5
 kdeedu-data
 kdegraphics-mobipocket
 kdegraphics-thumbnailers
-kdelibs4support
 kdenetwork-filesharing
 kdenlive
 kdeplasma-addons
@@ -674,7 +671,6 @@ kdsoap-qt5
 kdsoap-qt6
 kdsoap-ws-discovery-client
 keditbookmarks
-kemoticons
 kexec-tools
 keyutils
 kfilemetadata
@@ -695,7 +691,6 @@ khangman
 khefin
 khelpcenter
 kholidays
-khotkeys
 ki18n
 ki18n5
 kiconthemes
@@ -824,7 +819,6 @@ ktuberling
 kturtle
 kubrick
 kunitconversion
-kunitconversion5
 kuserfeedback
 kwallet
 kwallet-pam
@@ -1528,6 +1522,7 @@ mdadm
 media-player-info
 mediainfo
 memstrack
+mercurial
 mesa
 mesa-demos
 mesa-utils
@@ -1576,6 +1571,7 @@ multimc-bin
 multipath-tools
 mypaint-brushes1
 nano
+nasm
 navi
 ncompress
 ncurses
@@ -1769,7 +1765,6 @@ plasma-activities-stats
 plasma-browser-integration
 plasma-desktop
 plasma-disks
-plasma-framework5
 plasma-integration
 plasma-nm
 plasma-pa
@@ -1779,7 +1774,6 @@ plasma-thunderbolt
 plasma-vault
 plasma-workspace
 plasma5-integration
-plasma5-wallpapers-wallpaper-engine
 plasma5support
 plasma6-applets-window-title
 plasmatube
@@ -2385,9 +2379,7 @@ signon-ui
 signond
 simplescreenrecorder
 sing-box
-sing-geoip-common
 sing-geoip-db
-sing-geosite-common
 sing-geosite-db
 skim
 slang
@@ -2597,6 +2589,10 @@ vulkan-mesa-layers
 vulkan-tools
 vulkan-virtio
 w3m
+wasi-compiler-rt
+wasi-libc
+wasi-libc++
+wasi-libc++abi
 wavpack
 waydroid
 waydroid-image-gapps
