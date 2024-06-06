@@ -12,6 +12,7 @@ activitywatch-bin
 adobe-source-code-pro-fonts
 adwaita-cursors
 adwaita-icon-theme
+adwaita-icon-theme-legacy
 aegisub
 aha
 akonadi-contacts
@@ -199,6 +200,9 @@ cronie
 cryptsetup
 cubeb-git
 cuda
+cups
+cups-browsed
+cups-filters
 cups-pk-helper
 curl
 cyrus-sasl-gssapi
@@ -364,7 +368,7 @@ fuse-overlayfs
 fuse2
 fuse3
 fuseiso
-futuresql-qt6
+futuresql
 fzf
 gamemode
 gamescope
@@ -1096,6 +1100,7 @@ libcpuid
 libcss
 libcue
 libcups
+libcupsfilters
 libcurl-compat
 libcurl-gnutls
 libdaemon
@@ -1308,6 +1313,7 @@ libpng
 libpng12
 libportal
 libportal-gtk3
+libppd
 libproxy
 libpsl
 libpulse
@@ -1492,6 +1498,7 @@ lua
 lua-alt-getopt
 lua-filesystem
 lua51
+lua51-lpeg
 lua51-socket
 lua52
 lua53
@@ -1561,6 +1568,7 @@ mpfr
 mpg123
 mplayer
 mpv
+mpv-mpris
 mpvqt
 msgpack-c
 mtdev
@@ -1798,6 +1806,7 @@ potrace
 powerdevil
 poxml
 ppp
+print-manager
 prismlauncher-git
 prison
 prison5
@@ -2214,10 +2223,12 @@ qemu-user-static
 qemu-vhost-user-gpu
 qgpgme-qt6
 qhull
+qpdf
 qqc2-breeze-style
 qqc2-desktop-style
 qrencode
 qsstv
+qt-sudo
 qt-virt-manager
 qt5-3d
 qt5-base
@@ -2452,9 +2463,9 @@ tailscale
 talloc
 tar
 tcl
-tcping
+tcping-go
 tdb
-telegram-desktop-megumifox
+telegram-desktop
 telly-skout
 tevent
 texinfo
@@ -2599,6 +2610,7 @@ waydroid-image-gapps
 wayland
 wayland-protocols
 wayland-utils
+waylyrics
 webkit2gtk
 webkit2gtk-4.1
 webrtc-audio-processing
@@ -2653,6 +2665,7 @@ woff2-misans-tibetan
 wolfssl
 wpa_supplicant
 wpebackend-fdo
+writerside-eap
 wxwidgets-common
 wxwidgets-gtk3
 x11-ssh-askpass
@@ -2690,6 +2703,7 @@ xkeyboard-config
 xml2
 xmldiff
 xmlsec
+xmlstarlet
 xorg-bdftopcf
 xorg-font-util
 xorg-fonts-100dpi
