@@ -20,7 +20,6 @@ akonadi-contacts
 akonadi-mime
 alist-bin
 alligator
-alpm_octopi_utils
 alsa-card-profiles
 alsa-lib
 alsa-plugins
@@ -1644,7 +1643,6 @@ oath-toolkit
 obs-studio
 ocean-sound-theme
 ocl-icd
-octopi
 odt2txt
 okular
 onedrive-abraunegg
@@ -1703,7 +1701,6 @@ p11-kit
 p7zip
 p8-platform
 pacman
-pacman-contrib
 pacman-mirrorlist
 pacman-static
 pahole
@@ -2234,7 +2231,6 @@ qqc2-breeze-style
 qqc2-desktop-style
 qrencode
 qsstv
-qt-sudo
 qt-virt-manager
 qt5-3d
 qt5-base

@@ -20,7 +20,6 @@ akonadi-contacts 24.05.0-1
 akonadi-mime 24.05.0-1
 alist-bin 3.35.0-1
 alligator 24.05.0-1
-alpm_octopi_utils 1.0.2-8
 alsa-card-profiles 1:1.0.7-2
 alsa-lib 1.2.11-1
 alsa-plugins 1:1.2.7.1-2
@@ -29,7 +28,7 @@ alsa-ucm-conf 1.2.11-1
 amd-ucode 20240510.b9d2bf23-1
 analitza 24.05.0-1
 android-sdk-platform-tools 35.0.1-1
-android-studio-canary 2024.1.2.4-1
+android-studio-canary 2024.1.2.5-1
 android-udev 20240221-1
 anthy 9100h-6
 antimicrox 3.4.0-1
@@ -87,7 +86,7 @@ base-ex-cli 0.4.1-1
 base16 20170923-1
 base91 0.6.0-6
 bash 5.2.026-2
-bash-completion 2.14.0-1
+bash-completion 2.14.0-2
 bash2048 1.0-1
 bashtop 0.9.25-1
 bat 0.24.0-2
@@ -172,7 +171,7 @@ clash-meta-alpha-git 2024060721.0d4e57cb-1
 classicube-git 1.3.6.r463.g90a20b207-1
 clinfo 3.0.23.01.25-1
 clion 1:2024.1.2-1
-cloudflared 2024.4.0-1
+cloudflared 2024.6.0-1
 cloudflarespeedtest 2.2.5-2
 clpeak 1.1.2-1
 clucene 2.3.3.4-14
@@ -334,7 +333,7 @@ filesystem 2024.04.07-1
 findutils 4.10.0-1
 fio 3.37-2
 firefox-appmenu 112.0.2-2
-firefox-nightly-zh-cn 128.0a1.20240607.12-1
+firefox-nightly-zh-cn 128.0a1.20240607.23-1
 firefox-pwa 2.12.1-1
 fish 3.7.1-2
 flac 1.4.3-1
@@ -1204,7 +1203,7 @@ libimobiledevice-glue 1.2.0-1
 libindi 2.0.8-1
 libindicator-gtk2 12.10.1-10
 libinih 58-1
-libinput 1.25.0-1
+libinput 1.26.0-1
 libinstpatch 1.1.6-2
 libiptcdata 1.0.5-3
 libirecovery 1.2.0-1
@@ -1255,7 +1254,7 @@ libmaxminddb 1.9.1-1
 libmbim 1.30.0-1
 libmd 1.1.0-1
 libmediaart 1.9.6-2
-libmediainfo 24.04-1
+libmediainfo 24.05-1
 libmfx 23.2.2-3
 libmgba 0.10.3-1
 libmicrodns 0.2.0-1
@@ -1532,7 +1531,7 @@ md4c 0.5.2-1
 mda.lv2 1.2.10-1
 mdadm 4.3-2
 media-player-info 24-2
-mediainfo 24.04-1
+mediainfo 24.05-1
 memstrack 0.2.2-1
 mercurial 6.7.3-1
 mesa 1:24.1.1-1
@@ -1619,7 +1618,7 @@ nodejs-nopt 7.2.0-1
 nodejs-whistle 2.9.72-1
 noto-color-emoji-fontconfig 1.0.0-2
 noto-fonts 1:24.6.1-1
-noto-fonts-cjk 20230817-1
+noto-fonts-cjk 20230817-2
 noto-fonts-emoji 1:2.042-1
 noto-fonts-emoji-blob 1:15.0-1
 noto-fonts-extra 1:24.6.1-1
@@ -1644,7 +1643,6 @@ oath-toolkit 2.6.11-2
 obs-studio 30.1.2-1
 ocean-sound-theme 6.0.5-1
 ocl-icd 2.3.2-1
-octopi 0.16.0-1
 odt2txt 0.5-5
 okular 24.05.0-1
 onedrive-abraunegg 2.4.25-1
@@ -1703,7 +1701,6 @@ p11-kit 0.25.3-1
 p7zip 1:17.05-2
 p8-platform 2.1.0.1-4
 pacman 6.1.0-5
-pacman-contrib 1.10.6-1
 pacman-mirrorlist 20231001-1
 pacman-static 6.1.0-22
 pahole 1:1.26-2
@@ -1786,7 +1783,7 @@ plasma-sdk 6.0.5-1
 plasma-systemmonitor 6.0.5-1
 plasma-thunderbolt 6.0.5-1
 plasma-vault 6.0.5-1
-plasma-workspace 6.0.5.1-1
+plasma-workspace 6.0.5.1-2
 plasma5-integration 6.0.5-1
 plasma5support 6.0.5-1
 plasma6-applets-window-title 1:0.5-2
@@ -1956,7 +1953,7 @@ python-jieba 0.42.1-7
 python-jinja 1:3.1.4-1
 python-jsmin 3.0.1-3
 python-jsonpointer 2.4-2
-python-jsonschema 4.21.1-3
+python-jsonschema 4.22.0-1
 python-jsonschema-specifications 2023.12.1-2
 python-kaitaistruct 0.10-4
 python-keyring 25.2.1-1
@@ -2229,12 +2226,11 @@ qemu-user-static 9.0.0-1
 qemu-vhost-user-gpu 9.0.0-1
 qgpgme-qt6 1.23.2-4
 qhull 2020.2-4
-qpdf 11.9.0-1
+qpdf 11.9.1-1
 qqc2-breeze-style 6.0.5-1
 qqc2-desktop-style 6.2.0-1
 qrencode 4.1.1-2
 qsstv 9.5.8-3
-qt-sudo 2.0.1-1
 qt-virt-manager 0.72.99-4.5
 qt5-3d 5.15.14-1
 qt5-base 5.15.14+kde+r141-1
@@ -2706,7 +2702,7 @@ xf86-input-evdev 2.10.6-4
 xf86-input-libinput 1.4.0-1
 xf86-input-synaptics 1.9.2-1
 xf86-input-void 1.4.2-1
-xkeyboard-config 2.41-1
+xkeyboard-config 2.42-1
 xml2 0.5-1
 xmldiff 2.6.3-3
 xmlsec 1.3.4-1
