@@ -687,7 +687,6 @@ kfind 24.05.0-1
 kfourinline 24.05.0-1
 kgamma 6.0.5-1
 kgeography 24.05.0-1
-kget 24.05.0-1
 kglobalaccel 6.2.0-1
 kglobalaccel5 5.116.0-1
 kglobalacceld 6.0.5-1
@@ -758,7 +757,6 @@ knavalbattle 24.05.0-1
 knetwalk 24.05.0-1
 knewstuff 6.2.0-1
 knewstuff5 5.116.0-1
-knights 24.05.0-1
 knotifications 6.2.0-1
 knotifications5 5.116.0-1
 knotifyconfig 6.2.0-1
@@ -780,7 +778,6 @@ kpat 24.05.0-1
 kpeople 6.2.0-1
 kpimtextedit 24.05.0-1
 kpipewire 6.0.5-1
-kplotting 6.2.0-1
 kplotting5 5.116.0-1
 kpmcore 24.05.0-1
 kpty 6.2.0-1
@@ -820,7 +817,6 @@ ktexttemplate 6.2.0-1
 ktextwidgets 6.2.0-1
 ktextwidgets5 5.116.0-1
 ktimer 24.05.0-1
-ktorrent 24.05.0-1
 ktouch 24.05.0-1
 ktrip 24.05.0-1
 ktuberling 24.05.0-1
@@ -1233,7 +1229,6 @@ libkomparediff2 24.05.0-1
 libksba 1.6.6-1
 libkscreen 6.0.5-1
 libksysguard 6.0.5-1
-libktorrent 24.05.0-1
 liblangtag 0.6.7-1
 liblc3 1.1.1-1
 libldac 2.0.2.3-1
@@ -1696,7 +1691,6 @@ otf-misans-myanmar 4.003-2
 otf-misans-tc 4.003-2
 otf-misans-thai 4.003-2
 otf-misans-tibetan 4.003-2
-otf-smiley-sans-bin 2.0.1-1
 p11-kit 0.25.3-1
 p7zip 1:17.05-2
 p8-platform 2.1.0.1-4

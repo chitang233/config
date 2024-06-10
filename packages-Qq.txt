@@ -687,7 +687,6 @@ kfind
 kfourinline
 kgamma
 kgeography
-kget
 kglobalaccel
 kglobalaccel5
 kglobalacceld
@@ -758,7 +757,6 @@ knavalbattle
 knetwalk
 knewstuff
 knewstuff5
-knights
 knotifications
 knotifications5
 knotifyconfig
@@ -780,7 +778,6 @@ kpat
 kpeople
 kpimtextedit
 kpipewire
-kplotting
 kplotting5
 kpmcore
 kpty
@@ -820,7 +817,6 @@ ktexttemplate
 ktextwidgets
 ktextwidgets5
 ktimer
-ktorrent
 ktouch
 ktrip
 ktuberling
@@ -1233,7 +1229,6 @@ libkomparediff2
 libksba
 libkscreen
 libksysguard
-libktorrent
 liblangtag
 liblc3
 libldac
@@ -1696,7 +1691,6 @@ otf-misans-myanmar
 otf-misans-tc
 otf-misans-thai
 otf-misans-tibetan
-otf-smiley-sans-bin
 p11-kit
 p7zip
 p8-platform
