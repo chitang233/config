@@ -999,9 +999,9 @@ lib32-ncurses5-compat-libs 6.4-1
 lib32-nettle 3.9.1-1
 lib32-nspr 4.35-2
 lib32-nss 3.100-1
-lib32-nvidia-utils 550.78-2
+lib32-nvidia-535xx-utils 535.183.01-1
 lib32-openal 1.23.1-1
-lib32-opencl-nvidia 550.78-2
+lib32-opencl-nvidia-535xx 535.183.01-1
 lib32-openssl 1:3.3.1-1
 lib32-openssl-1.1 1.1.1.w-1
 lib32-opus 1.5.2-1
@@ -1448,7 +1448,7 @@ libxklavier 5.4-5
 libxml2 2.12.7-1
 libxmlb 0.3.19-1
 libxmu 1.2.1-1
-libxnvctrl 550.78-1
+libxnvctrl-535xx 535.183.01-1
 libxpm 3.5.17-1
 libxpresent 1.0.1-1
 libxrandr 1.5.4-1
@@ -1626,10 +1626,10 @@ nss-mdns 0.15.1-1
 ntfs-3g 2022.10.3-1
 numactl 2.0.18-1
 nvclock 0.8b4-4
-nvidia-dkms 550.78-1
+nvidia-535xx-dkms 535.183.01-1
+nvidia-535xx-settings 535.183.01-1
+nvidia-535xx-utils 535.183.01-1
 nvidia-prime 1.0-4
-nvidia-settings 550.78-1
-nvidia-utils 550.78-1
 nvidia-vaapi-driver-git 0.0.12.r11.gf3205bd-1
 nvtop 3.1.0-1
 nx-x11 3.5.99.27-3
@@ -1650,7 +1650,7 @@ openal 1.23.1-1
 openbsd-netcat 1.226_1-2
 opencc 1.1.7-2
 opencl-headers 2:2024.05.08-1
-opencl-nvidia 550.78-1
+opencl-nvidia-535xx 535.183.01-1
 opencolorio 2.3.2-2
 openconnect 1:9.12-1
 opencore-amr 0.1.6-1
