@@ -292,6 +292,7 @@ enca 1.19-5
 enchant 2.8.0-1
 enet 1.3.18-1
 erofs-utils 1.7.1-1
+esbuild 0.21.5-1
 eslint 9.4.0-1
 espeak-ng 1.51.1-2
 ethtool 1:6.9-1
@@ -2606,6 +2607,8 @@ wasi-compiler-rt 17.0.6-2
 wasi-libc 1:0+374+9e8c5423-1
 wasi-libc++ 17.0.6-1
 wasi-libc++abi 17.0.6-1
+wasm-bindgen 0.2.92-1
+wasm-pack 0.12.1-1
 wavpack 5.7.0-1
 waydroid 1.4.2-4
 waydroid-image-gapps 18.1_20240608-1
@@ -2665,8 +2668,11 @@ woff2-misans-tc 4.003-2
 woff2-misans-thai 4.003-2
 woff2-misans-tibetan 4.003-2
 wolfssl 5.7.0-1
+worker-build 0.0.10-1
+workerd 1.20240610.0-1
 wpa_supplicant 2:2.10-8
 wpebackend-fdo 1.14.2-1
+wrangler 3.60.2-1
 writerside-eap 241.15989.11-1
 wxwidgets-common 3.2.5-1
 wxwidgets-gtk3 3.2.5-1

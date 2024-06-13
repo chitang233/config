@@ -292,6 +292,7 @@ enca
 enchant
 enet
 erofs-utils
+esbuild
 eslint
 espeak-ng
 ethtool
@@ -2606,6 +2607,8 @@ wasi-compiler-rt
 wasi-libc
 wasi-libc++
 wasi-libc++abi
+wasm-bindgen
+wasm-pack
 wavpack
 waydroid
 waydroid-image-gapps
@@ -2665,8 +2668,11 @@ woff2-misans-tc
 woff2-misans-thai
 woff2-misans-tibetan
 wolfssl
+worker-build
+workerd
 wpa_supplicant
 wpebackend-fdo
+wrangler
 writerside-eap
 wxwidgets-common
 wxwidgets-gtk3
