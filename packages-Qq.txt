@@ -667,6 +667,7 @@ kdesdk-thumbnailers
 kdesu
 kdesu5
 kdf
+kdiagram
 kdiagram5
 kdialog
 kdiamond
