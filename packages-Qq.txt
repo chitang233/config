@@ -352,8 +352,6 @@ foomatic-db
 foomatic-db-nonfree
 foomatic-db-nonfree-ppds
 foomatic-db-ppds
-fpc
-fpc-src
 frameworkintegration
 frameworkintegration5
 freecell-solver
@@ -852,8 +850,6 @@ ladspa
 lame
 lapack
 layer-shell-qt
-lazarus
-lazarus-qt6
 lcms2
 ldb
 ldns
@@ -1156,7 +1152,6 @@ libfontenc
 libfreeaptx
 libfreehand
 libftdi
-libgbinder
 libgcrypt
 libgcrypt15
 libgdata
@@ -1171,7 +1166,6 @@ libgig
 libgirepository
 libgit2
 libgksu
-libglibutil
 libglvnd
 libgme
 libgnome-keyring
@@ -1915,7 +1909,6 @@ python-fonttools
 python-fqdn
 python-frozenlist
 python-fsspec
-python-gbinder
 python-ghp-import
 python-glfw
 python-gobject
@@ -2143,6 +2136,7 @@ python-yarl
 python-yubico
 python-zope-interface
 python-zstandard
+python311
 qalculate-qt
 qbittorrent-enhanced
 qbittorrent-vuetorrent-bin
@@ -2611,8 +2605,6 @@ wasi-libc++abi
 wasm-bindgen
 wasm-pack
 wavpack
-waydroid
-waydroid-image-gapps
 wayland
 wayland-protocols
 wayland-utils
@@ -2621,6 +2613,7 @@ webkit2gtk
 webkit2gtk-4.1
 webrtc-audio-processing
 webrtc-audio-processing-1
+webstorm
 weston
 wgcf-git
 wget
@@ -2802,7 +2795,6 @@ yubioath-desktop
 yuzu-early-access
 yyjson
 zbar
-zed
 zenity
 zeromq
 zerotier-gui-git
