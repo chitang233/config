@@ -493,7 +493,6 @@ gtk-vnc
 gtk2
 gtk3
 gtk4
-gtkmm
 gtkmm3
 gtksourceview3
 gtksourceview4
@@ -1604,7 +1603,6 @@ nfsidmap
 nftables
 nilfs-utils
 ninja
-nitrogen
 nmap
 nnn
 node-gyp
