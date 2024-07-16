@@ -37,10 +37,11 @@ appmenu-gtk-module
 appstream
 appstream-qt
 appstream-qt5
+apr
+apr-util
 arch-install-scripts
 archlinux-java-run
 archlinux-keyring
-archlinuxcn-keyring
 ares-decrypt
 argon2
 aria2-fast
@@ -78,7 +79,6 @@ bandwhich
 base
 base-devel
 base-ex-cli
-base16
 base91
 bash
 bash-completion
@@ -111,6 +111,7 @@ breeze-grub
 breeze-gtk
 breeze-icons
 breeze5
+breezy
 bridge-utils
 brltty
 brotli
@@ -157,7 +158,6 @@ ciphey
 cjson
 clang
 clash-geoip
-clash-meta-alpha-git
 classicube-git
 clinfo
 cloudflared
@@ -181,7 +181,6 @@ convertlit
 copyq
 coreutils
 cpio
-cpp-httplib
 cppdap
 cpu-g-git
 cpu-x
@@ -189,7 +188,6 @@ cpupower-gui
 cracklib
 cronie
 cryptsetup
-cubeb-git
 cuda
 cups
 cups-browsed
@@ -215,14 +213,13 @@ default-cursors
 desktop-file-utils
 desmume
 device-mapper
+devtools
 dhcpcd
 dialog
 diffutils
 ding-libs
 discord
-discord-rpc-git
 discount
-discover-overlay
 distrobox
 djvulibre
 dkms
@@ -255,7 +252,6 @@ duf
 duktape
 dump_syms
 dust
-dynarmic
 e2fsprogs
 easyeffects
 ebook-tools
@@ -308,14 +304,14 @@ ffmpeg4.4
 ffmpegthumbnailer
 ffmpegthumbs
 ffms2
+ffnvcodec-headers
 fftw
 file
 filelight
 filesystem
 findutils
 fio
-firefox-appmenu
-firefox-nightly-zh-cn
+firefox-nightly-bin
 firefox-pwa
 fish
 flac
@@ -1262,9 +1258,11 @@ libusb
 libusb-compat
 libusbmuxd
 libutempter
+libutf8proc
 libuv
 libva
 libva-mesa-driver
+libva-nvidia-driver-git
 libva-utils
 libvdpau
 libverto
@@ -1400,9 +1398,11 @@ mesa
 mesa-demos
 mesa-utils
 mesa-vdpau
+meson
 mgba-qt
 mgba-sdl
 microsoft-edge-beta-bin
+mihomo
 milou
 mimetreeparser
 mindustry
@@ -1493,7 +1493,6 @@ nvidia-535xx-dkms
 nvidia-535xx-settings
 nvidia-535xx-utils
 nvidia-prime
-nvidia-vaapi-driver-git
 nvtop
 nx-x11
 nxagent
@@ -1564,6 +1563,7 @@ pambase
 pango
 pangomm
 papirus-icon-theme
+parallel
 parsec-bin
 parted
 partitionmanager
@@ -1720,6 +1720,7 @@ python-cipheydists
 python-cleo
 python-click
 python-colorama
+python-configobj
 python-contourpy
 python-coverage
 python-crashtest
@@ -1748,6 +1749,7 @@ python-execnet
 python-executing
 python-faker
 python-fastapi
+python-fastbencode
 python-fastimport
 python-fastjsonschema
 python-fastpbkdf2
@@ -1815,6 +1817,7 @@ python-matplotlib-inline
 python-mccabe
 python-mdurl
 python-mdx-gh-links
+python-merge3
 python-mergedeep
 python-mitmproxy-rs
 python-mock
@@ -1838,6 +1841,7 @@ python-paramiko
 python-parso
 python-passlib
 python-pathspec
+python-patiencediff
 python-pbr
 python-pexpect
 python-pickleshare
@@ -1857,8 +1861,6 @@ python-proxy_tools
 python-psutil
 python-ptyprocess
 python-publicsuffix2
-python-pulsectl
-python-pulsectl-asyncio
 python-pure-eval
 python-py-cpuinfo
 python-pyaes
@@ -1955,6 +1957,7 @@ python-trove-classifiers
 python-typeguard
 python-typing_extensions
 python-typing_inspect
+python-tzlocal
 python-uc-micro-py
 python-ujson
 python-unidecode
@@ -1967,14 +1970,12 @@ python-virtualenv
 python-watchdog
 python-wcwidth
 python-webencodings
-python-websocket-client
 python-websockets
 python-werkzeug
 python-wheel
 python-wsproto
 python-wxpython
 python-xcffib
-python-xlib
 python-xmltodict
 python-yaml
 python-yarl
@@ -2217,6 +2218,7 @@ seatd
 sed
 semver
 serd
+serf
 sfml
 sgml-common
 shaderc
@@ -2275,9 +2277,11 @@ stella
 stk
 stoken
 strace
+subversion
 sudo
 suil
 suitesparse
+suyu-bin
 svgpart
 svt-av1
 svt-hevc
@@ -2618,7 +2622,6 @@ yubikey-manager-qt
 yubikey-personalization
 yubikey-personalization-gui
 yubioath-desktop
-yuzu-early-access
 yyjson
 zbar
 zenity
@@ -2640,6 +2643,4 @@ zulu-17-bin
 zulu-jdk-fx-bin
 zvbi
 zxing-cpp
-zycore-c
-zydis
 zziplib
