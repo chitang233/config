@@ -175,7 +175,6 @@ colord
 colord-kde
 compiler-rt
 compsize
-confuse
 containerd
 convertlit
 copyq
@@ -268,7 +267,6 @@ elfutils
 elinks
 elisa
 ell
-enca
 enchant
 enet
 erofs-utils
@@ -1028,7 +1026,6 @@ libfido2
 libfontenc
 libfreeaptx
 libfreehand
-libftdi
 libgcrypt
 libgcrypt15
 libgdata
@@ -1328,7 +1325,6 @@ libxss
 libxt
 libxtst
 libxv
-libxvmc
 libxxf86vm
 libyaml
 libyuv
@@ -1345,7 +1341,6 @@ linux-steam-integration
 linux-wifi-hotspot
 linux-zen
 linux-zen-headers
-lirc
 live-media
 lksctp-tools
 lld
@@ -1433,7 +1428,6 @@ mosh
 mpdecimal
 mpfr
 mpg123
-mplayer
 mpv
 mpv-mpris
 msgpack-c
@@ -2167,7 +2161,6 @@ rclone
 rclone-browser
 re2
 readline
-recode
 redis
 redland
 reiserfsprogs
