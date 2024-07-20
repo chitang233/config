@@ -374,7 +374,7 @@ giflib
 gimp
 git
 git-completion
-git-credential-manager-core-bin
+git-credential-manager-bin
 git-crypt
 git-lfs
 github-cli
@@ -956,6 +956,8 @@ libbs2b
 libbsd
 libburn
 libbytesize
+libc++
+libc++abi
 libcaca
 libcacard
 libcamera
@@ -1380,8 +1382,6 @@ marisa
 markdownpart
 mbedtls
 mbedtls2
-mcpelauncher-linux-git
-mcpelauncher-msa-ui-qt-git
 md4c
 mda.lv2
 mdadm
