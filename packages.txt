@@ -42,6 +42,7 @@ apr-util 1.6.3-1
 arch-install-scripts 28-2
 archlinux-java-run 10-2
 archlinux-keyring 20240709-1
+archlinuxcn-keyring 20240531-1
 ares-decrypt 0.10.0-1
 argon2 20190702-5
 aria2-fast 1.37.0-2

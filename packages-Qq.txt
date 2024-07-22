@@ -42,6 +42,7 @@ apr-util
 arch-install-scripts
 archlinux-java-run
 archlinux-keyring
+archlinuxcn-keyring
 ares-decrypt
 argon2
 aria2-fast
