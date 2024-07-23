@@ -252,6 +252,7 @@ duf
 duktape
 dump_syms
 dust
+dvisvgm
 e2fsprogs
 easyeffects
 ebook-tools
@@ -298,6 +299,7 @@ fcitx5-pinyin-zhwiki
 fcitx5-qt
 fd
 feh
+ffcall
 ffmpeg
 ffmpeg4.4
 ffmpegthumbnailer
@@ -312,7 +314,6 @@ findutils
 fio
 firefox-nightly-bin
 firefox-pwa
-fish
 flac
 flake8
 flatpak-xdg-utils
@@ -1029,6 +1030,7 @@ libfido2
 libfontenc
 libfreeaptx
 libfreehand
+libgbinder
 libgcrypt
 libgcrypt15
 libgdata
@@ -1039,6 +1041,7 @@ libgig
 libgirepository
 libgit2
 libgksu
+libglibutil
 libglvnd
 libgme
 libgnome-keyring
@@ -1208,6 +1211,7 @@ libsecret
 libshout
 libsigc++
 libsigc++-3.0
+libsigsegv
 libsixel
 libslirp
 libsm
@@ -1227,6 +1231,7 @@ libssh
 libssh2
 libstaroffice
 libstemmer
+libsynctex
 libsysprof-capture
 libtar
 libtasn1
@@ -1262,7 +1267,6 @@ libutf8proc
 libuv
 libva
 libva-mesa-driver
-libva-nvidia-driver-git
 libva-utils
 libvdpau
 libverto
@@ -1488,6 +1492,7 @@ nvidia-535xx-dkms
 nvidia-535xx-settings
 nvidia-535xx-utils
 nvidia-prime
+nvidia-vaapi-driver-git
 nvtop
 nx-x11
 nxagent
@@ -1734,6 +1739,7 @@ python-dirty-equals
 python-distlib
 python-distro
 python-docopt
+python-docutils
 python-dotenv
 python-dulwich
 python-editables
@@ -1755,6 +1761,7 @@ python-fonttools
 python-fqdn
 python-frozenlist
 python-fsspec
+python-gbinder
 python-ghp-import
 python-glfw
 python-gobject
@@ -1775,6 +1782,7 @@ python-huggingface-hub
 python-hyperframe
 python-hypothesis
 python-idna
+python-imagesize
 python-inflect
 python-iniconfig
 python-installer
@@ -1934,8 +1942,17 @@ python-shellingham
 python-shiboken2
 python-six
 python-sniffio
+python-snowballstemmer
 python-sortedcontainers
 python-soupsieve
+python-sphinx
+python-sphinx-alabaster-theme
+python-sphinxcontrib-applehelp
+python-sphinxcontrib-devhelp
+python-sphinxcontrib-htmlhelp
+python-sphinxcontrib-jsmath
+python-sphinxcontrib-qthelp
+python-sphinxcontrib-serializinghtml
 python-stack-data
 python-starlette
 python-telethon
@@ -2303,6 +2320,12 @@ tdb
 telegram-desktop
 tevent
 texinfo
+texlive-basic
+texlive-bin
+texlive-latex
+texlive-latexextra
+texlive-latexrecommended
+texlive-pictures
 thin-provisioning-tools
 threadweaver
 threadweaver5
@@ -2435,6 +2458,9 @@ wasi-libc++abi
 wasm-bindgen
 wasm-pack
 wavpack
+waydroid
+waydroid-image-gapps
+waydroid-magisk
 wayland
 wayland-protocols
 wayland-utils
