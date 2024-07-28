@@ -531,6 +531,7 @@ iputils
 ipython
 iso-codes
 iw
+jadx
 jansson
 jasper
 java-environment-common
