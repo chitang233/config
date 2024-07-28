@@ -30,7 +30,7 @@ android-udev 20240625-1
 anthy 9100h-6
 antimicrox 3.4.0-1
 aom 3.9.1-1
-aosp-devel 0.10-1
+aosp-devel 0.11-1
 apparmor 3.1.7-2
 appimagelauncher 2.2.0-8
 appmenu-gtk-module 24.05-1
@@ -62,7 +62,7 @@ attica 6.4.0-1
 attica5 5.116.0-1
 attr 2.5.2-1
 aubio 0.4.9-19
-audacity 1:3.6.0-1
+audacity 1:3.6.1-1
 audiocd-kio 24.05.2-1
 audiofile 0.3.6-9
 audit 4.0.1-3
@@ -125,7 +125,7 @@ busybox 1.36.1-2
 bzip2 1.0.8-6
 c-ares 1.29.0-1
 ca-certificates 20240618-1
-ca-certificates-mozilla 3.102-1
+ca-certificates-mozilla 3.102.1-1
 ca-certificates-utils 20240618-1
 cabextract 1.11-2
 cachyos-keyring 20240331-1
@@ -145,8 +145,8 @@ cbonsai 1.3.1-3
 ccache 4.10-2
 ccid 1.5.5-1
 cdparanoia 10.2-9
-cdrtools 3.02a09-5
-cemu 2.0.602+really+2.0.86-1
+cdrtools 3.02a09-6
+cemu 2.0.620+really+2.0.90-1
 cfitsio 1:4.4.1-1
 chafa 1.14.1-1
 checkra1n-cli 0.12.4-3
@@ -157,7 +157,7 @@ chromium 127.0.6533.72-1
 cifs-utils 7.0-4
 ciphey 5.14.0-7
 cjson 1.7.18-1
-clang 18.1.8-1
+clang 18.1.8-2
 clash-geoip 202407250105-1
 classicube-git 1.3.6.r463.g90a20b207-1
 clinfo 3.0.23.01.25-1
@@ -195,8 +195,7 @@ cups-filters 2.0.0-2
 cups-pk-helper 0.2.7-2
 curl 8.9.0-1
 cyrus-sasl-gssapi 2.1.28-3
-dae 0.8.0rc1-1
-daed 0.7.0rc1.1-1
+daed 0.7.0rc1.1-2
 darling-bin 0.1.20230310-1
 dav1d 1.4.3-1
 db5.3 5.3.28-5
@@ -239,7 +238,7 @@ docker-scan 0.26.0-2
 doctl 1.110.0-1
 dog 0.1.0-5
 dolphin 24.05.2-1
-dolphin-emu 1:5.0.r21582.c8ea116658-2
+dolphin-emu 1:2407-1
 dolphin-plugins 24.05.2-1
 dosbox 0.74.3-3
 dosfstools 4.2-4
@@ -273,7 +272,7 @@ enchant 2.8.0-1
 enet 1.3.18-1
 erofs-utils 1.7.1-1
 esbuild 0.23.0-1
-eslint 9.7.0-1
+eslint 9.8.0-1
 espeak-ng 1.51.1-4
 ethtool 1:6.9-1
 exempi 2.6.5-1
@@ -286,7 +285,7 @@ f2fs-tools 1.16.0-3
 faac 1.30-5
 faad2 2.11.1-1
 fakeroot 1.35-1
-fastfetch 2.19.1-1
+fastfetch 2.20.0-1
 fcitx5 5.1.10-1
 fcitx5-anthy 5.1.4-1
 fcitx5-chinese-addons 5.1.6-1
@@ -304,7 +303,7 @@ ffmpeg 2:7.0.1-2
 ffmpeg4.4 4.4.4-6
 ffmpegthumbnailer 2.2.2-6
 ffmpegthumbs 24.05.2-1
-ffms2 5.0RC4-1
+ffms2 5.0-1
 ffnvcodec-headers 12.2.72.0-1
 fftw 3.3.10-7
 file 5.45-1
@@ -386,7 +385,7 @@ glew 2.2.0-7
 glew1.10 1.10.0-4
 glfw 3.4-2
 glhack 1.2-11
-glib-networking 1:2.80.0-2
+glib-networking 1:2.80.0-3
 glib2 2.80.4-1
 glib2-docs 2.80.4-1
 glibc 2.40-1
@@ -437,10 +436,11 @@ grep 3.11-1
 grilo 0.3.16-1
 grilo-plugins 1:0.3.16-1
 groff 1.23.0-6
-grpc 1.65.1-1
+grpc 1.65.2-1
 grub 2:2.12-2
 grub-btrfs 4.13-2
-gsettings-desktop-schemas 46.1-1
+gsettings-desktop-schemas 46.1-2
+gsettings-system-schemas 46.1-2
 gsfonts 20200910-4
 gsl 2.8-1
 gsm 1.0.22-2
@@ -878,7 +878,7 @@ lib32-ncurses 6.5-1
 lib32-ncurses5-compat-libs 6.4-1
 lib32-nettle 3.10-1
 lib32-nspr 4.35-3
-lib32-nss 3.102-1
+lib32-nss 3.102.1-1
 lib32-nvidia-535xx-utils 535.183.01-1
 lib32-openal 1.23.1-1
 lib32-opencl-nvidia-535xx 535.183.01-1
@@ -1399,10 +1399,10 @@ mesa 1:24.1.4-2
 mesa-demos 9.0.0-4
 mesa-utils 9.0.0-4
 mesa-vdpau 1:24.1.4-2
-meson 1.5.0-1
+meson 1.5.1-1
 mgba-qt 0.10.3-2
 mgba-sdl 0.10.3-2
-microsoft-edge-beta-bin 127.0.2651.61-1
+microsoft-edge-beta-bin 127.0.2651.74-1
 mihomo 1.18.6-1
 milou 6.1.3-1
 mimetreeparser 24.05.2-1
@@ -1484,7 +1484,7 @@ npm 10.8.2-1
 npm-check-updates 16.14.20-1
 npth 1.7-1
 nspr 4.35-3
-nss 3.102-1
+nss 3.102.1-1
 nss-mdns 0.15.1-2
 ntfs-3g 2022.10.3-1
 numactl 2.0.18-1
@@ -1498,7 +1498,7 @@ nvtop 3.1.0-1
 nx-x11 3.5.99.27-3
 nxagent 3.5.99.27-3
 oath-toolkit 2.6.11-2
-obs-studio 30.1.2-2
+obs-studio 30.2.1-1
 ocean-sound-theme 6.1.3-1
 ocl-icd 2.3.2-2
 odt2txt 0.5-6
@@ -1523,7 +1523,7 @@ openexr 3.2.4-1
 openfec 1.4.2.9-2
 openjade 1.3.2-8
 openjpeg2 2.5.2-1
-openmpi 5.0.4-1
+openmpi 5.0.5-1
 openpmix 5.0.3-1
 openrgb 0.9-3
 openslide 4.0.0-4
@@ -1832,7 +1832,7 @@ python-multidict 6.0.5-2
 python-mutagen 1.47.0-2
 python-mypy_extensions 1.0.0-4
 python-notify2 0.3.1-10
-python-numpy 2.0.0-1
+python-numpy 2.0.1-1
 python-objgraph 3.6.1-3
 python-olefile 0.47-2
 python-opencv 4.10.0-3
@@ -1908,7 +1908,7 @@ python-pyscard 2.0.8-2
 python-pyserial 3.5-6
 python-pysmbc 1.0.25.1-3
 python-pysocks 1.7.1-9
-python-pytest 1:8.3.1-1
+python-pytest 1:8.3.2-1
 python-pytest-aiohttp 1.0.5-3
 python-pytest-asyncio 0.23.7-1
 python-pytest-benchmark 4.0.0-6
@@ -2115,7 +2115,7 @@ qt5-translations 5.15.14-1
 qt5-virtualkeyboard 5.15.14-1
 qt5-wayland 5.15.14+kde+r58-1
 qt5-webchannel 5.15.14+kde+r3-1
-qt5-webengine 5.15.17-5
+qt5-webengine 5.15.17-6
 qt5-webglplugin 5.15.14-1
 qt5-webkit 5.212.0alpha4-26
 qt5-websockets 5.15.14+kde+r2-1
@@ -2158,7 +2158,7 @@ qt6-translations 6.7.2-1
 qt6-virtualkeyboard 6.7.2-1
 qt6-wayland 6.7.2-4
 qt6-webchannel 6.7.2-1
-qt6-webengine 6.7.2-1
+qt6-webengine 6.7.2-2
 qt6-websockets 6.7.2-1
 qt6-webview 6.7.2-1
 qt6pas 6.2.7-2
@@ -2244,7 +2244,7 @@ signond 8.61-3
 simplescreenrecorder 0.4.4-5
 sing-box 1.9.3-1
 sing-geoip-db 20240712-1
-sing-geosite-db 20240720181558-2
+sing-geosite-db 20240726161926-1
 skim 0.10.4-3
 slang 2.3.3-3
 smartmontools 7.4-2
@@ -2281,7 +2281,7 @@ srt 1.5.3-2
 sscg 3.0.5-2
 sshfs 3.7.3-2
 sssd 2.9.5-1
-starship 1.19.0-1
+starship 1.20.1-1
 startup-notification 0.12-8
 steam 1.0.0.79-2
 steam-native-runtime 1.0.0.75-4
@@ -2295,7 +2295,7 @@ suil 0.10.20-1
 suitesparse 7.7.0-2
 suyu-bin 0.0.3-1
 svgpart 24.05.2-1
-svt-av1 2.1.0-1
+svt-av1 2.1.2-1
 svt-hevc 1.5.1-3
 swtpm 0.8.2-1
 syncthing 1.27.9-1
@@ -2318,7 +2318,7 @@ tar 1.35-2
 tcl 8.6.14-4
 tcping-go 2.5.0-2
 tdb 1.4.10-3
-telegram-desktop 5.2.3-1
+telegram-desktop 5.2.3-2
 tevent 1:0.16.1-3
 texinfo 7.1-2
 texlive-basic 2024.2-2
@@ -2330,12 +2330,12 @@ texlive-pictures 2024.2-2
 thin-provisioning-tools 1.0.13-1
 threadweaver 6.4.0-1
 threadweaver5 5.116.0-1
-tigervnc 1.13.1-5
+tigervnc 1.14.0-1
 timeshift 24.06.3-1
 tinyxml 2.6.2-11
 tinyxml2 10.0.0-1
 tk 8.6.14-4
-tmux 3.4-9
+tmux 3.4-10
 toilet 0.3.r155.3eb9d58-3
 tomlplusplus 3.4.0-1
 tor 0.4.8.12-1
@@ -2406,11 +2406,12 @@ upower 1.90.4-1
 usbmuxd 1.1.1-4
 usbredir 0.13.0-1
 usbutils 017-1
+uthash 2.3.0-2
 util-linux 2.40.2-1
 util-linux-libs 2.40.2-1
 uudeck 2023.1.10.1600-3
 v2ray-domain-list-community 20240720181558-1
-v2ray-geoip 202407192357-1
+v2ray-geoip 202407250045-1
 v4l-utils 1.26.1-1
 v4l2loopback-dkms 0.13.2-1
 v4l2loopback-utils 0.13.2-1
@@ -2518,10 +2519,10 @@ woff2-misans-thai 4.003-2
 woff2-misans-tibetan 4.003-2
 wolfssl 5.7.2-1
 worker-build 0.0.10-1
-workerd 1.20240725.0-1
-wpa_supplicant 2:2.11-1
+workerd 1.20240726.0-1
+wpa_supplicant 2:2.11-2
 wpebackend-fdo 1.14.2-2
-wrangler 3.67.0-1
+wrangler 3.67.1-1
 wxwidgets-common 3.2.5-1
 wxwidgets-gtk3 3.2.5-1
 x11-ssh-askpass 1.2.4.1-8

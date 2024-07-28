@@ -195,7 +195,6 @@ cups-filters
 cups-pk-helper
 curl
 cyrus-sasl-gssapi
-dae
 daed
 darling-bin
 dav1d
@@ -441,6 +440,7 @@ grpc
 grub
 grub-btrfs
 gsettings-desktop-schemas
+gsettings-system-schemas
 gsfonts
 gsl
 gsm
@@ -2406,6 +2406,7 @@ upower
 usbmuxd
 usbredir
 usbutils
+uthash
 util-linux
 util-linux-libs
 uudeck
