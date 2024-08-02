@@ -1521,6 +1521,7 @@ opencv
 opendoas
 openexr
 openfec
+openh264
 openjade
 openjpeg2
 openmpi
