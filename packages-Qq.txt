@@ -10,6 +10,7 @@ acpi
 acpi_call-dkms
 acpid
 activitywatch-bin
+ada
 adobe-source-code-pro-fonts
 adwaita-cursors
 adwaita-icon-theme
