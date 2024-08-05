@@ -1,6 +1,6 @@
 a52dec 0.8.0-2
 aalib 1.4rc5-18
-abseil-cpp 20240116.2-2
+abseil-cpp 20240116.2-3
 accounts-qml-module 0.7-6
 accountsservice 23.13.9-2
 acl 2.3.2-1
@@ -63,7 +63,7 @@ attica 6.4.0-1
 attica5 5.116.0-1
 attr 2.5.2-1
 aubio 0.4.9-19
-audacity 1:3.6.1-1
+audacity 1:3.6.1-2
 audiocd-kio 24.05.2-1
 audiofile 0.3.6-9
 audit 4.0.1-3
@@ -82,7 +82,7 @@ base 3-2
 base-devel 1-1
 base-ex-cli 0.4.1-1
 base91 0.6.0-6
-bash 5.2.026-5
+bash 5.2.032-1
 bash-completion 2.14.0-2
 bash2048 1.0-1
 bashtop 0.9.25-2
@@ -93,7 +93,7 @@ bdf-unifont 15.1.04-1
 bdf-unifont-extra 15.1.05-1
 beep 1.4.12-2
 bind 9.20.0-1
-binutils 2.42+r195+g29ae8b8ea71-1
+binutils 2.42+r207+g8a6764d35e5-1
 bison 3.8.2-6
 blas 3.12.0-5
 bleachbit 4.6.0-2
@@ -126,7 +126,7 @@ busybox 1.36.1-2
 bzip2 1.0.8-6
 c-ares 1.29.0-1
 ca-certificates 20240618-1
-ca-certificates-mozilla 3.102.1-1
+ca-certificates-mozilla 3.103-1
 ca-certificates-utils 20240618-1
 cabextract 1.11-2
 cachyos-keyring 20240331-1
@@ -159,7 +159,7 @@ cifs-utils 7.0-4
 ciphey 5.14.0-7
 cjson 1.7.18-1
 clang 18.1.8-2
-clash-geoip 202408031940-1
+clash-geoip 202408032133-1
 classicube-git 1.3.6.r463.g90a20b207-1
 clinfo 3.0.23.01.25-1
 cloudflared 2024.7.1-1
@@ -184,7 +184,7 @@ coreutils 9.5-1
 cpio 2.15-1
 cppdap 1.58.0-2
 cpu-g-git 0.16.3.1ubuntu1.r83.83a9942-1
-cpu-x 5.0.4-5
+cpu-x 5.0.4-6
 cpupower-gui 1.0.0-5.3
 cracklib 2.10.1-1
 cronie 1.7.2-1
@@ -286,7 +286,7 @@ f2fs-tools 1.16.0-3
 faac 1.30-5
 faad2 2.11.1-1
 fakeroot 1.35-1
-fastfetch 2.20.0-1
+fastfetch 2.21.0-1
 fcitx5 5.1.10-1
 fcitx5-anthy 5.1.4-1
 fcitx5-chinese-addons 5.1.6-2
@@ -352,9 +352,9 @@ gamescope 3.14.24-1
 gavl 1.4.0-8
 gawk 5.3.0-1
 gc 8.2.6-1
-gcc 14.1.1+r309+gbb34b7eda1f-1
-gcc-libs 14.1.1+r309+gbb34b7eda1f-1
-gcc-objc 14.1.1+r309+gbb34b7eda1f-1
+gcc 14.2.1+r26+g14fa2b2ae7f-1
+gcc-libs 14.2.1+r26+g14fa2b2ae7f-1
+gcc-objc 14.2.1+r26+g14fa2b2ae7f-1
 gcc13 13.3.0-1
 gcc13-libs 13.3.0-1
 gconf 3.2.6+11+g07808097-11
@@ -369,6 +369,7 @@ gegl 0.4.48-4
 geoclue 2.7.1-3
 geoipupdate 7.0.1-1
 gettext 0.22.5-1
+gg 0.2.18-1
 ghex 46.0-1
 ghidra 11.0.3-1
 ghostscript 10.03.1-1
@@ -389,7 +390,7 @@ glhack 1.2-11
 glib-networking 1:2.80.0-3
 glib2 2.80.4-1
 glib2-docs 2.80.4-1
-glibc 2.40-1
+glibc 2.40+r16+gaa533d58ff-1
 glibmm 2.66.7-1
 glibmm-2.68 2.80.0-1
 glm 1.0.1-1
@@ -418,7 +419,7 @@ go 2:1.22.5-1
 go-musicfox-git 4.5.3.r23.gd7118ac-1
 gobject-introspection 1.80.1-3
 gobject-introspection-runtime 1.80.1-3
-gom 0.5.2-1
+gom 0.5.3-1
 goverlay-git 1.1.1.r10.g4cd2c3f-1
 gpart 0.3-5
 gparted 1.6.0-1
@@ -454,7 +455,7 @@ gst-plugins-base-libs 1.24.6-1
 gst-plugins-good 1.24.6-1
 gst-plugins-ugly 1.24.6-1
 gstreamer 1.24.6-1
-gtest 1.14.0-2
+gtest 1.15.2-1
 gtk-doc 1.34.0-1
 gtk-update-icon-cache 1:4.14.4-2
 gtk-vnc 1.3.1-1
@@ -496,7 +497,7 @@ hidapi 0.14.0-3
 highlight 4.12-1
 highway 1.2.0-1
 hiredis 1.2.0-2
-hmcl 3.5.8-1
+hmcl 3.5.9-1
 hostapd 2.10-4
 htop 3.3.0-3
 http-parser 2.9.4-2
@@ -757,14 +758,14 @@ lib32-freeglut 3.6.0-1
 lib32-freetype2 2.13.2-1
 lib32-fribidi 1.0.15-1
 lib32-gamemode 1.8.1-1
-lib32-gcc-libs 14.1.1+r309+gbb34b7eda1f-1
+lib32-gcc-libs 14.2.1+r26+g14fa2b2ae7f-1
 lib32-gdk-pixbuf2 2.42.12-1
 lib32-gettext 0.22.5-1
 lib32-giflib 5.2.2-1
 lib32-glew 2.2.0-4
 lib32-glew1.10 1.10.0-5
 lib32-glib2 2.80.4-1
-lib32-glibc 2.40-1
+lib32-glibc 2.40+r16+gaa533d58ff-1
 lib32-glslang 13.0.0-1
 lib32-glu 9.0.3-1
 lib32-gmp 6.3.0-1
@@ -879,7 +880,7 @@ lib32-ncurses 6.5-1
 lib32-ncurses5-compat-libs 6.4-1
 lib32-nettle 3.10-1
 lib32-nspr 4.35-3
-lib32-nss 3.102.1-1
+lib32-nss 3.103-1
 lib32-nvidia-535xx-utils 535.183.01-1
 lib32-openal 1.23.1-1
 lib32-opencl-nvidia-535xx 535.183.01-1
@@ -964,8 +965,8 @@ libc++ 18.1.8-4
 libc++abi 18.1.8-4
 libcaca 0.99.beta20-4
 libcacard 2.7.0-4
-libcamera 0.3.0-1
-libcamera-ipa 0.3.0-1
+libcamera 0.3.1-2
+libcamera-ipa 0.3.1-2
 libcanberra 1:0.30+r2+gc0620e4-4
 libcap 2.70-1
 libcap-ng 0.8.5-2
@@ -1048,7 +1049,7 @@ libglvnd 1.7.0-1
 libgme 0.6.3-5
 libgnome-keyring 1:3.12.0+r14+g23438cc-1
 libgnomekbd 1:3.28.1-1
-libgoa 3.50.3-1
+libgoa 3.50.4-1
 libgoom2 2k4-5
 libgpg-error 1.50-1
 libgphoto2 2.5.31-2
@@ -1246,7 +1247,7 @@ libtiff4 3.9.7-6
 libtiger 0.3.4-8
 libtirpc 1.3.4-1
 libtommath 1.3.0-1
-libtool 2.5.1-1
+libtool 2.5.1-2
 libtorrent-rasterbar 1:2.0.10-2
 libtpms 0.9.6-1
 libtraceevent 1:1.8.3-1
@@ -1310,7 +1311,7 @@ libxdmcp 1.1.5-1
 libxdp 1.4.2-1
 libxext 1.3.6-1
 libxfixes 6.0.1-2
-libxfont2 2.0.6-3
+libxfont2 2.0.7-1
 libxft 2.3.8-2
 libxi 1.8.1-2
 libxinerama 1.1.5-2
@@ -1332,7 +1333,7 @@ libxshmfence 1.3.2-2
 libxslt 1.1.42-1
 libxss 1.2.4-2
 libxt 1.3.0-2
-libxtst 1.2.4-2
+libxtst 1.2.5-1
 libxv 1.0.12-2
 libxxf86vm 1.1.5-2
 libyaml 0.2.5-3
@@ -1348,8 +1349,8 @@ linux-firmware 20240703.e94a2a3b-1
 linux-firmware-whence 20240703.e94a2a3b-1
 linux-steam-integration 0.7.3-8
 linux-wifi-hotspot 1:4.7.2-1
-linux-zen 6.10.2.zen1-1
-linux-zen-headers 6.10.2.zen1-1
+linux-zen 6.10.2.zen1-2
+linux-zen-headers 6.10.2.zen1-2
 live-media 2024.04.19-1
 lksctp-tools 1.0.19-2
 lld 18.1.8-1
@@ -1485,7 +1486,7 @@ npm 10.8.2-1
 npm-check-updates 16.14.20-1
 npth 1.7-1
 nspr 4.35-3
-nss 3.102.1-1
+nss 3.103-1
 nss-mdns 0.15.1-2
 ntfs-3g 2022.10.3-1
 numactl 2.0.18-1
@@ -1578,7 +1579,7 @@ pcem 17-6
 pciutils 3.13.0-1
 pcre 8.45-4
 pcre2 10.44-1
-pcsclite 2.2.3-1
+pcsclite 2.3.0-1
 perl 5.38.2-2
 perl-archive-zip 1.68-9
 perl-clone 0.46-3
@@ -1669,7 +1670,6 @@ procps-ng 4.0.4-3
 projectm 3.1.12-5
 protobuf 27.2-1
 protobuf-c 1.5.0-3
-proxychains-ng 4.17-2
 prrte 3.0.6-1
 psmisc 23.7-1
 publicsuffix-list 20240306.1440.9094af5-1
@@ -1684,7 +1684,8 @@ pystring 1.1.4-2
 python 3.12.4-1
 python-absl 2.1.0-2
 python-aiogram 2.22.2-4
-python-aiohttp 3.9.5-1
+python-aiohappyeyeballs 2.3.4-1
+python-aiohttp 3.10.1-1
 python-aioquic 1.2.0-1
 python-aioresponses 0.7.6-3
 python-aiosignal 1.3.1-6
@@ -1695,7 +1696,7 @@ python-appdirs 1.4.4-10
 python-argcomplete 3.1.2-1
 python-arrow 1.3.0-3
 python-asgiref 3.7.2-2
-python-astroid 3.2.4-1
+python-astroid 3.3.0-1
 python-asttokens 2.4.1-2
 python-async-timeout 4.0.3-4
 python-attrs 23.2.0-3
@@ -1794,8 +1795,8 @@ python-isort 5.13.2-3
 python-itsdangerous 2.1.2-4
 python-jaraco.classes 3.4.0-1
 python-jaraco.context 5.3.0-1
-python-jaraco.functools 4.0.1-1
-python-jaraco.text 3.14.0-1
+python-jaraco.functools 4.0.2-1
+python-jaraco.text 4.0.0-1
 python-jedi 0.19.1-2
 python-jeepney 0.8.0-3
 python-jieba 0.42.1-7
@@ -1966,7 +1967,7 @@ python-tomlkit 0.13.0-1
 python-toolz 0.12.1-2
 python-tornado 6.4.1-1
 python-tox 4.12.1-2
-python-tqdm 4.66.4-1
+python-tqdm 4.66.5-1
 python-traitlets 5.14.3-2
 python-trove-classifiers 2024.7.2-1
 python-typeguard 4.3.0-1
@@ -2166,7 +2167,7 @@ qt6-webview 6.7.2-1
 qt6pas 6.2.7-2
 qtermwidget 2.0.1-1
 qtkeychain-qt6 0.14.3-1
-qtractor 1.0.0-1
+qtractor 1.0.0-2
 quazip-qt5 1.4-1
 quazip-qt6 1.4-1
 quota-tools 1:4.09-2
@@ -2181,7 +2182,7 @@ rav1e 0.7.1-1
 rclone 1.67.0-1
 rclone-browser 1.8.0-3
 re2 1:20240702-1
-readline 8.2.010-1
+readline 8.2.013-1
 redis 7.2.5-1
 redland 1:1.0.17-9
 reiserfsprogs 3.6.27-5
@@ -2210,7 +2211,7 @@ sbkeys 1.1.0-2
 sbsigntools 0.9.5-2
 schedtool 1.3.0-7
 scour 0.38.2-4
-scrcpy 2.5-1
+scrcpy 2.6.1-1
 screen 4.9.1-2
 screenkey 1.5-4
 scrub 2.6.1-1
@@ -2282,7 +2283,7 @@ sratom 0.6.16-1
 srt 1.5.3-2
 sscg 3.0.5-2
 sshfs 3.7.3-2
-sssd 2.9.5-1
+sssd 2.9.5-2
 starship 1.20.1-1
 startup-notification 0.12-8
 steam 1.0.0.79-2
@@ -2560,7 +2561,7 @@ xf86-input-void 1.4.2-2
 xkeyboard-config 2.42-1
 xml2 0.5-1
 xmldiff 2.6.3-3
-xmlsec 1.3.4-1
+xmlsec 1.3.5-1
 xmlstarlet 1.6.1-4
 xorg-bdftopcf 1.1.1-2
 xorg-font-util 1.4.1-2
@@ -2568,9 +2569,7 @@ xorg-fonts-100dpi 1.0.4-3
 xorg-fonts-75dpi 1.0.4-2
 xorg-fonts-alias-100dpi 1.0.5-1
 xorg-fonts-alias-75dpi 1.0.5-1
-xorg-fonts-alias-misc 1.0.5-1
 xorg-fonts-encodings 1.1.0-1
-xorg-fonts-misc 1.0.4-2
 xorg-iceauth 1.0.10-1
 xorg-mkfontscale 1.2.3-1
 xorg-server 21.1.13-1
@@ -2584,7 +2583,7 @@ xorg-setxkbmap 1.3.4-2
 xorg-smproxy 1.0.7-2
 xorg-twm 1.0.12-2
 xorg-util-macros 1.20.1-1
-xorg-x11perf 1.6.2-2
+xorg-x11perf 1.7.0-1
 xorg-xauth 1.1.3-1
 xorg-xbacklight 1.2.3-4
 xorg-xclock 1.1.1-2

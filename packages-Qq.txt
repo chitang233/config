@@ -369,6 +369,7 @@ gegl
 geoclue
 geoipupdate
 gettext
+gg
 ghex
 ghidra
 ghostscript
@@ -1669,7 +1670,6 @@ procps-ng
 projectm
 protobuf
 protobuf-c
-proxychains-ng
 prrte
 psmisc
 publicsuffix-list
@@ -1684,6 +1684,7 @@ pystring
 python
 python-absl
 python-aiogram
+python-aiohappyeyeballs
 python-aiohttp
 python-aioquic
 python-aioresponses
@@ -2568,9 +2569,7 @@ xorg-fonts-100dpi
 xorg-fonts-75dpi
 xorg-fonts-alias-100dpi
 xorg-fonts-alias-75dpi
-xorg-fonts-alias-misc
 xorg-fonts-encodings
-xorg-fonts-misc
 xorg-iceauth
 xorg-mkfontscale
 xorg-server
