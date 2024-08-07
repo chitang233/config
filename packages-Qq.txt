@@ -197,7 +197,6 @@ cups-pk-helper
 curl
 cyrus-sasl-gssapi
 daed
-darling-bin
 dav1d
 db5.3
 dbus
@@ -420,6 +419,7 @@ go-musicfox-git
 gobject-introspection
 gobject-introspection-runtime
 gom
+google-cloud-cli
 goverlay-git
 gpart
 gparted
@@ -1373,6 +1373,7 @@ lua51-socket
 lua52
 lua53
 luajit
+lunar-client
 lutris-git
 lv2
 lvm2
@@ -1490,6 +1491,7 @@ nss
 nss-mdns
 ntfs-3g
 numactl
+nushell
 nvclock
 nvidia-535xx-dkms
 nvidia-535xx-settings
