@@ -54,6 +54,7 @@ asciicaesar
 asciinema
 asio
 aspell
+aspnet-runtime-bin
 assimp
 at-spi2-core
 atkmm
@@ -243,6 +244,8 @@ dolphin-plugins
 dosbox
 dosfstools
 dotconf
+dotnet-host
+dotnet-runtime-bin
 double-conversion
 dpkg
 drkonqi
@@ -2363,6 +2366,7 @@ tree-sitter-lua
 tree-sitter-markdown
 tree-sitter-python
 tree-sitter-query
+tree-sitter-vim
 tree-sitter-vimdoc
 triplea
 tslib
@@ -2464,6 +2468,7 @@ wasi-libc++
 wasi-libc++abi
 wasm-bindgen
 wasm-pack
+watt-toolkit-bin
 wavpack
 waydroid
 waydroid-image-gapps
