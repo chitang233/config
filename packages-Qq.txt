@@ -422,7 +422,7 @@ go-musicfox-git
 gobject-introspection
 gobject-introspection-runtime
 gom
-google-cloud-cli
+goreleaser
 goverlay-git
 gpart
 gparted
