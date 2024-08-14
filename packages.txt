@@ -25,7 +25,7 @@ alsa-lib 1.2.12-1
 alsa-plugins 1:1.2.12-3
 alsa-topology-conf 1.2.5.1-4
 alsa-ucm-conf 1.2.12-1
-amd-ucode 20240703.e94a2a3b-1
+amd-ucode 20240809.59460076-1
 android-sdk-platform-tools 35.0.1-1
 android-udev 20240625-1
 anthy 9100h-6
@@ -67,7 +67,7 @@ aubio 0.4.9-19
 audacity 1:3.6.1-2
 audiocd-kio 24.05.2-1
 audiofile 0.3.6-9
-audit 4.0.1-3
+audit 4.0.2-1
 autoconf 2.72-1
 autoconf-archive 1:2023.02.20-2
 automake 1.17-1
@@ -125,7 +125,7 @@ btrfsmaintenance 0.5.2-1
 bubblewrap 0.9.0-1
 busybox 1.36.1-2
 bzip2 1.0.8-6
-c-ares 1.29.0-1
+c-ares 1.33.0-1
 ca-certificates 20240618-1
 ca-certificates-mozilla 3.103-1
 ca-certificates-utils 20240618-1
@@ -150,17 +150,17 @@ cdparanoia 10.2-9
 cdrtools 3.02a09-6
 cemu 2.0.620+really+2.0.90-1
 cfitsio 1:4.4.1-1
-chafa 1.14.1-1
+chafa 1.14.2-1
 checkra1n-cli 0.12.4-3
 checkra1n-gui 0.12.4-4
 cheese 44.1-2
 chromaprint 1.5.1-8
-chromium 127.0.6533.99-1
+chromium 127.0.6533.119-1
 cifs-utils 7.0-4
 ciphey 5.14.0-7
 cjson 1.7.18-1
 clang 18.1.8-2
-clash-geoip 202408110401-1
+clash-geoip 202408130754-1
 classicube-git 1.3.6.r463.g90a20b207-1
 clinfo 3.0.23.01.25-1
 cloudflared 2024.7.1-1
@@ -218,7 +218,7 @@ dhcpcd 10.0.8-1
 dialog 1:1.3_20240619-2
 diffutils 3.10-1
 ding-libs 0.6.2-2
-discord 0.0.63-1
+discord 0.0.64-1
 discount 3.0.0.d-1
 distrobox 1.7.2.1-1
 djvulibre 3.5.28-6
@@ -236,7 +236,7 @@ docker-compose 2.29.1-1
 docker-credential-pass 0.8.2-2
 docker-machine 0.16.2-6
 docker-scan 0.26.0-2
-doctl 1.110.0-1
+doctl 1.111.0-1
 dog 0.1.0-5
 dolphin 24.05.2-1
 dolphin-emu 1:2407-2
@@ -247,7 +247,7 @@ dotconf 1.4.1-1
 dotnet-host 8.0.7.sdk107-1
 dotnet-runtime-bin 8.0.7.sdk303-2
 double-conversion 3.3.0-2
-dpkg 1.22.6-1
+dpkg 1.22.11-1
 drkonqi 6.1.4-1
 dtc 1.7.0-5
 duf 0.8.1-3
@@ -265,7 +265,7 @@ edk2-ovmf 202311-1
 efibootmgr 18-3
 efitools 1.9.2-5
 efivar 39-1
-egl-wayland 3:1.1.13.1-1
+egl-wayland 4:1.1.13.1-1
 eglexternalplatform 1.1-3
 elfutils 0.191-4
 elinks 0.17.0-1
@@ -288,7 +288,7 @@ f2fs-tools 1.16.0-3
 faac 1.30-5
 faad2 2.11.1-1
 fakeroot 1.35-1
-fastfetch 2.21.1-1
+fastfetch 2.21.2-1
 fcitx5 5.1.10-1
 fcitx5-anthy 5.1.4-1
 fcitx5-chinese-addons 5.1.6-2
@@ -417,7 +417,7 @@ gnupg 2.4.5-4
 gnuplot 6.0.1-1
 gnustep-base 1.29.0-4
 gnutls 3.8.6-1
-go 2:1.22.6-1
+go 2:1.23.0-1
 go-musicfox-git 4.5.3.r23.gd7118ac-1
 gobject-introspection 1.80.1-3
 gobject-introspection-runtime 1.80.1-3
@@ -842,7 +842,7 @@ lib32-libunistring 1.2-1
 lib32-libunwind 1.8.1-1
 lib32-libusb 1.0.27-1
 lib32-libva 2.22.0-1
-lib32-libva-mesa-driver 1:24.1.5-1
+lib32-libva-mesa-driver 1:24.1.5-2
 lib32-libvdpau 1.5-2
 lib32-libvorbis 1.3.7-1
 lib32-libvpx 1.14.1-1
@@ -876,8 +876,8 @@ lib32-libxxf86vm 1.1.5-1
 lib32-llvm-libs 18.1.8-1
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-2
 lib32-mangohud 0.7.2-1
-lib32-mesa 1:24.1.5-1
-lib32-mesa-vdpau 1:24.1.5-1
+lib32-mesa 1:24.1.5-2
+lib32-mesa-vdpau 1:24.1.5-2
 lib32-mpg123 1.32.6-1
 lib32-ncurses 6.5-1
 lib32-ncurses5-compat-libs 6.4-1
@@ -900,7 +900,7 @@ lib32-pipewire 1:1.2.2-1
 lib32-pipewire-jack 1:1.2.2-1
 lib32-pipewire-v4l2 1:1.2.2-1
 lib32-pixman 0.43.4-1
-lib32-polkit 124-1
+lib32-polkit 125-1
 lib32-readline 8.2.013-1
 lib32-sdl12-compat 1.2.68-1
 lib32-sdl2 2.30.6-1
@@ -917,8 +917,8 @@ lib32-tdb 1.4.12-1
 lib32-util-linux 2.40.2-1
 lib32-vkd3d 1.11-1
 lib32-vulkan-icd-loader 1.3.279-1
-lib32-vulkan-mesa-layers 1:24.1.5-1
-lib32-vulkan-virtio 1:24.1.5-1
+lib32-vulkan-mesa-layers 1:24.1.5-2
+lib32-vulkan-virtio 1:24.1.5-2
 lib32-wayland 1.23.0-1
 lib32-webrtc-audio-processing 0.3.1-4
 lib32-xcb-util-keysyms 0.4.1-1
@@ -1018,7 +1018,7 @@ libe-book 0.1.3-16
 libebml 1.4.5-1
 libebur128 1.2.6-2
 libedit 20240517_3.1-1
-libei 1.2.1-1
+libei 1.3.0-1
 libelf 0.191-4
 libepoxy 1.5.10-3
 libepubgen 0.1.1-5
@@ -1074,7 +1074,7 @@ libidn 1.42-1
 libidn11 1.33-2
 libidn2 2.3.7-1
 libiec61883 1.2.0-8
-libimagequant 4.3.1-1
+libimagequant 4.3.3-1
 libime 1.1.8-1
 libimobiledevice 1.3.0-13
 libimobiledevice-glue 1.3.0-1
@@ -1117,7 +1117,7 @@ liblouis 3.30.0-1
 liblphobos 3:1.39.0-1
 liblqr 0.4.2-4
 liblrdf 0.6.1-5
-liblsp-r3d-glx-lib 1.2.16-1
+liblsp-r3d-glx-lib 1.2.17-1
 libltc 1.3.2-2
 libluv 1.48.0_2-1
 libmad 0.15.1b-10
@@ -1272,7 +1272,7 @@ libutempter 1.2.1-4
 libutf8proc 2.9.0-1
 libuv 1.48.0-2
 libva 2.22.0-1
-libva-mesa-driver 1:24.1.5-1
+libva-mesa-driver 1:24.1.5-2
 libva-utils 2.22.0-1
 libvdpau 1.5-3
 libverto 0.3.2-5
@@ -1348,12 +1348,12 @@ licenses 20240728-1
 lilv 0.24.24-2
 lineageos-devel 0.2-1
 linux-api-headers 6.10-1
-linux-firmware 20240703.e94a2a3b-1
-linux-firmware-whence 20240703.e94a2a3b-1
+linux-firmware 20240809.59460076-1
+linux-firmware-whence 20240809.59460076-1
 linux-steam-integration 0.7.3-8
 linux-wifi-hotspot 1:4.7.2-1
-linux-zen 6.10.3.zen1-2
-linux-zen-headers 6.10.3.zen1-2
+linux-zen 6.10.4.zen2-1
+linux-zen-headers 6.10.4.zen2-1
 live-media 2024.04.19-1
 lksctp-tools 1.0.19-2
 lld 18.1.8-1
@@ -1365,7 +1365,7 @@ lmms 1.2.2-23
 lpsolve 5.5.2.11-3
 lsb-release 2.0.r53.a86f885-2
 lsof 4.99.3-2
-lsp-plugins-lv2 1.2.16-1
+lsp-plugins-lv2 1.2.17-1
 lttng-ust2.12 2.12.9-1
 lua 5.4.7-1
 lua-alt-getopt 0.8.0-2
@@ -1377,7 +1377,7 @@ lua52 5.2.4-7
 lua53 5.3.6-3
 luajit 2.1.1720049189-1
 lunar-client 3.2.12-2
-lutris-git 0.5.17.r264.gea2899189-1
+lutris-git 0.5.17.r264.gea2899189-2
 lv2 1.18.10-1
 lvm2 2.03.25-2
 lxc 1:6.0.1-1
@@ -1401,14 +1401,14 @@ media-player-info 24-4
 mediainfo 24.06-1
 memstrack 0.2.2-1
 mercurial 6.8-1
-mesa 1:24.1.5-1
+mesa 1:24.1.5-2
 mesa-demos 9.0.0-4
 mesa-utils 9.0.0-4
-mesa-vdpau 1:24.1.5-1
+mesa-vdpau 1:24.1.5-2
 meson 1.5.1-1
 mgba-qt 0.10.3-2
 mgba-sdl 0.10.3-2
-microsoft-edge-beta-bin 128.0.2739.9-1
+microsoft-edge-beta-bin 128.0.2739.22-1
 mihomo 1.18.6-1
 milou 6.1.4-1
 mimetreeparser 24.05.2-1
@@ -1527,7 +1527,7 @@ opencore-amr 0.1.6-2
 opencv 4.10.0-4
 opendoas 6.8.2-3
 openexr 3.2.4-1
-openfec 1.4.2.10-1
+openfec 1.4.2.11-1
 openh264 2.4.1-1
 openjade 1.3.2-8
 openjpeg2 2.5.2-1
@@ -1651,7 +1651,7 @@ plog 1.1.9-1
 pngcrush 1.8.13-3
 pngquant 3.0.3-2
 pnpm 9.7.0-1
-polkit 124-2
+polkit 125-1
 polkit-kde-agent 6.1.4-1
 polkit-qt5 0.200.0-1
 polkit-qt6 0.200.0-1
@@ -1681,7 +1681,7 @@ publicsuffix-list 20240306.1440.9094af5-1
 pugixml 1.14-1
 pulseaudio-qt 1.5.0-1
 purpose 6.4.0-1
-pyinstaller 6.10.0-1
+pyinstaller 6.10.0-2
 pyinstaller-hooks-contrib 2024.8-1
 pymdown-extensions 10.9-1
 pyside2 5.15.13-2
@@ -1701,7 +1701,7 @@ python-appdirs 1.4.4-10
 python-argcomplete 3.4.0-1
 python-arrow 1.3.0-3
 python-asgiref 3.7.2-2
-python-astroid 3.3.1-1
+python-astroid 3.3.2-1
 python-asttokens 2.4.1-2
 python-async-timeout 4.0.3-4
 python-attrs 23.2.0-3
@@ -1858,7 +1858,7 @@ python-pbr 6.0.0-4
 python-pexpect 4.9.0-2
 python-pickleshare 0.7.5-10
 python-pillow 10.4.0-1
-python-pip 24.1.2-1
+python-pip 24.2-1
 python-pkginfo 1.10.0-1
 python-platformdirs 4.2.2-1
 python-pluggy 1.5.0-1
@@ -1890,7 +1890,7 @@ python-pycurl 7.45.3-1
 python-pydantic 2.8.2-1
 python-pydantic-core 1:2.20.1-1
 python-pydantic-extra-types 2.9.0-1
-python-pydantic-settings 2.3.4-1
+python-pydantic-settings 2.4.0-1
 python-pyflakes 3.2.0-2
 python-pygdbmi 0.11.0.0-4
 python-pygments 2.18.0-1
@@ -1943,7 +1943,7 @@ python-ruamel-yaml 0.18.6-2
 python-ruamel.yaml.clib 0.2.8-2
 python-scrypt 0.8.24-2
 python-secretstorage 3.3.3-5
-python-sentry_sdk 2.12.0-1
+python-sentry_sdk 2.13.0-1
 python-service-identity 23.1.0-2
 python-setproctitle 1.3.3-2
 python-setuptools 1:69.5.1-1
@@ -1968,7 +1968,7 @@ python-telethon 1.36.0-1
 python-tinycss2 1.3.0-1
 python-toml 0.10.2-10
 python-tomli 2.0.1-4
-python-tomlkit 0.13.0-1
+python-tomlkit 0.13.1-1
 python-toolz 0.12.1-2
 python-tornado 6.4.1-1
 python-tox 4.12.1-2
@@ -1998,7 +1998,7 @@ python-wsproto 1.2.0-4
 python-wxpython 1:4.2.1-2
 python-xcffib 1.5.0-1
 python-xmltodict 0.13.0-4
-python-yaml 6.0.1-4
+python-yaml 6.0.2-1
 python-yarl 1.9.4-2
 python-yubico 1.3.3-4
 python-zstandard 0.22.0-2
@@ -2178,7 +2178,7 @@ quazip-qt6 1.4-1
 quota-tools 1:4.09-2
 radvd 2.19-2
 ragel 6.10-3
-railwayapp-cli 3.4.0-1
+railwayapp-cli 3.11.4-1
 ranger 1.9.3-11
 rapidjson 1.1.0-6
 raptor 2.0.16-5
@@ -2193,7 +2193,7 @@ redland 1:1.0.17-9
 reiserfsprogs 3.6.27-5
 remmina 1:1.4.35-4
 repo 2.45-2
-revda-git 5.5.3.r0.ge68a1d8-1
+revda-git 5.5.4.r0.gd1d05ff-1
 rhash 1.4.4-1
 ripgrep 14.1.0-1
 rlwrap 0.46.1-2
@@ -2251,7 +2251,7 @@ signon-ui 0.17+20231016-2
 signond 8.61-3
 simplescreenrecorder 0.4.4-5
 sing-box 1.9.3-1
-sing-geoip-db 20240712-1
+sing-geoip-db 20240812-1
 sing-geosite-db 20240810010807-1
 skim 0.10.4-3
 slang 2.3.3-3
@@ -2443,7 +2443,7 @@ virtio-win 0.1.262.1-1
 virtiofsd 1.11.1-1
 virtualbox-guest-iso 7.0.20-1
 virtualbox-host-dkms 7.0.20-1
-visual-studio-code-insiders-bin 1722289062-1
+visual-studio-code-insiders-bin 1723452147-1
 vkbasalt 0.3.2.10-1
 vkd3d 1.11-1
 vlc-luajit 3.0.21-2
@@ -2458,15 +2458,15 @@ vte3 0.76.4-1
 vtk 9.3.1-1
 vulkan-headers 1:1.3.285-1
 vulkan-icd-loader 1.3.285-1
-vulkan-mesa-layers 1:24.1.5-1
+vulkan-mesa-layers 1:24.1.5-2
 vulkan-tools 1.3.269-1
-vulkan-virtio 1:24.1.5-1
+vulkan-virtio 1:24.1.5-2
 w3m 0.5.3.git20230713_1-1
 wasi-compiler-rt 18.1.8-2
 wasi-libc 1:0+392+b9ef79d7-1
 wasi-libc++ 18.1.8-4
 wasi-libc++abi 18.1.8-4
-wasm-bindgen 0.2.92-1
+wasm-bindgen 0.2.93-1
 wasm-pack 0.13.0-1
 watt-toolkit-bin 3.0.0.rc.9-1
 wavpack 5.7.0-1
@@ -2477,8 +2477,8 @@ wayland 1.23.0-1
 wayland-protocols 1.36-1
 wayland-utils 1.2.0-2
 waylyrics 0.3.13-1
-webkit2gtk 2.44.2-1
-webkit2gtk-4.1 2.44.2-1
+webkit2gtk 2.44.3-1
+webkit2gtk-4.1 2.44.3-1
 webrtc-audio-processing 0.3.1-5
 webrtc-audio-processing-1 1.3-3
 weston 13.0.1-1
