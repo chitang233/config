@@ -122,7 +122,7 @@ btop 1.3.2-1
 btrfs-assistant 2.1.1-1
 btrfs-progs 6.10-1
 btrfsmaintenance 0.5.2-1
-bubblewrap 0.9.0-1
+bubblewrap 0.10.0-1
 busybox 1.36.1-2
 bzip2 1.0.8-6
 c-ares 1.33.0-1
@@ -163,7 +163,7 @@ clang 18.1.8-2
 clash-geoip 202408130754-1
 classicube-git 1.3.6.r463.g90a20b207-1
 clinfo 3.0.23.01.25-1
-cloudflared 2024.7.1-1
+cloudflared 2024.8.2-1
 cloudflarespeedtest 2.2.5-2
 clpeak 1.1.2-1
 clucene 2.3.3.4-15
@@ -336,7 +336,7 @@ frameworkintegration5 5.116.0-1
 freeglut 3.6.0-1
 freerdp 2:3.7.0-1
 freerdp2 2.11.7-1
-freetype2 2.13.2-2
+freetype2 2.13.3-1
 frei0r-plugins 2.3.3-2
 fribidi 1.0.15-1
 frpc 0.59.0-1
@@ -430,7 +430,7 @@ gperf 3.1-5
 gperftools 2.15-1
 gpgme 1.23.2-6
 gpm 1.20.7.r38.ge82d1a6-6
-gradle 8.9-1
+gradle 8.10-1
 gradle-zsh-completion master_fa72b79-2
 grantleetheme 24.05.2-1
 graphene 1.10.8-1
@@ -758,7 +758,7 @@ lib32-expat 2.6.2-1
 lib32-flac 1.4.3-1
 lib32-fontconfig 2:2.15.0-1
 lib32-freeglut 3.6.0-1
-lib32-freetype2 2.13.2-1
+lib32-freetype2 2.13.3-1
 lib32-fribidi 1.0.15-1
 lib32-gamemode 1.8.1-1
 lib32-gcc-libs 14.2.1+r32+geccf707e5ce-1
@@ -842,7 +842,7 @@ lib32-libunistring 1.2-1
 lib32-libunwind 1.8.1-1
 lib32-libusb 1.0.27-1
 lib32-libva 2.22.0-1
-lib32-libva-mesa-driver 1:24.1.5-2
+lib32-libva-mesa-driver 1:24.1.6-1
 lib32-libvdpau 1.5-2
 lib32-libvorbis 1.3.7-1
 lib32-libvpx 1.14.1-1
@@ -876,8 +876,8 @@ lib32-libxxf86vm 1.1.5-1
 lib32-llvm-libs 18.1.8-1
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-2
 lib32-mangohud 0.7.2-1
-lib32-mesa 1:24.1.5-2
-lib32-mesa-vdpau 1:24.1.5-2
+lib32-mesa 1:24.1.6-1
+lib32-mesa-vdpau 1:24.1.6-1
 lib32-mpg123 1.32.6-1
 lib32-ncurses 6.5-1
 lib32-ncurses5-compat-libs 6.4-1
@@ -917,8 +917,8 @@ lib32-tdb 1.4.12-1
 lib32-util-linux 2.40.2-1
 lib32-vkd3d 1.11-1
 lib32-vulkan-icd-loader 1.3.279-1
-lib32-vulkan-mesa-layers 1:24.1.5-2
-lib32-vulkan-virtio 1:24.1.5-2
+lib32-vulkan-mesa-layers 1:24.1.6-1
+lib32-vulkan-virtio 1:24.1.6-1
 lib32-wayland 1.23.0-1
 lib32-webrtc-audio-processing 0.3.1-4
 lib32-xcb-util-keysyms 0.4.1-1
@@ -1272,7 +1272,7 @@ libutempter 1.2.1-4
 libutf8proc 2.9.0-1
 libuv 1.48.0-2
 libva 2.22.0-1
-libva-mesa-driver 1:24.1.5-2
+libva-mesa-driver 1:24.1.6-1
 libva-utils 2.22.0-1
 libvdpau 1.5-3
 libverto 0.3.2-5
@@ -1401,10 +1401,10 @@ media-player-info 24-4
 mediainfo 24.06-1
 memstrack 0.2.2-1
 mercurial 6.8-1
-mesa 1:24.1.5-2
+mesa 1:24.1.6-1
 mesa-demos 9.0.0-4
 mesa-utils 9.0.0-4
-mesa-vdpau 1:24.1.5-2
+mesa-vdpau 1:24.1.6-1
 meson 1.5.1-1
 mgba-qt 0.10.3-2
 mgba-sdl 0.10.3-2
@@ -1487,7 +1487,7 @@ noto-fonts-emoji 1:2.042-1
 noto-fonts-emoji-blob 1:15.0-1
 noto-fonts-extra 1:24.8.1-1
 npm 10.8.2-1
-npm-check-updates 16.14.20-1
+npm-check-updates 17.0.0-1
 npth 1.7-1
 nspr 4.35-3
 nss 3.103-1
@@ -1650,7 +1650,7 @@ plasma6-applets-window-title 1:0.9.0-1
 plog 1.1.9-1
 pngcrush 1.8.13-3
 pngquant 3.0.3-2
-pnpm 9.7.0-1
+pnpm 9.7.1-1
 polkit 125-1
 polkit-kde-agent 6.1.4-1
 polkit-qt5 0.200.0-1
@@ -1734,7 +1734,7 @@ python-contourpy 1.2.1-5
 python-coverage 7.6.1-1
 python-crashtest 0.4.1-3
 python-cryptg 0.4-1
-python-cryptography 42.0.6-1
+python-cryptography 42.0.7-1
 python-csscompressor 0.9.5-7
 python-cssselect 1.2.0-6
 python-cssselect2 0.7.0-4
@@ -1757,7 +1757,7 @@ python-entrypoints 0.4-4
 python-evdev 1.7.1-1
 python-execnet 2.0.2-3
 python-executing 2.0.0-3
-python-faker 25.9.1-1
+python-faker 25.9.2-1
 python-fastapi 0.112.0-1
 python-fastbencode 0.3.1-1
 python-fastimport 0.9.14-5
@@ -1789,7 +1789,7 @@ python-htmlmin2 0.1.13-1
 python-httplib2 0.22.0-5
 python-huggingface-hub 1:0.24.5-1
 python-hyperframe 6.0.1-5
-python-hypothesis 6.110.2-1
+python-hypothesis 6.111.0-1
 python-idna 3.7-1
 python-imagesize 1.4.1-5
 python-inflect 7.3.1-1
@@ -1899,7 +1899,7 @@ python-pylint 3.2.6-1
 python-pylsqpack 0.3.18-2
 python-pynacl 1.5.0-2
 python-pynvim 0.5.0-3
-python-pyopenssl 24.1.0-1
+python-pyopenssl 24.2.1-1
 python-pyotherside 1.6.1-1
 python-pyparsing 3.1.2-2
 python-pyperclip 1.8.2-7
@@ -1953,7 +1953,7 @@ python-six 1.16.0-9
 python-sniffio 1.3.1-3
 python-snowballstemmer 2.2.0-6
 python-sortedcontainers 2.4.0-6
-python-soupsieve 2.5-3
+python-soupsieve 2.6-1
 python-sphinx 7.4.7-1
 python-sphinx-alabaster-theme 0.7.16-2
 python-sphinxcontrib-applehelp 2.0.0-1
@@ -1968,7 +1968,7 @@ python-telethon 1.36.0-1
 python-tinycss2 1.3.0-1
 python-toml 0.10.2-10
 python-tomli 2.0.1-4
-python-tomlkit 0.13.1-1
+python-tomlkit 0.13.2-1
 python-toolz 0.12.1-2
 python-tornado 6.4.1-1
 python-tox 4.12.1-2
@@ -2178,7 +2178,7 @@ quazip-qt6 1.4-1
 quota-tools 1:4.09-2
 radvd 2.19-2
 ragel 6.10-3
-railwayapp-cli 3.11.4-1
+railwayapp-cli 3.12.1-1
 ranger 1.9.3-11
 rapidjson 1.1.0-6
 raptor 2.0.16-5
@@ -2458,9 +2458,9 @@ vte3 0.76.4-1
 vtk 9.3.1-1
 vulkan-headers 1:1.3.285-1
 vulkan-icd-loader 1.3.285-1
-vulkan-mesa-layers 1:24.1.5-2
+vulkan-mesa-layers 1:24.1.6-1
 vulkan-tools 1.3.269-1
-vulkan-virtio 1:24.1.5-2
+vulkan-virtio 1:24.1.6-1
 w3m 0.5.3.git20230713_1-1
 wasi-compiler-rt 18.1.8-2
 wasi-libc 1:0+392+b9ef79d7-1
@@ -2477,8 +2477,8 @@ wayland 1.23.0-1
 wayland-protocols 1.36-1
 wayland-utils 1.2.0-2
 waylyrics 0.3.13-1
-webkit2gtk 2.44.3-1
-webkit2gtk-4.1 2.44.3-1
+webkit2gtk 2.44.3-2
+webkit2gtk-4.1 2.44.3-2
 webrtc-audio-processing 0.3.1-5
 webrtc-audio-processing-1 1.3-3
 weston 13.0.1-1
