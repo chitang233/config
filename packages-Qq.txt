@@ -178,6 +178,7 @@ colord
 colord-kde
 compiler-rt
 compsize
+confuse
 containerd
 convertlit
 copyq
@@ -1036,6 +1037,7 @@ libfido2
 libfontenc
 libfreeaptx
 libfreehand
+libftdi
 libgbinder
 libgcrypt
 libgcrypt15
@@ -1354,6 +1356,7 @@ linux-steam-integration
 linux-wifi-hotspot
 linux-zen
 linux-zen-headers
+lirc
 live-media
 lksctp-tools
 lld
