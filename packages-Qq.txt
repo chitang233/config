@@ -245,7 +245,7 @@ dolphin-plugins
 dosbox
 dosfstools
 dotconf
-dotnet-host
+dotnet-host-bin
 dotnet-runtime-bin
 double-conversion
 dpkg
