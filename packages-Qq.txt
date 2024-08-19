@@ -1480,7 +1480,7 @@ ninja
 nmap
 nnn
 node-gyp
-nodejs
+nodejs-lts-iron
 nodejs-neovim
 nodejs-nopt
 noto-color-emoji-fontconfig
