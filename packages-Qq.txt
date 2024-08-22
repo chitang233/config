@@ -54,14 +54,12 @@ asciicaesar
 asciinema
 asio
 aspell
-aspnet-runtime-bin
 assimp
 at-spi2-core
 atkmm
 atomicparsley
 atool
 attica
-attica5
 attr
 aubio
 audacity
@@ -113,7 +111,6 @@ breeze
 breeze-grub
 breeze-gtk
 breeze-icons
-breeze5
 breezy
 bridge-utils
 brltty
@@ -245,8 +242,6 @@ dolphin-plugins
 dosbox
 dosfstools
 dotconf
-dotnet-host-bin
-dotnet-runtime-bin
 double-conversion
 dpkg
 drkonqi
@@ -333,7 +328,6 @@ foomatic-db-nonfree
 foomatic-db-nonfree-ppds
 foomatic-db-ppds
 frameworkintegration
-frameworkintegration5
 freeglut
 freerdp
 freerdp2
@@ -423,6 +417,7 @@ go-musicfox-git
 gobject-introspection
 gobject-introspection-runtime
 gom
+google-cloud-cli
 goreleaser
 goverlay-git
 gpart
@@ -567,12 +562,10 @@ kauth
 kauth5
 kbd
 kbookmarks
-kbookmarks5
 kcalendarcore
 kcharselect
 kclock
 kcmutils
-kcmutils5
 kcodecs
 kcodecs5
 kcolorchooser
@@ -597,11 +590,9 @@ kde-dev-scripts
 kde-gtk-config
 kde-inotify-survey
 kdeclarative
-kdeclarative5
 kdeconnect
 kdecoration
 kded
-kded5
 kdegraphics-mobipocket
 kdegraphics-thumbnailers
 kdenetwork-filesharing
@@ -616,10 +607,8 @@ kdialog
 kdiff3
 kdiskmark
 kdnssd
-kdnssd5
 kdoctools
 kdoctools5
-kdsoap-qt5
 kdsoap-qt6
 kdsoap-ws-discovery-client
 keditbookmarks
@@ -628,7 +617,6 @@ keyutils
 kfilemetadata
 kgamma
 kglobalaccel
-kglobalaccel5
 kglobalacceld
 kgpg
 kguiaddons
@@ -639,7 +627,6 @@ kholidays
 ki18n
 ki18n5
 kiconthemes
-kiconthemes5
 kid3
 kid3-common
 kidentitymanagement
@@ -654,8 +641,6 @@ kio-extras
 kio-fuse
 kio-gdrive
 kio-zeroconf
-kio5
-kio5-extras
 kirigami
 kirigami-addons
 kirigami-addons5
@@ -665,7 +650,6 @@ kitemmodels5
 kitemviews
 kitemviews5
 kjobwidgets
-kjobwidgets5
 kjournald
 kleopatra
 kmailtransport
@@ -674,15 +658,12 @@ kmenuedit
 kmime
 kmod
 knewstuff
-knewstuff5
 knotifications
 knotifications5
 knotifyconfig
-knotifyconfig5
 konsole
 kotlin
 kpackage
-kpackage5
 kparts
 kpeople
 kpimtextedit
@@ -691,7 +672,6 @@ kpmcore
 kpty
 kquickcharts
 krb5
-krdc
 krecorder
 krfb
 krita
@@ -710,8 +690,6 @@ ktextaddons
 ktexteditor
 ktexttemplate
 ktextwidgets
-ktextwidgets5
-ktorrent
 kunitconversion
 kuserfeedback
 kwallet
@@ -728,7 +706,6 @@ kwindowsystem
 kwindowsystem5
 kwrited
 kxmlgui
-kxmlgui5
 l-smash
 ladspa
 lame
@@ -1102,13 +1079,11 @@ libkcompactdisc
 libkdcraw
 libkdcraw5
 libkexiv2
-libkexiv2-qt5
 libkgapi
 libkleo
 libksba
 libkscreen
 libksysguard
-libktorrent
 liblangtag
 liblc3
 libldac
@@ -1471,6 +1446,7 @@ nethack
 netpbm
 nettle
 networkmanager
+networkmanager-openconnect
 networkmanager-qt
 nexttrace
 nfsidmap
@@ -1618,8 +1594,6 @@ perl-try-tiny
 perl-uri
 perl-www-robotrules
 phodav
-phonon-qt5
-phonon-qt5-gstreamer
 phonon-qt6
 phonon-qt6-vlc
 pigz
@@ -1647,7 +1621,6 @@ plasma-systemmonitor
 plasma-thunderbolt
 plasma-vault
 plasma-workspace
-plasma5-integration
 plasma5support
 plasma6-applets-window-title
 plog
@@ -2095,7 +2068,6 @@ qqc2-breeze-style
 qqc2-desktop-style
 qrencode
 qsstv
-qt-virt-manager
 qt5-3d
 qt5-base
 qt5-charts
@@ -2121,7 +2093,6 @@ qt5-serialbus
 qt5-serialport
 qt5-speech
 qt5-svg
-qt5-tools
 qt5-translations
 qt5-virtualkeyboard
 qt5-wayland
@@ -2173,7 +2144,6 @@ qt6-webengine
 qt6-websockets
 qt6-webview
 qt6pas
-qtermwidget
 qtkeychain-qt6
 qtractor
 quazip-qt5
@@ -2266,9 +2236,7 @@ sndio
 snes9x
 socat
 solid
-solid5
 sonnet
-sonnet5
 sord
 sound-theme-freedesktop
 soundtouch
@@ -2312,9 +2280,7 @@ swtpm
 syncthing
 syncthing-gtk
 syndication
-syndication5
 syntax-highlighting
-syntax-highlighting5
 sysstat
 system-config-printer
 systemd
@@ -2436,6 +2402,7 @@ vdpauinfo
 ventoy-bin
 verdict
 vid.stab
+viddy-git
 vim
 vim-plug
 vim-runtime
@@ -2471,7 +2438,6 @@ wasi-libc++
 wasi-libc++abi
 wasm-bindgen
 wasm-pack
-watt-toolkit-bin
 wavpack
 waydroid
 waydroid-image-gapps
