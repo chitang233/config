@@ -206,7 +206,6 @@ dconf
 ddcutil
 ddgr
 debugedit
-dee
 default-cursors
 desktop-file-utils
 desmume
@@ -447,6 +446,7 @@ gsl
 gsm
 gspell
 gssdp
+gst-plugin-pipewire
 gst-plugins-bad
 gst-plugins-bad-libs
 gst-plugins-base
@@ -1237,7 +1237,6 @@ libudev0-shim
 libuhd
 libunibreak
 libunistring
-libunity
 libunwind
 libupnp
 liburcu
@@ -1457,7 +1456,6 @@ nmap
 nnn
 node-gyp
 nodejs-lts-iron
-nodejs-neovim
 nodejs-nopt
 noto-color-emoji-fontconfig
 noto-fonts
@@ -1660,7 +1658,6 @@ purpose
 pyinstaller
 pyinstaller-hooks-contrib
 pymdown-extensions
-pyside2
 pystring
 python
 python-absl
@@ -1924,7 +1921,6 @@ python-service-identity
 python-setproctitle
 python-setuptools
 python-shellingham
-python-shiboken2
 python-six
 python-sniffio
 python-snowballstemmer
