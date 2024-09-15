@@ -911,7 +911,6 @@ libaccounts-qt
 libadwaita
 libaec
 libaio
-libajantv2
 libakonadi
 libao
 libappimage
