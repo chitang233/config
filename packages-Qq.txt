@@ -51,8 +51,10 @@ aribb24
 aribb25
 ark
 asciicaesar
+asciidoc
 asciinema
 asio
+asp
 aspell
 assimp
 at-spi2-core
@@ -1660,7 +1662,6 @@ pulseaudio-qt
 purpose
 pyinstaller
 pyinstaller-hooks-contrib
-pymdown-extensions
 pyright
 pystring
 python
@@ -1874,6 +1875,7 @@ python-pygments
 python-pyinotify
 python-pylint
 python-pylsqpack
+python-pymdown-extensions
 python-pynacl
 python-pynvim
 python-pyopenssl
@@ -2032,7 +2034,6 @@ qemu-system-m68k
 qemu-system-microblaze
 qemu-system-microblaze-firmware
 qemu-system-mips
-qemu-system-nios2
 qemu-system-or1k
 qemu-system-ppc
 qemu-system-ppc-firmware
