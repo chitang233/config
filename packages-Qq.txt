@@ -50,6 +50,7 @@ aria2-fast
 aribb24
 aribb25
 ark
+asar
 asciicaesar
 asciidoc
 asciinema
@@ -217,7 +218,7 @@ dhcpcd
 dialog
 diffutils
 ding-libs
-discord
+discord-electron-openasar
 discount
 distrobox
 djvulibre
@@ -264,6 +265,7 @@ efitools
 efivar
 egl-wayland
 eglexternalplatform
+electron32
 elfutils
 elinks
 elisa
@@ -1482,6 +1484,7 @@ nvidia-535xx-settings
 nvidia-535xx-utils
 nvidia-prime
 nvidia-vaapi-driver-git
+nvm
 nvtop
 nx-x11
 nxagent
