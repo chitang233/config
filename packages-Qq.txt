@@ -324,6 +324,7 @@ fltk
 fluidsynth
 flutter-engine
 fmt
+fmt10
 fmt9
 fontconfig
 foomatic-db
@@ -1343,6 +1344,7 @@ llvm-libs
 lm_sensors
 lmdb
 lmms
+localsearch
 lpsolve
 lsb-release
 lsof
@@ -2313,6 +2315,7 @@ threadweaver
 threadweaver5
 tigervnc
 timeshift
+tinysparql
 tinyxml
 tinyxml2
 tk
@@ -2324,8 +2327,6 @@ torsocks
 totem-pl-parser
 tpm2-tss
 traceroute
-tracker3
-tracker3-miners
 translate-shell
 transmission-cli
 trash-cli
