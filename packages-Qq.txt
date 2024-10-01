@@ -1264,6 +1264,7 @@ libvirt-python
 libvirt-storage-gluster
 libvirt-storage-iscsi-direct
 libvisio
+libvlc-luajit
 libvncserver
 libvorbis
 libvpl
