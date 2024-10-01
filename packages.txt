@@ -46,7 +46,7 @@ archlinux-keyring 20240709-2
 archlinuxcn-keyring 20240531-2
 ares-decrypt 0.10.0-1
 argon2 20190702-6
-aria2-fast 1.37.0-2
+aria2-fast 1.37.0-3
 aribb24 1.0.3-4
 aribb25 0.2.7-3
 ark 24.08.1-1
@@ -2447,7 +2447,7 @@ wasm-bindgen 0.2.93-1
 wasm-pack 0.13.0-1
 wavpack 5.7.0-1
 waydroid 1.4.3-1
-waydroid-image-gapps 18.1_20240921-1
+waydroid-image-gapps 18.1_20240928-1
 waydroid-magisk 1.2.12-1
 wayland 1.23.1-1
 wayland-protocols 1.37-1
