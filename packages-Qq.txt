@@ -1393,7 +1393,7 @@ meson
 mgba-qt
 mgba-sdl
 microsoft-edge-beta-bin
-mihomo
+mihomo-git
 milou
 mimetreeparser
 mindustry
@@ -1671,6 +1671,7 @@ pyright
 pystring
 python
 python-absl
+python-aiofiles
 python-aiogram
 python-aiohappyeyeballs
 python-aiohttp
@@ -1803,6 +1804,7 @@ python-lockfile
 python-loguru
 python-lxml
 python-magic
+python-magic-filter
 python-mako
 python-markdown
 python-markdown-it-py

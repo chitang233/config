@@ -120,7 +120,7 @@ brltty 6.6-11
 brotli 1.1.0-2
 btop 1.4.0-3
 btrfs-assistant 2.1.1-1
-btrfs-progs 6.10.1-2
+btrfs-progs 6.11-1
 btrfsmaintenance 0.5.2-1
 bubblewrap 0.10.0-1
 busybox 1.36.1-2
@@ -155,7 +155,7 @@ checkra1n-cli 0.12.4-3
 checkra1n-gui 0.12.4-4
 cheese 44.1-3
 chromaprint 1.5.1-8
-chromium 129.0.6668.70-1
+chromium 129.0.6668.89-1
 cifs-utils 7.0-5
 ciphey 5.14.0-7
 cjson 1.7.18-1
@@ -287,7 +287,7 @@ f2fs-tools 1.16.0-3
 faac 1.30-5
 faad2 2.11.1-1
 fakeroot 1.36-1
-fastfetch 2.26.1-1
+fastfetch 2.26.1-2
 fcitx5 5.1.10-2
 fcitx5-anthy 5.1.4-1
 fcitx5-chinese-addons 5.1.6-4
@@ -362,8 +362,8 @@ gconf 3.2.6+11+g07808097-12
 gcr 3.41.2-2
 gcr-4 4.3.0-1
 gd 2.3.3-8
-gdb 15.1-1
-gdb-common 15.1-1
+gdb 15.2-1
+gdb-common 15.2-1
 gdbm 1.24-1
 gdk-pixbuf2 2.42.12-1
 gegl 0.4.48-4
@@ -381,7 +381,7 @@ git-completion 2.0-1
 git-credential-manager-bin 2.5.1-1
 git-crypt 0.7.0-3
 git-lfs 3.5.1-1
-github-cli 2.57.0-1
+github-cli 2.58.0-1
 gitoxide 0.37.0-2
 gksu 2.0.2-6.2
 glew 2.2.0-7
@@ -534,7 +534,7 @@ iproute2 6.11.0-1
 ipscan 3.9.1-3
 iptables 1:1.8.10-2
 iputils 20240905-1
-ipython 8.27.0-1
+ipython 8.28.0-1
 iso-codes 4.17.0-1
 iw 6.9-1
 jadx 1.5.0-1
@@ -679,7 +679,7 @@ kquickcharts 6.6.0-1
 krb5 1.21.3-1
 krecorder 24.08.1-1
 krfb 24.08.1-1
-krita 5.2.5-2
+krita 5.2.6-1
 krunner 6.6.0-1
 kscreen 6.1.5-1
 kscreenlocker 6.1.5-1
@@ -1040,7 +1040,7 @@ libgoom2 2k4-5
 libgpg-error 1.50-1
 libgphoto2 2.5.31-2
 libgrss 0.7.0+16+g971c421-3
-libgsf 1.14.52-1
+libgsf 1.14.53-1
 libgtop 2.41.3-2
 libgudev 238-1
 libgusb 0.4.9-1
@@ -1179,7 +1179,7 @@ libpulse 17.0-3
 libpwquality 1.4.5-5
 libqaccessibilityclient-qt6 0.6.0-1
 libqalculate 5.2.0.1-1
-libqmi 1.34.0-1
+libqmi 1.34.0-2
 libqrtr-glib 1.2.2-3
 libqxp 0.0.2-12
 libraqm 0.10.2-1
@@ -1334,8 +1334,8 @@ linux-firmware 20240909.552ed9b8-1
 linux-firmware-whence 20240909.552ed9b8-1
 linux-steam-integration 0.7.3-9
 linux-wifi-hotspot 1:4.7.2-1
-linux-zen 6.10.10.zen1-1
-linux-zen-headers 6.10.10.zen1-1
+linux-zen 6.11.1.zen1-1
+linux-zen-headers 6.11.1.zen1-1
 lirc 1:0.10.2-4
 live-media 2024.04.19-1
 lksctp-tools 1.0.20-1
@@ -1355,7 +1355,7 @@ lua 5.4.7-1
 lua-alt-getopt 0.8.0-2
 lua-filesystem 1.8.0-4
 lua51 5.1.5-12
-lua51-lpeg 1.1.0-2
+lua51-lpeg 1.1.0-3
 lua51-socket 1:3.1.0-1
 lua52 5.2.4-7
 lua53 5.3.6-3
@@ -1377,7 +1377,7 @@ mangohud 0.7.2-2
 marisa 0.2.6-14
 markdownpart 24.08.1-1
 mbedtls 3.6.1-1
-mbedtls2 2.28.8-3
+mbedtls2 2.28.9-1
 md4c 0.5.2-1
 mda.lv2 1.2.10-2
 mdadm 4.3-2
@@ -1393,7 +1393,7 @@ meson 1.5.2-1
 mgba-qt 0.10.3-2
 mgba-sdl 0.10.3-2
 microsoft-edge-beta-bin 130.0.2849.5-1
-mihomo 1.18.8-1
+mihomo-git alpha.20241001.3048.ecd8facd-1
 milou 6.1.5-1
 mimetreeparser 24.08.1-1
 mindustry 1:7.0.146-1
@@ -1408,7 +1408,7 @@ mitmproxy 10.4.2-1
 mjpegtools 2.2.1-2
 mkbold-mkitalic 0.11-2
 mkdocs 1.6.0-1
-mkdocs-material 9.5.38-1
+mkdocs-material 9.5.39-1
 mkdocs-material-extensions 1.3.1-1
 mkdocs-minify-plugin 0.8.0-1
 mkinitcpio 39.2-2
@@ -1667,11 +1667,12 @@ pulseaudio-qt 1.6.0-1
 purpose 6.6.0-1
 pyinstaller 6.10.0-2
 pyinstaller-hooks-contrib 2024.8-1
-pyright 1.1.382-1
+pyright 1.1.383-1
 pystring 1.1.4-2
 python 3.12.6-1
 python-absl 2.1.0-2
-python-aiogram 2.22.2-4
+python-aiofiles 24.1.0-1
+python-aiogram 3.13.1-1
 python-aiohappyeyeballs 2.4.3-1
 python-aiohttp 3.10.5-1
 python-aioquic 1.2.0-1
@@ -1717,10 +1718,10 @@ python-contourpy 1.3.0-1
 python-coverage 7.6.1-1
 python-crashtest 0.4.1-3
 python-cryptg 0.4-1
-python-cryptography 42.0.7-1
+python-cryptography 42.0.8-1
 python-csscompressor 0.9.5-7
 python-cssselect 1.2.0-6
-python-cssselect2 0.7.0-4
+python-cssselect2 0.7.0-5
 python-cycler 0.12.1-2
 python-dateutil 2.9.0-5
 python-dbus 1.3.2-4
@@ -1740,7 +1741,7 @@ python-entrypoints 0.4-4
 python-evdev 1.7.1-1
 python-execnet 2.0.2-3
 python-executing 2.1.0-1
-python-faker 28.3.0-1
+python-faker 28.4.0-1
 python-fastapi 0.115.0-1
 python-fastbencode 0.3.1-1
 python-fastimport 0.9.14-5
@@ -1751,7 +1752,7 @@ python-filelock 3.13.3-2
 python-flask 2.3.3-2
 python-fonttools 4.54.1-1
 python-fqdn 1.5.1-3
-python-frozenlist 1.4.1-2
+python-frozenlist 1.4.1-3
 python-fsspec 2024.9.0-2
 python-gbinder 1.1.2-4
 python-ghp-import 2.1.0-2
@@ -1765,7 +1766,7 @@ python-h2 4.1.0-4
 python-hatch-nodejs-version 0.3.2-2
 python-hatch-requirements-txt 0.4.1-2
 python-hatchling 1.25.0-1
-python-hiredis 2.3.2-1
+python-hiredis 3.0.0-1
 python-hpack 4.0.0-5
 python-html5lib 1.1-14
 python-htmlmin2 0.1.13-1
@@ -1803,6 +1804,7 @@ python-lockfile 0.12.2-13
 python-loguru 0.7.2-2
 python-lxml 5.3.0-1
 python-magic 1:0.4.27-4
+python-magic-filter 1.0.12-3
 python-mako 1.3.5-1
 python-markdown 3.7-1
 python-markdown-it-py 3.0.0-2
@@ -1880,7 +1882,7 @@ python-pygments 2.18.0-1
 python-pyinotify 0.9.6-14
 python-pylint 3.3.1-1
 python-pylsqpack 0.3.18-2
-python-pymdown-extensions 10.11-1
+python-pymdown-extensions 10.11.1-1
 python-pynacl 1.5.0-2
 python-pynvim 0.5.0-3
 python-pyopenssl 24.2.1-1
@@ -1914,20 +1916,20 @@ python-pyxdg 0.28-3
 python-pyyaml-env-tag 0.1-1
 python-rapidfuzz 3.6.2-3
 python-rapidjson 1.16-1
-python-redis 5.0.8-1
+python-redis 5.1.0-1
 python-referencing 0.35.1-1
 python-regex 2024.9.11-1
 python-requests 2.32.3-1
 python-requests-toolbelt 1.0.0-2
 python-rfc3339-validator 0.1.4-6
-python-rich 13.8.1-1
+python-rich 13.9.1-1
 python-rpds-py 0.19.0-1
 python-rsa 4.9-4
 python-ruamel-yaml 0.18.6-2
 python-ruamel.yaml.clib 0.2.8-2
 python-scrypt 0.8.24-2
 python-secretstorage 3.3.3-5
-python-sentry_sdk 2.14.0-1
+python-sentry_sdk 2.15.0-1
 python-service-identity 23.1.0-2
 python-setproctitle 1.3.3-2
 python-setuptools 1:69.5.1-1
@@ -2114,7 +2116,7 @@ qt5-xmlpatterns 5.15.15-1
 qt5pas 1:1.2.15-1
 qt6-3d 6.7.3-1
 qt6-5compat 6.7.3-1
-qt6-base 6.7.3-1
+qt6-base 6.7.3-2
 qt6-charts 6.7.3-1
 qt6-connectivity 6.7.3-1
 qt6-datavis3d 6.7.3-1
@@ -2334,7 +2336,7 @@ trash-cli 0.24.5.26-1
 trayscale 0.13.5-1
 tre 0.9.0-1
 tree 2.1.3-1
-tree-sitter 0.23.1-1
+tree-sitter 0.23.2-1
 tree-sitter-bash 0.23.1-1
 tree-sitter-c 0.23.1-1
 tree-sitter-lua 0.2.0-1
@@ -2630,7 +2632,7 @@ yubikey-personalization-gui 3.1.25-3
 yubioath-desktop 5.1.0-3
 yyjson 0.10.0-1
 zbar 0.23.93-1
-zed 0.154.3-1
+zed 0.155.2-1
 zenity 4.0.2-1
 zeromq 4.3.5-2
 zerotier-gui-git 1.4.0.r88.6be475e-1
