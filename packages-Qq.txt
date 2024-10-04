@@ -74,6 +74,19 @@ autoconf-archive
 automake
 avahi
 avisynthplus
+aws-c-auth
+aws-c-cal
+aws-c-common
+aws-c-compression
+aws-c-event-stream
+aws-c-http
+aws-c-io
+aws-c-mqtt
+aws-c-s3
+aws-c-sdkutils
+aws-checksums
+aws-crt-cpp
+aws-sdk-cpp
 axel
 ayatana-ido
 babl
@@ -256,6 +269,7 @@ dvisvgm
 e2fsprogs
 easyeffects
 ebook-tools
+editline
 editorconfig-core-c
 edk2-aarch64
 edk2-arm
@@ -1346,6 +1360,7 @@ lm_sensors
 lmdb
 lmms
 localsearch
+lowdown
 lpsolve
 lsb-release
 lsof
@@ -1408,6 +1423,7 @@ mitmproxy
 mjpegtools
 mkbold-mkitalic
 mkdocs
+mkdocs-get-deps
 mkdocs-material
 mkdocs-material-extensions
 mkdocs-minify-plugin
@@ -1461,6 +1477,8 @@ nfsidmap
 nftables
 nilfs-utils
 ninja
+nix
+nix-busybox
 nmap
 nnn
 node-gyp
@@ -1776,6 +1794,7 @@ python-hyperframe
 python-hypothesis
 python-idna
 python-imagesize
+python-importlib-metadata
 python-inflect
 python-iniconfig
 python-installer
@@ -1986,6 +2005,7 @@ python-xmltodict
 python-yaml
 python-yarl
 python-yubico
+python-zipp
 python-zstandard
 python311
 qalculate-qt
@@ -2191,6 +2211,7 @@ run-parts
 runc
 rustdesk-bin
 rustup
+s2n-tls
 samba
 sbc
 sbctl
