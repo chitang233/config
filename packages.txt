@@ -212,6 +212,7 @@ cups-pk-helper 0.2.7-2
 curl 8.10.1-1
 cyrus-sasl-gssapi 2.1.28-4
 daed 0.8.0-1
+dart 3.5.3-1
 dav1d 1.4.3-1
 db5.3 5.3.28-5
 dbus 1.14.10-2
@@ -336,7 +337,22 @@ flex 2.6.4-5
 flite 2.2-2
 fltk 1.3.9-1
 fluidsynth 2.3.6-1
+flutter 3.24.2-4
+flutter-common 3.24.2-4
+flutter-devel 3.24.2-4
 flutter-engine 1:1.0.8-1
+flutter-engine-android-google-bin 3.24.2-10
+flutter-engine-common-google-bin 3.24.2-10
+flutter-engine-linux-google-bin 3.24.2-10
+flutter-engine-web-google-bin 3.24.2-10
+flutter-gradle 3.24.2-4
+flutter-intellij-patch 3.24.2-4
+flutter-material-fonts-google-bin 3.24.2-10
+flutter-sky-engine-google-bin 3.24.2-10
+flutter-target-android 3.24.2-4
+flutter-target-linux 3.24.2-4
+flutter-target-web 3.24.2-4
+flutter-tool 3.24.2-4
 fmt 11.0.2-1
 fmt10 10.2.1-2
 fmt9 9.1.0-6
@@ -1376,7 +1392,7 @@ lua52 5.2.4-7
 lua53 5.3.6-3
 luajit 2.1.1725453128-1
 lunar-client 3.2.19-1
-lutris-git 0.5.17.r334.g0705a8b5b-1
+lutris-git 0.5.17.r337.gd14b6c324-1
 lv2 1.18.10-1
 lvm2 2.03.26-1
 lxc 1:6.0.2-1
@@ -1491,7 +1507,7 @@ noto-fonts-emoji 1:2.047-1
 noto-fonts-emoji-blob 1:15.0-1
 noto-fonts-extra 1:24.9.1-1
 npm 10.8.3-1
-npm-check-updates 17.0.2-1
+npm-check-updates 17.0.3-1
 npth 1.7-1
 nspr 4.35-3
 nss 3.105-1
@@ -1677,6 +1693,7 @@ procps-ng 4.0.4-3
 projectm 3.1.12-5
 protobuf 28.2-1
 protobuf-c 1.5.0-7
+protoc-gen-prost 0.3.1-1
 prrte 3.0.6-1
 psmisc 23.7-1
 publicsuffix-list 20240306.1440.9094af5-1
@@ -2013,7 +2030,7 @@ qbittorrent-enhanced 4.6.7.10-1
 qbittorrent-vuetorrent-bin 2.12.0-1
 qca-qt5 2.3.9-2
 qca-qt6 2.3.9-2
-qcoro-qt6 0.10.0-1
+qcoro 0.11.0-1
 qemu-audio-alsa 9.1.0-2
 qemu-audio-dbus 9.1.0-2
 qemu-audio-jack 9.1.0-2
@@ -2404,7 +2421,7 @@ udisks2-btrfs 2.10.1-5
 ueberzug 18.2.3-1
 unace 2.5-11
 unarchiver 1.10.8-3
-unbound 1.21.0-2
+unbound 1.21.1-1
 unibilium 2.1.1-2
 unixodbc 2.3.12-2
 unrar 1:7.0.9-1
@@ -2418,7 +2435,7 @@ util-linux 2.40.2-1
 util-linux-libs 2.40.2-1
 uudeck 2023.1.10.1600-3
 v2ray-domain-list-community 20240920063125-1
-v2ray-geoip 202409260052-1
+v2ray-geoip 202410030052-1
 v4l-utils 1.28.1-1
 v4l2loopback-dkms 0.13.2-1
 v4l2loopback-utils 0.13.2-1
