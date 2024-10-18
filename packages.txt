@@ -1426,7 +1426,7 @@ meson 1.5.2-1
 mgba-qt 0.10.3-2
 mgba-sdl 0.10.3-2
 microsoft-edge-beta-bin 130.0.2849.43-1
-mihomo-git alpha.20241001.3048.ecd8facd-1
+mihomo-git alpha.20241012.3060.ca3f1eba-1
 milou 6.2.1-1
 mimetreeparser 24.08.2-1
 mindustry 1:7.0.146-1
