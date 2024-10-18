@@ -2451,7 +2451,7 @@ vdpauinfo 1.5-2
 ventoy-bin 1.0.99-1
 verdict 1.4.2-1
 vid.stab 1.1.1-2
-viddy-git 1.1.5.r0.ge700171-1
+viddy-git 1.2.0.r0.gd596c0b-1
 vim 9.1.0785-1
 vim-plug 0.14.0-1
 vim-runtime 9.1.0785-1
