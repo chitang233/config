@@ -281,6 +281,7 @@ efivar
 egl-wayland
 eglexternalplatform
 electron32
+electron33
 elfutils
 elinks
 elisa
@@ -969,6 +970,7 @@ libblockdev-loop
 libblockdev-mdraid
 libblockdev-nvme
 libblockdev-part
+libblockdev-smart
 libblockdev-swap
 libbluray
 libbpf
@@ -1562,6 +1564,7 @@ openssl
 openssl-1.1
 openucx
 openvr
+openxr
 opus
 opusfile
 orc
