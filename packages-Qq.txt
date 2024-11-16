@@ -41,7 +41,6 @@ appstream-qt5
 apr
 apr-util
 arch-install-scripts
-archlinux-java-run
 archlinux-keyring
 archlinuxcn-keyring
 ares-decrypt
@@ -280,7 +279,6 @@ efitools
 efivar
 egl-wayland
 eglexternalplatform
-electron32
 electron33
 elfutils
 elinks
@@ -298,6 +296,7 @@ exiv2
 expac
 expat
 expect
+extra-cmake-modules
 eza
 f2fs-tools
 faac
@@ -402,6 +401,7 @@ geoclue
 geoipupdate
 gettext
 gg
+ghc-filesystem
 ghex
 ghidra
 ghostscript
@@ -433,6 +433,7 @@ glusterfs
 gmp
 gn
 gnirehtet-bin
+gnome-autoar
 gnome-bluetooth
 gnome-calculator
 gnome-desktop
@@ -451,6 +452,7 @@ go
 go-musicfox-git
 gobject-introspection
 gobject-introspection-runtime
+gocryptfs
 gom
 google-cloud-cli
 goreleaser
@@ -575,6 +577,7 @@ java-environment-common
 java-runtime-common
 jbig2dec
 jbigkit
+jdk17-openjdk
 jdk8-graalvm-bin
 jemalloc
 jetbrains-toolbox
@@ -794,6 +797,7 @@ lib32-gtk3
 lib32-harfbuzz
 lib32-icu
 lib32-imlib2
+lib32-json-c
 lib32-keyutils
 lib32-krb5
 lib32-lcms2
@@ -856,7 +860,6 @@ lib32-libunistring
 lib32-libunwind
 lib32-libusb
 lib32-libva
-lib32-libva-mesa-driver
 lib32-libvdpau
 lib32-libvorbis
 lib32-libvpx
@@ -891,7 +894,6 @@ lib32-llvm-libs
 lib32-lm_sensors
 lib32-mangohud
 lib32-mesa
-lib32-mesa-vdpau
 lib32-mpg123
 lib32-ncurses
 lib32-ncurses5-compat-libs
@@ -1163,8 +1165,10 @@ libmwaw
 libmypaint
 libmysofa
 libnatpmp
+libnautilus-extension
 libnbd
 libndp
+libnet
 libnetfilter_conntrack
 libnewt
 libnfnetlink
@@ -1204,6 +1208,7 @@ libpng
 libpng12
 libportal
 libportal-gtk3
+libportal-gtk4
 libppd
 libproxy
 libpsl
@@ -1285,7 +1290,6 @@ libutempter
 libutf8proc
 libuv
 libva
-libva-mesa-driver
 libva-utils
 libvdpau
 libverto
@@ -1421,7 +1425,6 @@ mercurial
 mesa
 mesa-demos
 mesa-utils
-mesa-vdpau
 meson
 mgba-qt
 mgba-sdl
@@ -1470,6 +1473,7 @@ multipath-tools
 mypaint-brushes1
 nano
 nasm
+nautilus
 navi
 nbtexplorer
 ncompress
@@ -1609,6 +1613,7 @@ pciutils
 pcre
 pcre2
 pcsclite
+peerbanhelper
 perl
 perl-archive-zip
 perl-clone
@@ -1685,6 +1690,7 @@ portaudio
 portmidi
 portsmf
 potrace
+power-profiles-daemon
 powerdevil
 poxml
 ppp
@@ -1734,6 +1740,7 @@ python-base91
 python-bcrypt
 python-beautifulsoup4
 python-blinker
+python-bottle
 python-brotli
 python-build
 python-cachecontrol
@@ -1822,6 +1829,7 @@ python-isoduration
 python-isort
 python-itsdangerous
 python-jaraco.classes
+python-jaraco.collections
 python-jaraco.context
 python-jaraco.functools
 python-jaraco.text
@@ -1838,7 +1846,6 @@ python-keyring
 python-kiwisolver
 python-lark-parser
 python-ldap3
-python-livereload
 python-lockfile
 python-loguru
 python-lxml
@@ -2237,6 +2244,7 @@ sbc
 sbctl
 sbkeys
 sbsigntools
+scdoc
 schedtool
 scour
 scrcpy
@@ -2318,6 +2326,7 @@ stella
 stk
 stoken
 strace
+stripe-cli
 subversion
 sudo
 suil
@@ -2578,6 +2587,7 @@ xdg-desktop-portal-gtk
 xdg-desktop-portal-kde
 xdg-desktop-portal-wlr
 xdg-user-dirs
+xdg-user-dirs-gtk
 xdg-utils
 xdotool
 xf86-input-evdev
@@ -2683,6 +2693,7 @@ zip
 zita-convolver
 zix
 zlib
+zlib-ng
 zoxide
 zsh
 zsh-completions
