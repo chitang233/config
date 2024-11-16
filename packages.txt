@@ -1429,7 +1429,7 @@ meson 1.6.0-1
 mgba-qt 0.10.3-3
 mgba-sdl 0.10.3-3
 microsoft-edge-beta-bin 131.0.2903.14-1
-mihomo-git alpha.20241012.3060.ca3f1eba-1
+mihomo-git alpha.20241114.3073.de19f927-1
 milou 6.2.3-1
 mimetreeparser 24.08.3-1
 mindustry 1:7.0.146-1
@@ -2383,7 +2383,7 @@ traceroute 2.1.5-1
 translate-shell 0.9.7.1-2
 transmission-cli 4.0.6-2
 trash-cli 0.24.5.26-1
-trayscale 0.13.5-1
+trayscale 0.14.0-1
 tre 0.9.0-1
 tree 2.1.3-1
 tree-sitter 0.24.3-1
