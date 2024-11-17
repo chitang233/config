@@ -271,9 +271,9 @@ easyeffects 7.1.8-2
 ebook-tools 0.2.2-8
 editline 1.17.1-3
 editorconfig-core-c 0.12.9-1
-edk2-aarch64 202408-2
-edk2-arm 202408-2
-edk2-ovmf 202408-2
+edk2-aarch64 202408.01-1
+edk2-arm 202408.01-1
+edk2-ovmf 202408.01-1
 efibootmgr 18-3
 efitools 1.9.2-5
 efivar 39-1
@@ -288,7 +288,7 @@ enchant 2.8.2-1
 enet 1.3.18-1
 erofs-utils 1.8.2-1
 esbuild 0.24.0-1
-eslint 9.14.0-1
+eslint 9.15.0-1
 espeak-ng 1.51.1-4
 ethtool 1:6.9-1
 exempi 2.6.5-1
@@ -377,7 +377,7 @@ fuse-overlayfs 1.14-1
 fuse2 2.9.9-5
 fuse3 3.16.2-1
 fuseiso 20070708-9
-fzf 0.55.0-1
+fzf 0.56.3-1
 gamemode 1.8.2-1
 gamescope 3.15.14-1
 gavl 1.4.0-8
@@ -409,7 +409,7 @@ giflib 5.2.2-1
 gimp 2.10.38-5
 git 2.47.0-1
 git-completion 2.0-1
-git-credential-manager-bin 2.5.1-1
+git-credential-manager-bin 2.6.0-1
 git-crypt 0.7.0-3
 git-lfs 3.5.1-1
 github-cli 2.62.0-1
@@ -431,7 +431,7 @@ glslang 14.3.0-1
 glu 9.0.3-2
 glusterfs 1:11.1-2
 gmp 6.3.0-2
-gn 0.2174.b3a0bff4-1
+gn 0.2201.feafd101-1
 gnirehtet-bin 2.5.1-1
 gnome-autoar 0.4.5-1
 gnome-bluetooth 3.34.5+r16+g61cfff1c-2
@@ -964,16 +964,16 @@ libayatana-appindicator 0.5.93-1
 libayatana-indicator 0.9.4-1
 libb2 0.98.1-3
 libb64 1.2.1-5
-libblockdev 3.2.1-1
-libblockdev-btrfs 3.2.1-1
-libblockdev-crypto 3.2.1-1
-libblockdev-fs 3.2.1-1
-libblockdev-loop 3.2.1-1
-libblockdev-mdraid 3.2.1-1
-libblockdev-nvme 3.2.1-1
-libblockdev-part 3.2.1-1
-libblockdev-smart 3.2.1-1
-libblockdev-swap 3.2.1-1
+libblockdev 3.2.1-2
+libblockdev-btrfs 3.2.1-2
+libblockdev-crypto 3.2.1-2
+libblockdev-fs 3.2.1-2
+libblockdev-loop 3.2.1-2
+libblockdev-mdraid 3.2.1-2
+libblockdev-nvme 3.2.1-2
+libblockdev-part 3.2.1-2
+libblockdev-smart 3.2.1-2
+libblockdev-swap 3.2.1-2
 libbluray 1.3.4-2
 libbpf 1.4.3-1
 libbs2b 3.1.0-9
@@ -1185,7 +1185,7 @@ libnotify 0.8.3-1
 libnova 0.15.0-4
 libnsl 2.0.1-1
 libnumbertext 1.0.11-2
-libnvme 1.10-1
+libnvme 1.11.1-1
 liboauth 1:1.0.3+r16+gc26f038-2
 libodfgen 0.1.8-3
 libogg 1.3.5-2
@@ -1225,7 +1225,7 @@ libraw1394 2.1.2-4
 libreoffice-fresh 24.8.3-1
 libreoffice-fresh-zh-cn 24.8.3-1
 librevenge 0.0.5-3
-librewolf 130.0-3
+librewolf 132.0.2-1
 librsvg 2:2.59.2-1
 librtmp0 2.4-6
 libsamplerate 0.2.2-3
@@ -1397,8 +1397,8 @@ lua51-socket 1:3.1.0-1
 lua52 5.2.4-7
 lua53 5.3.6-3
 luajit 2.1.1727870382-1
-lunar-client 3.2.26-1
-lutris-git 0.5.17.r494.gc82fc2f56-1
+lunar-client 3.2.27-1
+lutris-git 0.5.17.r495.g7fa3f3bcb-1
 lv2 1.18.10-1
 lvm2 2.03.28-1
 lxc 1:6.0.2-1
@@ -1428,7 +1428,7 @@ mesa-utils 9.0.0-5
 meson 1.6.0-1
 mgba-qt 0.10.3-3
 mgba-sdl 0.10.3-3
-microsoft-edge-beta-bin 131.0.2903.14-1
+microsoft-edge-beta-bin 131.0.2903.51-1
 mihomo-git alpha.20241114.3073.de19f927-1
 milou 6.2.3-1
 mimetreeparser 24.08.3-1
@@ -1555,7 +1555,7 @@ opencv 4.10.0-14
 opendoas 6.8.2-3
 openexr 3.3.2-1
 openfec 1.4.2.11-1
-openh264 2.4.1-1
+openh264 2.5.0-1
 openjade 1.3.2-8
 openjpeg2 2.5.2-1
 openmpi 5.0.5-2
@@ -1779,7 +1779,7 @@ python-distro 1.9.0-2
 python-docopt 0.6.2-13
 python-docutils 1:0.21.2-1
 python-dotenv 1.0.1-2
-python-dulwich 0.22.5-1
+python-dulwich 0.22.6-1
 python-editables 0.5-3
 python-emoji 2.14.0-1
 python-entrypoints 0.4-4
@@ -1793,7 +1793,7 @@ python-fastimport 0.9.14-5
 python-fastjsonschema 2.20.0-1
 python-fastpbkdf2 0.2-12
 python-fido2 1.1.3-2
-python-filelock 3.13.3-2
+python-filelock 3.16.1-1
 python-flask 2.3.3-2
 python-fonttools 4.55.0-1
 python-fqdn 1.5.1-3
@@ -1878,7 +1878,7 @@ python-opencv 4.10.0-14
 python-opengl 3.1.7-1
 python-ordered-set 4.1.0-5
 python-outcome 1.3.0.post0-4
-python-packaging 24.1-1
+python-packaging 24.2-1
 python-paginate 0.5.7-1
 python-paramiko 3.4.0-2
 python-parso 1:0.8.4-2
@@ -2024,7 +2024,7 @@ python-wcwidth 0.2.13-2
 python-webencodings 0.5.1-11
 python-websockets 12.0-2
 python-werkzeug 3.0.4-1
-python-wheel 0.44.0-2
+python-wheel 0.45.0-1
 python-wsproto 1.2.0-4
 python-wxpython 1:4.2.1-2
 python-xcffib 1.5.0-1
@@ -2213,7 +2213,7 @@ rapidjson 1.1.0-6
 raptor 2.0.16-5
 rasqal 1:0.9.33-7
 rav1e 0.7.1-1
-rclone 1.68.1-1
+rclone 1.68.2-1
 rclone-browser 1.8.0-3
 re2 1:20240702-2
 readline 8.2.013-1
@@ -2235,7 +2235,7 @@ rtl-sdr 1:2.0.2-1
 rtmpdump 1:2.4.r105.6f6bb13-1
 rubberband 4.0.0-1
 run-parts 5.17-1
-runc 1.2.1-1
+runc 1.2.2-1
 rustdesk-bin 1.3.2-1
 rustup 1.27.1-1
 s2n-tls 1.5.9-1
@@ -2328,7 +2328,7 @@ stoken 0.92-4
 strace 6.11-1
 stripe-cli 1.21.11-1
 subversion 1.14.3-3
-sudo 1.9.16-1
+sudo 1.9.16.p1-1
 suil 0.10.20-1
 suitesparse 7.8.3-1
 suyu-bin 0.0.4-3
@@ -2460,7 +2460,7 @@ vdpauinfo 1.5-2
 ventoy-bin 1.0.99-1
 verdict 1.4.2-1
 vid.stab 1.1.1-2
-viddy-git 1.2.0.r0.gd596c0b-1
+viddy-git 1.2.1.r0.gb8e3515-1
 vim 9.1.0866-1
 vim-plug 0.14.0-1
 vim-runtime 9.1.0866-1
