@@ -122,6 +122,7 @@ bolt
 boost
 boost-libs
 box2d
+bpf
 breeze
 breeze-grub
 breeze-gtk
@@ -1607,6 +1608,7 @@ partitionmanager
 paru
 pass
 patch
+patchelf
 pcaudiolib
 pcem
 pciutils
@@ -2251,6 +2253,7 @@ scrcpy
 screen
 screenkey
 scrub
+scx-scheds
 sddm
 sddm-kcm
 sdl12-compat
