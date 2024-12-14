@@ -111,6 +111,7 @@ binutils
 bison
 blas
 bleachbit
+bless
 blueberry
 bluedevil
 bluez
@@ -238,6 +239,7 @@ distrobox
 djvulibre
 dkms
 dleyna
+dmd
 dmenu
 dmidecode
 dnsmasq
@@ -362,6 +364,8 @@ foomatic-db
 foomatic-db-nonfree
 foomatic-db-nonfree-ppds
 foomatic-db-ppds
+fpc
+fpc-src
 frameworkintegration
 freeglut
 freerdp
@@ -403,7 +407,6 @@ geoipupdate
 gettext
 gg
 ghc-filesystem
-ghex
 ghidra
 ghostscript
 giflib
@@ -428,6 +431,7 @@ glibmm
 glibmm-2.68
 glm
 glmark2
+glow
 glslang
 glu
 glusterfs
@@ -495,6 +499,7 @@ gst-plugins-ugly
 gstreamer
 gtest
 gtk-doc
+gtk-sharp-2
 gtk-update-icon-cache
 gtk-vnc
 gtk2
@@ -505,6 +510,7 @@ gtksourceview4
 gtksourceview5
 gts
 guile
+gum
 gupnp
 gupnp-av
 gupnp-dlna
@@ -751,6 +757,7 @@ ladspa
 lame
 lapack
 layer-shell-qt
+lazarus
 lcms2
 ldb
 ldns
@@ -928,6 +935,7 @@ lib32-sdl_image
 lib32-sdl_mixer
 lib32-sdl_ttf
 lib32-simplescreenrecorder
+lib32-spirv-tools
 lib32-sqlite
 lib32-systemd
 lib32-tdb
@@ -1201,6 +1209,7 @@ libparserutils
 libpcap
 libpciaccess
 libpgm
+libphobos
 libpipewire
 libplacebo
 libplasma
@@ -1226,7 +1235,6 @@ libraw1394
 libreoffice-fresh
 libreoffice-fresh-zh-cn
 librevenge
-librewolf
 librsvg
 librtmp0
 libsamplerate
@@ -2227,6 +2235,7 @@ repo
 revda-git
 rhash
 ripgrep
+ripgrep-all
 rlwrap
 rnnoise
 roc-toolkit
