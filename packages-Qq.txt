@@ -1474,7 +1474,6 @@ ncurses
 ncurses5-compat-libs
 ndctl
 nekoray-git
-neofetch
 neon
 neovim
 nerdfix
@@ -2138,8 +2137,6 @@ qt5-remoteobjects
 qt5-script
 qt5-scxml
 qt5-sensors
-qt5-serialbus
-qt5-serialport
 qt5-speech
 qt5-svg
 qt5-tools

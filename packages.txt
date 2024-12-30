@@ -1474,7 +1474,6 @@ ncurses 6.5-3
 ncurses5-compat-libs 6.5-1
 ndctl 79-1
 nekoray-git 4.0.1.r0.gadef6cd-3
-neofetch 7.1.0-2
 neon 0.34.0-1
 neovim 0.10.2-2
 nerdfix 0.4.2-1
@@ -2138,8 +2137,6 @@ qt5-remoteobjects 5.15.16-3
 qt5-script 5.15.18-4
 qt5-scxml 5.15.16-3
 qt5-sensors 5.15.16-3
-qt5-serialbus 5.15.16-1
-qt5-serialport 5.15.16-3
 qt5-speech 5.15.16+kde+r1-3
 qt5-svg 5.15.16+kde+r5-3
 qt5-tools 5.15.16+kde+r3-3
