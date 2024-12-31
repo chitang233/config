@@ -1,3 +1,4 @@
+7zip
 a52dec
 aalib
 abseil-cpp
@@ -31,7 +32,6 @@ android-udev
 anthy
 antimicrox
 aom
-aosp-devel
 apparmor
 appimagelauncher
 appmenu-gtk-module
@@ -273,8 +273,6 @@ easyeffects
 ebook-tools
 editline
 editorconfig-core-c
-edk2-aarch64
-edk2-arm
 edk2-ovmf
 efibootmgr
 efitools
@@ -331,7 +329,7 @@ filesystem
 findutils
 fio
 firefox-nightly-bin
-firefox-pwa
+firefoxpwa
 flac
 flake8
 flatpak-xdg-utils
@@ -448,7 +446,6 @@ goreleaser
 goverlay-git
 gpart
 gparted
-gperf
 gperftools
 gpgme
 gpm
@@ -888,7 +885,6 @@ lib32-mangohud
 lib32-mesa
 lib32-mpg123
 lib32-ncurses
-lib32-ncurses5-compat-libs
 lib32-nettle
 lib32-nspr
 lib32-nss
@@ -909,7 +905,6 @@ lib32-pipewire-jack
 lib32-pipewire-v4l2
 lib32-pixman
 lib32-polkit
-lib32-readline
 lib32-sdl12-compat
 lib32-sdl2
 lib32-sdl2_image
@@ -1357,7 +1352,6 @@ libzip
 libzmf
 licenses
 lilv
-lineageos-devel
 linux-api-headers
 linux-firmware
 linux-firmware-whence
@@ -1477,7 +1471,6 @@ nekoray-git
 neon
 neovim
 nerdfix
-nestopia
 net-tools
 netease-cloud-music-gtk4
 nethack
@@ -1580,7 +1573,6 @@ otf-misans-tc
 otf-misans-thai
 otf-misans-tibetan
 p11-kit
-p7zip
 p8-platform
 pacman
 pacman-mirrorlist
@@ -1631,7 +1623,6 @@ perl-lwp-protocol-https
 perl-mailtools
 perl-net-http
 perl-net-ssleay
-perl-switch
 perl-timedate
 perl-try-tiny
 perl-uri
@@ -1667,7 +1658,6 @@ plasma-workspace
 plasma5support
 plasma6-applets-window-title
 plog
-pngcrush
 pngquant
 pnpm
 polkit
@@ -1839,6 +1829,7 @@ python-keyring
 python-kiwisolver
 python-lark-parser
 python-ldap3
+python-legacy-cgi
 python-lockfile
 python-loguru
 python-lxml
@@ -2000,6 +1991,7 @@ python-tqdm
 python-traitlets
 python-trove-classifiers
 python-typeguard
+python-types-python-dateutil
 python-typing_extensions
 python-typing_inspect
 python-tzlocal
@@ -2053,7 +2045,6 @@ qemu-chardev-baum
 qemu-chardev-spice
 qemu-common
 qemu-desktop
-qemu-emulators-full
 qemu-hw-display-qxl
 qemu-hw-display-virtio-gpu
 qemu-hw-display-virtio-gpu-gl
@@ -2067,35 +2058,8 @@ qemu-hw-usb-redirect
 qemu-hw-usb-smartcard
 qemu-img
 qemu-pr-helper
-qemu-system-aarch64
-qemu-system-alpha
-qemu-system-alpha-firmware
-qemu-system-arm
-qemu-system-arm-firmware
-qemu-system-avr
-qemu-system-cris
-qemu-system-hppa
-qemu-system-hppa-firmware
-qemu-system-loongarch64
-qemu-system-m68k
-qemu-system-microblaze
-qemu-system-microblaze-firmware
-qemu-system-mips
-qemu-system-or1k
-qemu-system-ppc
-qemu-system-ppc-firmware
-qemu-system-riscv
-qemu-system-riscv-firmware
-qemu-system-rx
-qemu-system-s390x
-qemu-system-s390x-firmware
-qemu-system-sh4
-qemu-system-sparc
-qemu-system-sparc-firmware
-qemu-system-tricore
 qemu-system-x86
 qemu-system-x86-firmware
-qemu-system-xtensa
 qemu-tests
 qemu-tools
 qemu-ui-curses
@@ -2106,7 +2070,6 @@ qemu-ui-opengl
 qemu-ui-sdl
 qemu-ui-spice-app
 qemu-ui-spice-core
-qemu-user
 qemu-user-static
 qemu-vhost-user-gpu
 qgpgme-qt6
@@ -2237,7 +2200,6 @@ sbctl
 sbkeys
 sbsigntools
 scdoc
-schedtool
 scour
 scrcpy
 screen
@@ -2305,7 +2267,6 @@ spice-protocol
 spirv-headers
 spirv-tools
 sqlite
-squashfs-tools
 squashfuse
 sratom
 srt
@@ -2589,7 +2550,6 @@ xf86-input-libinput
 xf86-input-synaptics
 xf86-input-void
 xkeyboard-config
-xml2
 xmldiff
 xmlsec
 xmlstarlet
