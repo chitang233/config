@@ -152,6 +152,7 @@ cairo
 cairomm
 calf
 cantarell-fonts
+capnproto
 capstone
 catdoc
 catimg
@@ -305,14 +306,13 @@ fakeroot
 fastfetch
 fcitx5
 fcitx5-anthy
-fcitx5-chinese-addons
 fcitx5-configtool
 fcitx5-gtk
 fcitx5-lua
 fcitx5-material-color
 fcitx5-nord
-fcitx5-pinyin-zhwiki
 fcitx5-qt
+fcitx5-rime
 fd
 feh
 ffcall
@@ -387,6 +387,7 @@ gegl
 geoclue
 geoipupdate
 gettext
+gflags
 gg
 ghc-filesystem
 ghidra
@@ -442,6 +443,7 @@ gobject-introspection-runtime
 gocryptfs
 gom
 google-cloud-cli
+google-glog
 goreleaser
 goverlay-git
 gpart
@@ -744,6 +746,7 @@ ldb
 ldns
 lensfun
 less
+leveldb
 lf
 lhasa
 lib2geom
@@ -1080,7 +1083,6 @@ libidn11
 libidn2
 libiec61883
 libimagequant
-libime
 libimobiledevice
 libimobiledevice-glue
 libindi
@@ -1214,6 +1216,8 @@ libraw1394
 libreoffice-fresh
 libreoffice-fresh-zh-cn
 librevenge
+librime
+librime-data
 librsvg
 librtmp0
 libsamplerate
@@ -2178,6 +2182,14 @@ remmina
 repo
 revda-git
 rhash
+rime-bopomofo
+rime-cangjie
+rime-essay
+rime-ice-pinyin-git
+rime-luna-pinyin
+rime-prelude
+rime-stroke
+rime-terra-pinyin
 ripgrep
 ripgrep-all
 rlwrap
@@ -2331,6 +2343,7 @@ tmux
 toilet
 tomlplusplus
 tor
+tor-browser-bin
 torsocks
 totem-pl-parser
 tpm2-tss
