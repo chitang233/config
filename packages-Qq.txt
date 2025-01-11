@@ -86,6 +86,12 @@ aws-c-sdkutils
 aws-checksums
 aws-crt-cpp
 aws-sdk-cpp
+aws-sdk-cpp-core
+aws-sdk-cpp-ec2
+aws-sdk-cpp-firehose
+aws-sdk-cpp-iam
+aws-sdk-cpp-kinesis
+aws-sdk-cpp-s3
 axel
 ayatana-ido
 babl
@@ -432,6 +438,7 @@ gnome-music
 gnome-terminal
 gnome-video-effects
 gnu-free-fonts
+gnulib-l10n
 gnupg
 gnuplot
 gnustep-base
@@ -1467,6 +1474,7 @@ nasm
 nautilus
 navi
 nbtexplorer
+ncdu
 ncompress
 ncurses
 ncurses5-compat-libs
