@@ -267,6 +267,7 @@ efivar
 egl-wayland
 eglexternalplatform
 electron33
+electron34
 elfutils
 elinks
 elisa
