@@ -1498,7 +1498,6 @@ numactl
 nushell
 nvclock
 nvidia-535xx-dkms
-nvidia-535xx-settings
 nvidia-535xx-utils
 nvidia-prime
 nvidia-vaapi-driver-git
