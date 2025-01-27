@@ -1,7 +1,7 @@
 7zip 24.09-3
 a52dec 0.8.0-2
 aalib 1.4rc5-18
-abseil-cpp 20240722.0-1
+abseil-cpp 20240722.1-1
 accounts-qml-module 0.7-6
 accountsservice 23.13.9-2
 acl 2.3.2-1
@@ -248,7 +248,7 @@ dosbox 0.74.3-3
 dosfstools 4.2-5
 dotconf 1.4.1-1
 dotnet-host 9.0.1.sdk102-1
-dotnet-runtime-8.0 8.0.12.sdk112-1
+dotnet-runtime-8.0 8.0.12.sdk112-2
 double-conversion 3.3.0-2
 dpkg 1.22.14-1
 drkonqi 6.2.5-1
@@ -291,8 +291,8 @@ eza 0.20.18-1
 f2fs-tools 1.16.0-3
 faac 1.30-5
 faad2 2.11.1-1
-fakeroot 1.36.2-1
-fastfetch 2.34.1-1
+fakeroot 1.37-1
+fastfetch 2.35.0-1
 fcitx5 5.1.11-2
 fcitx5-anthy 5.1.5-1
 fcitx5-configtool 5.1.7-1
@@ -476,7 +476,7 @@ gtk-sharp-2 2.12.45-4
 gtk-update-icon-cache 1:4.16.12-1
 gtk-vnc 1.4.0-1
 gtk2 2.24.33-5
-gtk3 1:3.24.43-4
+gtk3 1:3.24.48-1
 gtk4 1:4.16.12-1
 gtkmm3 3.24.9-1
 gtksourceview4 4.8.4-1
@@ -822,7 +822,7 @@ lib32-libogg 1.3.5-2
 lib32-libpcap 1.10.5-2
 lib32-libpciaccess 0.18.1-1
 lib32-libpipewire 1:1.2.7-1
-lib32-libpng 1.6.45-1
+lib32-libpng 1.6.46-1
 lib32-libpng12 1.2.59-3
 lib32-libpsl 0.21.5-1
 lib32-libpulse 17.0+r43+g3e2bb8a1e-1
@@ -917,9 +917,8 @@ lib32-vulkan-icd-loader 1.4.303-1
 lib32-vulkan-mesa-layers 1:24.3.4-1
 lib32-vulkan-virtio 1:24.3.4-1
 lib32-wayland 1.23.1-1
-lib32-webrtc-audio-processing 0.3.1-4
 lib32-xcb-util-keysyms 0.4.1-2
-lib32-xz 5.6.3-1
+lib32-xz 5.6.4-1
 lib32-zlib 1.3.1-2
 lib32-zstd 1.5.6-1
 libabw 0.1.3-4
@@ -1185,7 +1184,7 @@ libpipewire 1:1.2.7-1
 libplacebo 7.349.0-4
 libplasma 6.2.5-1
 libplist 2.6.0-2
-libpng 1.6.45-1
+libpng 1.6.46-1
 libpng12 1.2.59-2
 libportal 0.9.0-1
 libportal-gtk3 0.9.0-1
@@ -1407,7 +1406,7 @@ mercurial 6.9.1-1
 mesa 1:24.3.4-1
 mesa-demos 9.0.0-5
 mesa-utils 9.0.0-5
-meson 1.6.1-1
+meson 1.7.0-1
 mgba-qt 0.10.4-2
 mgba-sdl 0.10.4-2
 microsoft-edge-beta-bin 133.0.3065.19-1
@@ -1463,7 +1462,7 @@ ncompress 5.0-3
 ncurses 6.5-3
 ncurses5-compat-libs 6.5-1
 ndctl 79-1
-nekoray-git 4.0.1.r0.gadef6cd-5
+nekoray-git 4.0.1.r0.gadef6cd-6
 neon 0.34.0-1
 neovim 0.10.3-1
 nerdfix 0.4.2-1
@@ -1569,7 +1568,7 @@ p11-kit 0.25.5-1
 p8-platform 2.1.0.1-5
 pacman 7.0.0.r6.gc685ae6-2
 pacman-mirrorlist 20250101-1
-pacman-static 7.0.0.r6.gc685ae6-16
+pacman-static 7.0.0.r6.gc685ae6-17
 pahole 1:1.28-3
 pam 1.7.0-1
 pam-u2f 1.3.2-1
@@ -1582,7 +1581,7 @@ parsec-bin 150_95-1
 parted 3.6-2
 partitionmanager 24.12.1-1
 paru 2.0.4-4
-pass 1.7.4-6
+pass 1.7.4-7
 patch 2.7.6-10
 patchelf 0.18.0-3
 pcaudiolib 1.3-1
@@ -1674,7 +1673,7 @@ print-manager 1:6.2.5-1
 prismlauncher-git 8.0.r1605.gfdb4159f2-1
 prison 6.10.0-1
 prison5 5.116.0-1
-procps-ng 4.0.5-1
+procps-ng 4.0.5-2
 projectm 3.1.12-5
 protobuf 29.2-1
 protobuf-c 1.5.0-10
@@ -1905,7 +1904,7 @@ python-pygments 2.19.1-1
 python-pyinotify 0.9.6-15
 python-pylint 3.3.3-1
 python-pylsqpack 0.3.18-3
-python-pymdown-extensions 10.14-1
+python-pymdown-extensions 10.14.1-1
 python-pynacl 1.5.0-3
 python-pynvim 0.5.2-1
 python-pyopenssl 24.3.0-1
@@ -2152,7 +2151,7 @@ qtractor 1.5.2-1
 quazip-qt5 1.4-1
 quazip-qt6 1.4-1
 quota-tools 1:4.09-2
-radvd 2.19-2
+radvd 2.20-1
 ragel 6.10-4
 railwayapp-cli 3.19.1-1
 ranger 1.9.4-3
@@ -2280,7 +2279,7 @@ steam-native-runtime 1.0.0.75-4
 stella 7.0-1
 stk 5.0.1-3
 stoken 0.92-4
-strace 6.12-1
+strace 6.13-1
 stripe-cli 1.23.7-1
 subversion 1.14.5-1
 sudo 1.9.16.p2-2
@@ -2307,7 +2306,7 @@ tailscale 1.78.1-1
 talloc 2.4.2-4
 tar 1.35-2
 tcl 8.6.16-1
-tcping-go 2.7.0-1
+tcping-go 2.7.1-1
 tdb 1.4.12-2
 telegram-desktop 5.10.5-1
 tevent 1:0.16.1-4
@@ -2463,8 +2462,7 @@ wayland-utils 1.2.0-2
 waylyrics 0.3.20-1
 webkit2gtk 2.46.5-1
 webkit2gtk-4.1 2.46.5-1
-webrtc-audio-processing 0.3.1-5
-webrtc-audio-processing-1 1.3-3
+webrtc-audio-processing-1 1.3-4
 weston 14.0.0-2
 wgcf 2.2.20-1
 wget 1.25.0-1
@@ -2472,7 +2470,7 @@ which 2.21-6
 whois 5.5.23-1
 wildmidi 0.4.6-1
 wine-gecko 2.47.4-2
-wine-mono 9.3.0-1
+wine-mono 9.4.0-1
 wine-staging 10.0-1
 winetricks 20250102-1
 wireguard-tools 1.0.20210914-2
@@ -2614,7 +2612,7 @@ xsel 1.2.1-2
 xsettingsd 1.0.2-2
 xvidcore 1.3.7-3
 xxhash 0.8.3-1
-xz 5.6.3-1
+xz 5.6.4-1
 yajl 2.1.0-6
 yakuake 24.12.1-1
 yaml-cpp 0.8.0-2
@@ -2624,7 +2622,7 @@ yazi 0.4.2-2
 yelp 42.2-2
 yelp-xsl 42.1-2
 yq 3.4.3-2
-yt-dlp 2025.01.15-1
+yt-dlp 2025.01.26-1
 yubico-c 1.13-7
 yubico-c-client 2.15-6
 yubico-pam 2.27-3

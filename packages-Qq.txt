@@ -917,7 +917,6 @@ lib32-vulkan-icd-loader
 lib32-vulkan-mesa-layers
 lib32-vulkan-virtio
 lib32-wayland
-lib32-webrtc-audio-processing
 lib32-xcb-util-keysyms
 lib32-xz
 lib32-zlib
@@ -2463,7 +2462,6 @@ wayland-utils
 waylyrics
 webkit2gtk
 webkit2gtk-4.1
-webrtc-audio-processing
 webrtc-audio-processing-1
 weston
 wgcf
