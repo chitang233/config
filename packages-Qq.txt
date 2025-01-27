@@ -247,6 +247,8 @@ dolphin-plugins
 dosbox
 dosfstools
 dotconf
+dotnet-host
+dotnet-runtime-8.0
 double-conversion
 dpkg
 drkonqi
@@ -1355,6 +1357,7 @@ lirc
 live-media
 lksctp-tools
 lld
+llhttp
 llvm
 llvm-libs
 lm_sensors
@@ -1391,6 +1394,7 @@ make
 mangohud
 marisa
 markdownpart
+marksman
 mbedtls
 mbedtls2
 md4c
