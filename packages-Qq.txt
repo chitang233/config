@@ -212,6 +212,7 @@ ddcutil
 ddgr
 debugedit
 default-cursors
+dejagnu
 desktop-file-utils
 desmume
 device-mapper
@@ -250,6 +251,7 @@ dotconf
 dotnet-host
 dotnet-runtime-8.0
 double-conversion
+doxygen
 dpkg
 drkonqi
 dtc
@@ -360,6 +362,8 @@ gavl
 gawk
 gc
 gcc
+gcc-ada
+gcc-d
 gcc-libs
 gcc-objc
 gcc13
@@ -899,10 +903,11 @@ lib32-pipewire-v4l2
 lib32-pixman
 lib32-polkit
 lib32-sdl12-compat
-lib32-sdl2
+lib32-sdl2-compat
 lib32-sdl2_image
 lib32-sdl2_mixer
 lib32-sdl2_ttf
+lib32-sdl3
 lib32-sdl_image
 lib32-sdl_mixer
 lib32-sdl_ttf
@@ -1160,6 +1165,9 @@ libnice
 libnih
 libnl
 libnm
+libnma
+libnma-common
+libnma-gtk4
 libnotify
 libnova
 libnsl
@@ -1473,6 +1481,7 @@ netpbm
 nettle
 networkmanager
 networkmanager-openconnect
+networkmanager-openvpn
 networkmanager-qt
 nexttrace
 nfsidmap
@@ -1514,6 +1523,7 @@ ocean-sound-theme
 ocl-icd
 odt2txt
 okular
+ollama
 onedrive-abraunegg
 onefetch
 onetbb
@@ -1544,6 +1554,7 @@ openssh
 openssl
 openssl-1.1
 openucx
+openvpn
 openvr
 openxr
 opus
@@ -1632,6 +1643,7 @@ pipewire-pulse
 pipewire-roc
 pipewire-v4l2
 pixman
+pkcs11-helper
 pkgconf
 pkgfile
 plasma-activities
@@ -2208,10 +2220,11 @@ scx-scheds
 sddm
 sddm-kcm
 sdl12-compat
-sdl2
+sdl2-compat
 sdl2_image
 sdl2_mixer
 sdl2_ttf
+sdl3
 sdl_image
 sdl_mixer
 sdl_net
@@ -2255,6 +2268,7 @@ soundtouch
 source-highlight
 sox
 spandsp
+spdlog
 spectacle
 speech-dispatcher
 speedtest-cli
@@ -2308,6 +2322,7 @@ tar
 tcl
 tcping-go
 tdb
+teamspeak3
 telegram-desktop
 tevent
 texinfo
