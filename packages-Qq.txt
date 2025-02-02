@@ -1557,6 +1557,7 @@ openucx
 openvpn
 openvr
 openxr
+opera
 opus
 opusfile
 orc
