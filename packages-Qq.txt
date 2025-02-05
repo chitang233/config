@@ -337,8 +337,6 @@ foomatic-db
 foomatic-db-nonfree
 foomatic-db-nonfree-ppds
 foomatic-db-ppds
-fpc
-fpc-src
 frameworkintegration
 freeglut
 freerdp
@@ -439,7 +437,6 @@ gom
 google-cloud-cli
 google-glog
 goreleaser
-goverlay-git
 gpart
 gparted
 gperftools
@@ -734,7 +731,6 @@ ladspa
 lame
 lapack
 layer-shell-qt
-lazarus
 lcms2
 ldb
 ldns
@@ -949,6 +945,7 @@ libayatana-appindicator
 libayatana-indicator
 libb2
 libb64
+libblake3
 libblockdev
 libblockdev-btrfs
 libblockdev-crypto
@@ -2158,7 +2155,6 @@ qt6-webchannel
 qt6-webengine
 qt6-websockets
 qt6-webview
-qt6pas
 qtkeychain-qt6
 qtractor
 quazip-qt5
