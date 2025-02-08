@@ -558,7 +558,6 @@ java-environment-common
 java-runtime-common
 jbig2dec
 jbigkit
-jdk17-openjdk
 jdk8-graalvm-bin
 jemalloc
 jetbrains-toolbox
@@ -1693,6 +1692,7 @@ psmisc
 publicsuffix-list
 pugixml
 pulseaudio-qt
+purewriter-desktop-bin
 purpose
 pyinstaller
 pyinstaller-hooks-contrib
