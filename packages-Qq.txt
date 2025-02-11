@@ -193,6 +193,7 @@ cpupower-gui
 cracklib
 cronie
 cryptsetup
+cubeb-git
 cuda
 cups
 cups-browsed
@@ -222,6 +223,7 @@ dialog
 diffutils
 ding-libs
 discord-electron-openasar
+discord-rpc-git
 discount
 distrobox
 djvulibre
@@ -562,6 +564,7 @@ java-environment-common
 java-runtime-common
 jbig2dec
 jbigkit
+jdk17-openjdk
 jdk8-graalvm-bin
 jemalloc
 jetbrains-toolbox
@@ -737,6 +740,7 @@ layer-shell-qt
 lcms2
 ldb
 ldns
+leancrypto
 lensfun
 less
 leveldb
@@ -2653,6 +2657,7 @@ yubikey-personalization
 yubikey-personalization-gui
 yubioath-desktop
 yyjson
+zarchive
 zbar
 zed
 zenity
