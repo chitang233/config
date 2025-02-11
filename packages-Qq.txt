@@ -323,6 +323,7 @@ firefox-nightly-bin
 firefoxpwa
 flac
 flake8
+flashrom
 flatpak-xdg-utils
 flex
 flite
@@ -353,6 +354,8 @@ fuse-overlayfs
 fuse2
 fuse3
 fuseiso
+fwupd
+fwupd-efi
 fzf
 gamemode
 gamescope
@@ -479,6 +482,7 @@ gtk-vnc
 gtk2
 gtk3
 gtk4
+gtk4-demos
 gtkmm3
 gtksourceview4
 gtksourceview5
@@ -1087,6 +1091,7 @@ libisl
 libisoburn
 libisofs
 libixion
+libjcat
 libjpeg-turbo
 libjpeg6-turbo
 libjuice
@@ -1590,6 +1595,7 @@ parted
 partitionmanager
 paru
 pass
+passim
 patch
 patchelf
 pcaudiolib
@@ -2442,7 +2448,7 @@ virtualbox-host-dkms
 visual-studio-code-insiders-bin
 vkbasalt
 vkd3d
-vlc-luajit
+vlc
 vlc-materia-skin-git
 vmaf
 vnstat

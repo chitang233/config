@@ -323,6 +323,7 @@ firefox-nightly-bin 135.0a1.20241129.214313-1
 firefoxpwa 2.13.3-2
 flac 1.4.3-2
 flake8 1:7.1.1-2
+flashrom 1.5.1-1
 flatpak-xdg-utils 1.0.6-1
 flex 2.6.4-5
 flite 2.2-2
@@ -353,6 +354,8 @@ fuse-overlayfs 1.14-1
 fuse2 2.9.9-5
 fuse3 3.16.2-1
 fuseiso 20070708-9
+fwupd 2.0.5-1
+fwupd-efi 1.7-1
 fzf 0.57.0-1
 gamemode 1.8.2-1
 gamescope 3.16.1-1
@@ -479,6 +482,7 @@ gtk-vnc 1.5.0-1
 gtk2 2.24.33-5
 gtk3 1:3.24.48-1
 gtk4 1:4.16.12-1
+gtk4-demos 1:4.16.12-1
 gtkmm3 3.24.9-1
 gtksourceview4 4.8.4-1
 gtksourceview5 5.14.2-1
@@ -1087,6 +1091,7 @@ libisl 0.27-1
 libisoburn 1.5.6-1
 libisofs 1.5.6-1
 libixion 0.19.0-7
+libjcat 0.2.2-1
 libjpeg-turbo 3.1.0-1
 libjpeg6-turbo 1.5.3-2
 libjuice 1.5.2-1
@@ -1590,6 +1595,7 @@ parted 3.6-2
 partitionmanager 24.12.2-1
 paru 2.0.4-4
 pass 1.7.4-7
+passim 0.1.9-1
 patch 2.7.6-10
 patchelf 0.18.0-3
 pcaudiolib 1.3-1
@@ -2442,7 +2448,7 @@ virtualbox-host-dkms 7.1.6-2
 visual-studio-code-insiders-bin 1732819683-1
 vkbasalt 0.3.2.10-1
 vkd3d 1.14-1
-vlc-luajit 3.0.21-9
+vlc 3.0.21-12
 vlc-materia-skin-git r10.eeaa6af-1
 vmaf 3.0.0-1
 vnstat 2.12-3
