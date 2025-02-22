@@ -1789,6 +1789,7 @@ python-fastjsonschema
 python-fastpbkdf2
 python-fido2
 python-filelock
+python-findpython
 python-flask
 python-fonttools
 python-fqdn
@@ -1882,6 +1883,7 @@ python-passlib
 python-pathspec
 python-patiencediff
 python-pbr
+python-pbs-installer
 python-pexpect
 python-pickleshare
 python-pillow
@@ -2111,7 +2113,6 @@ qt5-quicktimeline
 qt5-remoteobjects
 qt5-script
 qt5-scxml
-qt5-sensors
 qt5-speech
 qt5-svg
 qt5-tools
@@ -2121,7 +2122,6 @@ qt5-wayland
 qt5-webchannel
 qt5-webengine
 qt5-webglplugin
-qt5-webkit
 qt5-websockets
 qt5-webview
 qt5-x11extras
