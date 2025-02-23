@@ -321,7 +321,7 @@ filelight
 filesystem
 findutils
 fio
-firefox-nightly-bin
+firefox-nightly-zh-cn
 firefoxpwa
 flac
 flake8
