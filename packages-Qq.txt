@@ -254,6 +254,7 @@ dotnet-host
 dotnet-runtime-8.0
 double-conversion
 doxygen
+dpdk
 dpkg
 drkonqi
 dtc
@@ -272,7 +273,6 @@ efitools
 efivar
 egl-wayland
 eglexternalplatform
-electron33
 electron34
 elfutils
 elinks
@@ -1730,6 +1730,7 @@ python-async-timeout
 python-attrs
 python-autocommand
 python-babel
+python-backrefs
 python-base58
 python-base91
 python-bcrypt
@@ -1967,6 +1968,7 @@ python-requests
 python-requests-toolbelt
 python-rfc3339-validator
 python-rich
+python-roman-numerals-py
 python-rpds-py
 python-rsa
 python-ruamel-yaml
@@ -2372,7 +2374,6 @@ tree-sitter-python
 tree-sitter-query
 tree-sitter-vim
 tree-sitter-vimdoc
-triplea
 tslib
 ttf-firacode-nerd
 ttf-hack
