@@ -47,6 +47,7 @@ archlinuxcn-keyring
 ares-decrypt
 argon2
 aria2-fast
+ariang-git
 aribb24
 aribb25
 ark
@@ -260,6 +261,7 @@ efivar
 egl-wayland
 eglexternalplatform
 electron34
+electron35
 elfutils
 elinks
 elisa
@@ -411,6 +413,7 @@ gnustep-base
 gnutls
 go
 go-musicfox-git
+gobject-introspection
 gobject-introspection-runtime
 gocryptfs
 gom
@@ -442,6 +445,7 @@ gsl
 gsm
 gspell
 gssdp
+gst-libav
 gst-plugin-pipewire
 gst-plugins-bad
 gst-plugins-bad-libs
@@ -463,6 +467,7 @@ gtksourceview4
 gtksourceview5
 gts
 guile
+gulp
 gum
 gupnp
 gupnp-av
@@ -1547,6 +1552,7 @@ paru
 pass
 passim
 patch
+patchelf
 pcaudiolib
 pcem
 pciutils
@@ -1780,6 +1786,7 @@ python-loguru
 python-lxml
 python-magic
 python-magic-filter
+python-mako
 python-markdown
 python-markdown-it-py
 python-markupsafe
@@ -2366,6 +2373,7 @@ wayland-utils
 waylyrics
 webkit2gtk
 webkit2gtk-4.1
+webkitgtk-6.0
 webrtc-audio-processing-1
 weston
 wgcf
