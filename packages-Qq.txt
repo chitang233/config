@@ -95,6 +95,7 @@ beep
 bind
 binutils
 bison
+bitwarden
 blas
 bleachbit
 bless
@@ -311,7 +312,6 @@ fio
 firefox-nightly-zh-cn
 firefoxpwa
 flac
-flake8
 flashrom
 flatpak-xdg-utils
 flex
@@ -1142,6 +1142,7 @@ libnma-gtk4
 libnotify
 libnova
 libnsl
+libnss_nis
 libnumbertext
 libnvme
 liboauth
@@ -1396,6 +1397,7 @@ misans-fontconfig
 mission-center
 mitmproxy
 mjpegtools
+mkbold-mkitalic
 mkdocs
 mkdocs-get-deps
 mkdocs-material
@@ -1509,6 +1511,7 @@ openslide
 openssh
 openssl
 openssl-1.1
+opentimelineio
 openucx
 openvpn
 openvr
@@ -1657,6 +1660,7 @@ pyinstaller-hooks-contrib
 pyright
 pystring
 python
+python-aaf2
 python-absl
 python-aiofiles
 python-aiogram
@@ -1734,6 +1738,7 @@ python-fastpbkdf2
 python-fido2
 python-filelock
 python-findpython
+python-flake8
 python-flask
 python-fonttools
 python-fqdn
@@ -1829,6 +1834,7 @@ python-poetry-core
 python-poetry-plugin-export
 python-prettytable
 python-prompt_toolkit
+python-propcache
 python-proxy_tools
 python-psutil
 python-ptyprocess
