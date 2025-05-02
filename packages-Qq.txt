@@ -352,6 +352,8 @@ gcc
 gcc-libs
 gcc13
 gcc13-libs
+gcc14
+gcc14-libs
 gconf
 gcr
 gcr-4
