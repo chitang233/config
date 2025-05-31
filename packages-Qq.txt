@@ -95,7 +95,6 @@ beep
 bind
 binutils
 bison
-bitwarden
 blas
 bleachbit
 bless
@@ -187,7 +186,6 @@ cracklib
 cronie
 cryptsetup
 cubeb-git
-cuda
 cups
 cups-browsed
 cups-filters
@@ -208,6 +206,7 @@ debugedit
 default-cursors
 desktop-file-utils
 desmume
+detect-it-easy-bin
 device-mapper
 devtools
 dhcpcd
@@ -261,8 +260,8 @@ efitools
 efivar
 egl-wayland
 eglexternalplatform
-electron34
 electron35
+electron36
 elfutils
 elinks
 elisa
@@ -352,8 +351,6 @@ gcc
 gcc-libs
 gcc13
 gcc13-libs
-gcc14
-gcc14-libs
 gconf
 gcr
 gcr-4
@@ -367,6 +364,7 @@ geoclue
 geoipupdate
 gettext
 gflags
+gfxstream
 gg
 ghc-filesystem
 ghidra
@@ -905,6 +903,7 @@ libaccounts-glib
 libaccounts-qt
 libadwaita
 libaec
+libaemu
 libaio
 libakonadi
 libao
@@ -1144,7 +1143,6 @@ libnma-gtk4
 libnotify
 libnova
 libnsl
-libnss_nis
 libnumbertext
 libnvme
 liboauth
@@ -1302,7 +1300,9 @@ libxkbcommon-x11
 libxkbfile
 libxklavier
 libxml2
+libxml2-legacy
 libxmlb
+libxmp
 libxmu
 libxnvctrl-535xx
 libxpm
@@ -1717,6 +1717,7 @@ python-cryptography
 python-cssselect
 python-cssselect2
 python-cycler
+python-dasbus
 python-dateutil
 python-dbus
 python-decorator
@@ -1981,9 +1982,13 @@ qemu-hw-display-virtio-gpu
 qemu-hw-display-virtio-gpu-gl
 qemu-hw-display-virtio-gpu-pci
 qemu-hw-display-virtio-gpu-pci-gl
+qemu-hw-display-virtio-gpu-pci-rutabaga
+qemu-hw-display-virtio-gpu-rutabaga
 qemu-hw-display-virtio-vga
 qemu-hw-display-virtio-vga-gl
+qemu-hw-display-virtio-vga-rutabaga
 qemu-hw-s390x-virtio-gpu-ccw
+qemu-hw-uefi-vars
 qemu-hw-usb-host
 qemu-hw-usb-redirect
 qemu-hw-usb-smartcard
@@ -2124,6 +2129,7 @@ run-parts
 runc
 rustdesk-bin
 rustup
+rutabaga-ffi
 samba
 sbc
 sbctl
@@ -2373,8 +2379,6 @@ wasm-bindgen
 wasm-pack
 wavpack
 waydroid
-waydroid-image-gapps
-waydroid-magisk
 wayland
 wayland-protocols
 wayland-utils
