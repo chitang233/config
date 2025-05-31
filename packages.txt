@@ -21,7 +21,7 @@ aegisub 3.4.2-4
 aha 0.5.1-3
 akonadi-contacts 25.04.1-1
 akonadi-mime 25.04.1-1
-alist-bin 3.44.0-1
+alist-bin 3.45.0-1
 alsa-card-profiles 1:1.4.4-1
 alsa-lib 1.2.14-1
 alsa-plugins 1:1.2.12-4
@@ -308,7 +308,7 @@ filelight 25.04.1-1
 filesystem 2025.05.03-1
 findutils 4.10.0-2
 fio 3.39-1
-firefox-nightly-zh-cn 141.0a1.20250530.10-1
+firefox-nightly-zh-cn 141.0a1.20250531.00-1
 firefoxpwa 2.14.1-1
 flac 1.5.0-1
 flashrom 1.5.1-1
@@ -543,7 +543,7 @@ jbigkit 2.1-8
 jdk17-openjdk 17.0.15.u6-1
 jdk8-graalvm-bin 21.2.0-2.1
 jemalloc 1:5.3.0-5
-jetbrains-toolbox 2.6.1.40902-1
+jetbrains-toolbox 2.6.2.41321-1
 jfsutils 1.1.15-9
 jose 14-1
 joyutils 1.8.1-3
@@ -1259,7 +1259,7 @@ libvirt-python 1:11.3.0-1
 libvirt-storage-gluster 1:11.3.0-1
 libvirt-storage-iscsi-direct 1:11.3.0-1
 libvisio 0.1.8-3
-libvlc-luajit 3.0.21-15
+libvlc-luajit 3.0.21-17
 libvncserver 0.9.14-4
 libvorbis 1.3.7-4
 libvpl 2.15.0-1
@@ -1354,7 +1354,7 @@ lua51-lpeg 1.1.0-3
 lua51-socket 1:3.1.0-1
 lua53 5.3.6-3
 luajit 2.1.1741730670-1
-lunar-client 3.3.7-1
+lunar-client 3.3.8-1
 lutris-git 0.5.19.r122.ge82bdcff5-1
 lv2 1.18.10-1
 lvm2 2.03.32-1
@@ -1385,8 +1385,8 @@ mesa-demos 9.0.0-6
 mesa-utils 9.0.0-6
 mgba-qt 0.10.5-1
 mgba-sdl 0.10.5-1
-microsoft-edge-beta-bin 136.0.3240.29-1
-mihomo-git alpha.20250501.3259.791ea5e5-1
+microsoft-edge-beta-bin 137.0.3296.52-1
+mihomo-git alpha.20250529.3319.c0f452b5-1
 milou 6.3.5-1
 mimetreeparser 25.04.1-1
 mindustry 1:7.0.146-1
@@ -1518,7 +1518,7 @@ openucx 1.18.1-2
 openvpn 2.6.14-1
 openvr 2.5.1-2
 openxr 1.1.43-1
-opera 118.0.5461.60-1
+opera 119.0.5497.56-1
 opus 1.5.2-1
 opusfile 0.12-4
 orc 0.4.41-1
@@ -1564,7 +1564,7 @@ pciutils 3.13.0-2
 pcre 8.45-4
 pcre2 10.45-1
 pcsclite 2.3.3-1
-peerbanhelper 7.4.14-1
+peerbanhelper 7.4.15-1
 perl 5.40.2-1
 perl-archive-zip 1.68-10
 perl-clone 0.47-1
@@ -1643,7 +1643,7 @@ powerdevil 6.3.5-1
 poxml 25.04.1-1
 ppp 2.5.2-1
 print-manager 1:6.3.5-1
-prismlauncher-git 8.0.r2142.g62afb86c6-1
+prismlauncher-git 8.0.r2233.g77057267d-1
 prison 6.14.0-1
 procps-ng 4.0.5-3
 projectm 3.1.12-5
@@ -1658,7 +1658,7 @@ pulseaudio-qt 1.7.0-1
 purewriter-desktop-bin 1.9.0-1
 purpose 6.14.0-1
 pyinstaller 6.13.0-3
-pyinstaller-hooks-contrib 2025.3-2
+pyinstaller-hooks-contrib 2025.4-2
 pyright 1.1.401-1
 pystring 1.1.4-2
 python 3.13.3-1
@@ -1749,7 +1749,7 @@ python-frozenlist 1.6.0-1
 python-fsspec 2025.5.1-1
 python-gbinder 1.1.2-5
 python-ghp-import 2.1.0-5
-python-glfw 2.8.0-1
+python-glfw 2.9.0-1
 python-gobject 3.52.3-3
 python-gpgme 1.24.3-2
 python-graphviz 0.20.3-3
@@ -1953,8 +1953,8 @@ python-yubico 1.3.3-7
 python-zipp 3.21.0-2
 python-zstandard 0.23.0-2
 qalculate-qt 5.5.1-1
-qbittorrent-enhanced 5.0.5.10-2
-qbittorrent-vuetorrent-bin 2.22.0-1
+qbittorrent-enhanced 5.1.0.11-1
+qbittorrent-vuetorrent-bin 2.24.2-1
 qca-qt5 2.3.10-2
 qca-qt6 2.3.10-2
 qcoro 0.12.0-1
@@ -2099,7 +2099,7 @@ rclone 1.69.3-1
 rclone-browser 1.8.0-3
 re2 1:20240702-5
 readline 8.2.013-1
-redis 7.2.5-1
+redis 8.0.2-1
 redland 1:1.0.17-9
 reiserfsprogs 3.6.27-5
 remmina 1:1.4.40-1
@@ -2127,7 +2127,7 @@ rtmpdump 1:2.4.r105.6f6bb13-1
 rubberband 4.0.0-1
 run-parts 5.22-1
 runc 1.3.0-1
-rustdesk-bin 1.3.9-1
+rustdesk-bin 1.4.0-1
 rustup 1.28.2-1
 rutabaga-ffi 0.1.6-2
 samba 2:4.22.1-1
@@ -2215,7 +2215,7 @@ stella 7.0-1
 stk 5.0.1-3
 stoken 0.92-5
 strace 6.15-1
-stripe-cli 1.26.1-1
+stripe-cli 1.27.0-1
 subversion 1.14.5-3
 sudo 1.9.16.p2-2
 suil 0.10.20-1
@@ -2263,7 +2263,7 @@ tmux 3.5_a-1
 toilet 0.3.r155.3eb9d58-3
 tomlplusplus 3.4.0-1
 tor 0.4.8.16-1
-tor-browser-bin 14.5.1-1
+tor-browser-bin 14.5.3-1
 torsocks 2.4.0-1
 totem-pl-parser 3.26.6+r30+g51b8439-2
 tpm2-tss 4.1.3-1
@@ -2271,7 +2271,7 @@ traceroute 2.1.6-1
 translate-shell 0.9.7.1-2
 transmission-cli 4.0.6-9
 trash-cli 0.24.5.26-2
-trayscale 0.14.3-2
+trayscale 0.18.0-1
 tre 0.9.0-1
 tree 2.2.1-1
 tree-sitter 0.25.3-1
@@ -2356,7 +2356,7 @@ virtiofsd 1.13.1-1
 virtualbox 7.1.8-4
 virtualbox-guest-iso 7.1.8-1
 virtualbox-host-dkms 7.1.8-4
-visual-studio-code-insiders-bin 1743620379-1
+visual-studio-code-insiders-bin 1748582492-1
 vkbasalt 0.3.2.10-1
 vkd3d 1.14-1
 vlc 3.0.21-20
