@@ -243,7 +243,6 @@ dotnet-host
 dotnet-runtime-8.0
 double-conversion
 dpdk
-dpkg
 drkonqi
 dtc
 duf
@@ -260,7 +259,6 @@ efitools
 efivar
 egl-wayland
 eglexternalplatform
-electron35
 electron36
 elfutils
 elinks
@@ -1418,6 +1416,7 @@ mpfr
 mpg123
 mpv
 mpv-mpris
+ms-edit
 msgpack-c
 mtdev
 mtools
@@ -2379,6 +2378,7 @@ wasm-bindgen
 wasm-pack
 wavpack
 waydroid
+waydroid-image-gapps
 wayland
 wayland-protocols
 wayland-utils
@@ -2437,6 +2437,7 @@ worker-build
 workerd
 wpa_supplicant
 wrangler
+wtf
 wxwidgets-common
 wxwidgets-gtk3
 x11-ssh-askpass
