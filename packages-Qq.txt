@@ -12,7 +12,6 @@ acpi_call-dkms
 acpid
 activitywatch-bin
 ada
-adobe-source-code-pro-fonts
 adwaita-cursors
 adwaita-fonts
 adwaita-icon-theme
@@ -106,7 +105,6 @@ bluez-qt
 bluez-tools
 bluez-utils
 bolt
-boost
 boost-libs
 bpf
 breeze
@@ -276,7 +274,6 @@ exiv2
 expac
 expat
 expect
-extra-cmake-modules
 eza
 f2fs-tools
 faac
@@ -347,8 +344,6 @@ gawk
 gc
 gcc
 gcc-libs
-gcc13
-gcc13-libs
 gconf
 gcr
 gcr-4
@@ -364,7 +359,6 @@ gettext
 gflags
 gfxstream
 gg
-ghc-filesystem
 ghidra
 ghostscript
 giflib
@@ -411,7 +405,6 @@ gnustep-base
 gnutls
 go
 go-musicfox-git
-gobject-introspection
 gobject-introspection-runtime
 gocryptfs
 gom
@@ -422,6 +415,7 @@ gpart
 gparted
 gperftools
 gpgme
+gpgmepp
 gpm
 gradle
 gradle-zsh-completion
@@ -465,7 +459,6 @@ gtksourceview4
 gtksourceview5
 gts
 guile
-gulp
 gum
 gupnp
 gupnp-av
@@ -1087,7 +1080,6 @@ liblouis
 liblphobos
 liblqr
 liblrdf
-liblsp-r3d-glx-lib
 libltc
 libluv
 liblzf
@@ -1397,7 +1389,6 @@ misans-fontconfig
 mission-center
 mitmproxy
 mjpegtools
-mkbold-mkitalic
 mkdocs
 mkdocs-get-deps
 mkdocs-material
@@ -1556,7 +1547,6 @@ paru
 pass
 passim
 patch
-patchelf
 pcaudiolib
 pcem
 pciutils
@@ -1793,7 +1783,6 @@ python-loguru
 python-lxml
 python-magic
 python-magic-filter
-python-mako
 python-markdown
 python-markdown-it-py
 python-markupsafe
@@ -1929,7 +1918,6 @@ python-typing-inspection
 python-typing_extensions
 python-typing_inspect
 python-tzdata
-python-tzlocal
 python-ujson
 python-unidecode
 python-uri-template
@@ -2007,7 +1995,7 @@ qemu-ui-spice-app
 qemu-ui-spice-core
 qemu-user-static
 qemu-vhost-user-gpu
-qgpgme-qt6
+qgpgme
 qhull
 qpdf
 qqc2-breeze-style
@@ -2090,7 +2078,6 @@ radvd
 ragel
 railwayapp-cli
 ranger
-rapidjson
 raptor
 rasqal
 rav1e
@@ -2134,7 +2121,6 @@ sbc
 sbctl
 sbkeys
 sbsigntools
-scdoc
 scour
 scrcpy
 screen
@@ -2368,7 +2354,6 @@ vpnc
 vte-common
 vte3
 vtk
-vulkan-headers
 vulkan-icd-loader
 vulkan-mesa-layers
 vulkan-tools
@@ -2380,7 +2365,6 @@ wavpack
 waydroid
 waydroid-image-gapps
 wayland
-wayland-protocols
 wayland-utils
 waylyrics
 webkit2gtk
@@ -2527,7 +2511,6 @@ xorg-xwd
 xorg-xwininfo
 xorg-xwud
 xorgproto
-xosd
 xournalpp
 xsel
 xsettingsd
