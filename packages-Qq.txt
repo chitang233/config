@@ -66,6 +66,7 @@ audacity
 audiocd-kio
 audiofile
 audit
+aurorae
 autoconf
 automake
 avahi
@@ -106,6 +107,7 @@ bluez-tools
 bluez-utils
 bolt
 boost-libs
+botan2
 bpf
 breeze
 breeze-grub
@@ -153,6 +155,7 @@ chromaprint
 chromium
 cifs-utils
 ciphey
+clang
 classicube-git
 clinfo
 cloudflared
@@ -168,6 +171,7 @@ cni-plugins
 cogl
 colord
 colord-kde
+compiler-rt
 compsize
 confuse
 containerd
@@ -189,8 +193,10 @@ cups-browsed
 cups-filters
 cups-pk-helper
 curl
+cursor-electron-latest
 cyrus-sasl-gssapi
 daed
+dart
 dav1d
 db5.3
 dbus
@@ -257,6 +263,7 @@ efitools
 efivar
 egl-wayland
 eglexternalplatform
+electron
 electron36
 elfutils
 elinks
@@ -274,6 +281,7 @@ exiv2
 expac
 expat
 expect
+extra-cmake-modules
 eza
 f2fs-tools
 faac
@@ -312,6 +320,21 @@ flex
 flite
 fltk
 fluidsynth
+flutter
+flutter-common
+flutter-devel
+flutter-engine-android-google-bin
+flutter-engine-common-google-bin
+flutter-engine-linux-google-bin
+flutter-engine-web-google-bin
+flutter-gradle
+flutter-intellij-patch
+flutter-material-fonts-google-bin
+flutter-sky-engine-google-bin
+flutter-target-android
+flutter-target-linux
+flutter-target-web
+flutter-tool
 fmt
 fontconfig
 foomatic-db
@@ -359,6 +382,7 @@ gettext
 gflags
 gfxstream
 gg
+ghc-filesystem
 ghidra
 ghostscript
 giflib
@@ -408,6 +432,7 @@ go-musicfox-git
 gobject-introspection-runtime
 gocryptfs
 gom
+gomobile
 google-cloud-cli
 google-glog
 goreleaser
@@ -1173,6 +1198,7 @@ libraw
 libraw1394
 libreoffice-fresh
 libreoffice-fresh-zh-cn
+librest
 librevenge
 librime
 librime-data
@@ -1380,7 +1406,6 @@ mihomo-git
 milou
 mimetreeparser
 mindustry
-miniconda3
 miniupnpc
 minizip
 minizip-ng
@@ -1407,7 +1432,7 @@ mpfr
 mpg123
 mpv
 mpv-mpris
-ms-edit
+msedit
 msgpack-c
 mtdev
 mtools
@@ -1441,6 +1466,7 @@ nexttrace
 nfsidmap
 nftables
 nilfs-utils
+ninja
 nmap
 nnn
 node-gyp
@@ -1572,6 +1598,7 @@ perl-image-exiftool
 perl-io-html
 perl-io-socket-ssl
 perl-io-tty
+perl-json
 perl-libwww
 perl-lwp-mediatypes
 perl-lwp-protocol-https
@@ -2121,6 +2148,7 @@ sbc
 sbctl
 sbkeys
 sbsigntools
+scdoc
 scour
 scrcpy
 screen
@@ -2145,6 +2173,7 @@ seahorse
 seatd
 sed
 semver
+sequoia-octopus-librnp
 serd
 serf
 shaderc
@@ -2186,6 +2215,7 @@ spice-gtk
 spice-protocol
 spirv-tools
 sqlite
+squashfs-tools
 squashfuse
 sratom
 srt
@@ -2205,7 +2235,6 @@ subversion
 sudo
 suil
 suitesparse
-suyu-bin
 svgpart
 svt-av1
 svt-hevc
@@ -2220,6 +2249,7 @@ systemd
 systemd-libs
 systemd-sysvcompat
 systemsettings
+systray-x-kde
 taglib
 tailscale
 talloc
@@ -2239,6 +2269,9 @@ texlive-latexrecommended
 texlive-pictures
 thin-provisioning-tools
 threadweaver
+thunderbird
+thunderbird-i18n-zh-cn
+thunderbird-ublock-origin
 tigervnc
 timeshift
 tinysparql
@@ -2316,6 +2349,7 @@ uthash
 util-linux
 util-linux-libs
 uudeck
+uv
 v2ray-domain-list-community
 v2ray-geoip
 v4l-utils
