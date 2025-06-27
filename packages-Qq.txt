@@ -33,7 +33,6 @@ anthy
 antimicrox
 aom
 apparmor
-appimagelauncher
 appmenu-gtk-module
 appstream
 appstream-glib
@@ -367,6 +366,8 @@ gawk
 gc
 gcc
 gcc-libs
+gcc14
+gcc14-libs
 gconf
 gcr
 gcr-4
@@ -923,7 +924,6 @@ libaemu
 libaio
 libakonadi
 libao
-libappimage
 libappindicator-gtk3
 libarchive
 libass
@@ -1342,6 +1342,16 @@ licenses
 lilv
 linux-api-headers
 linux-firmware
+linux-firmware-amdgpu
+linux-firmware-atheros
+linux-firmware-broadcom
+linux-firmware-cirrus
+linux-firmware-intel
+linux-firmware-mediatek
+linux-firmware-nvidia
+linux-firmware-other
+linux-firmware-radeon
+linux-firmware-realtek
 linux-firmware-whence
 linux-steam-integration
 linux-wifi-hotspot
@@ -1357,6 +1367,7 @@ lm_sensors
 lmdb
 lmms
 localsearch
+logrotate
 lpsolve
 lsb-release
 lsof
@@ -1384,6 +1395,9 @@ m4
 mailcap
 make
 mangohud
+mariadb
+mariadb-clients
+mariadb-libs
 marisa
 markdownpart
 marksman
@@ -1399,6 +1413,7 @@ mercurial
 mesa
 mesa-demos
 mesa-utils
+meson
 mgba-qt
 mgba-sdl
 microsoft-edge-beta-bin
@@ -1653,6 +1668,9 @@ popt
 portaudio
 portmidi
 portsmf
+postgresql
+postgresql-libs
+postgresql-old-upgrade
 potrace
 power-profiles-daemon
 powerdevil
@@ -1742,6 +1760,7 @@ python-dill
 python-distlib
 python-distro
 python-docopt
+python-docutils
 python-dotenv
 python-dulwich
 python-emoji
@@ -1779,6 +1798,7 @@ python-huggingface-hub
 python-hyperframe
 python-hypothesis
 python-idna
+python-imagesize
 python-importlib-metadata
 python-inflect
 python-iniconfig
@@ -1913,6 +1933,7 @@ python-requests
 python-requests-toolbelt
 python-rfc3339-validator
 python-rich
+python-roman-numerals-py
 python-rpds-py
 python-rsa
 python-ruamel-yaml
@@ -1926,8 +1947,17 @@ python-setuptools
 python-shellingham
 python-six
 python-sniffio
+python-snowballstemmer
 python-sortedcontainers
 python-soupsieve
+python-sphinx
+python-sphinx-alabaster-theme
+python-sphinxcontrib-applehelp
+python-sphinxcontrib-devhelp
+python-sphinxcontrib-htmlhelp
+python-sphinxcontrib-jsmath
+python-sphinxcontrib-qthelp
+python-sphinxcontrib-serializinghtml
 python-stack-data
 python-starlette
 python-telethon
@@ -2140,6 +2170,7 @@ rtmpdump
 rubberband
 run-parts
 runc
+rust-bindgen
 rustdesk-bin
 rustup
 rutabaga-ffi
@@ -2216,7 +2247,6 @@ spice-protocol
 spirv-tools
 sqlite
 squashfs-tools
-squashfuse
 sratom
 srt
 sscg
