@@ -106,6 +106,7 @@ bluez-qt 6.15.0-1
 bluez-tools 0.2.0-6
 bluez-utils 5.83-1
 bolt 0.9.9-1
+boost 1.88.0-3
 boost-libs 1.88.0-3
 botan2 2.19.5-2
 bpf 6.15-1

@@ -106,6 +106,7 @@ bluez-qt
 bluez-tools
 bluez-utils
 bolt
+boost
 boost-libs
 botan2
 bpf
