@@ -39,6 +39,7 @@ appstream-glib
 appstream-qt
 apr
 apr-util
+aqbanking
 arch-install-scripts
 archlinux-keyring
 archlinuxcn-keyring
@@ -423,6 +424,7 @@ gnome-music
 gnome-terminal
 gnome-video-effects
 gnu-free-fonts
+gnucash
 gnulib-l10n
 gnupg
 gnuplot
@@ -498,6 +500,7 @@ gvfs-gphoto2
 gvfs-mtp
 gvfs-nfs
 gvfs-smb
+gwenhywfar
 gwenview
 gzip
 hamlib
@@ -984,6 +987,7 @@ libcurl-gnutls
 libdaemon
 libdatachannel
 libdatrie
+libdbi
 libdbusmenu-glib
 libdbusmenu-gtk2
 libdbusmenu-gtk3
@@ -1162,6 +1166,7 @@ libnumbertext
 libnvme
 liboauth
 libodfgen
+libofx
 libogg
 libopenmpt
 liborcus
@@ -1275,6 +1280,7 @@ libvirt-python
 libvirt-storage-gluster
 libvirt-storage-iscsi-direct
 libvisio
+libvlc
 libvlc-luajit
 libvncserver
 libvorbis
@@ -1315,6 +1321,7 @@ libxkbcommon
 libxkbcommon-x11
 libxkbfile
 libxklavier
+libxml++2.6
 libxml2
 libxml2-legacy
 libxmlb
@@ -1454,6 +1461,7 @@ mtools
 mtr
 mujs
 multipath-tools
+musl
 mypaint-brushes1
 nano
 nautilus
@@ -1541,6 +1549,7 @@ openmpi
 openpmix
 openrgb
 openslide
+opensp
 openssh
 openssl
 openssl-1.1
@@ -1637,6 +1646,7 @@ pipewire-pulse
 pipewire-roc
 pipewire-v4l2
 pixman
+pjsk-cursors
 pkcs11-helper
 pkgconf
 pkgfile
@@ -1791,6 +1801,7 @@ python-graphviz
 python-greenlet
 python-h11
 python-h2
+python-hf-xet
 python-hiredis
 python-hpack
 python-html5lib
@@ -1982,6 +1993,7 @@ python-urllib3
 python-urwid
 python-uvloop
 python-virtualenv
+python-wand
 python-watchdog
 python-wcwidth
 python-webencodings
@@ -2140,6 +2152,7 @@ rasqal
 rav1e
 rclone
 rclone-browser
+rdma-core
 re2
 readline
 redis
@@ -2207,6 +2220,7 @@ semver
 sequoia-octopus-librnp
 serd
 serf
+sgml-common
 shaderc
 shadow
 shared-mime-info
@@ -2409,7 +2423,36 @@ visual-studio-code-insiders-bin
 vkbasalt
 vkd3d
 vlc
+vlc-cli
+vlc-gui-qt
 vlc-materia-skin-git
+vlc-plugin-a52dec
+vlc-plugin-alsa
+vlc-plugin-dav1d
+vlc-plugin-dbus
+vlc-plugin-dbus-screensaver
+vlc-plugin-faad2
+vlc-plugin-ffmpeg
+vlc-plugin-flac
+vlc-plugin-gnutls
+vlc-plugin-inflate
+vlc-plugin-journal
+vlc-plugin-jpeg
+vlc-plugin-lua
+vlc-plugin-mpg123
+vlc-plugin-opus
+vlc-plugin-png
+vlc-plugin-pulse
+vlc-plugin-shout
+vlc-plugin-speex
+vlc-plugin-tag
+vlc-plugin-theora
+vlc-plugin-twolame
+vlc-plugin-vorbis
+vlc-plugin-vpx
+vlc-plugin-xml
+vlc-plugins-base
+vlc-plugins-video-output
 vmaf
 vnstat
 volume_key
@@ -2441,6 +2484,7 @@ wget
 which
 whois
 wildmidi
+win2xcur
 wine-gecko
 wine-mono
 wine-staging
