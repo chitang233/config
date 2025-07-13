@@ -20,7 +20,6 @@ aegisub
 aha
 akonadi-contacts
 akonadi-mime
-alist-bin
 alsa-card-profiles
 alsa-lib
 alsa-plugins
@@ -276,6 +275,7 @@ esbuild
 eslint
 espeak-ng
 ethtool
+evtest
 exempi
 exiv2
 expac
@@ -390,6 +390,7 @@ glib-networking
 glib2
 glibc
 glibmm
+glibmm-2.68
 glm
 glmark2
 glow
@@ -420,7 +421,6 @@ go-musicfox-git
 gobject-introspection-runtime
 gocryptfs
 gom
-gomobile
 google-cloud-cli
 google-glog
 goreleaser
@@ -2629,6 +2629,7 @@ yubikey-manager-qt
 yubikey-personalization
 yubikey-personalization-gui
 yubioath-desktop
+yukigram-desktop
 yyjson
 zarchive
 zbar
