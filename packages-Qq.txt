@@ -472,6 +472,7 @@ gtksourceview4
 gtksourceview5
 gts
 guile
+gulp
 gum
 gupnp
 gupnp-av
@@ -2300,7 +2301,6 @@ thin-provisioning-tools
 threadweaver
 thunderbird
 thunderbird-i18n-zh-cn
-thunderbird-ublock-origin
 tigervnc
 timeshift
 tinysparql
