@@ -2457,6 +2457,7 @@ wavpack
 waydroid
 waydroid-image-gapps
 wayland
+wayland-protocols
 wayland-utils
 waylyrics
 webkit2gtk
