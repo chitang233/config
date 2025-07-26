@@ -20,7 +20,7 @@ aegisub 3.4.2-4
 aha 0.5.1-3
 akonadi-contacts 25.04.3-1
 akonadi-mime 25.04.3-1
-alsa-card-profiles 1:1.4.6-1
+alsa-card-profiles 1:1.4.7-1
 alsa-lib 1.2.14-1
 alsa-plugins 1:1.2.12-4
 alsa-topology-conf 1.2.5.1-4
@@ -243,8 +243,8 @@ dolphin-plugins 25.04.3-1
 dosbox 0.74.3-3
 dosfstools 4.2-5
 dotconf 1.4.1-1
-dotnet-host 9.0.5.sdk106-1
-dotnet-runtime-8.0 8.0.15.sdk115-1
+dotnet-host 9.0.7.sdk108-1
+dotnet-runtime-8.0 8.0.18.sdk118-1
 double-conversion 3.3.1-1
 dpdk 24.11.2-1
 drkonqi 6.4.3-1
@@ -312,7 +312,7 @@ filelight 25.04.3-1
 filesystem 2025.05.03-1
 findutils 4.10.0-3
 fio 3.39-1
-firefox-nightly-zh-cn 143.0a1.20250724.11-1
+firefox-nightly-zh-cn 143.0a1.20250725.12-1
 firefoxpwa 2.15.0-1
 flac 1.5.0-1
 flashrom 1.6.0-1
@@ -452,7 +452,7 @@ gsm 1.0.22-2
 gspell 1.14.0-2
 gssdp 1.6.4-1
 gst-libav 1.26.4-1
-gst-plugin-pipewire 1:1.4.6-1
+gst-plugin-pipewire 1:1.4.7-1
 gst-plugins-bad 1.26.4-1
 gst-plugins-bad-libs 1.26.4-1
 gst-plugins-base 1.26.4-1
@@ -754,7 +754,7 @@ lib32-glibc 2.41+r65+ge7c419a29575-1
 lib32-glslang 15.1.0-1
 lib32-glu 9.0.3-2
 lib32-gmp 6.3.0-2
-lib32-gnutls 3.8.9-1
+lib32-gnutls 3.8.10-1
 lib32-gst-plugins-base-libs 1.26.4-1
 lib32-gstreamer 1.26.4-1
 lib32-gtk2 2.24.33-5
@@ -804,7 +804,7 @@ lib32-libnsl 2.0.1-1
 lib32-libogg 1.3.5-2
 lib32-libpcap 1.10.5-3
 lib32-libpciaccess 0.18.1-1
-lib32-libpipewire 1:1.4.6-1
+lib32-libpipewire 1:1.4.7-1
 lib32-libpng 1.6.50-1
 lib32-libpng12 1.2.59-3
 lib32-libpsl 0.21.5-1
@@ -864,9 +864,9 @@ lib32-ncurses 6.5-2
 lib32-nettle 3.10.2-1
 lib32-nspr 4.37-1
 lib32-nss 3.114-1
-lib32-nvidia-535xx-utils 535.247.01-1
+lib32-nvidia-535xx-utils 535.261.03-1
 lib32-openal 1.24.3-1
-lib32-opencl-nvidia-535xx 535.247.01-1
+lib32-opencl-nvidia-535xx 535.261.03-1
 lib32-openssl 1:3.5.1-1
 lib32-openssl-1.1 1.1.1.w-2
 lib32-opus 1.5.2-1
@@ -876,9 +876,9 @@ lib32-pam 1.7.0-1
 lib32-pango 1:1.56.4-1
 lib32-pcre2 10.45-1
 lib32-pcsclite 2.3.3-1
-lib32-pipewire 1:1.4.6-1
-lib32-pipewire-jack 1:1.4.6-1
-lib32-pipewire-v4l2 1:1.4.6-1
+lib32-pipewire 1:1.4.7-1
+lib32-pipewire-jack 1:1.4.7-1
+lib32-pipewire-v4l2 1:1.4.7-1
 lib32-pixman 0.46.2-1
 lib32-polkit 126-1
 lib32-sdl12-compat 1.2.68-2
@@ -983,13 +983,13 @@ libdc1394 2.2.7-1
 libdca 0.0.7-2
 libde265 1.0.16-1
 libdecor 0.2.3-1
-libdeflate 1.23-1
+libdeflate 1.24-1
 libdispatch 6.1-1
 libdisplay-info 0.2.0-2
 libdmapsharing 3.9.13-1
 libdmtx 0.7.8-1
 libdom 0.4.2-1
-libdovi 3.3.1-1
+libdovi 3.3.2-1
 libdrm 2.4.125-1
 libdv 1.0.0-11
 libdvbpsi 1:1.3.3-3
@@ -1166,7 +1166,7 @@ libpcap 1.10.5-3
 libpciaccess 0.18.1-2
 libpgm 5.3.128-3
 libphobos 1:2.111.0-1
-libpipewire 1:1.4.6-1
+libpipewire 1:1.4.7-1
 libplacebo 7.351.0-2
 libplasma 6.4.3-1
 libplist 2.7.0-1
@@ -1375,7 +1375,7 @@ lua51 5.1.5-13
 lua51-lpeg 1.1.0-3
 lua51-socket 1:3.1.0-1
 lua53 5.3.6-4
-luajit 2.1.1748459687-1
+luajit 2.1.1753364724-1
 lunar-client 3.4.6-1
 lutris-git 0.5.19.r183.g96779137f-1
 lv2 1.18.10-1
@@ -1396,7 +1396,7 @@ mariadb-libs 11.8.2-1
 marisa 0.2.6-19
 markdownpart 25.04.3-1
 marksman 20241218-1
-mbedtls 3.6.3-1
+mbedtls 3.6.4-1
 mbedtls2 2.28.10-1
 md4c 0.5.2-1
 mda.lv2 1.2.10-2
@@ -1412,7 +1412,7 @@ meson 1.8.2-2
 mgba-qt 0.10.5-1
 mgba-sdl 0.10.5-1
 microsoft-edge-beta-bin 139.0.3405.42-1
-mihomo-git alpha.20250724.3376.dbb002a5-1
+mihomo-git alpha.20250726.3381.a9b7e705-1
 milou 6.4.3-1
 mimetreeparser 25.04.3-1
 mindustry 1:7.0.146-1
@@ -1500,8 +1500,8 @@ ntfs-3g 2022.10.3-2
 numactl 2.0.19-1
 nushell 0.106.0-1
 nvclock 0.8b4-4
-nvidia-535xx-dkms 535.247.01-1
-nvidia-535xx-utils 535.247.01-1
+nvidia-535xx-dkms 535.261.03-1
+nvidia-535xx-utils 535.261.03-1
 nvidia-prime 1.0-5
 nvidia-vaapi-driver-git 0.0.14.r3.g677f480-1
 nvtop 3.2.0-1
@@ -1524,7 +1524,7 @@ openal 1.24.3-1
 openbsd-netcat 1.229_1-2
 opencc 1.1.8-2
 opencl-headers 2:2024.10.24-1
-opencl-nvidia-535xx 535.247.01-1
+opencl-nvidia-535xx 535.261.03-1
 opencolorio 2.4.2-1
 openconnect 1:9.12-4
 opencore-amr 0.1.6-2
@@ -1627,13 +1627,13 @@ phonon-qt6 4.12.0-5
 phonon-qt6-vlc 0.12.0-5
 pigz 2.8-2
 pinentry 1.3.1-5
-pipewire 1:1.4.6-1
-pipewire-alsa 1:1.4.6-1
-pipewire-audio 1:1.4.6-1
-pipewire-jack 1:1.4.6-1
-pipewire-pulse 1:1.4.6-1
-pipewire-roc 1:1.4.6-1
-pipewire-v4l2 1:1.4.6-1
+pipewire 1:1.4.7-1
+pipewire-alsa 1:1.4.7-1
+pipewire-audio 1:1.4.7-1
+pipewire-jack 1:1.4.7-1
+pipewire-pulse 1:1.4.7-1
+pipewire-roc 1:1.4.7-1
+pipewire-v4l2 1:1.4.7-1
 pixman 0.46.4-1
 pjsk-cursors 0.0.1-1
 pkcs11-helper 1.30.0-2
@@ -1847,7 +1847,7 @@ python-multidict 6.6.3-1
 python-mutagen 1.47.0-3
 python-mypy_extensions 1.0.0-5
 python-notify2 0.3.1-11
-python-numpy 2.3.1-1
+python-numpy 2.3.2-1
 python-objgraph 3.6.2-2
 python-olefile 0.47-4
 python-opencv 4.12.0-2
@@ -1932,7 +1932,7 @@ python-regex 2024.11.6-2
 python-requests 2.32.4-1
 python-requests-toolbelt 1.0.0-3
 python-rfc3339-validator 0.1.4-7
-python-rich 14.0.0-1
+python-rich 14.1.0-1
 python-roman-numerals-py 3.1.0-1
 python-rpds-py 0.22.3-1
 python-rsa 4.9-6
@@ -2091,7 +2091,7 @@ qt5-x11extras 5.15.17-1
 qt5-xmlpatterns 5.15.17-1
 qt6-3d 6.9.1-2
 qt6-5compat 6.9.1-1
-qt6-base 6.9.1-4
+qt6-base 6.9.1-5
 qt6-charts 6.9.1-1
 qt6-connectivity 6.9.1-1
 qt6-datavis3d 6.9.1-1
@@ -2134,7 +2134,7 @@ quazip-qt6 1.5-1
 quota-tools 1:4.10-1
 radvd 2.20-1
 ragel 6.10-4
-railwayapp-cli 4.0.0-1
+railwayapp-cli 4.5.5-1
 ranger 1.9.4-4
 raptor 2.0.16-7
 rasqal 1:0.9.33-7
@@ -2149,7 +2149,7 @@ redland 1:1.0.17-9
 reiserfsprogs 3.6.27-5
 remmina 1:1.4.40-1
 repo 2.54-1
-resvg 0.45.1-1
+resvg 0.45.1-2
 revda-git 5.6.0.r0.g7e83cdf-1
 rhash 1.4.4-1
 rime-bopomofo 0.0.0.20210131-2
@@ -2214,7 +2214,7 @@ sgml-common 0.6.3-9
 shaderc 2025.3-1
 shadow 4.18.0-1
 shared-mime-info 2.4-2
-shim-signed 15.8+ubuntu+1.58-1
+shim-signed 15.8+ubuntu+1.59-1
 signon-kwallet-extension 25.04.3-1
 signon-plugin-oauth2 0.25-3
 signon-ui 0.17+20231016-3
@@ -2269,7 +2269,7 @@ stripe-cli 1.28.0-1
 subversion 1.14.5-4
 sudo 1.9.17.p1-1
 suil 0.10.20-1
-suitesparse 7.10.3-1
+suitesparse 7.11.0-1
 svgpart 25.04.3-1
 svt-av1 3.0.2-1
 svt-hevc 1.5.1-3
@@ -2293,7 +2293,7 @@ tcl 8.6.16-1
 tcping-go 2.7.1-1
 tdb 1.4.13-1
 teamspeak3 3.6.2-5
-telegram-desktop 5.16.4-1
+telegram-desktop 5.16.6-1
 tevent 1:0.17.0-1
 texinfo 7.2-1
 texlive-basic 2025.2-1
@@ -2315,7 +2315,7 @@ tmux 3.5_a-1
 toilet 0.3.r155.3eb9d58-3
 tomlplusplus 3.4.0-1
 tor 0.4.8.17-2
-tor-browser-bin 14.5.4-1
+tor-browser-bin 14.5.5-1
 torsocks 2.4.0-1
 totem-pl-parser 3.26.6+r30+g51b8439-2
 tpm2-tss 4.1.3-1
@@ -2374,8 +2374,9 @@ unarchiver 1.10.8-5
 unbound 1.23.1-1
 unibilium 2.1.2-1
 unixodbc 2.3.12-3
-unrar 1:7.1.8-1
-unzip 6.0-22
+unluac 2023_12_24-1
+unrar 1:7.1.9-1
+unzip 6.0-23
 upower 1.90.9-1
 usbmuxd 1.1.1-4
 usbredir 0.15.0-1
@@ -2384,7 +2385,7 @@ uthash 2.3.0-2
 util-linux 2.41.1-1
 util-linux-libs 2.41.1-1
 uudeck 2025.4.12.0001-2
-uv 0.8.2-1
+uv 0.8.3-1
 v2ray-domain-list-community 20250627153051-1
 v2ray-geoip 202507050144-1
 v4l-utils 1.30.1-1
@@ -2410,7 +2411,7 @@ virtiofsd 1.13.2-1
 virtualbox 7.1.12-1
 virtualbox-guest-iso 7.1.12-1
 virtualbox-host-dkms 7.1.12-1
-visual-studio-code-insiders-bin 1753334247-1
+visual-studio-code-insiders-bin 1753420923-1
 vkbasalt 0.3.2.10-1
 vkd3d 1.16-1
 vlc 3.0.21-27
@@ -2545,7 +2546,7 @@ xcb-util-keysyms 0.4.1-5
 xcb-util-renderutil 0.3.10-2
 xcb-util-wm 0.4.2-2
 xclip 0.13-6
-xdelta3 3.1.0-5
+xdelta3 3.1.0-7
 xdg-dbus-proxy 0.1.6-1
 xdg-desktop-portal 1.20.3-1
 xdg-desktop-portal-gnome 48.0-2
@@ -2640,7 +2641,7 @@ yubikey-manager-qt 1.2.5-2
 yubikey-personalization 1.20.0-4
 yubikey-personalization-gui 3.1.25-3
 yubioath-desktop 7.2.3-1
-yukigram-desktop 5.16.4.r22065.3133646c56-1
+yukigram-desktop 5.16.5.r22110.148a7b09c3-1
 yyjson 0.11.1-1
 zarchive 0.1.2-5
 zbar 0.23.93-4

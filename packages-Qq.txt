@@ -2374,6 +2374,7 @@ unarchiver
 unbound
 unibilium
 unixodbc
+unluac
 unrar
 unzip
 upower
