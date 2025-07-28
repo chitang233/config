@@ -105,6 +105,7 @@ bluez-libs
 bluez-qt
 bluez-tools
 bluez-utils
+bochs
 bolt
 boost
 boost-libs

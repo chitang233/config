@@ -81,7 +81,7 @@ bandwhich 0.23.1-2
 base 3-2
 base-devel 1-2
 base-ex-cli 0.4.1-1
-base91 0.6.0-6
+base91 0.6.0-7
 bash 5.3.3-1
 bash-completion 2.16.0-1
 bash2048 1.0-1
@@ -105,6 +105,7 @@ bluez-libs 5.83-1
 bluez-qt 6.16.0-1
 bluez-tools 0.2.0-6
 bluez-utils 5.83-1
+bochs 3.0-1
 bolt 0.9.9-1
 boost 1.88.0-3
 boost-libs 1.88.0-3
@@ -204,7 +205,7 @@ dbus-broker 37-2
 dbus-broker-units 37-2
 dbus-glib 0.114-1
 dconf 0.40.0-3
-ddcutil 2.2.0-1
+ddcutil 2.2.1-1
 ddgr 2.2-1
 debugedit 5.2-1
 default-cursors 3-1
@@ -269,7 +270,7 @@ elfutils 0.193-2
 elinks 0.18.0-1
 elisa 25.04.3-3
 ell 0.78-1
-enchant 2.8.10-1
+enchant 2.8.11-1
 enet 1.3.18-1
 erofs-utils 1.8.10-1
 esbuild 0.25.8-1
@@ -312,7 +313,7 @@ filelight 25.04.3-1
 filesystem 2025.05.03-1
 findutils 4.10.0-3
 fio 3.39-1
-firefox-nightly-zh-cn 143.0a1.20250725.12-1
+firefox-nightly-zh-cn 143.0a1.20250727.11-1
 firefoxpwa 2.15.0-1
 flac 1.5.0-1
 flashrom 1.6.0-1
@@ -797,7 +798,7 @@ lib32-libltdl 2.5.4+r23+g5b582aed-1
 lib32-libmikmod 3.3.13-1
 lib32-libmodplug 0.8.9.0-5
 lib32-libnghttp2 1.66.0-1
-lib32-libnghttp3 1.10.1-1
+lib32-libnghttp3 1.11.0-1
 lib32-libnl 3.11.0-1
 lib32-libnm 1.52.1-1
 lib32-libnsl 2.0.1-1
@@ -1138,7 +1139,7 @@ libnfnetlink 1.0.2-2
 libnfs 6.0.2-5
 libnftnl 1.2.9-1
 libnghttp2 1.66.0-1
-libnghttp3 1.10.1-1
+libnghttp3 1.11.0-1
 libnice 0.1.22-2
 libnih 1.0.3-4
 libnl 3.11.0-1
@@ -1150,7 +1151,7 @@ libnotify 0.8.6-1
 libnova 0.15.0-4
 libnsl 2.0.1-1
 libnumbertext 1.0.11-2
-libnvme 1.14-1
+libnvme 1.15-1
 liboauth 1:1.0.3+r16+gc26f038-2
 libodfgen 0.1.8-4
 libofx 0.10.9-2
@@ -1359,7 +1360,7 @@ llhttp 9.2.1-2
 llvm-libs 20.1.8-1
 lm_sensors 1:3.6.2-1
 lmdb 0.9.33-1
-lmms 1.2.2-24
+lmms 1.2.2-25
 localsearch 3.9.0-3
 localsend 1.17.0-2
 logrotate 3.22.0-1
@@ -1412,7 +1413,7 @@ meson 1.8.2-2
 mgba-qt 0.10.5-1
 mgba-sdl 0.10.5-1
 microsoft-edge-beta-bin 139.0.3405.42-1
-mihomo-git alpha.20250726.3381.a9b7e705-1
+mihomo-git alpha.20250727.3386.5f1f2962-1
 milou 6.4.3-1
 mimetreeparser 25.04.3-1
 mindustry 1:7.0.146-1
@@ -1473,7 +1474,7 @@ networkmanager 1.52.1-1
 networkmanager-openconnect 1.2.10-3
 networkmanager-openvpn 1.12.0-1
 networkmanager-qt 6.16.0-1
-nexttrace 1.4.1-1
+nexttrace 1.4.2-1
 nfsidmap 2.8.3-2
 nftables 1:1.1.3-1
 nilfs-utils 2.2.11-1
@@ -1508,7 +1509,7 @@ nvtop 3.2.0-1
 nx-x11 3.5.99.27-3
 nxagent 3.5.99.27-3
 oath-toolkit 2.6.12-2
-obs-studio 31.0.4-1
+obs-studio 31.1.1-1
 ocean-sound-theme 6.4.3-1
 ocl-icd 2.3.3-1
 odt2txt 0.5-6
@@ -1530,7 +1531,7 @@ openconnect 1:9.12-4
 opencore-amr 0.1.6-2
 opencv 4.12.0-2
 opendoas 6.8.2-3
-openexr 3.3.4-1
+openexr 3.3.5-1
 openfec 1.4.2.12-1
 openh264 2.6.0-1
 openjpeg2 2.5.3-1
@@ -1691,7 +1692,7 @@ pulseaudio-qt 1.7.0-1
 purewriter-desktop-bin 1.9.0-1
 purpose 6.16.0-1
 pyinstaller 6.14.2-1
-pyinstaller-hooks-contrib 2025.7-1
+pyinstaller-hooks-contrib 2025.8-1
 pyright 1.1.403-1
 pystring 1.1.4-2
 python 3.13.5-1
@@ -1742,8 +1743,8 @@ python-cleo 1:2.1.0-1
 python-click 8.2.1-1
 python-colorama 0.4.6-5
 python-configobj 5.0.9-5
-python-contourpy 1.3.2-1
-python-coverage 7.9.2-1
+python-contourpy 1.3.3-1
+python-coverage 7.10.0-1
 python-crashtest 0.4.1-4
 python-cryptg 0.5-2
 python-cryptography 45.0.5-1
@@ -1796,7 +1797,7 @@ python-hpack 4.1.0-1
 python-html5lib 1.1-15
 python-huggingface-hub 1:0.33.5-1
 python-hyperframe 6.1.0-1
-python-hypothesis 6.135.26-1
+python-hypothesis 6.136.2-1
 python-idna 3.10-2
 python-imagesize 1.4.1-6
 python-importlib-metadata 8.7.0-1
@@ -1827,7 +1828,7 @@ python-ldap3 2.9.1-8
 python-legacy-cgi 2.6.3-2
 python-lockfile 0.12.2-14
 python-loguru 0.7.3-1
-python-lxml 6.0.0-1
+python-lxml 6.0.0-2
 python-magic 1:0.4.27-5
 python-magic-filter 1.0.12-4
 python-markdown 3.8.2-1
@@ -1885,7 +1886,7 @@ python-pyasn1-modules 0.4.0-2
 python-pyaudio 0.2.14-4
 python-pybase62 1.0.0-1
 python-pyclip 0.7.0-14
-python-pycodestyle 2.12.1-2
+python-pycodestyle 2.14.0-1
 python-pycparser 2.22-3
 python-pycryptodomex 3.23.0-1
 python-pycups 2.0.4-3
@@ -1940,7 +1941,7 @@ python-ruamel-yaml 0.18.10-1
 python-ruamel.yaml.clib 0.2.12-3
 python-scrypt 0.8.27-2
 python-secretstorage 3.3.3-6
-python-sentry_sdk 2.33.1-1
+python-sentry_sdk 2.33.2-1
 python-service-identity 24.2.0-2
 python-setproctitle 1.3.6-1
 python-setuptools 1:80.9.0-1
@@ -1990,7 +1991,7 @@ python-websockets 15.0.1-1
 python-werkzeug 3.1.3-1
 python-wheel 0.45.1-1
 python-wsproto 1.2.0-6
-python-wxpython 1:4.2.3-1
+python-wxpython 1:4.2.3-2
 python-xcffib 1.5.0-2
 python-yaml 6.0.2-2
 python-yarl 1.21.1-1
@@ -2224,7 +2225,7 @@ sing-box 1.11.15-1
 sing-geoip-db 20250712-1
 sing-geosite-db 20250627153051-1
 skim 0.20.1-1
-slang 2.3.3-3
+slang 2.3.3-4
 smartmontools 7.5-1
 smbclient 2:4.22.3-1
 snapper 0.12.2-4
@@ -2246,7 +2247,7 @@ speech-dispatcher 0.12.1-1
 speedtest-cli 2.1.3-9
 speex 1.2.1-2
 speexdsp 1.2.1-2
-spice 0.16.0-1
+spice 0.16.0-2
 spice-gtk 0.42-4
 spice-protocol 0.14.5-1
 spirv-tools 1:1.4.321.0-1
@@ -2286,7 +2287,7 @@ systemd-sysvcompat 257.7-1
 systemsettings 6.4.3-1
 systray-x-kde 0.9.11-3
 taglib 2.1.1-1
-tailscale 1.84.0-1
+tailscale 1.86.0-1
 talloc 2.4.3-1
 tar 1.35-2
 tcl 8.6.16-1
