@@ -11,13 +11,11 @@
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
 	required = true
-[credential]
-	credentialStore = gpg
-	helper = /usr/share/git-credential-manager-core/git-credential-manager
 [credential "https://dev.azure.com"]
 	useHttpPath = true
 [push]
 	autoSetupRemote = true
+	followTags = true
 [protocol "file"]
 	allow = always
 [credential "https://notabug.org"]
@@ -26,5 +24,9 @@
 	ui = auto
 [credential "https://huggingface.co"]
 	provider = generic
-[url "https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/"]
-	insteadof = https://android.googlesource.com
+#[url "https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/"]
+#	insteadof = https://android.googlesource.com
+[cola]
+	startupmode = list
+[tag]
+	sort = version:refname

@@ -1,2 +1,0 @@
-SUBSYSTEM=="usb", ATTRS{manufacturer}=="Yubico", GROUP="card"
-ACTION=="remove", SUBSYSTEM=="usb", ENV{PRODUCT}=="1050/407/543", RUN+="/usr/bin/loginctl lock-sessions"
