@@ -9,7 +9,7 @@ alias tree='exa --tree --icons --color=always'
 alias cat='bat -pp'
 alias docker-compose='docker compose'
 alias copilot-cli='eval "$(github-copilot-cli alias -- "$0")"'
-alias dicker=podman
 alias ls='exa --group-directories-first --icons'
 alias ll='ls -l --git'
 alias l='ll -a'
+alias cd=z

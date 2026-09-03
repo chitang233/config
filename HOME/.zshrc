@@ -13,6 +13,8 @@ unset key
 
 source ~/.config/zsh/completion.zsh
 source ~/.config/zsh/rustup_completions.zsh
+source ~/.config/zsh/opencode_completions.zsh
+source ~/.config/zsh/mise_completions.zsh
 
 setopt HIST_IGNORE_ALL_DUPS
 setopt CORRECT
@@ -22,30 +24,26 @@ ZSH_HIGHLIGHT_HIGHLIGHTERS=(main brackets)
 
 eval "$(starship init zsh)"
 eval "$(zoxide init zsh)"
-. "/home/chitang/.local/cargo/env" 
+. "/home/chitang/.local/cargo/env"
 
 export PATH=$PATH:/home/chitang/.local/bin:/home/chitang/.local/go/bin
 export SSH_AUTH_SOCK=$(gpgconf --list-dirs agent-ssh-socket)
 gpgconf --launch gpg-agent
 
-export NVM_DIR="$HOME/.nvm"
-load_nvm() {
-  [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # Source nvm
-  [ -s "$NVM_DIR/bash_completion" ] && . "$NVM_DIR/bash_completion"  # Source bash_completion
-}
-nvm() {
-  unfunction $0
-  load_nvm
-  $0 "$@"
-}
-node() {
-  unfunction $0
-  load_nvm
-  $0 "$@"
-}
-npm() {
-  unfunction $0
-  load_nvm
-  $0 "$@"
-}
+# eval "$(tirith init --shell zsh)"
 
+# pnpm
+export PNPM_HOME="/home/chitang/.local/share/pnpm"
+case ":$PATH:" in
+  *":$PNPM_HOME/bin:"*) ;;
+  *) export PATH="$PNPM_HOME/bin:$PATH" ;;
+esac
+# pnpm end
+
+# >>> termhelper >>>
+alias '??'='termhelper'
+# <<< termhelper <<<
+eval "$(/home/chitang/.local/bin/mise activate zsh)"
+
+# kimi-code
+export PATH="/home/chitang/.kimi-code/bin:$PATH"
